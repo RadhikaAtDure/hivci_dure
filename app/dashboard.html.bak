@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>WHO | Country Profile</title>
+        <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+        <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+        <!-- bootstrap 3.0.2 -->
+        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <!-- font Awesome -->
+       
+
+         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+        <!-- Ionicons -->
+        <link href="css/ionicons.min.css" rel="stylesheet" type="text/css" />             
+        <!-- bootstrap wysihtml5 - text editor -->
+        <link href="css/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" rel="stylesheet" type="text/css" />
+        <link href="tab/css/cascade-modal.css" rel="stylesheet" type="text/css" />
+        <link href="dure/libraries/jNotify/jquery/jNotify.jquery.css" rel="stylesheet" type="text/css" />
+        <!-- Theme style -->
+        <link href="css/AdminLTE.css" rel="stylesheet" type="text/css" />
+		<link href="css/customstyles.css" rel="stylesheet" type="text/css" />
+		<link href="css/flagcss/flags32.css" rel="stylesheet" type="text/css" />
+
+		<link rel="stylesheet" type="text/css" href="assets/medicalicons/wfmi-style.css">
+       
+ <link rel="stylesheet" type="text/css" href="dure/fonts/custom-fonts-1/css/custom-fonts-1.css">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+		<![endif]-->
+	</head>
+    <body class="skin-blue">
+        <!-- header logo: style can be found in header.less -->
+        <header class="header">
+            <a href="index.html" class="logo">
+                <!-- Add the class icon to your logo image or logo icon to add the margining -->
+                <img src="img/whologo.png" class="img img-responsive"/>
+			</a>
+            <!-- Header Navbar: style can be found in header.less -->
+            <nav class="navbar navbar-static-top" role="navigation">
+                <!-- Sidebar toggle button-->
+                <!-- <a href="#" class="navbar-btn sidebar-toggle" data-toggle="offcanvas" role="button">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+				</a> -->
+                <!-- <div class="">
+                    <ul class="nav navbar-nav" style="margin-left: 30%;">
+                        <li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Select Country <span class="caret"></span></a>
+							<ul class="dropdown-menu" id="countrySelectorList" role="menu" style="overflow: scroll;height: 400px;"></ul>
+						</li>
+					</ul>					
+				</div> -->
+				<a href="#" class="btn btn-default" id="login" title="Login" style="margin-top: 6px; margin-right: 5px; float: right;">
+					<i class="fa fa-user"></i>
+				</a>
+				<a href="#" class="btn btn-default exportWholeWebpage" id="" title="Export" style="margin-top: 6px; margin-right: 5px; float: right;">
+					<i class="fa fa-file-pdf-o"></i>
+				</a>				
+				<a href="../" class="btn btn-default" title="Home" style="margin-top: 6px; margin-right: 5px; float: left;">
+					<i class="fa fa-home"></i> Home
+				</a>
+				
+                        <!-- Notifications: style can be found in dropdown.less -->
+                        <!-- <li class="dropdown notifications-menu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <i class="fa fa-warning"></i>
+                                <span class="label label-warning">10</span>
+							</a>
+                            <ul class="dropdown-menu">
+                                <li class="header">You have 10 notifications</li>
+                                <li> -->
+                                    <!-- inner menu: contains the actual data -->
+                                    <!-- <ul class="menu">
+                                        <li>
+                                            <a href="#">
+                                                <i class="ion ion-ios7-people info"></i> 5 new members joined today
+											</a>
+										</li>
+                                        <li>
+                                            <a href="#">
+                                                <i class="fa fa-warning danger"></i> Very long description here that may not fit into the page and may cause design problems
+											</a>
+										</li>
+                                        <li>
+                                            <a href="#">
+                                                <i class="fa fa-users warning"></i> 5 new members joined
+											</a>
+										</li>
+										
+                                        <li>
+                                            <a href="#">
+                                                <i class="ion ion-ios7-cart success"></i> 25 sales made
+											</a>
+										</li>
+                                        <li>
+                                            <a href="#">
+                                                <i class="ion ion-ios7-person danger"></i> You changed your username
+											</a>
+										</li>
+									</ul>
+								</li>
+                                <li class="footer"><a href="#">View all</a></li>
+							</ul>
+						</li> -->
+                        <!-- Tasks: style can be found in dropdown.less -->
+                        <!-- <li class="dropdown tasks-menu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <i class="fa fa-user"></i> John Doe -->
+                                <!-- <span class="label label-danger">9</span> -->
+							<!-- </a>
+                            <ul class="dropdown-menu">
+                                <li class="header">You have 9 tasks</li>
+							<li> -->
+                                    <!-- inner menu: contains the actual data -->
+                                    <!-- <ul class="menu">
+                                        <li> --><!-- Task item -->
+                                            <!-- <a href="#">
+                                                <h3>
+                                                    Design some buttons
+                                                    <small class="pull-right">20%</small>
+												</h3>
+                                                <div class="progress xs">
+                                                    <div class="progress-bar progress-bar-aqua" style="width: 20%" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
+                                                        <span class="sr-only">20% Complete</span>
+													</div>
+												</div>
+											</a>
+										</li> --><!-- end task item -->
+											<!-- <li> --><!-- Task item -->
+                                            <!-- <a href="#">
+                                                <h3>
+                                                    Create a nice theme
+                                                    <small class="pull-right">40%</small>
+												</h3>
+                                                <div class="progress xs">
+                                                    <div class="progress-bar progress-bar-green" style="width: 40%" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
+                                                        <span class="sr-only">40% Complete</span>
+													</div>
+												</div>
+											</a>
+										</li> --><!-- end task item -->
+											<!-- <li> --><!-- Task item -->
+                                            <!-- <a href="#">
+                                                <h3>
+                                                    Some task I need to do
+                                                    <small class="pull-right">60%</small>
+												</h3>
+                                                <div class="progress xs">
+                                                    <div class="progress-bar progress-bar-red" style="width: 60%" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
+                                                        <span class="sr-only">60% Complete</span>
+													</div>
+												</div>
+											</a>
+										</li> --><!-- end task item -->
+											<!-- <li> --><!-- Task item -->
+                                            <!-- <a href="#">
+                                                <h3>
+                                                    Make beautiful transitions
+                                                    <small class="pull-right">80%</small>
+												</h3>
+                                                <div class="progress xs">
+                                                    <div class="progress-bar progress-bar-yellow" style="width: 80%" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
+                                                        <span class="sr-only">80% Complete</span>
+													</div>
+												</div>
+											</a>
+										</li> --><!-- end task item -->
+									<!-- </ul>
+								</li>
+                                <li class="footer">
+                                    <a href="#">View all tasks</a>
+								</li>
+							</ul>
+						</li> -->
+                        <!-- User Account: style can be found in dropdown.less -->
+                        <!-- <li class="dropdown user user-menu tasks-menu"> -->
+                            <!-- <a href="#" class="" data-toggle="">
+                                <i class="glyphicon glyphicon-user"></i>
+                                <span>John Doe</span>
+							</a> -->
+                           <!-- <ul class="dropdown-menu"> -->
+                                <!-- <li class="header">You have 9 tasks</li> -->
+                                <!-- <li> -->
+                                    <!-- inner menu: contains the actual data -->
+                                    <!-- <ul class="menu">
+                                        <li> --><!-- Task item -->
+                                            <!-- <a href="#">
+                                                <h3>
+                                                    Sign Out
+                                                    
+												</h3>
+                                                
+											</a>
+										</li> --><!-- end task item -->
+                                        
+											<!-- <li> -->
+<!-- Task item -->
+                                           <!--  <a href="#">
+                                                <h3>
+                                                    Create a nice theme
+                                                    <small class="pull-right">40%</small>
+												</h3>
+                                                <div class="progress xs">
+                                                    <div class="progress-bar progress-bar-green" style="width: 40%" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
+                                                        <span class="sr-only">40% Complete</span>
+													</div>
+												</div>
+											</a>
+										</li> --><!-- end task item -->
+										   <!-- <li> --><!-- Task item -->
+                                            <!-- <a href="#">
+                                                <h3>
+                                                    Some task I need to do
+                                                    <small class="pull-right">60%</small>
+												</h3>
+                                                <div class="progress xs">
+                                                    <div class="progress-bar progress-bar-red" style="width: 60%" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
+                                                        <span class="sr-only">60% Complete</span>
+													</div>
+												</div>
+											</a>
+										</li> --><!-- end task item -->
+											<!-- <li> --><!-- Task item -->
+                                            <!-- <a href="#">
+                                                <h3>
+                                                    Make beautiful transitions
+                                                    <small class="pull-right">80%</small>
+												</h3>
+                                                <div class="progress xs">
+                                                    <div class="progress-bar progress-bar-yellow" style="width: 80%" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
+                                                        <span class="sr-only">80% Complete</span>
+													</div>
+												</div>
+											</a>
+										</li> --><!-- end task item -->
+									<!-- </ul> -->
+					<!-- </ul>
+				</div> -->
+			</nav>
+		</header>
+        <div class="wrapper row-offcanvas row-offcanvas-left dashboardExportable">
+            <!-- Left side column. contains the logo and sidebar -->
+            <aside class="left-side sidebar-offcanvas collapse-left">
+                <!-- sidebar: style can be found in sidebar.less -->
+                <section class="sidebar">
+                    <!-- Sidebar user panel -->
+                    
+                    <!-- search form -->
+                    
+                    <!-- /.search form -->
+                    <!-- sidebar menu: : style can be found in sidebar.less -->
+                    <ul class="sidebar-menu">
+                        <li class="active">
+                            <a href="index.html">
+                                <i class="fa fa-home"></i> <span>Dashboard</span>
+							</a>
+						</li>
+                        <!-- <li>
+                            <a href="editdata.html">
+                                <i class="fa fa-edit"></i> <span>Edit Data</span> --> <!-- <small class="badge pull-right bg-green">new</small> -->
+							<!-- </a>
+						</li> -->
+                        <!-- <li class="treeview active">
+                            <a href="#">
+                                <i class="glyphicon glyphicon-th-large"></i>
+                                <span>Core Indicators</span>
+                                <i class="fa fa-angle-left pull-right"></i>
+							</a>
+                            <ul class="treeview-menu">
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> HIV Prevalence</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> PLHIV</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> People on ART</a></li>
+								<li><a href="#"><i class="fa fa-angle-double-right"></i> HIV Related Deaths</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> ART Policies</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Incidence</a></li>
+							</ul>
+						</li> -->
+                        <!-- <li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-laptop"></i>
+                                <span>UI Elements</span>
+                                <i class="fa fa-angle-left pull-right"></i>
+							</a>
+                            <ul class="treeview-menu">
+                                <li><a href="pages/UI/general.html"><i class="fa fa-angle-double-right"></i> General</a></li>
+                                <li><a href="pages/UI/icons.html"><i class="fa fa-angle-double-right"></i> Icons</a></li>
+                                <li><a href="pages/UI/buttons.html"><i class="fa fa-angle-double-right"></i> Buttons</a></li>
+                                <li><a href="pages/UI/sliders.html"><i class="fa fa-angle-double-right"></i> Sliders</a></li>
+                                <li><a href="pages/UI/timeline.html"><i class="fa fa-angle-double-right"></i> Timeline</a></li>
+							</ul>
+						</li> -->
+                        <!-- <li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-edit"></i> <span>Forms</span>
+                                <i class="fa fa-angle-left pull-right"></i>
+							</a>
+                            <ul class="treeview-menu">
+                                <li><a href="pages/forms/general.html"><i class="fa fa-angle-double-right"></i> General Elements</a></li>
+                                <li><a href="pages/forms/advanced.html"><i class="fa fa-angle-double-right"></i> Advanced Elements</a></li>
+                                <li><a href="pages/forms/editors.html"><i class="fa fa-angle-double-right"></i> Editors</a></li>
+							</ul>
+						</li> -->
+                        <!-- <li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-table"></i> <span>Tables</span>
+                                <i class="fa fa-angle-left pull-right"></i>
+							</a>
+                            <ul class="treeview-menu">
+                                <li><a href="pages/tables/simple.html"><i class="fa fa-angle-double-right"></i> Simple tables</a></li>
+                                <li><a href="pages/tables/data.html"><i class="fa fa-angle-double-right"></i> Data tables</a></li>
+							</ul>
+						</li> -->
+                        <!-- <li>
+                            <a href="pages/calendar.html">
+                                <i class="fa fa-calendar"></i> <span>Calendar</span>
+                                <small class="badge pull-right bg-red">3</small>
+							</a>
+						</li>
+                        <li>
+                            <a href="pages/mailbox.html">
+                                <i class="fa fa-envelope"></i> <span>Mailbox</span>
+                                <small class="badge pull-right bg-yellow">12</small>
+							</a>
+						</li> -->
+                       <!--  <li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-folder"></i> <span>Examples</span>
+                                <i class="fa fa-angle-left pull-right"></i>
+							</a>
+                            <ul class="treeview-menu">
+                                <li><a href="pages/examples/invoice.html"><i class="fa fa-angle-double-right"></i> Invoice</a></li>
+                                <li><a href="pages/examples/login.html"><i class="fa fa-angle-double-right"></i> Login</a></li>
+                                <li><a href="pages/examples/register.html"><i class="fa fa-angle-double-right"></i> Register</a></li>
+                                <li><a href="pages/examples/lockscreen.html"><i class="fa fa-angle-double-right"></i> Lockscreen</a></li>
+                                <li><a href="pages/examples/404.html"><i class="fa fa-angle-double-right"></i> 404 Error</a></li>
+                                <li><a href="pages/examples/500.html"><i class="fa fa-angle-double-right"></i> 500 Error</a></li>
+                                <li><a href="pages/examples/blank.html"><i class="fa fa-angle-double-right"></i> Blank Page</a></li>
+							</ul>
+						</li> -->
+					</ul>
+				</section>
+                <!-- /.sidebar -->
+			</aside>
+			
+            <!-- Right side column. Contains the navbar and content of the page -->
+            <aside class="right-side strech">
+                <!-- Content Header (Page header) -->
+                <section class="content-header">
+                    <div class="row">
+						<h1 id="dashboard-header" class="pull-left" style="display: inline-block; margin-top: 5px; margin-bottom: 5px;"></h1>
+						<div class="alert alert-info fade in col-md-4 region-title-box" style="color: rgb(255, 255, 255); background: #0073b7 !important;">
+							<strong>All</strong>
+						</div>
+						<ul class="nav navbar-nav pull-left" style="list-style: none;display: inline-block; padding-left: 10px;">
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle badge bg-blue" data-toggle="dropdown" aria-expanded="true">Select Region <span class="caret"></span></a>
+                                <ul class="dropdown-menu" id="" role="menu" style="overflow: scroll;">                                  
+                                    <li><a href="javascript:void(0)" class="select-region" region-code="">ALL</a></li>
+                                    <li><a href="javascript:void(0)" class="select-region" region-code="AFR">African Region - AFR</a></li>
+                                    <li><a href="javascript:void(0)" class="select-region" region-code="AMR">Americas Region - AMR</a></li>
+                                    <li><a href="javascript:void(0)" class="select-region" region-code="EMR">Eastern Mediterranean Region - EMR</a></li>
+                                    <li><a href="javascript:void(0)" class="select-region" region-code="EUR">European Region - EUR</a></li>
+                                    <li><a href="javascript:void(0)" class="select-region" region-code="SEAR">South Eastern Asian Region - SEAR</a></li>
+                                    <li><a href="javascript:void(0)" class="select-region" region-code="WPR">Western Pacific Region - WPR</a></li>
+                                </ul>
+                            </li>
+                        </ul>                        
+                        <ul class="nav navbar-nav pull-left" style="list-style: none;display: inline-block; padding-left: 10px;">
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle badge bg-blue" data-toggle="dropdown" aria-expanded="true">Select Country <span class="caret"></span></a>
+                                <ul class="dropdown-menu" id="countrySelectorList" role="menu" style="overflow: scroll; height: 400px; width : 200px;"></ul>
+                            </li>
+                        </ul>
+                        
+                        <div class="region-title-breadcrumb alert alert-default fade in col-lg-9" style="padding: 6px !important; display:none; margin:0px; color: #000;">
+                            <ul class="breadcrumb">
+                                <li class="item"><a href="javascript:void(0)">Selected:</a> 
+                                    <a href="javascript:void(0)" class="region-title-box"></a> 
+                                    <a href="javascript:void(0)" class="breadcrumbCountryText"></a>                                 
+                                </li>
+                            </ul>                       
+                        </div>                                                  
+                    </div>
+                </section>
+                
+                <!-- Main content -->
+                <section class="content" id="" style="">
+
+                    <div class="row">
+                    
+                        <div class="alert alert-danger fade in col-md-4 region-error-info-box" style="display:none; color: #ff0000;">
+                            <strong>Please select region and country.</strong>
+                        </div>
+                    </div>
+
+					<!-- <select class="form-control">
+						<option>option 1</option>
+						<option>option 2</option>
+						<option>option 3</option>
+						<option>option 4</option>
+						<option>option 5</option>
+					</select> -->
+                    <!-- <ol class="breadcrumb">
+                        <li><a href="../index.html"><i class="fa fa-home"></i> Home</a></li>
+                        <li class="active">Dashboard</li>
+					</ol> -->
+					
+				</section>
+				
+                <!-- Main content -->
+                <section class="content">
+					<div class="" id="country-profile-graphics-section">
+					<div class="row pdfSection">
+						<div class="col-md-12">
+                            <!-- Primary box -->
+                            <div class="box box-solid box-primary">
+                                <div class="box-header">
+                                    <h3 class="box-title"><i class="fa fa-file-text-o"></i> Demographic and socio-economic data</h3>
+                                    <div class="box-tools pull-right">
+										<button class="btn btn-primary btn-sm printPDFSection"><i class="fa fa-file-pdf-o"></i></button>
+                                        <!-- <button class="btn btn-primary btn-sm" data-widget="collapse"><i class="fa fa-minus"></i></button> -->
+                                        <!-- <button class="btn btn-primary btn-sm" data-widget="remove"><i class="fa fa-times"></i></button> -->
+									</div>
+								</div>
+                                <div class="box-body" style="padding:15px;">
+									<div class="row">
+										<div class="col-lg-4 col-xs-12">
+											<div class="info-box">
+												<span class="info-box-icon bg-aqua"><i class="fa fa-user"></i></span>
+												<div class="info-box-content">
+													<span class="info-box-text" id="dashboard-label-0"></span>
+													<span class="info-box-number" id="dashboard-val-0"></span>
+												</div><!-- /.info-box-content -->
+											</div><!-- /.info-box -->
+										</div><!-- /.col -->
+										<div class="col-lg-4 col-xs-12">
+											<div class="info-box">
+												<span class="info-box-icon bg-red"><i class="fa fa-area-chart"></i></span>
+												<div class="info-box-content">
+													<span class="info-box-text" id="dashboard-label-1"></span>
+													<span class="info-box-number" id="dashboard-val-1"></span>
+												</div><!-- /.info-box-content -->
+											</div><!-- /.info-box -->
+										</div><!-- /.col -->
+										
+										<!-- fix for small devices only -->
+										<!-- <div class="clearfix visible-sm-block"></div> -->
+										
+										<div class="col-lg-4 col-xs-12">
+											<div class="info-box">
+												<span class="info-box-icon bg-green"><i class="icon-i-genetics"></i></span>
+												<div class="info-box-content">
+													<span class="info-box-text" id="dashboard-label-2"></span>
+													<span class="info-box-number" id="dashboard-val-2"></span>
+												</div><!-- /.info-box-content -->
+											</div><!-- /.info-box -->
+										</div><!-- /.col -->
+									</div>
+									<div class="row">
+										<div class="col-lg-4 col-xs-12">
+											<div class="info-box">
+												<span class="info-box-icon bg-yellow"><i class="icon-i-billing"></i></span>
+												<div class="info-box-content">
+													<span class="info-box-text" id="dashboard-label-3"></span>
+													<span class="info-box-number" id="dashboard-val-3"></span>
+												</div><!-- /.info-box-content -->
+											</div><!-- /.info-box -->
+										</div><!-- /.col -->
+										<div class="col-lg-4 col-xs-12">
+											<div class="info-box">
+												<span class="info-box-icon bg-blue"><i class="icon-i-cardiology"></i></span>
+												<div class="info-box-content">
+													<span class="info-box-text" id="dashboard-label-4"></span>
+													<span class="info-box-number" id="dashboard-val-4"></span>
+												</div><!-- /.info-box-content -->
+											</div><!-- /.info-box -->
+										</div><!-- /.col -->
+										<div class="col-lg-4 col-xs-12">
+											<div class="info-box">
+												<span class="info-box-icon bg-light-blue"><i class="icon-i-labor-delivery"></i></span>
+												<div class="info-box-content">
+													<span class="info-box-text" id="dashboard-label-5"></span>
+													<span class="info-box-number" id="dashboard-val-5"></span>
+												</div><!-- /.info-box-content -->
+											</div><!-- /.info-box -->
+										</div><!-- /.col -->
+									</div>
+								</div><!-- /.box-body -->
+							</div><!-- /.box -->
+						</div>
+					</div>
+					
+					<div class="row pdfSection">
+						<div class="col-md-12">
+                            <!-- Primary box -->
+                            <div class="box box-solid box-primary" >
+                                <div class="box-header">
+                                    <h3 class="box-title"><i class="fa fa-bar-chart-o"></i> HIV statistics</h3>
+                                    <div class="box-tools pull-right">
+										<button class="btn btn-primary btn-sm printPDFSection"><i class="fa fa-file-pdf-o"></i></button>
+                                        <!-- <button class="btn btn-primary btn-sm" data-widget="collapse"><i class="fa fa-minus"></i></button> -->
+                                        <!-- <button class="btn btn-primary btn-sm" data-widget="remove"><i class="fa fa-times"></i></button> -->
+									</div>
+								</div>
+								<div class="box-body" style="padding:15px;">
+									<div class="row">
+										<div class="col-lg-4 col-xs-12">
+											<div class="info-box">
+												<span class="info-box-icon bg-red"><i class="fa fa-users"></i></span>
+												<div class="info-box-content">
+													<span class="info-box-text" id="dashboard-label-6"></span>
+													<span class="info-box-number" id="dashboard-val-6"></span>
+												</div><!-- /.info-box-content -->
+											</div><!-- /.info-box -->
+										</div><!-- /.col -->
+										<div class="col-lg-4 col-xs-12">
+											<div class="info-box">
+												<span class="info-box-icon bg-red"><i class="icon1-All-People_1"></i></span>
+												<div class="info-box-content">
+													<span class="info-box-text" id="dashboard-label-7"></span>
+													<span class="info-box-number" id="dashboard-val-7"></span>
+												</div><!-- /.info-box-content -->
+											</div><!-- /.info-box -->
+										</div><!-- /.col -->
+										
+										<!-- fix for small devices only -->
+										<!-- <div class="clearfix visible-sm-block"></div> -->
+										
+										<div class="col-lg-4 col-xs-12">
+											<div class="info-box">
+												<span class="info-box-icon bg-red"><i class="icon1-Currently-in-ART"></i></span>
+												<div class="info-box-content">
+													<span class="info-box-text" id="dashboard-label-8"></span>
+													<span class="info-box-number" id="dashboard-val-8"></span>
+												</div><!-- /.info-box-content -->
+											</div><!-- /.info-box -->
+										</div><!-- /.col -->
+									</div>
+									<div class="row">
+										<div class="col-lg-4 col-xs-12">
+											<div class="info-box">
+												<span class="info-box-icon bg-red"><i class="icon1-Aids-death"></i></span>
+												<div class="info-box-content">
+													<span class="info-box-text" id="dashboard-label-9"></span>
+													<span class="info-box-number" id="dashboard-val-9"></span>
+												</div><!-- /.info-box-content -->
+											</div><!-- /.info-box -->
+										</div><!-- /.col -->
+										<div class="col-lg-4 col-xs-12">
+											<div class="info-box">
+												<span class="info-box-icon bg-red"><i class="icon1-Prevention-by-key-population"></i></span>
+												<div class="info-box-content">
+													<span class="info-box-text" id="dashboard-label-10"></span>
+													<span class="info-box-number" id="dashboard-val-10"></span>
+												</div><!-- /.info-box-content -->
+											</div><!-- /.info-box -->
+										</div><!-- /.col -->
+										<div class="col-lg-4 col-xs-12">
+											<div class="info-box">
+												<span class="info-box-icon bg-red"><i class="icon1-New-infections"></i></span>
+												<div class="info-box-content">
+													<span class="info-box-text" id="dashboard-label-11"></span>
+													<span class="info-box-number" id="dashboard-val-11"></span>
+												</div><!-- /.info-box-content -->
+											</div><!-- /.info-box -->
+										</div><!-- /.col -->
+									</div>
+								</div>
+                                <!-- <div class="box-body" style="padding:15px;">
+									<div class="row">
+										<div class="col-md-4">
+											<div class="panel panel-primary">
+												<div class="panel-heading">
+													<h3 class="panel-title">National prevalence</h3>
+												</div>
+												<div class="panel-body">
+													<div id="hivstat" class="carousel slide" data-ride="carousel">
+														
+														<div class="carousel-inner" style="padding-bottom:20px;">
+															<div class="item active">
+																<div class="widget">                                    
+																	<div class="widget-title" id="dashboard-label-6"></div>                                                                        
+																	
+																	<div class="widget-int" id="dashboard-val-6"></div>
+																</div>
+																
+															</div>
+															<div class="item">
+																
+																<div class="widget">                                    
+																	<div class="widget-title" id="dashboard-label-7"></div>                                                                        
+																	
+																	<div class="widget-int" id="dashboard-val-7"></div>
+																</div>
+															</div>
+															<div class="item">
+																
+																<div class="widget">                                    
+																	<div class="widget-title" id="dashboard-label-8"></div>                                                                        
+																	
+																	<div class="widget-int" id="dashboard-val-8"></div>
+																</div>
+															</div>
+															<div class="item">
+																
+																<div class="widget">                                    
+																	<div class="widget-title" id="dashboard-label-9"></div>                                                                        
+																	
+																	<div class="widget-int" id="dashboard-val-9"></div>
+																</div>
+															</div>
+															<div class="item">
+																
+																<div class="widget">                                    
+																	<div class="widget-title" id="dashboard-label-10"></div>                                                                        
+																	
+																	<div class="widget-int" id="dashboard-val-10"></div>
+																</div>
+															</div>
+															
+														</div>
+														<ol class="carousel-indicators">
+															<li data-target="#hivstat" data-slide-to="0" class="active"></li>
+															<li data-target="#hivstat" data-slide-to="1" class=""></li>
+															<li data-target="#hivstat" data-slide-to="2" class=""></li>
+															<li data-target="#hivstat" data-slide-to="3" class=""></li>
+															<li data-target="#hivstat" data-slide-to="4" class=""></li>
+															
+														</ol>
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-4">
+											<div class="panel panel-primary">
+												<div class="panel-heading">
+													<h3 class="panel-title">Key population</h3>
+												</div>
+												<div class="panel-body">
+													<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+														
+														<div class="carousel-inner" style="padding-bottom:20px;">
+															<div class="item active">
+																<div class="widget">                                    
+																	<div class="widget-title">Total Population</div>                                                                        
+																	
+																	<div class="widget-int">3,54,812</div>
+																</div>
+																
+															</div>
+															<div class="item">
+																
+																<div class="widget">                                    
+																	<div class="widget-title">HIV Prevalence</div>                                                                        
+																	
+																	<div class="widget-int">12%</div>
+																</div>
+															</div>
+															
+														</div>
+														<ol class="carousel-indicators">
+															<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+															<li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
+															
+														</ol>
+													</div>
+												</div>
+											</div>
+											
+										</div>
+										<div class="col-md-4">
+											<div class="panel panel-primary">
+												<div class="panel-heading">
+													<h3 class="panel-title">HIV Cases</h3>
+												</div>
+												<div class="panel-body">
+													<div id="hivcases" class="carousel slide" data-ride="carousel">
+														
+														<div class="carousel-inner" style="padding-bottom:20px;">
+															<div class="item active">
+																<div class="widget">                                    
+																	<div class="widget-title">Cumulative HIV cases</div>                                                                        
+																	
+																	<div class="widget-int">812</div>
+																</div>
+																
+															</div>
+															<div class="item">
+																
+																<div class="widget">                                    
+																	<div class="widget-title">Deaths</div>                                                                        
+																	
+																	<div class="widget-int">378</div>
+																</div>
+															</div>
+															<div class="item">
+																
+																<div class="widget">                                    
+																	<div class="widget-title">New HIV Cases</div>                                                                        
+																	
+																	<div class="widget-int">19</div>
+																</div>
+															</div>
+															<div class="item">
+																
+																<div class="widget">                                    
+																	<div class="widget-title">New Deaths</div>                                                                        
+																	
+																	<div class="widget-int">12</div>
+																</div>
+															</div>
+														</div>
+														<ol class="carousel-indicators">
+															<li data-target="#hivcases" data-slide-to="0" class="active"></li>
+															<li data-target="#hivcases" data-slide-to="1" class=""></li>
+															<li data-target="#hivcases" data-slide-to="2" class=""></li>
+															<li data-target="#hivcases" data-slide-to="3" class=""></li>
+														</ol>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									
+									
+								</div> --><!-- /.box-body -->
+							</div><!-- /.box -->
+						</div>
+					</div>
+					
+					<div class="row pdfSection">
+						<div class="col-md-12">
+                            <!-- Primary box -->
+                            <div class="box box-solid box-primary">
+                                <div class="box-header">
+                                    <h3 class="box-title"><i class="fa fa-home"></i> Cascade monitoring</h3>
+                                    <div class="box-tools pull-right">
+										<button class="btn btn-primary btn-sm printPDFSection"><i class="fa fa-file-pdf-o"></i></button>
+                                        <!-- <button class="btn btn-primary btn-sm" data-widget="collapse"><i class="fa fa-minus"></i></button> -->
+                                        <!-- <button class="btn btn-primary btn-sm" data-widget="remove"><i class="fa fa-times"></i></button> -->
+									</div>
+								</div>
+                                <div class="box-body" style="padding:15px;">
+									
+									<div class="row text-center paddingmarginleft">
+										<div class="col-md-2 maindiv1" style="min-height:299px !important;">						
+											<p class="margin0px"><strong>Know your</strong><span class="pull-right marginrightminus15"><i class="fa fa-arrow-right fa-3x redtext"></i></span></p>
+											<p><strong>epidemic</strong></p>
+											<p class="firstdivdescr">Epidemic pattern by key population,age,sex and geography</p>					
+										</div>					
+										<div class="col-md-2 maindiv2" style="min-height:299px !important;">						
+											<p class="margintop10px"><strong>Inputs</strong><span class="pull-right secondredarrow"><i class="fa fa-arrow-right fa-3x redtext"></i></span></p>
+											<p class="seconddivdescr">Health system inputs and financing</p>
+										</div>
+										<div class="col-md-5 thirdmaindiv">
+											<p class="margintop10px"><strong>Outputs & outcomes</strong><span class="pull-right secondredarrow"><i class="fa fa-arrow-right fa-3x redtext"></i></span></p>
+											<p class="redtext">HIV care cascade</p>
+											<p><img src="img/HIV care cascade.jpg" class="img img-responsive"/></p>
+											<div class="row">
+												<div class="col-md-3">
+													<p class="fontsize12px">Prevention</p>
+												</div>
+												<div class="col-md-2 text-left marginleftminus20px">
+													<p class="fontsize12px">HIV testing service</p>
+												</div>
+												<div class="col-md-2">
+													<p class="fontsize12px">Linkage to care</p>
+												</div>
+												<div class="col-md-1 marginleft10px">
+													<p class="fontsize12px">ART</p>
+												</div>
+												<div class="col-md-4 text-center marginleft10px">
+													<p class="fontsize12px">Viral suppression</p>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-2 maindiv4" style="min-height:299px !important;">						
+											<p class="margintop10px"><strong>Evaluate impact</strong></p>
+											<p class="fontsize12mb10px margintop80px">Reduced incidence and deaths,equity</p>
+											<p class="fontsize12px">Assess outcomes at all stages of the cascade</p>
+										</div>					
+									</div>
+									<div class="row text-left paddingmarginleft">
+										<div class="col-md-2 text-center padding5px">							
+											<p class="margintopminus26px text-center"><strong><i class="fa fa-long-arrow-down fa-2x"></i></strong></p>
+											<p class="fontsize12mb10px"><strong>1.People</strong></p>
+											<p class="fontsize12mb10px"><strong>with HIV</strong></p>
+											<p class="fontsize12px"><strong>&nbsp;</strong></p>
+											<p class="fontsize12px"><span class="badge numbersbadge" id="cascadeModalPLHIV"></span></p>
+										</div>
+										<div class="col-md-2 text-center padding5px">								
+											<p class="margintopminus26px text-center"><strong><i class="fa fa-long-arrow-down fa-2x"></i></strong></p>
+											<p class="fontsize12mb10px"><strong>2.Domestic</strong></p>
+											<p class="fontsize12mb10px"><strong>Finance</strong></p>
+											<p class="fontsize12px"><strong>&nbsp;</strong></p>
+											<p class="fontsize12px"><span class="badge numbersbadge" id="cascadeModalDomesticViolence"></span></p>
+										</div>
+										<div class="col-md-5 marginleft10px padding5px">																
+											<div class="row paddingrightzero">
+												<div class="col-md-3 text-left marginleftminus10px">
+													<p class="margintopminus26px text-center"><strong><i class="fa fa-long-arrow-down fa-2x"></i></strong></p>
+													<p class="fontsize12px"><strong>3.Prevention by key populations</strong></p>
+													<p class="fontsize12px marginleftminus10px"><span id="cascadeModalPreventionByKeyPopulation" class="badge numbersbadge"></span></p>										
+												</div>
+												<div class="col-md-2 text-left marginleftminus10px">
+													<p class="margintopminus26px text-center"><strong><i class="fa fa-long-arrow-down fa-2x"></i></strong></p>
+													<p class="fontsize12mb10px"><strong>4.Knowing</strong></p>
+													<p class="fontsize12px"><strong>HIV status</strong></p>
+													<p class="fontsize12px marginleftminus10px"><span id="cascadeModalKnowing" class="badge  numbersbadge"></span></p>
+												</div>
+												<div class="col-md-2 text-left marginleft10px">
+													<p class="margintopminus26px text-center"><strong><i class="fa fa-long-arrow-down fa-2x"></i></strong></p>
+													<p class="fontsize12px"><strong>5.Linkage to care</strong></p>
+													<p class="fontsize12px"><span id="cascadeModalLinkageToCare" class="badge numbersbadge"></span></p>
+												</div>
+												<div class="col-md-2 text-right marginleft10px">
+													<p class="margintopminus26px text-center"><strong><i class="fa fa-long-arrow-down fa-2x"></i></strong></p>
+													<p class="fontsize12px"><strong>6.Currently on ART</strong></p>
+													<p class="fontsize12px marginleft10px"><span id="cascadeModalCurrentlyOnART" class="badge  numbersbadge"></span></p>
+													<p class="fontsize12px margintop20px"><strong>7.ART retention</strong></p>
+													<p class="fontsize12px"><span id="cascadeModalArtRetention" class="badge numbersbadge"></span></p>
+												</div>
+												<div class="col-md-2 text-right marginleft30px">
+													<p class="margintopminus26px text-center"><strong><i class="fa fa-long-arrow-down fa-2x"></i></strong></p>
+													<p class="fontsize12mb10px text-right"><strong>8.Viral suppression</strong></p>
+													<p class="fontsize12px"><strong>&nbsp;</strong></p>
+													<p class="fontsize12px"><span id="cascadeModalViralSuppression" class="badge numbersbadge"></span></p>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-2 text-center padding5px marginleft20px">							
+											<p class="margintopminus26px text-center"><strong><i class="fa fa-long-arrow-down fa-2x"></i></strong></p>
+											<p class="fontsize12mb10px" class="text-center"><strong>9.AIDS deaths</strong></p>
+											<p class="fontsize12px"><strong>&nbsp;</strong></p>
+											<p class="fontsize12mb10px"><strong>&nbsp;</strong></p>
+											<p class="fontsize12px text-center"><span id="cascadeModalAIDSDeaths" class="badge numbersbadge"></span></p>																
+											<p class="text-center fontsize12mb10px margintop18px"><strong>10.New</strong></p>
+											<p class="fontsize12px text-center"><strong>infections (15-49 years) per 1000 uninfected population</strong></p>
+											<p class="fontsize12px"><span id="cascadeModalInfections" class="badge numbersbadge"></span></p>
+										</div>					
+									</div>
+								</div><!-- /.box-body -->
+							</div><!-- /.box -->
+						</div>
+					</div>
+					</div>
+					<div class="" id="country-profile-text-section"></div>
+	
+				</section><!-- /.content -->
+				
+			</aside><!-- /.right-side -->
+		</div><!-- ./wrapper -->
+        <footer class="main-footer" style="margin-top:30px;">
+                    <div class="pull-right hidden-xs"></div>
+                    <strong>Copyright &copy; 2014-2015.</strong> All rights reserved. 
+                </footer>   
+		
+		<!-- WHO country profile login  Start -->
+		
+		<div id="login-modal" class="modal fade" role="dialog" aria-labelledby="gridSystemModalLabel">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal-title" id="gridSystemModalLabel">Sign In</h4>
+					</div>
+					<div class="modal-body">      
+						<!-- Small boxes (Stat box) -->
+						<div class="container-fluid">      
+							<div class="form-box" id="login-box" >        
+								<form id="user-login" method="post">
+									<div class="row">
+										<div class="login-logo col-lg-6" style="padding: 0px 70px; margin: 0px auto 0px auto; float:none;">
+											<a href="#"><img src="img/ivizard2.png" class="img"/></a>
+										</div>         
+									</div>        
+									<div class="row">
+										<p style="color: #ff0000;text-align: center; margin-top:10px;"><b class="login-error"></b></p>
+										<div class="body col-lg-6" style="margin: 0px auto 0px auto; float:none;">
+											<div id="usernameWrapper" class="form-group">
+												<input id="username" type="text" name="username" class="form-control" placeholder="Username"/>
+											</div>
+											<div class="form-group">
+												<input id="password" type="password" name="password" class="form-control" placeholder="Password"/>
+											</div>          
+											<!-- <div class="form-group">
+												<input type="checkbox" name="remember_me"/> Remember me
+											</div> -->
+										</div>
+									</div>
+									<!-- <div class="row"><div class="col-lg-6"></div></div> -->
+									<div class="row">
+										<div class="footer col-lg-6" style="margin: 0px auto 0px auto; float:none;">
+											<button type="submit" class="btn bg-primary btn-block">Sign me in</button>
+										</div>
+									</div>
+								</form> 
+							</div>     
+						</div>      
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+		
+		<!-- WHO country profile dialog box  Start -->
+		
+		<div id="countryProfileEditTextModal" class="modal modal-wide fade container" tabindex="-1" style="overflow-y: hidden !important;">
+			<div class="modal-lg">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						<div class="btn btn-primary pull-right" id="update-country-text" style="margin-right:2%;">
+							<!-- <a href="#">Country Profile</a> -->
+							Update
+						</div>
+						<h4 class="modal-title" id="">Edit Text</h4>
+					</div>
+					<div class="modal-body" id="countryProfileSections" style="max-height: 540px; overflow-y: scroll !important;">
+						
+						<textarea id="textSectionEditor"></textarea>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+		
+        <!-- add new calendar event modal -->
+        <!-- jQuery 2.0.2 -->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+        <!-- jQuery UI 1.10.3 -->
+        <script src="js/jquery-ui-1.10.3.min.js" type="text/javascript"></script>
+        <!-- Bootstrap -->
+        <script src="js/bootstrap.min.js" type="text/javascript"></script> 
+		<!-- <script src="js/AdminLTE/app.js" type="text/javascript"></script> -->
+        <!-- iCheck -->
+        <!-- <script src="js/plugins/iCheck/icheck.min.js" type="text/javascript"></script> -->
+        <!-- AdminLTE App -->
+        <script src="dure/scripts/DureConfigure.js" type="text/javascript"></script>
+		<script src="dure/scripts/DureUserLogin.js" type="text/javascript"></script>
+        <script src="dure/scripts/DureCommonUtils.js" type="text/javascript"></script>
+		<script src="dure/scripts/DureControls.js" type="text/javascript"></script>
+        <script src="dure/scripts/DureDashboard.js" type="text/javascript"></script>     
+        <script src="dure/scripts/DureServices.js" type="text/javascript"></script>	     
+        <script src="data/codes.js" type="text/javascript"></script>
+        <script src="dure/libraries/base64/base64.js" type="text/javascript"></script>
+        <script src="dure/libraries/jquery/plugins/jquery.validate.min.js" type="text/javascript"></script>
+		
+        <script src="dure/libraries/jNotify/jquery/jNotify.jquery.min.js" type="text/javascript"></script>
+        <script src="dure/scripts/DureExport.js" type="text/javascript"></script>
+		
+		<script src="dure/libraries/pdfExport/jspdf.min.js" type="text/javascript"></script>
+		<script src="dure/libraries/pdfExport/html2canvas.min.js" type="text/javascript"></script>
+		<script src="dure/libraries/pdfExport/canvas2image.js" type="text/javascript"></script>
+		
+		<script type="text/javascript" src="dure/libraries/ckeditor/ckeditor.js"></script>
+		<script src="dure/libraries/jStorage.js" type="text/javascript"></script>
+        
+		<!-- <script src="dure/libraries/pdfExport/app.js" type="text/javascript"></script> -->
+		<script>
+			dureUser.intialize();
+			dureComUtil.initialize();
+			dureDashboard.initialize();	
+		</script>
+		
+        <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
+		<!-- <script src="js/AdminLTE/dashboard.js" type="text/javascript"></script> -->
+	</body>
+</html>

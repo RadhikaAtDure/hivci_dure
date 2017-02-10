@@ -1,0 +1,60 @@
+getUnstructureData({
+  "unstructureData" : [ {
+    "2010" : [ {
+      "U001" : [ [ "22224560.000" ], [ "Population Data" ] ],
+      "U002" : [ [ "5.599" ], [ "HIV Prevalence in Male" ] ],
+      "U003" : [ [ "7.537" ], [ "HIV Prevalence in Female" ] ],
+      "U004" : [ [ "641146.066" ], [ "Total Number of Male Population tested HIV +" ] ],
+      "U005" : [ [ "854839.934" ], [ "Total Number of Female Population tested HIV +" ] ]
+    } ],
+    "2011" : [ {
+      "U001" : [ [ "22891880.000" ], [ "Population Data" ] ],
+      "U002" : [ [ "5.627" ], [ "HIV Prevalence in Male" ] ],
+      "U003" : [ [ "7.575" ], [ "HIV Prevalence in Female" ] ],
+      "U004" : [ [ "654221.706" ], [ "Total Number of Male Population tested HIV +" ] ],
+      "U005" : [ [ "876342.294" ], [ "Total Number of Female Population tested HIV +" ] ]
+    } ],
+    "2012" : [ {
+      "U001" : [ [ "23584608.000" ], [ "Population Data" ] ],
+      "U002" : [ [ "5.618" ], [ "HIV Prevalence in Male" ] ],
+      "U003" : [ [ "7.563" ], [ "HIV Prevalence in Female" ] ],
+      "U004" : [ [ "667514.129" ], [ "Total Number of Male Population tested HIV +" ] ],
+      "U005" : [ [ "897424.871" ], [ "Total Number of Female Population tested HIV +" ] ]
+    } ],
+    "2013" : [ {
+      "U001" : [ [ "24303807.000" ], [ "Population Data" ] ],
+      "U002" : [ [ "5.609" ], [ "HIV Prevalence in Male" ] ],
+      "U003" : [ [ "7.550" ], [ "HIV Prevalence in Female" ] ],
+      "U004" : [ [ "680824.370" ], [ "Total Number of Male Population tested HIV +" ] ],
+      "U005" : [ [ "918626.630" ], [ "Total Number of Female Population tested HIV +" ] ]
+    } ],
+    "2014" : [ {
+      "U001" : [ [ "25046976.000" ], [ "Population Data" ] ],
+      "U002" : [ [ "5.571" ], [ "HIV Prevalence in Male" ] ],
+      "U003" : [ [ "7.500" ], [ "HIV Prevalence in Female" ] ],
+      "U004" : [ [ "692736.760" ], [ "Total Number of Male Population tested HIV +" ] ],
+      "U005" : [ [ "937826.240" ], [ "Total Number of Female Population tested HIV +" ] ]
+    } ],
+    "2015" : [ {
+      "U001" : [ [ "27907245.000" ], [ "Population Data" ] ],
+      "U002" : [ [ "5.506" ], [ "HIV Prevalence in Male" ] ],
+      "U003" : [ [ "7.412" ], [ "HIV Prevalence in Female" ] ],
+      "U004" : [ [ "703005.477" ], [ "Total Number of Male Population tested HIV +" ] ],
+      "U005" : [ [ "954404.523" ], [ "Total Number of Female Population tested HIV +" ] ]
+    } ],
+    "2016" : [ {
+      "U001" : [ [ "28984684.778" ], [ "Population Data" ] ],
+      "U002" : [ [ "5.414" ], [ "HIV Prevalence in Male" ] ],
+      "U003" : [ [ "7.287" ], [ "HIV Prevalence in Female" ] ],
+      "U004" : [ [ "710920.394" ], [ "Total Number of Male Population tested HIV +" ] ],
+      "U005" : [ [ "967323.606" ], [ "Total Number of Female Population tested HIV +" ] ]
+    } ],
+    "2017" : [ {
+      "U001" : [ [ "30097945.847" ], [ "Population Data" ] ],
+      "U002" : [ [ "5.311" ], [ "HIV Prevalence in Male" ] ],
+      "U003" : [ [ "7.150" ], [ "HIV Prevalence in Female" ] ],
+      "U004" : [ [ "719407.986" ], [ "Total Number of Male Population tested HIV +" ] ],
+      "U005" : [ [ "980814.014" ], [ "Total Number of Female Population tested HIV +" ] ]
+    } ]
+  } ]
+})

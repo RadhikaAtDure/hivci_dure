@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>WHO | Documents</title>
+        <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+        <!-- bootstrap 3.0.2 -->
+        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <!-- font Awesome -->
+        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+        <!-- Ionicons -->
+        <link href="css/ionicons.min.css" rel="stylesheet" type="text/css" />             
+        <!-- bootstrap wysihtml5 - text editor -->
+        <link href="css/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" rel="stylesheet" type="text/css" />
+       
+        <link href="tab/css/cascade-modal.css" rel="stylesheet" type="text/css" />
+        <link href="dure/libraries/jNotify/jquery/jNotify.jquery.css" rel="stylesheet" type="text/css" />
+        <!-- Theme style -->
+        <link href="css/AdminLTE.css" rel="stylesheet" type="text/css" />
+		<link href="css/customstyles.css" rel="stylesheet" type="text/css" />
+		<link href="css/flagcss/flags32.css" rel="stylesheet" type="text/css" />
+		<!-- <link rel="stylesheet" type="text/css" href="assets/medicalicons/wfmi-style.css"> -->
+		<link rel="stylesheet" type="text/css" href="dure/libraries/sweetalert/dist/sweetalert2.css">
+		<link rel="stylesheet" type="text/css" href="css/flagcss/flags32.css">
+		<link rel="stylesheet" type="text/css" href="css/fileupload/jquery.fileupload.css">
+		<link rel="stylesheet" type="text/css" href="css/fileupload/jquery.fileupload-ui.css">
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+		<![endif]-->
+	</head>
+    <body class="skin-blue">
+        <!-- header logo: style can be found in header.less -->
+        <header class="header">
+            <a href="index.html" class="logo">
+                <!-- Add the class icon to your logo image or logo icon to add the margining -->
+                <img src="img/whologo.png" class="img img-responsive"/>
+			</a>
+            <!-- Header Navbar: style can be found in header.less -->
+            <nav class="navbar navbar-static-top" role="navigation">
+                <!-- Sidebar toggle button-->
+				 <div class="linkControls clearfix">
+					<a href="#" id="login" class="btn btn-default" title="Login" style="margin-top: 6px; margin-right: 5px; float: right;">
+						<i class="fa fa-user"></i>
+					</a>
+					<a href="../" class="btn btn-default dashboardLink" title="Home" style="margin-top: 6px; margin-right: 5px; float: left;">
+						<i class="fa fa-home"></i> Home
+					</a>
+					<a href="../country-support/" class="btn btn-default dashboardLink" title="Home" style="margin-top: 6px; margin-right: 5px; float: left;">
+						<i class="fa fa-chevron-left"></i> Country Support
+					</a>
+					<a href="javascript:void(0)" onclick="location.reload();" class="btn btn-default dashboardLink" title="Home" style="margin-top: 6px; margin-right: 5px; float: left;">
+						<i class="fa fa-chevron-left"></i> Country Documents
+					</a>
+				</div>						
+			</nav>
+		</header>
+        <div class="wrapper row-offcanvas row-offcanvas-left">
+            <!-- Left side column. contains the logo and sidebar -->
+            <aside class="left-side sidebar-offcanvas collapse-left">
+                <!-- sidebar: style can be found in sidebar.less -->
+                <section class="sidebar">
+                    <!-- Sidebar user panel -->
+                    <!-- sidebar menu: : style can be found in sidebar.less -->
+                    <ul class="sidebar-menu">
+                        <li class="active">
+                            <a href="index.html">
+                                <i class="fa fa-home"></i> <span>Dashboard</span>
+							</a>
+						</li>
+					</ul>
+				</section>
+                <!-- /.sidebar -->
+			</aside>
+			
+            <!-- Right side column. Contains the navbar and content of the page -->
+            <aside class="right-side strech uploadFragment docsFragment">
+                <!-- Content Header (Page header) -->
+				<section class="content-header clearfix">
+					<div class="row">
+						
+						<div class="alert alert-info fade in col-md-4 region-title-box" style="display:block; background-color: #42ACDC !important; color: #fff;">
+							<strong>All</strong>
+						</div>
+												
+						<ul class="nav navbar-nav pull-left regionDropDown" style="list-style: none;display: inline-block; padding-left: 10px;">
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle badge " data-toggle="dropdown" aria-expanded="true" style="background-color: #42ACDC;">Select Region <span class="caret"></span></a>
+								<ul class="dropdown-menu" id="" role="menu" style="overflow: scroll;">
+									<li><a href="javascript:void(0)" class="select-region" region-code="">All</a></li>								
+									<li><a href="javascript:void(0)" class="select-region" region-code="AFR">African Region - AFR</a></li>
+									<li><a href="javascript:void(0)" class="select-region" region-code="AMR">Americas Region - AMR</a></li>
+									<li><a href="javascript:void(0)" class="select-region" region-code="EMR">Eastern Mediterranean Region - EMR</a></li>
+									<li><a href="javascript:void(0)" class="select-region" region-code="EUR">European Region - EUR</a></li>
+									<li><a href="javascript:void(0)" class="select-region" region-code="SEAR">South Eastern Asian Region - SEAR</a></li>
+									<li><a href="javascript:void(0)" class="select-region" region-code="WPR">Western Pacific Region - WPR</a></li>
+								</ul>
+							</li>
+						</ul>
+						
+						<ul class="nav navbar-nav pull-left" style="list-style: none;display: inline-block; padding-left: 10px;">
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle badge" data-toggle="dropdown" aria-expanded="true" style="background-color: #42ACDC;">Select Country <span class="caret"></span></a>
+								<ul class="dropdown-menu" id="countrySelectorList" role="menu" style="overflow: scroll; height: 400px;"></ul>
+							</li>
+						</ul>
+						
+						<div class="region-title-breadcrumb alert alert-default fade in col-lg-9" style="padding: 6px !important; display:none; margin:0px; color: #000;">
+							<ul class="breadcrumb">
+								<li class="item"><a href="javascript:void(0)">Selected:</a> 
+									<a href="javascript:void(0)" class="region-title-box"></a> 
+									<a href="javascript:void(0)" class="breadcrumbCountryText"></a> 								
+								</li>
+							</ul>						
+						</div>													
+					</div>
+					<div class="row">
+					
+						<!-- <div class="alert alert-danger fade in col-md-4 region-error-info-box" style="display:none; color: #ff0000;">
+							<strong>Please select region and country.</strong>
+						</div> -->
+					
+						<div class="col-lg-12">
+							<!-- <h1 id="dashboard-header" class="pull-left" style="display: inline-block; margin-top: 5px; margin-bottom: 5px;"></h1> -->
+						</div>
+					</div>
+						<div class="box">
+						<div class="box-header with-border">
+						
+							<h3 class="box-title" style="color:#fff;padding-top: 16px;">
+								<i class="fa fa-file-text-o colorwhite"></i> Country Documents
+							</h3>	
+							<h2 class="box-title" style="color:#fff;">
+								<span id="dashboard-header" style="font-size: 25px;"></span>							
+							</h2>
+							<div class="pull-right box-tools">
+								<button class="btn btn-primary btn-sm pull-right collapseBtn" data-widget="collapse" data-toggle="tooltip" title="" style="margin-right: 5px;" data-original-title="Expand"><i class="fa fa-minus"></i></button>
+							</div>							
+						</div>
+						<!-- /.box-header -->
+						<div class="box-body">
+							<div class="row">
+								<div class="col-lg-12" id="documents-list">
+									<div class="alert alert-danger fade in col-md-4 region-error-info-box" style="display:none; color: #ff0000;">
+									<strong>Please select region or country.</strong>
+									</div>
+								</div>						
+							</div>
+						</div>
+						<!-- /.box-body -->
+					</div>
+				</section>
+				
+				<!-- Main content -->
+                <section class="content" id="" style="padding-top: 25px;">					
+					<div class="box">
+						<div class="box-header with-border">
+							<h3 class="box-title" style="color:#fff;"><i class="fa fa-file-text-o colorwhite"></i> Global Documents</h3>		
+							<div class="pull-right box-tools">
+								<button class="btn btn-primary btn-sm pull-right collapseBtn" data-widget="collapse" data-toggle="tooltip" title="" style="margin-right: 5px;" data-original-title="Expand"><i class="fa fa-minus"></i></button>
+							</div>									
+						</div>
+						<!-- /.box-header -->
+						<div class="box-body">
+							<div class="row">
+								<div class="col-lg-12" id="global-documents-list">
+							
+								</div>						
+							</div>
+						</div>
+						<!-- /.box-body -->
+					</div>
+				</section><!-- /.content -->
+				
+				<div class="push"></div>
+				
+			</aside><!-- /.right-side -->
+		</div><!-- ./wrapper -->
+		<footer class="main-footer " style="margin-top:30px;">
+					<div class="pull-right hidden-xs"></div>
+					<strong>Copyright &copy; 2014-<span id="copyrightyear"></span><script>
+						document.getElementById("copyrightyear").innerHTML = new Date().getFullYear();
+					</script>.</strong> All rights reserved. 
+		</footer>   
+		<div id="login-modal" class="modal fade" role="dialog" aria-labelledby="gridSystemModalLabel">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal-title" id="gridSystemModalLabel">Sign In</h4>
+					</div>
+					<div class="modal-body">						
+						<!-- Small boxes (Stat box) -->
+						<div class="container-fluid">						
+							<div class="form-box" id="login-box" >								
+								<form id="user-login" method="post">
+								<div class="row">
+									<div class="login-logo col-lg-6" style="padding: 0px 70px; margin: 0px auto 0px auto; float:none;">
+										<a href="#"><img src="img/ivizard2.png" class="img"/></a>
+									</div>									
+								</div>								
+								<div class="row">
+									<p style="color: #ff0000;text-align: center; margin-top:10px;"><b class="login-error"></b></p>
+									<div class="body col-lg-6" style="margin: 0px auto 0px auto; float:none;">
+										<div id="usernameWrapper" class="form-group">
+											<input id="username" type="text" name="username" class="form-control" placeholder="Username"/>
+										</div>
+										<div class="form-group">
+											<input id="password" type="password" name="password" class="form-control" placeholder="Password"/>
+										</div>										
+											<!-- <div class="form-group">
+												<input type="checkbox" name="remember_me"/> Remember me
+											</div> -->
+									</div>
+								</div>
+								<!-- <div class="row"><div class="col-lg-6"></div></div> -->
+								<div class="row">
+									<div class="footer col-lg-6" style="margin: 0px auto 0px auto; float:none;">
+										<button type="submit" class="btn bg-primary btn-block">Sign me in</button>
+									</div>
+								</div>
+								</form> 
+							</div>					
+						</div>						
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+		<div id="folderCreation" class="modal fade" role="dialog" aria-labelledby="gridSystemModalLabel">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h4 class="modal-title" id="gridSystemModalLabel">Create Folder</h4>
+					</div>
+					<div class="modal-body clearfix" id="selectRegionalCountry">
+						<div class="form-group">
+						  <label>Folder Name</label>
+						  <input type="text" name="folderName" class="form-control" id="folderName" placeholder="Enter folder name" />
+						</div>
+						<div class="form-group">
+						  <label>Select Level</label>
+						  <select class="form-control folder_cat">
+							<option value="country">Country</option>
+							<option value="global">Global</option>
+						  </select>
+						</div>
+						<div class="form-group">
+						  <a href="javascript:void(0)" class="form-control btn btn-primary" id="folderNameSubmit" /> Create</a>
+						</div>
+					</div>	
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+				
+        <!-- add new calendar event modal -->
+        <!-- jQuery 2.0.2 -->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+        <!-- jQuery UI 1.10.3 -->
+        <script src="js/jquery-ui-1.10.3.min.js" type="text/javascript"></script>
+		<script src="dure/libraries/jquery/plugins/jquery.validate.min.js" type="text/javascript"></script>
+		
+        <!-- Bootstrap -->
+        <script src="js/bootstrap.min.js" type="text/javascript"></script>
+		<!-- <script src="js/AdminLTE/app.js" type="text/javascript"></script> -->
+        <!-- AdminLTE App -->
+        <script src="dure/scripts/DureConfigure.js" type="text/javascript"></script>
+        <script src="dure/scripts/DureUserLogin.js" type="text/javascript"></script>
+		<script src="dure/scripts/DureCommonUtils.js" type="text/javascript"></script>
+        <script src="dure/scripts/DureControls.js" type="text/javascript"></script>	
+        <script src="dure/scripts/DureServices.js" type="text/javascript"></script>	
+		<script src="dure/scripts/dureDocuments.js" type="text/javascript"></script>
+		
+		<!-- Fileupload js-->
+		<!-- iCheck -->
+		<!-- <script src="js/plugins/iCheck/icheck.min.js" type="text/javascript"></script> -->
+		<!-- AdminLTE App -->
+		<!-- The Templates plugin is included to render the upload/download listings -->
+		<script src="//blueimp.github.io/JavaScript-Templates/js/tmpl.min.js"></script>
+		<!-- The Load Image plugin is included for the preview images and image resizing functionality -->
+		<script src="//blueimp.github.io/JavaScript-Load-Image/js/load-image.all.min.js"></script>
+		<script src="dure/libraries/fileupload/js/jquery.fileupload.js" type="text/javascript"></script>		
+		<script src="dure/libraries/fileupload/js/jquery.fileupload-process.js" type="text/javascript"></script>
+		<!-- The File Upload image preview & resize plugin -->
+		<script src="dure/libraries/fileupload/js/jquery.fileupload-image.js"></script>
+		<!-- The File Upload audio preview plugin -->
+		<script src="dure/libraries/fileupload/js/jquery.fileupload-audio.js"></script>
+		<!-- The File Upload video preview plugin -->
+		<script src="dure/libraries/fileupload/js/jquery.fileupload-video.js"></script>
+		<script src="dure/libraries/fileupload/js/jquery.fileupload-validate.js" type="text/javascript"></script>
+		<script src="dure/libraries/fileupload/js/jquery.fileupload-ui.js" type="text/javascript"></script>
+		<script src="dure/libraries/fileupload/js/main.js" type="text/javascript"></script>
+
+		<script src="data/codes.js" type="text/javascript"></script>
+       
+        <script src="dure/libraries/base64/base64.js" type="text/javascript"></script>
+        <script src="dure/libraries/jNotify/jquery/jNotify.jquery.min.js" type="text/javascript"></script>
+        <script src="dure/libraries/jStorage.js" type="text/javascript"></script>
+		<script src="dure/libraries/sweetalert/dist/sweetalert2.min.js"></script>	
+		<script>
+			dureUser.intialize();
+			dureComUtil.initialize();
+			dureDocuments.initialize();
+		</script>	
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80421046-1', 'auto');
+  ga('send', 'pageview');
+
+</script>	
+	</body>
+</html>

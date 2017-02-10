@@ -1,0 +1,1556 @@
+{
+	"data": {
+		"AFG": {
+			"whoRegion": "EMR",
+			"isoCode": "AFG",
+			"countryName": "Afghanistan",
+			"incomeClassifaction": "Low income",
+			"GNI": "700",
+			"gaviEligibility": "Yes"
+		},
+		"BGD": {
+			"whoRegion": "SEAR",
+			"isoCode": "BGD",
+			"countryName": "Bangladesh",
+			"incomeClassifaction": "Low income",
+			"GNI": "900",
+			"gaviEligibility": "Yes"
+		},
+		"BEN": {
+			"whoRegion": "AFR",
+			"isoCode": "BEN",
+			"countryName": "Benin",
+			"incomeClassifaction": "Low income",
+			"GNI": "790",
+			"gaviEligibility": "Yes"
+		},
+		"BFA": {
+			"whoRegion": "AFR",
+			"isoCode": "BFA",
+			"countryName": "Burkina Faso",
+			"incomeClassifaction": "Low income",
+			"GNI": "670",
+			"gaviEligibility": "Yes"
+		},
+		"BDI": {
+			"whoRegion": "AFR",
+			"isoCode": "BDI",
+			"countryName": "Burundi",
+			"incomeClassifaction": "Low income",
+			"GNI": "280",
+			"gaviEligibility": "Yes"
+		},
+		"KHM": {
+			"whoRegion": "WPR",
+			"isoCode": "KHM",
+			"countryName": "Cambodia",
+			"incomeClassifaction": "Low income",
+			"GNI": "950",
+			"gaviEligibility": "Yes"
+		},
+		"CAF": {
+			"whoRegion": "AFR",
+			"isoCode": "CAF",
+			"countryName": "Central African Republic (the)",
+			"incomeClassifaction": "Low income",
+			"GNI": "320",
+			"gaviEligibility": "Yes"
+		},
+		"TCD": {
+			"whoRegion": "AFR",
+			"isoCode": "TCD",
+			"countryName": "Chad",
+			"incomeClassifaction": "Low income",
+			"GNI": "1020",
+			"gaviEligibility": "Yes"
+		},
+		"COM": {
+			"whoRegion": "AFR",
+			"isoCode": "COM",
+			"countryName": "Comoros (the)",
+			"incomeClassifaction": "Low income",
+			"GNI": "880",
+			"gaviEligibility": "Yes"
+		},
+		"PRK": {
+			"whoRegion": "SEAR",
+			"isoCode": "PRK",
+			"countryName": "Democratic People's Republic of Korea (the)",
+			"incomeClassifaction": "Low income",
+			"GNI": "",
+			"gaviEligibility": "Yes"
+		},
+		"COD": {
+			"whoRegion": "AFR",
+			"isoCode": "COD",
+			"countryName": "Democratic Republic of the Congo (the)",
+			"incomeClassifaction": "Low income",
+			"GNI": "400",
+			"gaviEligibility": "Yes"
+		},
+		"ERI": {
+			"whoRegion": "AFR",
+			"isoCode": "ERI",
+			"countryName": "Eritrea",
+			"incomeClassifaction": "Low income",
+			"GNI": "490",
+			"gaviEligibility": "Yes"
+		},
+		"ETH": {
+			"whoRegion": "AFR",
+			"isoCode": "ETH",
+			"countryName": "Ethiopia",
+			"incomeClassifaction": "Low income",
+			"GNI": "470",
+			"gaviEligibility": "Yes"
+		},
+		"GMB": {
+			"whoRegion": "AFR",
+			"isoCode": "GMB",
+			"countryName": "Gambia (the)",
+			"incomeClassifaction": "Low income",
+			"GNI": "510",
+			"gaviEligibility": "Yes"
+		},
+		"GIN": {
+			"whoRegion": "AFR",
+			"isoCode": "GIN",
+			"countryName": "Guinea",
+			"incomeClassifaction": "Low income",
+			"GNI": "460",
+			"gaviEligibility": "Yes"
+		},
+		"GNB": {
+			"whoRegion": "AFR",
+			"isoCode": "GNB",
+			"countryName": "Guinea-Bissau",
+			"incomeClassifaction": "Low income",
+			"GNI": "520",
+			"gaviEligibility": "Yes"
+		},
+		"HTI": {
+			"whoRegion": "AMR",
+			"isoCode": "HTI",
+			"countryName": "Haiti",
+			"incomeClassifaction": "Low income",
+			"GNI": "810",
+			"gaviEligibility": "Yes"
+		},
+		"KEN": {
+			"whoRegion": "AFR",
+			"isoCode": "KEN",
+			"countryName": "Kenya",
+			"incomeClassifaction": "Low income",
+			"GNI": "930",
+			"gaviEligibility": "Yes"
+		},
+		"LBR": {
+			"whoRegion": "AFR",
+			"isoCode": "LBR",
+			"countryName": "Liberia",
+			"incomeClassifaction": "Low income",
+			"GNI": "410",
+			"gaviEligibility": "Yes"
+		},
+		"MDG": {
+			"whoRegion": "AFR",
+			"isoCode": "MDG",
+			"countryName": "Madagascar",
+			"incomeClassifaction": "Low income",
+			"GNI": "440",
+			"gaviEligibility": "Yes"
+		},
+		"MWI": {
+			"whoRegion": "AFR",
+			"isoCode": "MWI",
+			"countryName": "Malawi",
+			"incomeClassifaction": "Low income",
+			"GNI": "270",
+			"gaviEligibility": "Yes"
+		},
+		"MLI": {
+			"whoRegion": "AFR",
+			"isoCode": "MLI",
+			"countryName": "Mali",
+			"incomeClassifaction": "Low income",
+			"GNI": "670",
+			"gaviEligibility": "Yes"
+		},
+		"MOZ": {
+			"whoRegion": "AFR",
+			"isoCode": "MOZ",
+			"countryName": "Mozambique",
+			"incomeClassifaction": "Low income",
+			"GNI": "590",
+			"gaviEligibility": "Yes"
+		},
+		"MMR": {
+			"whoRegion": "SEAR",
+			"isoCode": "MMR",
+			"countryName": "Myanmar",
+			"incomeClassifaction": "Low income",
+			"GNI": "",
+			"gaviEligibility": "Yes"
+		},
+		"NRU": {
+			"whoRegion": "WPR",
+			"isoCode": "NRU",
+			"countryName": "Nauru",
+			"incomeClassifaction": "Low income",
+			"GNI": "",
+			"gaviEligibility": "No"
+		},
+		"NPL": {
+			"whoRegion": "SEAR",
+			"isoCode": "NPL",
+			"countryName": "Nepal",
+			"incomeClassifaction": "Low income",
+			"GNI": "730",
+			"gaviEligibility": "Yes"
+		},
+		"NER": {
+			"whoRegion": "AFR",
+			"isoCode": "NER",
+			"countryName": "Niger (the)",
+			"incomeClassifaction": "Low income",
+			"GNI": "410",
+			"gaviEligibility": "Yes"
+		},
+		"RWA": {
+			"whoRegion": "AFR",
+			"isoCode": "RWA",
+			"countryName": "Rwanda",
+			"incomeClassifaction": "Low income",
+			"GNI": "620",
+			"gaviEligibility": "Yes"
+		},
+		"SLE": {
+			"whoRegion": "AFR",
+			"isoCode": "SLE",
+			"countryName": "Sierra Leone",
+			"incomeClassifaction": "Low income",
+			"GNI": "680",
+			"gaviEligibility": "Yes"
+		},
+		"SOM": {
+			"whoRegion": "EMR",
+			"isoCode": "SOM",
+			"countryName": "Somalia",
+			"incomeClassifaction": "Low income",
+			"GNI": "",
+			"gaviEligibility": "Yes"
+		},
+		"TJK": {
+			"whoRegion": "EUR",
+			"isoCode": "TJK",
+			"countryName": "Tajikistan",
+			"incomeClassifaction": "Low income",
+			"GNI": "990",
+			"gaviEligibility": "Yes"
+		},
+		"TGO": {
+			"whoRegion": "AFR",
+			"isoCode": "TGO",
+			"countryName": "Togo",
+			"incomeClassifaction": "Low income",
+			"GNI": "530",
+			"gaviEligibility": "Yes"
+		},
+		"UGA": {
+			"whoRegion": "AFR",
+			"isoCode": "UGA",
+			"countryName": "Uganda",
+			"incomeClassifaction": "Low income",
+			"GNI": "510",
+			"gaviEligibility": "Yes"
+		},
+		"TZA": {
+			"whoRegion": "AFR",
+			"isoCode": "TZA",
+			"countryName": "United Republic of Tanzania",
+			"incomeClassifaction": "Low income",
+			"GNI": "630",
+			"gaviEligibility": "Yes"
+		},
+		"ZWE": {
+			"whoRegion": "AFR",
+			"isoCode": "ZWE",
+			"countryName": "Zimbabwe",
+			"incomeClassifaction": "Low income",
+			"GNI": "820",
+			"gaviEligibility": "Yes"
+		},
+		"ARM": {
+			"whoRegion": "EUR",
+			"isoCode": "ARM",
+			"countryName": "Armenia",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3790",
+			"gaviEligibility": "Yes"
+		},
+		"BTN": {
+			"whoRegion": "SEAR",
+			"isoCode": "BTN",
+			"countryName": "Bhutan",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "2460",
+			"gaviEligibility": "Yes"
+		},
+		"BOL": {
+			"whoRegion": "AMR",
+			"isoCode": "BOL",
+			"countryName": "Bolivia (Plurinational State of)",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "2550",
+			"gaviEligibility": "Yes"
+		},
+		"CPV": {
+			"whoRegion": "AFR",
+			"isoCode": "CPV",
+			"countryName": "Cabo Verde",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3630",
+			"gaviEligibility": "No"
+		},
+		"CMR": {
+			"whoRegion": "AFR",
+			"isoCode": "CMR",
+			"countryName": "Cameroon",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1270",
+			"gaviEligibility": "Yes"
+		},
+		"COG": {
+			"whoRegion": "AFR",
+			"isoCode": "COG",
+			"countryName": "Congo (the)",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "2660",
+			"gaviEligibility": "Yes"
+		},
+		"CIV": {
+			"whoRegion": "AFR",
+			"isoCode": "CIV",
+			"countryName": "C?te d'Ivoire",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1380",
+			"gaviEligibility": "Yes"
+		},
+		"DJI": {
+			"whoRegion": "EMR",
+			"isoCode": "DJI",
+			"countryName": "Djibouti",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "",
+			"gaviEligibility": "Yes"
+		},
+		"EGY": {
+			"whoRegion": "EMR",
+			"isoCode": "EGY",
+			"countryName": "Egypt",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3160",
+			"gaviEligibility": "No"
+		},
+		"SLV": {
+			"whoRegion": "AMR",
+			"isoCode": "SLV",
+			"countryName": "El Salvador",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3720",
+			"gaviEligibility": "No"
+		},
+		"GEO": {
+			"whoRegion": "EUR",
+			"isoCode": "GEO",
+			"countryName": "Georgia",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3570",
+			"gaviEligibility": "Yes"
+		},
+		"GHA": {
+			"whoRegion": "AFR",
+			"isoCode": "GHA",
+			"countryName": "Ghana",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1760",
+			"gaviEligibility": "Yes"
+		},
+		"GTM": {
+			"whoRegion": "AMR",
+			"isoCode": "GTM",
+			"countryName": "Guatemala",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3340",
+			"gaviEligibility": "No"
+		},
+		"GUY": {
+			"whoRegion": "AMR",
+			"isoCode": "GUY",
+			"countryName": "Guyana",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3750",
+			"gaviEligibility": "Yes"
+		},
+		"HND": {
+			"whoRegion": "AMR",
+			"isoCode": "HND",
+			"countryName": "Honduras",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "2180",
+			"gaviEligibility": "Yes"
+		},
+		"IND": {
+			"whoRegion": "SEAR",
+			"isoCode": "IND",
+			"countryName": "India",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1570",
+			"gaviEligibility": "Yes"
+		},
+		"IDN": {
+			"whoRegion": "SEAR",
+			"isoCode": "IDN",
+			"countryName": "Indonesia",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3580",
+			"gaviEligibility": "Yes"
+		},
+		"KIR": {
+			"whoRegion": "WPR",
+			"isoCode": "KIR",
+			"countryName": "Kiribati",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "2620",
+			"gaviEligibility": "Yes"
+		},
+		"KGZ": {
+			"whoRegion": "EUR",
+			"isoCode": "KGZ",
+			"countryName": "Kyrgyzstan",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1200",
+			"gaviEligibility": "Yes"
+		},
+		"LAO": {
+			"whoRegion": "WPR",
+			"isoCode": "LAO",
+			"countryName": "Lao People's Democratic Republic (the)",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1460",
+			"gaviEligibility": "Yes"
+		},
+		"LSO": {
+			"whoRegion": "AFR",
+			"isoCode": "LSO",
+			"countryName": "Lesotho",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1550",
+			"gaviEligibility": "Yes"
+		},
+		"MRT": {
+			"whoRegion": "AFR",
+			"isoCode": "MRT",
+			"countryName": "Mauritania",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1060",
+			"gaviEligibility": "Yes"
+		},
+		"FSM": {
+			"whoRegion": "WPR",
+			"isoCode": "FSM",
+			"countryName": "Micronesia (Federated States of)",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3430",
+			"gaviEligibility": "No"
+		},
+		"MNG": {
+			"whoRegion": "WPR",
+			"isoCode": "MNG",
+			"countryName": "Mongolia",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3770",
+			"gaviEligibility": "Yes"
+		},
+		"MAR": {
+			"whoRegion": "EMR",
+			"isoCode": "MAR",
+			"countryName": "Morocco",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3030",
+			"gaviEligibility": "No"
+		},
+		"NIC": {
+			"whoRegion": "AMR",
+			"isoCode": "NIC",
+			"countryName": "Nicaragua",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1780",
+			"gaviEligibility": "Yes"
+		},
+		"NGA": {
+			"whoRegion": "AFR",
+			"isoCode": "NGA",
+			"countryName": "Nigeria",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "2760",
+			"gaviEligibility": "Yes"
+		},
+		"PAK": {
+			"whoRegion": "EMR",
+			"isoCode": "PAK",
+			"countryName": "Pakistan",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1380",
+			"gaviEligibility": "Yes"
+		},
+		"PNG": {
+			"whoRegion": "WPR",
+			"isoCode": "PNG",
+			"countryName": "Papua New Guinea",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "2010",
+			"gaviEligibility": "Yes"
+		},
+		"PRY": {
+			"whoRegion": "AMR",
+			"isoCode": "PRY",
+			"countryName": "Paraguay",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "4040",
+			"gaviEligibility": "No"
+		},
+		"PHL": {
+			"whoRegion": "WPR",
+			"isoCode": "PHL",
+			"countryName": "Philippines (the)",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3270",
+			"gaviEligibility": "No"
+		},
+		"MDA": {
+			"whoRegion": "EUR",
+			"isoCode": "MDA",
+			"countryName": "Republic of Moldova (the)",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "2460",
+			"gaviEligibility": "Yes"
+		},
+		"WSM": {
+			"whoRegion": "WPR",
+			"isoCode": "WSM",
+			"countryName": "Samoa",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3430",
+			"gaviEligibility": "No"
+		},
+		"STP": {
+			"whoRegion": "AFR",
+			"isoCode": "STP",
+			"countryName": "Sao Tome and Principe",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1470",
+			"gaviEligibility": "Yes"
+		},
+		"SEN": {
+			"whoRegion": "AFR",
+			"isoCode": "SEN",
+			"countryName": "Senegal",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1070",
+			"gaviEligibility": "Yes"
+		},
+		"SLB": {
+			"whoRegion": "WPR",
+			"isoCode": "SLB",
+			"countryName": "Solomon Islands",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1610",
+			"gaviEligibility": "Yes"
+		},
+		"SSD": {
+			"whoRegion": "EMR",
+			"isoCode": "SSD",
+			"countryName": "South Sudan",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1120",
+			"gaviEligibility": "Yes"
+		},
+		"LKA": {
+			"whoRegion": "SEAR",
+			"isoCode": "LKA",
+			"countryName": "Sri Lanka",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3170",
+			"gaviEligibility": "Yes"
+		},
+		"SDN": {
+			"whoRegion": "EMR",
+			"isoCode": "SDN",
+			"countryName": "Sudan (the)",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1130",
+			"gaviEligibility": "Yes"
+		},
+		"SWZ": {
+			"whoRegion": "AFR",
+			"isoCode": "SWZ",
+			"countryName": "Swaziland",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3080",
+			"gaviEligibility": "No"
+		},
+		"SYR": {
+			"whoRegion": "EMR",
+			"isoCode": "SYR",
+			"countryName": "Syrian Arab Republic (the)",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "",
+			"gaviEligibility": "No"
+		},
+		"TLS": {
+			"whoRegion": "SEAR",
+			"isoCode": "TLS",
+			"countryName": "Timor-Leste",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3580",
+			"gaviEligibility": "Yes"
+		},
+		"UKR": {
+			"whoRegion": "EUR",
+			"isoCode": "UKR",
+			"countryName": "Ukraine",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3690",
+			"gaviEligibility": "Yes"
+		},
+		"UZB": {
+			"whoRegion": "EUR",
+			"isoCode": "UZB",
+			"countryName": "Uzbekistan",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1900",
+			"gaviEligibility": "Yes"
+		},
+		"VUT": {
+			"whoRegion": "WPR",
+			"isoCode": "VUT",
+			"countryName": "Vanuatu",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "3130",
+			"gaviEligibility": "No"
+		},
+		"VNM": {
+			"whoRegion": "WPR",
+			"isoCode": "VNM",
+			"countryName": "Viet Nam",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1730",
+			"gaviEligibility": "Yes"
+		},
+		"YEM": {
+			"whoRegion": "EMR",
+			"isoCode": "YEM",
+			"countryName": "Yemen",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1330",
+			"gaviEligibility": "Yes"
+		},
+		"ZMB": {
+			"whoRegion": "AFR",
+			"isoCode": "ZMB",
+			"countryName": "Zambia",
+			"incomeClassifaction": "Lower middle income",
+			"GNI": "1480",
+			"gaviEligibility": "Yes"
+		},
+		"ALB": {
+			"whoRegion": "EUR",
+			"isoCode": "ALB",
+			"countryName": "Albania",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "4700",
+			"gaviEligibility": "No"
+		},
+		"DZA": {
+			"whoRegion": "AFR",
+			"isoCode": "DZA",
+			"countryName": "Algeria",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "5290",
+			"gaviEligibility": "No"
+		},
+		"AGO": {
+			"whoRegion": "AFR",
+			"isoCode": "AGO",
+			"countryName": "Angola",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "5010",
+			"gaviEligibility": "Yes"
+		},
+		"ARG": {
+			"whoRegion": "AMR",
+			"isoCode": "ARG",
+			"countryName": "Argentina",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "",
+			"gaviEligibility": "No"
+		},
+		"AZE": {
+			"whoRegion": "EUR",
+			"isoCode": "AZE",
+			"countryName": "Azerbaijan",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "7350",
+			"gaviEligibility": "Yes"
+		},
+		"BLR": {
+			"whoRegion": "EUR",
+			"isoCode": "BLR",
+			"countryName": "Belarus",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "6720",
+			"gaviEligibility": "No"
+		},
+		"BLZ": {
+			"whoRegion": "AMR",
+			"isoCode": "BLZ",
+			"countryName": "Belize",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "4660",
+			"gaviEligibility": "No"
+		},
+		"BIH": {
+			"whoRegion": "EUR",
+			"isoCode": "BIH",
+			"countryName": "Bosnia and Herzegovina",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "4740",
+			"gaviEligibility": "No"
+		},
+		"BWA": {
+			"whoRegion": "AFR",
+			"isoCode": "BWA",
+			"countryName": "Botswana",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "7730",
+			"gaviEligibility": "No"
+		},
+		"BRA": {
+			"whoRegion": "AMR",
+			"isoCode": "BRA",
+			"countryName": "Brazil",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "11690",
+			"gaviEligibility": "No"
+		},
+		"BGR": {
+			"whoRegion": "EUR",
+			"isoCode": "BGR",
+			"countryName": "Bulgaria",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "7030",
+			"gaviEligibility": "No"
+		},
+		"CHN": {
+			"whoRegion": "WPR",
+			"isoCode": "CHN",
+			"countryName": "China",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "6560",
+			"gaviEligibility": "No"
+		},
+		"COL": {
+			"whoRegion": "AMR",
+			"isoCode": "COL",
+			"countryName": "Colombia",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "7560",
+			"gaviEligibility": "No"
+		},
+		"CRI": {
+			"whoRegion": "AMR",
+			"isoCode": "CRI",
+			"countryName": "Costa Rica",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "9550",
+			"gaviEligibility": "No"
+		},
+		"CUB": {
+			"whoRegion": "AMR",
+			"isoCode": "CUB",
+			"countryName": "Cuba",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "",
+			"gaviEligibility": "Yes"
+		},
+		"DMA": {
+			"whoRegion": "AMR",
+			"isoCode": "DMA",
+			"countryName": "Dominica",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "6760",
+			"gaviEligibility": "No"
+		},
+		"DOM": {
+			"whoRegion": "AMR",
+			"isoCode": "DOM",
+			"countryName": "Dominican Republic (the)",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "5620",
+			"gaviEligibility": "No"
+		},
+		"ECU": {
+			"whoRegion": "AMR",
+			"isoCode": "ECU",
+			"countryName": "Ecuador",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "5510",
+			"gaviEligibility": "No"
+		},
+		"FJI": {
+			"whoRegion": "WPR",
+			"isoCode": "FJI",
+			"countryName": "Fiji",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "4430",
+			"gaviEligibility": "No"
+		},
+		"GAB": {
+			"whoRegion": "AFR",
+			"isoCode": "GAB",
+			"countryName": "Gabon",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "10650",
+			"gaviEligibility": "No"
+		},
+		"GRD": {
+			"whoRegion": "AMR",
+			"isoCode": "GRD",
+			"countryName": "Grenada",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "7460",
+			"gaviEligibility": "No"
+		},
+		"HUN": {
+			"whoRegion": "EUR",
+			"isoCode": "HUN",
+			"countryName": "Hungary",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "12410",
+			"gaviEligibility": "No"
+		},
+		"IRN": {
+			"whoRegion": "EMR",
+			"isoCode": "IRN",
+			"countryName": "Iran (Islamic Republic of)",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "5780",
+			"gaviEligibility": "No"
+		},
+		"IRQ": {
+			"whoRegion": "EMR",
+			"isoCode": "IRQ",
+			"countryName": "Iraq",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "6710",
+			"gaviEligibility": "No"
+		},
+		"JAM": {
+			"whoRegion": "AMR",
+			"isoCode": "JAM",
+			"countryName": "Jamaica",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "5220",
+			"gaviEligibility": "No"
+		},
+		"JOR": {
+			"whoRegion": "EMR",
+			"isoCode": "JOR",
+			"countryName": "Jordan",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "4950",
+			"gaviEligibility": "No"
+		},
+		"KAZ": {
+			"whoRegion": "EUR",
+			"isoCode": "KAZ",
+			"countryName": "Kazakhstan",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "11380",
+			"gaviEligibility": "No"
+		},
+		"LBN": {
+			"whoRegion": "EMR",
+			"isoCode": "LBN",
+			"countryName": "Lebanon",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "9870",
+			"gaviEligibility": "No"
+		},
+		"LBY": {
+			"whoRegion": "EMR",
+			"isoCode": "LBY",
+			"countryName": "Libya",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "",
+			"gaviEligibility": "No"
+		},
+		"MYS": {
+			"whoRegion": "WPR",
+			"isoCode": "MYS",
+			"countryName": "Malaysia",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "10400",
+			"gaviEligibility": "No"
+		},
+		"MDV": {
+			"whoRegion": "SEAR",
+			"isoCode": "MDV",
+			"countryName": "Maldives",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "5600",
+			"gaviEligibility": "No"
+		},
+		"MHL": {
+			"whoRegion": "WPR",
+			"isoCode": "MHL",
+			"countryName": "Marshall Islands (the)",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "4200",
+			"gaviEligibility": "No"
+		},
+		"MUS": {
+			"whoRegion": "AFR",
+			"isoCode": "MUS",
+			"countryName": "Mauritius",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "9300",
+			"gaviEligibility": "No"
+		},
+		"MEX": {
+			"whoRegion": "AMR",
+			"isoCode": "MEX",
+			"countryName": "Mexico",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "9940",
+			"gaviEligibility": "No"
+		},
+		"MNE": {
+			"whoRegion": "EUR",
+			"isoCode": "MNE",
+			"countryName": "Montenegro",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "7260",
+			"gaviEligibility": "No"
+		},
+		"NAM": {
+			"whoRegion": "AFR",
+			"isoCode": "NAM",
+			"countryName": "Namibia",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "5840",
+			"gaviEligibility": "No"
+		},
+		"PLW": {
+			"whoRegion": "WPR",
+			"isoCode": "PLW",
+			"countryName": "Palau",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "10970",
+			"gaviEligibility": "No"
+		},
+		"PAN": {
+			"whoRegion": "AMR",
+			"isoCode": "PAN",
+			"countryName": "Panama",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "10700",
+			"gaviEligibility": "No"
+		},
+		"PER": {
+			"whoRegion": "AMR",
+			"isoCode": "PER",
+			"countryName": "Peru",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "6390",
+			"gaviEligibility": "No"
+		},
+		"ROU": {
+			"whoRegion": "EUR",
+			"isoCode": "ROU",
+			"countryName": "Romania",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "9060",
+			"gaviEligibility": "No"
+		},
+		"LCA": {
+			"whoRegion": "AMR",
+			"isoCode": "LCA",
+			"countryName": "Saint Lucia",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "7090",
+			"gaviEligibility": "No"
+		},
+		"VCT": {
+			"whoRegion": "AMR",
+			"isoCode": "VCT",
+			"countryName": "Saint Vincent and the Grenadines",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "6580",
+			"gaviEligibility": "No"
+		},
+		"SRB": {
+			"whoRegion": "EUR",
+			"isoCode": "SRB",
+			"countryName": "Serbia",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "5730",
+			"gaviEligibility": "No"
+		},
+		"SYC": {
+			"whoRegion": "AFR",
+			"isoCode": "SYC",
+			"countryName": "Seychelles",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "12530",
+			"gaviEligibility": "No"
+		},
+		"ZAF": {
+			"whoRegion": "AFR",
+			"isoCode": "ZAF",
+			"countryName": "South Africa",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "7190",
+			"gaviEligibility": "No"
+		},
+		"SUR": {
+			"whoRegion": "AMR",
+			"isoCode": "SUR",
+			"countryName": "Suriname",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "9260",
+			"gaviEligibility": "No"
+		},
+		"THA": {
+			"whoRegion": "SEAR",
+			"isoCode": "THA",
+			"countryName": "Thailand",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "5370",
+			"gaviEligibility": "No"
+		},
+		"MKD": {
+			"whoRegion": "EUR",
+			"isoCode": "MKD",
+			"countryName": "The former Yugoslav Republic of Macedonia",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "4800",
+			"gaviEligibility": "No"
+		},
+		"TON": {
+			"whoRegion": "WPR",
+			"isoCode": "TON",
+			"countryName": "Tonga",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "4490",
+			"gaviEligibility": "No"
+		},
+		"TUN": {
+			"whoRegion": "EMR",
+			"isoCode": "TUN",
+			"countryName": "Tunisia",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "4360",
+			"gaviEligibility": "No"
+		},
+		"TUR": {
+			"whoRegion": "EUR",
+			"isoCode": "TUR",
+			"countryName": "Turkey",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "10950",
+			"gaviEligibility": "No"
+		},
+		"TKM": {
+			"whoRegion": "EUR",
+			"isoCode": "TKM",
+			"countryName": "Turkmenistan",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "6880",
+			"gaviEligibility": "No"
+		},
+		"TUV": {
+			"whoRegion": "WPR",
+			"isoCode": "TUV",
+			"countryName": "Tuvalu",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "6630",
+			"gaviEligibility": "No"
+		},
+		"VEN": {
+			"whoRegion": "AMR",
+			"isoCode": "VEN",
+			"countryName": "Venezuela (Bolivarian Republic of)",
+			"incomeClassifaction": "Upper middle income",
+			"GNI": "12550",
+			"gaviEligibility": "No"
+		},
+		"AND": {
+			"whoRegion": "EUR",
+			"isoCode": "AND",
+			"countryName": "Andorra",
+			"incomeClassifaction": "High income",
+			"GNI": "",
+			"gaviEligibility": "No"
+		},
+		"ATG": {
+			"whoRegion": "AMR",
+			"isoCode": "ATG",
+			"countryName": "Antigua and Barbuda",
+			"incomeClassifaction": "High income",
+			"GNI": "12910",
+			"gaviEligibility": "No"
+		},
+		"AUS": {
+			"whoRegion": "WPR",
+			"isoCode": "AUS",
+			"countryName": "Australia",
+			"incomeClassifaction": "High income",
+			"GNI": "65520",
+			"gaviEligibility": "No"
+		},
+		"AUT": {
+			"whoRegion": "EUR",
+			"isoCode": "AUT",
+			"countryName": "Austria",
+			"incomeClassifaction": "High income",
+			"GNI": "48590",
+			"gaviEligibility": "No"
+		},
+		"BHS": {
+			"whoRegion": "AMR",
+			"isoCode": "BHS",
+			"countryName": "Bahamas (the)",
+			"incomeClassifaction": "High income",
+			"GNI": "20600",
+			"gaviEligibility": "No"
+		},
+		"BHR": {
+			"whoRegion": "EMR",
+			"isoCode": "BHR",
+			"countryName": "Bahrain",
+			"incomeClassifaction": "High income",
+			"GNI": "19560",
+			"gaviEligibility": "No"
+		},
+		"BRB": {
+			"whoRegion": "AMR",
+			"isoCode": "BRB",
+			"countryName": "Barbados",
+			"incomeClassifaction": "High income",
+			"GNI": "15080",
+			"gaviEligibility": "No"
+		},
+		"BEL": {
+			"whoRegion": "EUR",
+			"isoCode": "BEL",
+			"countryName": "Belgium",
+			"incomeClassifaction": "High income",
+			"GNI": "45210",
+			"gaviEligibility": "No"
+		},
+		"BRN": {
+			"whoRegion": "WPR",
+			"isoCode": "BRN",
+			"countryName": "Brunei Darussalam",
+			"incomeClassifaction": "High income",
+			"GNI": "",
+			"gaviEligibility": "No"
+		},
+		"CAN": {
+			"whoRegion": "AMR",
+			"isoCode": "CAN",
+			"countryName": "Canada",
+			"incomeClassifaction": "High income",
+			"GNI": "52200",
+			"gaviEligibility": "No"
+		},
+		"CHL": {
+			"whoRegion": "AMR",
+			"isoCode": "CHL",
+			"countryName": "Chile",
+			"incomeClassifaction": "High income",
+			"GNI": "15230",
+			"gaviEligibility": "No"
+		},
+		"HRV": {
+			"whoRegion": "EUR",
+			"isoCode": "HRV",
+			"countryName": "Croatia",
+			"incomeClassifaction": "High income",
+			"GNI": "13330",
+			"gaviEligibility": "No"
+		},
+		"CYP": {
+			"whoRegion": "EUR",
+			"isoCode": "CYP",
+			"countryName": "Cyprus",
+			"incomeClassifaction": "High income",
+			"GNI": "26390",
+			"gaviEligibility": "No"
+		},
+		"CZE": {
+			"whoRegion": "EUR",
+			"isoCode": "CZE",
+			"countryName": "Czech Republic (the)",
+			"incomeClassifaction": "High income",
+			"GNI": "18060",
+			"gaviEligibility": "No"
+		},
+		"DNK": {
+			"whoRegion": "EUR",
+			"isoCode": "DNK",
+			"countryName": "Denmark",
+			"incomeClassifaction": "High income",
+			"GNI": "61110",
+			"gaviEligibility": "No"
+		},
+		"GNQ": {
+			"whoRegion": "AFR",
+			"isoCode": "GNQ",
+			"countryName": "Equatorial Guinea",
+			"incomeClassifaction": "High income",
+			"GNI": "14320",
+			"gaviEligibility": "No"
+		},
+		"EST": {
+			"whoRegion": "EUR",
+			"isoCode": "EST",
+			"countryName": "Estonia",
+			"incomeClassifaction": "High income",
+			"GNI": "17370",
+			"gaviEligibility": "No"
+		},
+		"FIN": {
+			"whoRegion": "EUR",
+			"isoCode": "FIN",
+			"countryName": "Finland",
+			"incomeClassifaction": "High income",
+			"GNI": "47110",
+			"gaviEligibility": "No"
+		},
+		"FRA": {
+			"whoRegion": "EUR",
+			"isoCode": "FRA",
+			"countryName": "France",
+			"incomeClassifaction": "High income",
+			"GNI": "42250",
+			"gaviEligibility": "No"
+		},
+		"DEU": {
+			"whoRegion": "EUR",
+			"isoCode": "DEU",
+			"countryName": "Germany",
+			"incomeClassifaction": "High income",
+			"GNI": "46100",
+			"gaviEligibility": "No"
+		},
+		"GRC": {
+			"whoRegion": "EUR",
+			"isoCode": "GRC",
+			"countryName": "Greece",
+			"incomeClassifaction": "High income",
+			"GNI": "22530",
+			"gaviEligibility": "No"
+		},
+		"ISL": {
+			"whoRegion": "EUR",
+			"isoCode": "ISL",
+			"countryName": "Iceland",
+			"incomeClassifaction": "High income",
+			"GNI": "43930",
+			"gaviEligibility": "No"
+		},
+		"IRL": {
+			"whoRegion": "EUR",
+			"isoCode": "IRL",
+			"countryName": "Ireland",
+			"incomeClassifaction": "High income",
+			"GNI": "39110",
+			"gaviEligibility": "No"
+		},
+		"ISR": {
+			"whoRegion": "EUR",
+			"isoCode": "ISR",
+			"countryName": "Israel",
+			"incomeClassifaction": "High income",
+			"GNI": "34120",
+			"gaviEligibility": "No"
+		},
+		"ITA": {
+			"whoRegion": "EUR",
+			"isoCode": "ITA",
+			"countryName": "Italy",
+			"incomeClassifaction": "High income",
+			"GNI": "34400",
+			"gaviEligibility": "No"
+		},
+		"JPN": {
+			"whoRegion": "WPR",
+			"isoCode": "JPN",
+			"countryName": "Japan",
+			"incomeClassifaction": "High income",
+			"GNI": "46140",
+			"gaviEligibility": "No"
+		},
+		"KWT": {
+			"whoRegion": "EMR",
+			"isoCode": "KWT",
+			"countryName": "Kuwait",
+			"incomeClassifaction": "High income",
+			"GNI": "",
+			"gaviEligibility": "No"
+		},
+		"LVA": {
+			"whoRegion": "EUR",
+			"isoCode": "LVA",
+			"countryName": "Latvia",
+			"incomeClassifaction": "High income",
+			"GNI": "",
+			"gaviEligibility": "No"
+		},
+		"LTU": {
+			"whoRegion": "EUR",
+			"isoCode": "LTU",
+			"countryName": "Lithuania",
+			"incomeClassifaction": "High income",
+			"GNI": "13820",
+			"gaviEligibility": "No"
+		},
+		"LUX": {
+			"whoRegion": "EUR",
+			"isoCode": "LUX",
+			"countryName": "Luxembourg",
+			"incomeClassifaction": "High income",
+			"GNI": "71810",
+			"gaviEligibility": "No"
+		},
+		"MLT": {
+			"whoRegion": "EUR",
+			"isoCode": "MLT",
+			"countryName": "Malta",
+			"incomeClassifaction": "High income",
+			"GNI": "19730",
+			"gaviEligibility": "No"
+		},
+		"MCO": {
+			"whoRegion": "EUR",
+			"isoCode": "MCO",
+			"countryName": "Monaco",
+			"incomeClassifaction": "High income",
+			"GNI": "",
+			"gaviEligibility": "No"
+		},
+		"NLD": {
+			"whoRegion": "EUR",
+			"isoCode": "NLD",
+			"countryName": "Netherlands (the)",
+			"incomeClassifaction": "High income",
+			"GNI": "47440",
+			"gaviEligibility": "No"
+		},
+		"NZL": {
+			"whoRegion": "WPR",
+			"isoCode": "NZL",
+			"countryName": "New Zealand",
+			"incomeClassifaction": "High income",
+			"GNI": "35520",
+			"gaviEligibility": "No"
+		},
+		"NOR": {
+			"whoRegion": "EUR",
+			"isoCode": "NOR",
+			"countryName": "Norway",
+			"incomeClassifaction": "High income",
+			"GNI": "102610",
+			"gaviEligibility": "No"
+		},
+		"OMN": {
+			"whoRegion": "EMR",
+			"isoCode": "OMN",
+			"countryName": "Oman",
+			"incomeClassifaction": "High income",
+			"GNI": "25250",
+			"gaviEligibility": "No"
+		},
+		"POL": {
+			"whoRegion": "EUR",
+			"isoCode": "POL",
+			"countryName": "Poland",
+			"incomeClassifaction": "High income",
+			"GNI": "12960",
+			"gaviEligibility": "No"
+		},
+		"PRT": {
+			"whoRegion": "EUR",
+			"isoCode": "PRT",
+			"countryName": "Portugal",
+			"incomeClassifaction": "High income",
+			"GNI": "20670",
+			"gaviEligibility": "No"
+		},
+		"QAT": {
+			"whoRegion": "EMR",
+			"isoCode": "QAT",
+			"countryName": "Qatar",
+			"incomeClassifaction": "High income",
+			"GNI": "85550",
+			"gaviEligibility": "No"
+		},
+		"KOR": {
+			"whoRegion": "WPR",
+			"isoCode": "KOR",
+			"countryName": "Republic of Korea (the)",
+			"incomeClassifaction": "High income",
+			"GNI": "25290",
+			"gaviEligibility": "No"
+		},
+		"RUS": {
+			"whoRegion": "EUR",
+			"isoCode": "RUS",
+			"countryName": "Russian Federation (the)",
+			"incomeClassifaction": "High income",
+			"GNI": "13860",
+			"gaviEligibility": "No"
+		},
+		"KNA": {
+			"whoRegion": "AMR",
+			"isoCode": "KNA",
+			"countryName": "Saint Kitts and Nevis",
+			"incomeClassifaction": "High income",
+			"GNI": "13460",
+			"gaviEligibility": "No"
+		},
+		"SMR": {
+			"whoRegion": "EUR",
+			"isoCode": "SMR",
+			"countryName": "San Marino",
+			"incomeClassifaction": "High income",
+			"GNI": "",
+			"gaviEligibility": "No"
+		},
+		"SAU": {
+			"whoRegion": "EMR",
+			"isoCode": "SAU",
+			"countryName": "Saudi Arabia",
+			"incomeClassifaction": "High income",
+			"GNI": "26200",
+			"gaviEligibility": "No"
+		},
+		"SGP": {
+			"whoRegion": "WPR",
+			"isoCode": "SGP",
+			"countryName": "Singapore",
+			"incomeClassifaction": "High income",
+			"GNI": "54040",
+			"gaviEligibility": "No"
+		},
+		"SVK": {
+			"whoRegion": "EUR",
+			"isoCode": "SVK",
+			"countryName": "Slovakia",
+			"incomeClassifaction": "High income",
+			"GNI": "17200",
+			"gaviEligibility": "No"
+		},
+		"SVN": {
+			"whoRegion": "EUR",
+			"isoCode": "SVN",
+			"countryName": "Slovenia",
+			"incomeClassifaction": "High income",
+			"GNI": "22830",
+			"gaviEligibility": "No"
+		},
+		"ESP": {
+			"whoRegion": "EUR",
+			"isoCode": "ESP",
+			"countryName": "Spain",
+			"incomeClassifaction": "High income",
+			"GNI": "29180",
+			"gaviEligibility": "No"
+		},
+		"SWE": {
+			"whoRegion": "EUR",
+			"isoCode": "SWE",
+			"countryName": "Sweden",
+			"incomeClassifaction": "High income",
+			"GNI": "59130",
+			"gaviEligibility": "No"
+		},
+		"CHE": {
+			"whoRegion": "EUR",
+			"isoCode": "CHE",
+			"countryName": "Switzerland",
+			"incomeClassifaction": "High income",
+			"GNI": "80950",
+			"gaviEligibility": "No"
+		},
+		"TTO": {
+			"whoRegion": "AMR",
+			"isoCode": "TTO",
+			"countryName": "Trinidad and Tobago",
+			"incomeClassifaction": "High income",
+			"GNI": "15760",
+			"gaviEligibility": "No"
+		},
+		"ARE": {
+			"whoRegion": "EMR",
+			"isoCode": "ARE",
+			"countryName": "United Arab Emirates (the)",
+			"incomeClassifaction": "High income",
+			"GNI": "38620",
+			"gaviEligibility": "No"
+		},
+		"GBR": {
+			"whoRegion": "EUR",
+			"isoCode": "GBR",
+			"countryName": "United Kingdom of Great Britain and Northern Ireland (the)",
+			"incomeClassifaction": "High income",
+			"GNI": "39110",
+			"gaviEligibility": "No"
+		},
+		"USA": {
+			"whoRegion": "AMR",
+			"isoCode": "USA",
+			"countryName": "United States of America (the)",
+			"incomeClassifaction": "High income",
+			"GNI": "53670",
+			"gaviEligibility": "No"
+		},
+		"URY": {
+			"whoRegion": "AMR",
+			"isoCode": "URY",
+			"countryName": "Uruguay",
+			"incomeClassifaction": "High income",
+			"GNI": "15180",
+			"gaviEligibility": "No"
+		},
+		"COK": {
+			"whoRegion": "WPR",
+			"isoCode": "COK",
+			"countryName": "Cook Islands",
+			"incomeClassifaction": "Not classified",
+			"GNI": "",
+			"gaviEligibility": "No"
+		},
+		"NIU": {
+			"whoRegion": "WPR",
+			"isoCode": "NIU",
+			"countryName": "Niue",
+			"incomeClassifaction": "Not classified",
+			"GNI": "",
+			"gaviEligibility": "No"
+		}
+	}
+}

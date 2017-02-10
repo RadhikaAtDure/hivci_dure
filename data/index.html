@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<title>WHO | HIV Monitor</title>
+        <meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+		
+		<link type="text/css" rel="stylesheet" href="../landingpage/library/jquery/jquery-ui-1.10.4.custom.min.css">
+        <link type="text/css" rel="stylesheet" href="../landingpage/library/bootstrap/bootstrap.min.css">
+		<link type="text/css" rel="stylesheet" href="../landingpage/plugins/overlay/css/demo.css">
+		<link type="text/css" rel="stylesheet" href="../landingpage/plugins/overlay/css/style1.css">
+		<link type="text/css" rel="stylesheet" href="../landingpage/css/landing-page-style.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="../landingpage/library//sweetalert/sweetalert2.css">	
+		
+	</head>
+	<body>
+		<div id="msg" style="font-size:23px; text-align:center; margin-top:250px;">
+
+			Loading, please wait...
+		</div>
+		<div id="body" style="display:none;">
+		<p class="margin-0"><span id="trigger-overlay"></span></p>
+		<div class="overlay overlay-hugeinc">
+			<button type="button" class="overlay-close" style="display:none;">Close</button>
+			<nav>
+				<ul>
+					<li><a href="../index.html"><img src="../landingpage/images/logo/who-logo.png" class="splash-img" alt=""></a></li>
+					<li><a href="../index.html" style="text-decoration:none;"><span class="white1 ">HIV Country Intelligence</span></a></li>
+					<!-- <li><a href="#" class="entertoapp fnt-size22">Get Started...</a></li> -->
+					
+				</ul>
+			</nav>
+			<div class="row padding25px">
+				<div class="col-md-10 col-md-offset-1">	
+					<div class="col-md-6 text-center">
+						<p>
+							<a href="../cartogram/" class="ts-tool-warning">
+								<i class="fa fa-map fa-5x colorwhite"></i>
+							</a>
+						</p>
+						<p>
+						<a href="../cartogram/" class="colorwhite fnt-size22 ts-tool-warning">
+								Data Visualization
+						</a>
+						</p>
+					</div>					
+					<div class="col-md-6 text-center">
+						<p><a href="javascript:void(0)" ><i class="fa fa-file-text-o fa-5x colorwhite garpr-checked"></i></a></p>
+						<p><a href="javascript:void(0)"  class="colorwhite fnt-size22 garpr-checked">DOWNLOAD DATA</a></p>
+					</div>
+					
+					
+
+				</div>
+			</div>
+		</div>
+		      <!-- WHO country profile login  Start -->
+		<div id="login-modal" class="modal fade" role="dialog" aria-labelledby="gridSystemModalLabel">
+         <div class="modal-dialog" role="document">
+            <div class="modal-content">
+               <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <h4 class="modal-title" id="gridSystemModalLabel">Sign In</h4>
+               </div>
+               <div class="modal-body">
+                  <!-- Small boxes (Stat box) -->
+                  <div class="container-fluid">
+                     <div class="form-box" id="login-box" >
+                        <form id="user-login" method="post">
+                           <div class="row">
+                              <div class="login-logo col-lg-6" style="padding: 0px 70px; margin: 0px auto 0px auto; float:none;">
+                                 <a href="#"><img src="../app/img/ivizard2.png" class="img"/></a>
+                              </div>
+                           </div>
+                           <div class="row">
+                              <p style="color: #ff0000;text-align: center; margin-top:10px;"><b class="login-error"></b></p>
+                              <div class="body col-lg-6" style="margin: 0px auto 0px auto; float:none;">
+                                 <div id="usernameWrapper" class="form-group">
+                                    <input id="username" type="text" name="username" class="form-control" placeholder="Username"/>
+                                 </div>
+                                 <div class="form-group">
+                                    <input id="password" type="password" name="password" class="form-control" placeholder="Password"/>
+                                 </div>
+                              </div>
+                           </div>
+                           <!-- <div class="row"><div class="col-lg-6"></div></div> -->
+                           <div class="row">
+                              <div class="footer col-lg-6" style="margin: 0px auto 0px auto; float:none;">
+                                 <button type="submit" class="btn bg-primary btn-block">Sign me in</button>
+                              </div>
+                           </div>
+                        </form>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- /.modal-content -->
+         </div>
+         <!-- /.modal-dialog -->
+      </div>
+		
+		<!-- Load Scripts -->
+		<script type="text/javascript" src="../landingpage/library/jquery/jquery.min.js"></script>
+        <script type="text/javascript" src="../landingpage/library/jquery/jquery-ui.js"></script>
+		<script type="text/javascript" src="../landingpage/library/bootstrap/bootstrap.min.js"></script>
+		<script type="text/javascript" src="../landingpage/plugins/overlay/js/modernizr.custom.js"></script>
+		<script type="text/javascript" src="../landingpage/plugins/overlay/js/classie.js"></script>	
+		<script type="text/javascript" src="../landingpage/plugins/overlay/js/demo1.js"></script>	
+		<script src="../landingpage/library//sweetalert/sweetalert2.min.js"></script>	
+		<script src="../app/dure/libraries/jquery/plugins/jquery.validate.min.js" type="text/javascript"></script>
+		<script src="../app/dure/scripts/DureConfigure.js" type="text/javascript"></script>
+		<script src="../app/dure/scripts/DureUserLogin.js" type="text/javascript"></script>
+		<script src="custom.js" type="text/javascript"></script>
+		<script>
+	
+		$('#trigger-overlay').trigger('click');
+		$('.entertoapp').on('click', function(){
+			$('.overlay-close').trigger('click');
+			location.href = 'app/'; 
+		});
+		</script>
+			<script type="text/javascript">
+			$(document).ready(function() {
+				$('#body').show();
+				$('#msg').hide();
+				
+				 	
+			});
+		</script>
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80421046-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	</body>
+</html>

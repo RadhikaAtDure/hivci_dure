@@ -1,0 +1,39 @@
+<section class="content " id="" style="min-height: 500px;">
+	<div class="row currentCountry">					
+		<div class="alert alert-danger fade in col-md-4 region-error-info-box" style="display:none; color: #ff0000;">
+			<strong>Please select region or country.</strong>
+		</div>
+
+		<div class="col-lg-12">
+			<h1 id="dashboard-header" class="pull-left" style="display: inline-block; margin-top: 5px; margin-bottom: 5px;"><span class="f32"><span class="flag ao"></span></span> Angola</h1>
+		</div>
+	</div>
+	<div class="box box-solid box-primary">
+		<div class="box-header box-primary">
+			<div class="pull-right box-tools">
+				<button class="btn btn-primary btn-sm exportXlsBtn hideOnCollapse" id="exportTable" title="" style="margin-right: 5px;" data-original-title="Export to Excel" data-toggle="tooltip"  data-placement="bottom"><i class="fa fa-file-excel-o"></i></button>
+				<!-- <button class="btn btn-primary btn-sm exportBtn hideOnCollapse" id="exportTable" title="" style="margin-right: 5px;" data-original-title="Export to Excel" data-toggle="tooltip" ><i class="fa fa-file-pdf-o"></i></button> -->
+				<button class="btn btn-primary btn-sm collapseBtn" data-widget="collapse" data-toggle="tooltip" data-original-title="Collapse" data-placement="bottom"><i class="fa fa-minus"></i></button>  
+				
+			</div><!-- /. tools -->
+			<i class="fa fa-table"></i>
+			<h3 class="box-title targetTitleOnTable" id="policyHeaderName">File Delete</h3>
+		</div><!-- /.box-header -->
+		<!-- The file upload form used as target for the file upload widget -->
+		<div class="box-body table-responsive">	
+			<table id="deleteFileTable" class="table table-bordered table-striped">
+				<thead>
+					<tr>
+						<th>File Name</th>
+						<th style="width: 250px;">Folder Name</th>
+						<th style="width: 250px;">Action</th>
+					</tr>
+				</thead>
+			</table>
+		</div>
+	</div>
+	<script>
+		dureFile.deleteFile();
+		dureComUtil.initialize();
+	</script>
+</section>

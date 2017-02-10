@@ -1,0 +1,490 @@
+{
+	"data": {
+		"BRA": {
+			"document_path": "tempdata/garpr/garpr_brazil.xlsx"
+		},
+		"BRN": {
+			"document_path": "tempdata/garpr/garpr_bruneidarussalam.xlsx"
+		},
+		"BGR": {
+			"document_path": "tempdata/garpr/garpr_bulgaria.xlsx"
+		},
+		"BFA": {
+			"document_path": "tempdata/garpr/garpr_burkinafaso.xlsx"
+		},
+		"BDI": {
+			"document_path": "tempdata/garpr/garpr_burundi.xlsx"
+		},
+		"KHM": {
+			"document_path": "tempdata/garpr/garpr_cambodia.xlsx"
+		},
+		"CMR": {
+			"document_path": "tempdata/garpr/garpr_cameroon.xlsx"
+		},
+		"CAN": {
+			"document_path": "tempdata/garpr/garpr_canada.xlsx"
+		},
+		"CPV": {
+			"document_path": "tempdata/garpr/garpr_capeverde.xlsx"
+		},
+		"CAF": {
+			"document_path": "tempdata/garpr/garpr_centralafricanrepublic.xlsx"
+		},
+		"TCD": {
+			"document_path": "tempdata/garpr/garpr_chad.xlsx"
+		},
+		"CHL": {
+			"document_path": "tempdata/garpr/garpr_chile.xlsx"
+		},
+		"CHN": {
+			"document_path": "tempdata/garpr/garpr_china.xlsx"
+		},
+		"COL": {
+			"document_path": "tempdata/garpr/garpr_colombia.xlsx"
+		},
+		"COG": {
+			"document_path": "tempdata/garpr/garpr_congo.xlsx"
+		},
+		"CRI": {
+			"document_path": "tempdata/garpr/garpr_costarica.xlsx"
+		},
+		"CIV": {
+			"document_path": "tempdata/garpr/garpr_cotedivoire.xlsx"
+		},
+		"HRV": {
+			"document_path": "tempdata/garpr/garpr_croatia.xlsx"
+		},
+		"CUB": {
+			"document_path": "tempdata/garpr/garpr_cuba.xlsx"
+		},
+		"CYP": {
+			"document_path": "tempdata/garpr/garpr_cyprus.xlsx"
+		},
+		"CZE": {
+			"document_path": "tempdata/garpr/garpr_czechrepublic.xlsx"
+		},
+		"KOR": {
+			"document_path": "tempdata/garpr/garpr_democraticpeoplerepublicofkorea.xlsx"
+		},
+		"COD": {
+			"document_path": "tempdata/garpr/garpr_democraticrepublicofthecongo.xlsx"
+		},
+		"DNK": {
+			"document_path": "tempdata/garpr/garpr_denmark.xlsx"
+		},
+		"DJI": {
+			"document_path": "tempdata/garpr/garpr_djibouti.xlsx"
+		},
+		"DOM": {
+			"document_path": "tempdata/garpr/garpr_dominicanrepublic.xlsx"
+		},
+		"ECU": {
+			"document_path": "tempdata/garpr/garpr_ecuador.xlsx"
+		},
+		"EGY": {
+			"document_path": "tempdata/garpr/garpr_egypt.xlsx"
+		},
+		"SLV": {
+			"document_path": "tempdata/garpr/garpr_elsalvador.xlsx"
+		},
+		"GNQ": {
+			"document_path": "tempdata/garpr/garpr_equatorialguinea.xlsx"
+		},
+		"ERI": {
+			"document_path": "tempdata/garpr/garpr_eritrea.xlsx"
+		},
+		"EST": {
+			"document_path": "tempdata/garpr/garpr_estonia.xlsx"
+		},
+		"ETH": {
+			"document_path": "tempdata/garpr/garpr_ethiopia.xlsx"
+		},
+		"FJI": {
+			"document_path": "tempdata/garpr/garpr_fiji.xlsx"
+		},
+		"FIN": {
+			"document_path": "tempdata/garpr/garpr_finland.xlsx"
+		},
+		"FRA": {
+			"document_path": "tempdata/garpr/garpr_france.xlsx"
+		},
+		"GAB": {
+			"document_path": "tempdata/garpr/garpr_gabon.xlsx"
+		},
+		"GMB": {
+			"document_path": "tempdata/garpr/garpr_gambia.xlsx"
+		},
+		"GEO": {
+			"document_path": "tempdata/garpr/garpr_georgia.xlsx"
+		},
+		"DEU": {
+			"document_path": "tempdata/garpr/garpr_germany.xlsx"
+		},
+		"GHA": {
+			"document_path": "tempdata/garpr/garpr_ghana.xlsx"
+		},
+		"GRC": {
+			"document_path": "tempdata/garpr/garpr_greece.xlsx"
+		},
+		"GTM": {
+			"document_path": "tempdata/garpr/garpr_guatemala.xlsx"
+		},
+		"GIN": {
+			"document_path": "tempdata/garpr/garpr_guinea.xlsx"
+		},
+		"GNB": {
+			"document_path": "tempdata/garpr/garpr_guinea-bissau.xlsx"
+		},
+		"GUY": {
+			"document_path": "tempdata/garpr/garpr_guyana.xlsx"
+		},
+		"HTI": {
+			"document_path": "tempdata/garpr/garpr_haiti.xlsx"
+		},
+		"HND": {
+			"document_path": "tempdata/garpr/garpr_honduras.xlsx"
+		},
+		"HUN": {
+			"document_path": "tempdata/garpr/garpr_hungary.xlsx"
+		},
+		"ISL": {
+			"document_path": "tempdata/garpr/garpr_iceland.xlsx"
+		},
+		"IND": {
+			"document_path": "tempdata/garpr/garpr_india.xlsx"
+		},
+		"IDN": {
+			"document_path": "tempdata/garpr/garpr_indonesia.xlsx"
+		},
+		"IRN": {
+			"document_path": "tempdata/garpr/garpr_iran(islamicrepublicof).xlsx"
+		},
+		"IRL": {
+			"document_path": "tempdata/garpr/garpr_ireland.xlsx"
+		},
+		"ISR": {
+			"document_path": "tempdata/garpr/garpr_israel.xlsx"
+		},
+		"ITA": {
+			"document_path": "tempdata/garpr/garpr_italy.xlsx"
+		},
+		"JAM": {
+			"document_path": "tempdata/garpr/garpr_jamaika.xlsx"
+		},
+		"JPN": {
+			"document_path": "tempdata/garpr/garpr_japan.xlsx"
+		},
+		"KAZ": {
+			"document_path": "tempdata/garpr/garpr_kazakhstan.xlsx"
+		},
+		"KEN": {
+			"document_path": "tempdata/garpr/garpr_kenya.xlsx"
+		},
+		"KGZ": {
+			"document_path": "tempdata/garpr/garpr_kyrgyzstan.xlsx"
+		},
+		"LAO": {
+			"document_path": "tempdata/garpr/garpr_laopeopledemocraticrepublic.xlsx"
+		},
+		"LVA": {
+			"document_path": "tempdata/garpr/garpr_latvia.xlsx"
+		},
+		"LBN": {
+			"document_path": "tempdata/garpr/garpr_lebanon.xlsx"
+		},
+		"LSO": {
+			"document_path": "tempdata/garpr/garpr_lesotho.xlsx"
+		},
+		"LBR": {
+			"document_path": "tempdata/garpr/garpr_liberia.xlsx"
+		},
+		"LTU": {
+			"document_path": "tempdata/garpr/garpr_lithuania.xlsx"
+		},
+		"LUX": {
+			"document_path": "tempdata/garpr/garpr_luxembourg.xlsx"
+		},
+		"MDG": {
+			"document_path": "tempdata/garpr/garpr_madagascar.xlsx"
+		},
+		"MWI": {
+			"document_path": "tempdata/garpr/garpr_malawi.xlsx"
+		},
+		"MYS": {
+			"document_path": "tempdata/garpr/garpr_malaysia.xlsx"
+		},
+		"MDV": {
+			"document_path": "tempdata/garpr/garpr_maldives.xlsx"
+		},
+		"MLI": {
+			"document_path": "tempdata/garpr/garpr_mali.xlsx"
+		},
+		"MLT": {
+			"document_path": "tempdata/garpr/garpr_malta.xlsx"
+		},
+		"MRT": {
+			"document_path": "tempdata/garpr/garpr_mauritania.xlsx"
+		},
+		"MUS": {
+			"document_path": "tempdata/garpr/garpr_mauritius.xlsx"
+		},
+		"MEX": {
+			"document_path": "tempdata/garpr/garpr_mexico.xlsx"
+		},
+		"MNG": {
+			"document_path": "tempdata/garpr/garpr_mongolia.xlsx"
+		},
+		"MNE": {
+			"document_path": "tempdata/garpr/garpr_montenegro.xlsx"
+		},
+		"MAR": {
+			"document_path": "tempdata/garpr/garpr_morocco.xlsx"
+		},
+		"MOZ": {
+			"document_path": "tempdata/garpr/garpr_mozambique.xlsx"
+		},
+		"MMR": {
+			"document_path": "tempdata/garpr/garpr_myanmar.xlsx"
+		},
+		"NAM": {
+			"document_path": "tempdata/garpr/garpr_namibia.xlsx"
+		},
+		"NPL": {
+			"document_path": "tempdata/garpr/garpr_nepal.xlsx"
+		},
+		"NLD": {
+			"document_path": "tempdata/garpr/garpr_netherlands.xlsx"
+		},
+		"NZL": {
+			"document_path": "tempdata/garpr/garpr_newzealand.xlsx"
+		},
+		"NIC": {
+			"document_path": "tempdata/garpr/garpr_nicaragua.xlsx"
+		},
+		"NER": {
+			"document_path": "tempdata/garpr/garpr_niger.xlsx"
+		},
+		"NGA": {
+			"document_path": "tempdata/garpr/garpr_nigeria.xlsx"
+		},
+		"NOR": {
+			"document_path": "tempdata/garpr/garpr_norway.xlsx"
+		},
+		"OMN": {
+			"document_path": "tempdata/garpr/garpr_oman.xlsx"
+		},
+		"PAK": {
+			"document_path": "tempdata/garpr/garpr_pakistan.xlsx"
+		},
+		"PAN": {
+			"document_path": "tempdata/garpr/garpr_panama.xlsx"
+		},
+		"PNG": {
+			"document_path": "tempdata/garpr/garpr_papuanewguinea.xlsx"
+		},
+		"PRY": {
+			"document_path": "tempdata/garpr/garpr_paraguay.xlsx"
+		},
+		"PER": {
+			"document_path": "tempdata/garpr/garpr_peru.xlsx"
+		},
+		"PHL": {
+			"document_path": "tempdata/garpr/garpr_philippines.xlsx"
+		},
+		"POL": {
+			"document_path": "tempdata/garpr/garpr_poland.xlsx"
+		},
+		"PRT": {
+			"document_path": "tempdata/garpr/garpr_portugal.xlsx"
+		},
+		"KOR": {
+			"document_path": "tempdata/garpr/garpr_republicofkorea.xlsx"
+		},
+		"MDA": {
+			"document_path": "tempdata/garpr/garpr_republicofmoldova.xlsx"
+		},
+		"ROU": {
+			"document_path": "tempdata/garpr/garpr_romania.xlsx"
+		},
+		"RUS": {
+			"document_path": "tempdata/garpr/garpr_russianfederation.xlsx"
+		},
+		"RWA": {
+			"document_path": "tempdata/garpr/garpr_rwanda.xlsx"
+		},
+		"STP": {
+			"document_path": "tempdata/garpr/garpr_sãotoméandpríncipe.xlsx"
+		},
+		"SEN": {
+			"document_path": "tempdata/garpr/garpr_senegal.xlsx"
+		},
+		"SRB": {
+			"document_path": "tempdata/garpr/garpr_serbia.xlsx"
+		},
+		"SLE": {
+			"document_path": "tempdata/garpr/garpr_sierraleone.xlsx"
+		},
+		"SGP": {
+			"document_path": "tempdata/garpr/garpr_singapore.xlsx"
+		},
+		"SVK": {
+			"document_path": "tempdata/garpr/garpr_slovakia.xlsx"
+		},
+		"SVN": {
+			"document_path": "tempdata/garpr/garpr_slovenia.xlsx"
+		},
+		"SOM": {
+			"document_path": "tempdata/garpr/garpr_somalia.xlsx"
+		},
+		"ZAF": {
+			"document_path": "tempdata/garpr/garpr_southafrica.xlsx"
+		},
+		"SSD": {
+			"document_path": "tempdata/garpr/garpr_southsudan.xlsx"
+		},
+		"ESP": {
+			"document_path": "tempdata/garpr/garpr_spain.xlsx"
+		},
+		"LKA": {
+			"document_path": "tempdata/garpr/garpr_srilanka.xlsx"
+		},
+		"SDN": {
+			"document_path": "tempdata/garpr/garpr_sudan.xlsx"
+		},
+		"SUR": {
+			"document_path": "tempdata/garpr/garpr_suriname.xlsx"
+		},
+		"SWZ": {
+			"document_path": "tempdata/garpr/garpr_swaziland.xlsx"
+		},
+		"SWE": {
+			"document_path": "tempdata/garpr/garpr_sweden.xlsx"
+		},
+		"CHE": {
+			"document_path": "tempdata/garpr/garpr_switzerland.xlsx"
+		},
+		"SYR": {
+			"document_path": "tempdata/garpr/garpr_syrianarabrepublic.xlsx"
+		},
+		"TJK": {
+			"document_path": "tempdata/garpr/garpr_tajikistan.xlsx"
+		},
+		"THA": {
+			"document_path": "tempdata/garpr/garpr_thailand.xlsx"
+		},
+		"MKD": {
+			"document_path": "tempdata/garpr/garpr_theformeryugoslavrepublicofmacedonia.xlsx"
+		},
+		"TLS": {
+			"document_path": "tempdata/garpr/garpr_timor-leste.xlsx"
+		},
+		"TGO": {
+			"document_path": "tempdata/garpr/garpr_togo.xlsx"
+		},
+		"TTO": {
+			"document_path": "tempdata/garpr/garpr_trinidadandtobago.xlsx"
+		},
+		"TUN": {
+			"document_path": "tempdata/garpr/garpr_tunisia.xlsx"
+		},
+		"TUR": {
+			"document_path": "tempdata/garpr/garpr_turkey.xlsx"
+		},
+		"UGA": {
+			"document_path": "tempdata/garpr/garpr_uganda.xlsx"
+		},
+		"UKR": {
+			"document_path": "tempdata/garpr/garpr_ukraine.xlsx"
+		},
+		"GBR": {
+			"document_path": "tempdata/garpr/garpr_unitedkingdom.xlsx"
+		},
+		"TZA": {
+			"document_path": "tempdata/garpr/garpr_unitedrepublicoftanzania.xlsx"
+		},
+		"USA": {
+			"document_path": "tempdata/garpr/garpr_unitedstatesofamerica.xlsx"
+		},
+		"URY": {
+			"document_path": "tempdata/garpr/garpr_uruguay.xlsx"
+		},
+		"UZB": {
+			"document_path": "tempdata/garpr/garpr_uzbekistan.xlsx"
+		},
+		"VEN": {
+			"document_path": "tempdata/garpr/garpr_venezuela.xlsx"
+		},
+		"VNM": {
+			"document_path": "tempdata/garpr/garpr_vietnam.xlsx"
+		},
+		"YEM": {
+			"document_path": "tempdata/garpr/garpr_yemen.xlsx"
+		},
+		"ZMB": {
+			"document_path": "tempdata/garpr/garpr_zambia.xlsx"
+		},
+		"ZWE": {
+			"document_path": "tempdata/garpr/garpr_zimbabwe.xlsx"
+		},
+		"BOL": {
+			"document_path": "tempdata/garpr/garpr_bolivia.xlsx"
+		},
+		"AFG": {
+			"document_path": "tempdata/garpr/garpr_afghanistan.xlsx"
+		},
+		"ALB": {
+			"document_path": "tempdata/garpr/garpr_albania.xlsx"
+		},
+		"DZA": {
+			"document_path": "tempdata/garpr/garpr_algeria.xlsx"
+		},
+		"AGO": {
+			"document_path": "tempdata/garpr/garpr_angola.xlsx"
+		},
+		"ARG": {
+			"document_path": "tempdata/garpr/garpr_argentina.xlsx"
+		},
+		"ARM": {
+			"document_path": "tempdata/garpr/garpr_armenia.xlsx"
+		},
+		"AUS": {
+			"document_path": "tempdata/garpr/garpr_australia.xlsx"
+		},
+		"AUT": {
+			"document_path": "tempdata/garpr/garpr_austria.xlsx"
+		},
+		"AZE": {
+			"document_path": "tempdata/garpr/garpr_azerbaijan.xlsx"
+		},
+		"BHS": {
+			"document_path": "tempdata/garpr/garpr_bahamas.xlsx"
+		},
+		"BGD": {
+			"document_path": "tempdata/garpr/garpr_bangladesh.xlsx"
+		},
+		"BRB": {
+			"document_path": "tempdata/garpr/garpr_barbados.xlsx"
+		},
+		"BLR": {
+			"document_path": "tempdata/garpr/garpr_belarus.xlsx"
+		},
+		"BEL": {
+			"document_path": "tempdata/garpr/garpr_belgium.xlsx"
+		},
+		"BLZ": {
+			"document_path": "tempdata/garpr/garpr_belize.xlsx"
+		},
+		"BEN": {
+			"document_path": "tempdata/garpr/garpr_benin.xlsx"
+		},
+		"BTN": {
+			"document_path": "tempdata/garpr/garpr_bhutan.xlsx"
+		},
+		"BIH": {
+			"document_path": "tempdata/garpr/garpr_bosniaandherzegovina.xlsx"
+		},
+		"BWA": {
+			"document_path": "tempdata/garpr/garpr_botswana.xlsx"
+		}
+	}
+}

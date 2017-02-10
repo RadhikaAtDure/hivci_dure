@@ -1,0 +1,677 @@
+{
+	"2000": [{
+		"people_on_ART": 93414,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id": "BRA"
+	},
+	{
+		"people_on_ART": 4,
+		"HIV_related_deaths": 654,
+		"PLHIV": 41483,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id": "IDN"
+	},
+	{
+		"people_on_ART": 0,
+		"HIV_related_deaths": 113570,
+		"PLHIV": 1630140,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id": "KEN"
+	},
+	{
+		"people_on_ART": 1918,
+		"HIV_related_deaths": 125219,
+		"PLHIV": 2357810,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id":"NGA"
+	},
+	{
+		"people_on_ART": 4006,
+		"HIV_related_deaths": 161382,
+		"PLHIV": 4401340,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id": "ZAF"
+	}],
+	"2001": [{
+		"people_on_ART": 113191,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id": "BRA"
+	},
+	{
+		"people_on_ART": 8,
+		"HIV_related_deaths": 1033,
+		"PLHIV": 62207,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id": "IDN"
+	},
+	{
+		"people_on_ART": 0,
+		"HIV_related_deaths": 119634,
+		"PLHIV": 1583280,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id":"KEN"
+	},
+	{
+		"people_on_ART": 3836,
+		"HIV_related_deaths": 140249,
+		"PLHIV": 2510960,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id": "NGA"
+	},
+	{
+		"people_on_ART": 8014,
+		"HIV_related_deaths": 200325,
+		"PLHIV": 4761540,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id": "ZAF"
+	}],
+	"2002": [{
+		"people_on_ART": 124762,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id": "BRA"
+	},
+	{
+		"people_on_ART": 12,
+		"HIV_related_deaths": 1604,
+		"PLHIV": 96773,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id":"IDN"
+	},
+	{
+		"people_on_ART": 0,
+		"HIV_related_deaths": 123583,
+		"PLHIV": 1528740,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id": "KEN"
+	},
+	{
+		"people_on_ART": 5754,
+		"HIV_related_deaths": 154966,
+		"PLHIV": 2641840,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id": "NGA"
+	},
+	{
+		"people_on_ART": 12021,
+		"HIV_related_deaths": 240146,
+		"PLHIV": 5066140,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id": "ZAF"
+	}],
+	"2003": [{
+		"people_on_ART": 139868,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id":"BRA"
+	},
+	{
+		"people_on_ART": 16,
+		"HIV_related_deaths": 2488,
+		"PLHIV": 143054,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id": "IDN"
+	},
+	{
+		"people_on_ART": 0,
+		"HIV_related_deaths": 125408,
+		"PLHIV": 1469830,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id": "KEN"
+	},
+	{
+		"people_on_ART": 17672,
+		"HIV_related_deaths": 168644,
+		"PLHIV": 2756560,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id": "NGA"
+	},
+	{
+		"people_on_ART": 18741,
+		"HIV_related_deaths": 278758,
+		"PLHIV": 5313170,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id":"ZAF"
+	}],
+	"2004": [{
+		"people_on_ART": 156670,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id": "BRA"
+	},
+	{
+		"people_on_ART": 20,
+		"HIV_related_deaths": 3761,
+		"PLHIV": 192609,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id": "IDN"
+	},
+	{
+		"people_on_ART": 24960,
+		"HIV_related_deaths": 124032,
+		"PLHIV": 1410060,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id": "KEN"
+	},
+	{
+		"people_on_ART": 44590,
+		"HIV_related_deaths": 177639,
+		"PLHIV": 2858290,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id":"NGA"
+	},
+	{
+		"people_on_ART": 82034,
+		"HIV_related_deaths": 310416,
+		"PLHIV": 5509320,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id": "ZAF"
+	}],
+	"2005": [{
+		"people_on_ART": 174000,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id": "BRA"
+	},
+	{
+		"people_on_ART": 604,
+		"HIV_related_deaths": 5439,
+		"PLHIV": 244226,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id": "IDN"
+	},
+	{
+		"people_on_ART": 54093,
+		"HIV_related_deaths": 112947,
+		"PLHIV": 1359680,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id":"KEN"
+	},
+	{
+		"people_on_ART": 62089,
+		"HIV_related_deaths": 182194,
+		"PLHIV": 2950300,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id": "NGA"
+	},
+	{
+		"people_on_ART": 154972,
+		"HIV_related_deaths": 319389,
+		"PLHIV": 5678750,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id": "ZAF"
+	}],
+	"2006": [{
+		"people_on_ART": 174270,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id": "BRA"
+	},
+	{
+		"people_on_ART": 4904,
+		"HIV_related_deaths": 7379,
+		"PLHIV": 298462,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id":"IDN"
+	},
+	{
+		"people_on_ART": 128722,
+		"HIV_related_deaths": 99792,
+		"PLHIV": 1322810,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id": "KEN"
+	},
+	{
+		"people_on_ART": 119998,
+		"HIV_related_deaths": 188397,
+		"PLHIV": 3029030,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id": "NGA"
+	},
+	{
+		"people_on_ART": 291947,
+		"HIV_related_deaths": 327176,
+		"PLHIV": 5829460,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id": "ZAF"
+	}],
+	"2007": [{
+		"people_on_ART": 184627,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id":"BRA"
+	},
+	{
+		"people_on_ART": 7471,
+		"HIV_related_deaths": 9103,
+		"PLHIV": 354207,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id": "IDN"
+	},
+	{
+		"people_on_ART": 184902,
+		"HIV_related_deaths": 82741,
+		"PLHIV": 1306380,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id": "KEN"
+	},
+	{
+		"people_on_ART": 132438,
+		"HIV_related_deaths": 184774,
+		"PLHIV": 3103750,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id": "NGA"
+	},
+	{
+		"people_on_ART": 448646,
+		"HIV_related_deaths": 321975,
+		"PLHIV": 5982210,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id":"ZAF"
+	}],
+	"2008": [{
+		"people_on_ART": 194984,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id": "BRA"
+	},
+	{
+		"people_on_ART": 10733,
+		"HIV_related_deaths": 11735,
+		"PLHIV": 404391,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id": "IDN"
+	},
+	{
+		"people_on_ART": 250636,
+		"HIV_related_deaths": 70476,
+		"PLHIV": 1293300,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id": "KEN"
+	},
+	{
+		"people_on_ART": 229779,
+		"HIV_related_deaths": 192589,
+		"PLHIV": 3163280,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id":"NGA"
+	},
+	{
+		"people_on_ART": 497571,
+		"HIV_related_deaths": 315459,
+		"PLHIV": 6137840,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id": "ZAF"
+	}],
+	"2009": [{
+		"people_on_ART": 213062,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id": "BRA"
+	},
+	{
+		"people_on_ART": 16358,
+		"HIV_related_deaths": 14934,
+		"PLHIV": 455247,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id": "IDN"
+	},
+	{
+		"people_on_ART": 343929,
+		"HIV_related_deaths": 58435,
+		"PLHIV": 1289430,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id":"KEN"
+	},
+	{
+		"people_on_ART": 302973,
+		"HIV_related_deaths": 175679,
+		"PLHIV": 3229270,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id": "NGA"
+	},
+	{
+		"people_on_ART": 616337,
+		"HIV_related_deaths": 326357,
+		"PLHIV": 6231450,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id": "ZAF"
+	}],
+	"2010": [{
+		"people_on_ART": 239159,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id": "BRA"
+	},
+	{
+		"people_on_ART": 20415,
+		"HIV_related_deaths": 18400,
+		"PLHIV": 503736,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id":"IDN"
+	},
+	{
+		"people_on_ART": 432622,
+		"HIV_related_deaths": 47845,
+		"PLHIV": 1297690,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id": "KEN"
+	},
+	{
+		"people_on_ART": 359181,
+		"HIV_related_deaths": 178400,
+		"PLHIV": 3285340,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id": "NGA"
+	},
+	{
+		"people_on_ART": 933621,
+		"HIV_related_deaths": 332928,
+		"PLHIV": 6283520,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id": "ZAF"
+	}],
+	"2011": [{
+		"people_on_ART": 265213,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id":"BRA"
+	},
+	{
+		"people_on_ART": 25575,
+		"HIV_related_deaths": 22621,
+		"PLHIV": 548338,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id": "IDN"
+	},
+	{
+		"people_on_ART": 538985,
+		"HIV_related_deaths": 40816,
+		"PLHIV": 1307250,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id": "KEN"
+	},
+	{
+		"people_on_ART": 432285,
+		"HIV_related_deaths": 190147,
+		"PLHIV": 3322340,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id": "NGA"
+	},
+	{
+		"people_on_ART": 1611430,
+		"HIV_related_deaths": 303077,
+		"PLHIV": 6359580,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id":"ZAF"
+	}],
+	"2012": [{
+		"people_on_ART": 297138,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id": "BRA"
+	},
+	{
+		"people_on_ART": 31834,
+		"HIV_related_deaths": 26585,
+		"PLHIV": 589238,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id": "IDN"
+	},
+	{
+		"people_on_ART": 603997,
+		"HIV_related_deaths": 33741,
+		"PLHIV": 1327400,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id": "KEN"
+	},
+	{
+		"people_on_ART": 533771,
+		"HIV_related_deaths": 192604,
+		"PLHIV": 3350250,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id":"NGA"
+	},
+	{
+		"people_on_ART": 2350180,
+		"HIV_related_deaths": 224003,
+		"PLHIV": 6498560,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id": "ZAF"
+	}],
+	"2013": [{
+		"people_on_ART": 307020,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id": "BRA"
+	},
+	{
+		"people_on_ART": 37282,
+		"HIV_related_deaths": 30176,
+		"PLHIV": 626442,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id": "IDN"
+	},
+	{
+		"people_on_ART": 656369,
+		"HIV_related_deaths": 33197,
+		"PLHIV": 1348970,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id":"KEN"
+	},
+	{
+		"people_on_ART": 639397,
+		"HIV_related_deaths": 180826,
+		"PLHIV": 3373780,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id": "NGA"
+	},
+	{
+		"people_on_ART": 2760620,
+		"HIV_related_deaths": 159715,
+		"PLHIV": 6669160,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id": "ZAF"
+	}],
+	"2014": [{
+		"people_on_ART": 388565,
+		"HIV_related_deaths": null,
+		"PLHIV": null,
+		"lat": -10.505573,
+		"lng": -52.477377,
+		"country_name": "Brazil",
+		"country_id": "BRA"
+	},
+	{
+		"people_on_ART": 50072,
+		"HIV_related_deaths": 33697,
+		"PLHIV": 660272,
+		"lat": -4.084389,
+		"lng": 121.794160,
+		"country_name": "Indonesia",
+		"country_id":"IDN"
+	},
+	{
+		"people_on_ART": 755226,
+		"HIV_related_deaths": 32985,
+		"PLHIV": 1366920,
+		"lat": 0.253785,
+		"lng": 38,
+		"country_name": "Kenya",
+		"country_id": "KEN"
+	},
+	{
+		"people_on_ART": 673909,
+		"HIV_related_deaths": 174253,
+		"PLHIV": 3391550,
+		"lat": 9.262132,
+		"lng": 7.512906,
+		"country_name": "Nigeria",
+		"country_id": "NGA"
+	},
+	{
+		"people_on_ART": 3078570,
+		"HIV_related_deaths": 138379,
+		"PLHIV": 6836480,
+		"lat": -29.984415,
+		"lng": 22.365163,
+		"country_name": "SouthAfrica",
+		"country_id": "ZAF"
+	}]
+}

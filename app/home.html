@@ -1,0 +1,988 @@
+        <!-- header logo: style can be found in header.less -->
+        <link rel="stylesheet" type="text/css" id="" href="tab/css/bootstrap-checkbox/awesome-bootstrap-checkbox.css"/>
+        <header class="header">
+            <span class="application-logo appName">
+                <!-- Add the class icon to your logo image or logo icon to add the margining -->
+            </span>
+            <!-- Header Navbar: style can be found in header.less -->
+            <nav class="navbar navbar-static-top" role="navigation">
+                <!-- Sidebar toggle button-->
+                <a href="#" class="navbar-btn sidebar-toggle" style="height: 100%; width: 5%; padding: 14px 14px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;" data-toggle="offcanvas" role="button">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+                <div class="navbar-right">
+                    <ul class="nav navbar-nav">
+                        
+                        <!-- Tasks: style can be found in dropdown.less -->
+                        <li class="dropdown tasks-menu">
+                        <a href="../" class="menuDisplay dropdown-toggle" data-placement="bottom" data-original-title="Home" data-toggle="tooltip">
+						   <i class="fa fa-home"></i>
+						  </a>
+						  
+							<a href="#" class="dropdown-toggle  menuDisplay"  id="pagePrinterDirect"  data-placement="bottom"     data-toggle="tooltip" data-original-title="Print">
+                                <i class="fa fa-print"></i>
+       <!--                          <span class="label label-danger">9</span> -->
+                            </a>
+                            <a href="#" class="dropdown-toggle printBtn menuDisplay"  id="pagePrint" data-placement="bottom"   data-toggle="tooltip" data-original-title="Export">
+                                <i class="fa fa-file-pdf-o"></i>
+       <!--                          <span class="label label-danger">9</span> -->
+                            </a>
+       <a href="#" class="dropdown-toggle menuDisplay refreshPage" data-placement="bottom"  data-toggle="tooltip" data-original-title="Refresh">
+                                <i class="fa fa-refresh"></i>
+                            </a>
+							<a id="login" href="#" class="dropdown-toggle menuDisplay" data-placement="bottom"  data-toggle="tooltip" data-original-title="Login">
+                                <i class="fa fa-user"></i>
+                            </a>
+                            
+                        </li>                        
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <div class="wrapper row-offcanvas row-offcanvas-left">
+            <!-- Left side column. contains the logo and sidebar -->
+            <aside class="left-side sidebar-offcanvas" id="sidebar.html">
+                <!-- sidebar: style can be found in sidebar.less -->
+                <section class="sidebar">
+                    <!-- Sidebar user panel -->
+                    <!-- sidebar menu: : style can be found in sidebar.less -->
+                    <ul class="sidebar-menu">
+                        <!-- <li class="dashboard active">
+                            <a href="index.html">
+                                <i class="fa fa-home"></i> <span>Dashboard</span>
+                            </a>
+                        </li> -->
+                    </ul>
+                </section>
+                <!-- /.sidebar -->
+            </aside>
+
+            <!-- Right side column. Contains the navbar and content of the page -->
+            <aside class="right-side">
+                <!-- Content Header (Page header) -->
+                <section class="content-header">
+                    <h1>              
+						<!-- bg-light-blue-gradient	-->
+						<small class=" col-md-offset-4 col-xs-offset-4 col-sm-offset-4 targetTitle"></small>
+                    </h1>
+                    <ol class="breadcrumb">
+                        <li><a href="#"><i class="fa fa-th"></i> Home</a></li>
+                        <li class="active">Dashboard</li>
+                    </ol>
+                </section>
+
+                <!-- Main content -->
+                <section class="content">
+                    <!-- Small boxes (Stat box) -->
+                    <div class="row datarowprint">
+						<section class="col-lg-12 connectedSortable">
+							<div class="box box-solid box-primary divExportable" style="overflow:hidden;">
+								<div class="box-header" style="cursor: move;">
+									<!-- tools box -->
+									<div class="pull-right box-tools">
+										<button class="btn btn-primary btn-sm pull-right collapseBtn" data-widget="collapse" data-toggle="tooltip" title="" style="margin-right: 5px;" data-original-title="Collapse"><i class="fa fa-plus"></i></button>
+									</div><!-- /. tools -->
+
+									<i class="fa fa-line-chart"></i>
+									<h3 class="box-title">
+									   Overview
+									</h3>
+								</div>
+								<div class="box-body" id="overview-box-body" style="display: none;">
+									<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+										<!-- small box -->
+										<div class="small-box bg-aqua regionSummary_1">
+											<div class="inner" style="padding:3px">
+												<h3>
+													---
+												</h3>
+												<p>
+												</p>
+											</div>
+											<div class="icon" style="font-size:55px">
+												<i class="ion ion-stats-bars"></i>
+											</div>
+											<a href="#" class="small-box-footer">
+												<!-- <i class="fa fa-arrow-circle-right"></i> -->
+											</a>
+										</div>
+									</div><!-- ./col -->
+									<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+										<!-- small box -->
+										<div class="small-box bg-green regionSummary_2">
+											<div class="inner" style="padding:3px">
+												<h3>
+													---
+												</h3>
+												<p>
+													
+												</p>
+											</div>
+											<div class="icon" style="font-size:55px">
+												<i class="ion ion-stats-bars"></i>
+											</div>
+											<a href="#" class="small-box-footer">
+												<!-- <i class="fa fa-arrow-circle-right"></i> -->
+											</a>
+										</div>
+									</div><!-- ./col -->
+									<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+										<!-- small box -->
+										<div class="small-box bg-yellow regionSummary_3">
+											<div class="inner" style="padding:3px">
+												<h3>
+													---
+												</h3>
+												<p>
+													
+												</p>
+											</div>
+											<div class="icon" style="font-size:55px">
+												<i class="ion ion-stats-bars"></i>
+											</div>
+											<a href="#" class="small-box-footer">
+												<!--  <i class="fa fa-arrow-circle-right"></i> -->
+											</a>
+										</div>
+									</div><!-- ./col -->
+								</div>
+							</div>
+						</section>
+                    </div><!-- /.row -->
+
+					<div class="carousel">
+                    <div class="row hideBeforePrint">
+                        <section class="col-lg-12 connectedSortable">
+                            <div id="map-panel" class="box box-solid box-primary">
+                                <div  class="box-header" style="cursor: move;">
+                                    <!-- tools box -->
+                                    <div class="pull-right box-tools">
+										<button class="btn btn-primary btn-sm pull-right collapseBtn" data-widget="collapse" data-toggle="tooltip" title="" style="margin-right: 5px;" data-original-title="Collapse" data-placement="bottom" ><i class="fa fa-minus" ></i></button>
+										<button onclick="$('#map-panel').toggleFullScreen();" class="btn btn-primary btn-sm  pull-right hideOnCollapse" data-toggle="tooltip" title="Fullscreen" data-original-title="Reset" data-placement="bottom" ><i class="fa fa-arrows-alt"></i></button>
+										<button class="btn btn-primary btn-sm  pull-right resetMap hideOnCollapse" data-toggle="tooltip" title="" data-original-title="Reset" data-placement="bottom" ><i class="fa  fa-refresh"></i></button>
+										<!-- <button class="btn btn-primary btn-sm pull-right hideOnCollapse" title="Filter" style="margin-right: 5px;" data-original-title="Filter" data-toggle="modal" data-target=".bs-example-modal-lg"><i class="fa fa-filter"></i>
+										</button> -->
+										<button class="btn btn-primary btn-sm pull-right hideOnCollapse">
+											<a data-toggle="modal" data-target="#myModalIncomeFilter" href="#" class="menuDisplay open-popup incomelink" title="Income filter" data-original-title="Income filter" data-placement="bottom" data-tooltip="true">
+											<i class="fa fa-filter fa-fw"  style="color:white;"></i>
+										</a>
+										</button>
+										<button class="btn btn-primary btn-sm pull-right hideOnCollapse">
+											<a data-toggle="modal" data-target="#myModalWHORegionFilter" href="#" class="menuDisplay open-popup regionlink" title="Region filter" data-original-title="Region filter" data-placement="bottom" data-tooltip="true">
+											<i class="fa fa-globe fa-fw" style="color:white;"></i>
+											</a>	
+										</button>
+										<!-- <button class="btn btn-primary btn-sm pull-right printBtn hideOnCollapse" id="printMap" title="" style="margin-right: 5px;" data-original-title="Export Map (PDF format)" data-toggle="tooltip" ><i class="fa fa-file-pdf-o"></i>
+										</button> -->
+										<button class="btn btn-primary btn-sm pull-right printBtn" id="imageMap" 
+											data-original-title="Export Map (JPG format)" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-file-pdf-o"></i></button>
+										<button class="btn btn-primary btn-sm dropdown-toggle listBtn hideOnCollapse hide" style="margin-right: 5px;" data-toggle="tooltip" data-original-title="Select Region"><i class="fa fa-search"></i></button>
+										<div class="pull-right countryList" style="display:none">
+											 <select class="selectpicker countryPick" data-live-search="true" title='Select Region'>			 
+											 </select>
+										</div>
+
+
+
+                                    </div><!-- /. tools -->
+
+                                    <i class="fa fa-map-marker"></i>
+                                    <h3 class="box-title targetTitleOnMap">
+                                       Map
+                                    </h3>
+
+                                </div>
+                                <div  class="box-body" style="display: block;">
+
+                                    <div id="ihmap" class="divExportable mapExportable blockui block-component"></div> 
+									<!-- LEGEND GRID DIV -->
+									<div class="ui-grid-b divExportable legendPrintGrid mapExportable" id="lengendGrid">
+								 
+									</div>									
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="row hideBeforePrint">
+                        <section class="col-lg-12 connectedSortable">
+                            <div class="box box-solid box-primary" id="chart-panel">
+                                <div class="box-header" style="cursor: move;">
+									<!-- tools box -->
+                                    <div class="pull-right box-tools">
+										<button class="btn btn-primary btn-sm printBtn hideOnCollapse" id="printChart" data-toggle="tooltip" data-original-title="Export Chart" data-placement="bottom"><i class="fa fa-file-pdf-o"></i></button>
+                                        <button class="btn btn-primary btn-sm collapseBtn" data-widget="collapse" data-toggle="tooltip" data-original-title="Collapse" data-placement="bottom"><i class="fa fa-minus"></i></button>                                        
+                                        <button onclick="$('#chart-panel').toggleFullScreen();" class="btn btn-primary btn-sm  pull-right hideOnCollapse" data-toggle="tooltip" title="Fullscreen" data-original-title="Reset" data-placement="bottom" ><i class="fa fa-arrows-alt"></i></button>
+                                    </div><!-- /. tools -->
+                                    <i class="fa fa-bar-chart-o"></i>
+                                    <h3 class="box-title targetTitleOnChart">Chart</h3>								
+
+                                </div><!-- /.box-header -->
+                                <div class="box-body">
+                                     <ul class="nav nav-tabs" id="chartmyTab">
+                                          <li class="nav active">
+											<a href="#chartContainer" data-toggle="tab">Indicator Chart</a>
+                                          </li>
+                                          <li class="nav">
+											<a href="#overlaychart" data-toggle="tab" class="overlayName">Overlay Chart</a>
+										</li>
+                                     </ul>
+                                       <!-- Tab panes -->
+                                    <div class="tab-content chartcontent">
+                                        <div class="tab-pane fade in active highchartContainer divExportable" id="chartContainer" style="height:400px;">
+                                        </div>
+                                        <div class="tab-pane fade overlaybase-chartcontainer" id="overlaychart">
+                                            Please Select Overlay first if !
+                                        </div>
+                                    </div>
+                                    <!--High Chart -->
+<!--   <div class="highchartContainer divExportable" id="chartContainer" style="width:100%;height:375px;"></div> -->
+									
+									
+                                </div><!-- /.box-body -->                                  
+                            </div>
+                        </section>
+                    </div>
+					<div id="ihealthTableContainer" class="row hideBeforePrint">
+						<section class="col-lg-12 connectedSortable ui-sortable">
+							<div class="box box-solid box-primary">
+								<div class="box-header">
+									<div class="pull-right box-tools">
+										<button class="btn btn-primary btn-sm exportXlsBtn hideOnCollapse" id="exportTable" title="" style="margin-right: 5px;" data-original-title="Export to Excel" data-toggle="tooltip"  data-placement="bottom"><i class="fa fa-file-excel-o"></i></button>
+										<!-- <button class="btn btn-primary btn-sm exportBtn hideOnCollapse" id="exportTable" title="" style="margin-right: 5px;" data-original-title="Export to Excel" data-toggle="tooltip" ><i class="fa fa-file-pdf-o"></i></button> -->
+                                        <button class="btn btn-primary btn-sm collapseBtn" data-widget="collapse" data-toggle="tooltip" data-original-title="Collapse" data-placement="bottom"><i class="fa fa-minus"></i></button>  
+										
+                                    </div><!-- /. tools -->
+									<i class="fa fa-table"></i>
+									<h3 class="box-title targetTitleOnTable">Tabular Data</h3>
+								</div><!-- /.box-header -->
+								<div class="box-body table-responsive">
+									<table id="ihTable" class="table table-bordered table-striped">
+										<thead>
+											<tr>
+											
+											</tr>
+										</thead>
+									</table>						
+								</div>
+							</div>
+						</section>
+					</div>
+					</div>
+					<!-- end of carousel div -->
+					 <div id="ExportArea" class="row showBeforePrint" style="display:none;text-align:center;">
+
+						<!--canvas added for the print functionality on map -->
+						<canvas id="ihMapCanvas" style="border:1px solid black;background:#b3d9ff; margin: 0 auto;" class="canvasContainer"></canvas>
+						<!--canvas added for the print functionality on Chart-->
+						<canvas id="ihChartCanvas" style="border:1px solid; margin: 0 auto;" class="canvasContainer"></canvas>
+						
+						<canvas id="imageExportCanvas" width="1400" height="600"></canvas>
+
+					</div>
+					<!-- /.row (main row) -->
+
+                </section><!-- /.content -->
+            </aside><!-- /.right-side -->
+        </div><!-- ./wrapper -->
+
+		<div class="modal fade" id="year-modal" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<form action="#" method="post">
+						<div class="modal-body">
+								<div class="form-group">
+									<label>Select Year</label>
+									<select class="form-control yearSelect">
+										<option>Select an Year </option>
+
+									</select>
+								</div>
+						</div>
+					</form>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div>
+		<div class="modal fade" id="chart-modal" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
+			<div class="modal-dialog">
+
+				<div class="modal-content">
+					<div class="modal-header bg-primary box-header">
+							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">X</button>
+							<h4 class="modal-title chartHeader"><i class="fa fa-bar-chart-o"></i> Charts</h4>
+					</div>
+					<div class="modal-body">
+					
+					<div class="nav-tabs-custom">
+						<ul class="nav nav-tabs">
+							<li class="active"><a href="#tab_1" id="chart-on-modal-title" data-toggle="tab">Periodic</a></li>
+							 <li class=""><a href="#tab_2" data-toggle="tab">Level Comparison</a></li> 
+<!-- 							<li class="dropdown">
+								<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+									Dropdown <span class="caret"></span>
+								</a>
+								<ul class="dropdown-menu">
+									<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Action</a></li>
+									<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Another action</a></li>
+									<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Something else here</a></li>
+									<li role="presentation" class="divider"></li>
+									<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Separated link</a></li>
+								</ul>
+							</li> -->
+<!-- 							<li class="pull-right"><a href="#" class="text-muted"><i class="fa fa-gear"></i></a></li> -->
+						</ul>
+						<div class="tab-content">
+							<div class="tab-pane active" id="tab_1">
+								<div id="provinceChart" style="width:93%;"></div>
+							</div><!-- /.tab-pane -->
+							<div class="tab-pane" id="tab_2">
+								<div id="provinceCompChart" style="width:93%;"></div>
+							</div><!-- /.tab-pane -->
+						</div><!-- /.tab-content -->
+					</div>
+						  
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div>
+		<div class="modal fade bs-example-modal-lg"  tabindex="-1" id = "filterModal" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-lg">
+				<div class="modal-content">
+
+					<!--Filter content starts here -->
+
+					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+
+						<div class="buttonContainer" style="text-align:center;margin-top:20px">
+							<button type="button" id="applyFilterBtn" data-loading-text="Apply" class="btn btn-primary btn-success" autocomplete="off" style="width:40%">
+								Apply
+							</button>
+							<button type="button" id="clearFilterBtn" data-loading-text="Clear" class="btn btn-primary btn-warning" autocomplete="off" style="width:40%">
+								Clear
+							</button>
+						</div>
+
+					</div>
+
+
+					<!--filter content ends here                                     -->
+
+				</div>
+			</div>
+		</div>
+		<div class="modal fade userFilterLayout" tabindex="-1" id="filterModal11" role="dialog" aria-labelledby="" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<button style="margin-right: 10px;" class="btn btn-default btn-sm  pull-right" type="button" id="sync-personal-settings"><span class="">Sync Now</span></button>
+					
+					<h4 class="modal-title"><span class="glyphicon glyphicon glyphicon-th-large" aria-hidden="true"></span>&nbsp; Personalization Settings</span></h4>
+				</div>
+                <!--Filter content starts here -->
+
+                <div class="box-body no-padding">
+					<ul class="nav nav-tabs" id="chartmyTab">
+                        <li class="nav active"><a href="#layoutOptionContainer" data-toggle="tab"><span class="glyphicon glyphicon glyphicon-tags" aria-hidden="true"></span>&nbsp; Layout Options</a></li>
+                        <li class="nav"><a href="#themeOptionContainer" data-toggle="tab" class="overlayName"><span class="glyphicon glyphicon glyphicon-tags" aria-hidden="true"></span> &nbsp; Theme Options</a></li>
+						<!-- <li class="nav"><a href="#compontentOptionContainer" data-toggle="tab" class="overlayName"><span class="glyphicon glyphicon glyphicon-tags" aria-hidden="true"></span> &nbsp;Components</a></li> -->
+						<li class="nav"><a href="#frequencyOptionContainer" data-toggle="tab" class="overlayName"><span class="glyphicon glyphicon glyphicon-tags" aria-hidden="true"></span>&nbsp; Sync Frequency</a></li>
+                    </ul>
+                    <!-- Tab panes -->
+                    <div class="tab-content">
+						<div class="tab-pane fade in active" id="layoutOptionContainer" style="">	
+							<div class="radio">
+							  <label>
+								<input type="radio" name="layoutOptionRadios"  value="tab">
+									Tab
+							  </label>
+							</div>
+							<div class="radio">
+							  <label>
+								<input type="radio" name="layoutOptionRadios" value="horizontal">
+									Slide
+							  </label>
+							</div>
+							<div class="radio">
+							  <label>
+								<input type="radio" name="layoutOptionRadios" value="vertical">
+									Vertical
+							  </label>
+							</div>														
+						</div>
+						
+                        <div class="tab-pane fade" id="themeOptionContainer">
+                            <div class="radio">
+							  <label>
+								<input type="radio" name="themeOptionRadios" value="black">
+									Black
+							  </label>
+							</div>
+							<div class="radio">
+							  <label>
+								<input type="radio" name="themeOptionRadios" value="blue">
+									Blue
+							  </label>
+							</div>
+							<div class="radio">
+							  <label>
+								<input type="radio" name="themeOptionRadios" value="red">
+									Red
+							  </label>
+							</div>
+							<div class="radio">
+							  <label>
+								<input type="radio" name="themeOptionRadios" value="green">
+									Green
+							  </label>
+							</div>
+                        </div>
+						<div class="tab-pane fade" id="compontentOptionContainer">
+                                <div class="checkbox">
+								  <label>
+									<input type="checkbox" id="selectall" value="all">
+										Select All
+								  </label>
+								</div>
+								<div class="checkbox">
+								  <label>
+									<input type="checkbox" class="singleselection" value="sidemenu">
+										Side Menu
+								  </label>
+								</div>
+								<div class="checkbox">
+								  <label>
+									<input type="checkbox" class="singleselection" value="overviewpanel">
+										Overview Panel
+								  </label>
+								</div>
+								<div class="checkbox">
+								  <label>
+									<input type="checkbox" class="singleselection" value="map">
+										Map
+								  </label>
+								</div>
+								<div class="checkbox">
+								  <label>
+									<input type="checkbox" class="singleselection" value="chart">
+										Chart
+								  </label>
+								</div>
+						
+                        </div>
+						<div class="tab-pane fade" id="frequencyOptionContainer">
+                                	<div class="radio">
+							  <label>
+								<input type="radio" name="frequencyRadios"  value="7">
+									7 days
+							  </label>
+							</div>
+							<div class="radio">
+							  <label>
+								<input type="radio" name="frequencyRadios"  value="15">
+									15 days
+							  </label>
+							</div>
+							<div class="radio">
+							  <label>
+								<input type="radio" name="frequencyRadios"  value="30">
+									30 days
+							  </label>
+							</div>
+                        </div>
+                    </div>
+                </div>
+
+				<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="buttonContainer" style="text-align:center;margin-top:20px">
+                        <button type="button" id="applyUserPersonalization" data-loading-text="Apply" class="btn btn-primary" autocomplete="off" style="width:40%">
+                            Apply
+                        </button>
+                        <!-- <button type="button" id="clearFilterBtn" data-loading-text="Clear" class="btn btn-primary btn-warning" autocomplete="off" style="width:40%">
+                            Clear
+                        </button> -->
+                    </div>
+                </div>
+                <!--filter content ends here                                     -->
+				
+            </div>
+        </div>
+    </div>
+	
+		<div id="login-modal" class="modal fade" role="dialog" aria-labelledby="gridSystemModalLabel">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal-title" id="gridSystemModalLabel">Sign In</h4>
+					</div>
+					<div class="modal-body">						
+						<!-- Small boxes (Stat box) -->
+						<div class="container-fluid">						
+							<div class="form-box" id="login-box" >								
+								<form id="user-login" method="post">
+								<div class="row">
+									<div class="login-logo col-lg-6" style="padding: 0px 70px; margin: 0px auto 0px auto; float:none;">
+										<a href="#"><img src="img/ivizard2.png" class="img"/></a>
+									</div>									
+								</div>								
+								<div class="row">
+									<p style="color: #ff0000;text-align: center; margin-top:10px;"><b class="login-error"></b></p>
+									<div class="body col-lg-6" style="margin: 0px auto 0px auto; float:none;">
+										<div id="usernameWrapper" class="form-group">
+											<input id="username" type="text" name="username" class="form-control" placeholder="Username"/>
+										</div>
+										<div class="form-group">
+											<input id="password" type="password" name="password" class="form-control" placeholder="Password"/>
+										</div>										
+											<!-- <div class="form-group">
+												<input type="checkbox" name="remember_me"/> Remember me
+											</div> -->
+									</div>
+								</div>
+								<!-- <div class="row"><div class="col-lg-6"></div></div> -->
+								<div class="row">
+									<div class="footer col-lg-6" style="margin: 0px auto 0px auto; float:none;">
+										<button type="submit" class="btn bg-primary btn-block">Sign me in</button>
+									</div>
+								</div>
+								</form> 
+							</div>					
+						</div>						
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+		<!-- WHO country profile dialog box  Start -->
+		
+		<div id="countryProfileModal" class="modal modal-wide fade container" tabindex="-1" style="overflow-y: hidden !important;">
+			<div class="modal-dialog modal-lg modal-width-fix">
+				<div class="modal-content">
+					 <div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						<h4 class="modal-title" id="countryProfileHeaderName"></h4>
+					</div>
+					<div class="modal-body" id="countryProfileSections" style="max-height: 540px; overflow-y: scroll !important;">
+					
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="myModal" class="modal modal-wide fade container" tabindex="-1">
+				<div class="modal-dialog modal-lg">
+					<div class="modal-content">
+					     <div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+							<h4 class="modal-title" id="headername"></h4>
+						</div>
+						<div class="modal-body">
+								
+								<ul class="nav nav-tabs" role="tablist" id="myTab">	
+								<li role="presentation" class="dropdown active">
+									<a href="#" id="myTabDrop1" class="dropdown-toggle" data-toggle="dropdown" aria-controls="myTabDrop1-contents">Strategic Information<span class="caret"></span></a>
+										<ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1" id="myTabDrop1-contents">
+										  <li><a href="#dropdown1" tabindex="-1" role="tab" id="dropdown1-tab" data-toggle="tab" aria-controls="dropdown1" class="paddingtop-12">HIV Prevalence</a></li>
+										  <li><a href="#dropdown2" tabindex="-1" role="tab" id="dropdown2-tab" data-toggle="tab" aria-controls="dropdown2" class="paddingtop-12">PLHIV</a></li>
+										  <li><a href="#dropdown3" tabindex="-1" role="tab" id="dropdown3-tab" data-toggle="tab" aria-controls="dropdown3" class="paddingtop-12">People on ART</a></li>
+										  <li><a href="#dropdown4" tabindex="-1" role="tab" id="dropdown4-tab" data-toggle="tab" aria-controls="dropdown4" class="paddingtop-12">HIV Related Deaths</a></li>
+										  <li><a href="#dropdown5" tabindex="-1" role="tab" id="dropdown5-tab" data-toggle="tab" aria-controls="dropdown5">Cascade
+										  </a></li>
+										</ul>
+								</li>
+								<li role="presentation"><a href="#keyissue" aria-controls="keyissue" role="tab" data-toggle="tab">Key Issues</a></li>
+								<li role="presentation"><a href="#countryProfile" aria-controls="countryProfile" role="tab" data-toggle="tab">Country Profile</a></li>
+								<li role="presentation"><a href="#otherdocs" aria-controls="otherdocs" role="tab" data-toggle="tab">Other Docs</a></li>
+								</ul>
+
+								<div class="tab-content padding_0_0 margin_bottom_0 border_0">
+								<div role="tabpanel" class="tab-pane fade" id="dropdown1" aria-labelledBy="dropdown1-tab">
+										<div id='chartcontainerhivpre'></div>
+								</div>
+								<div role="tabpanel" class="tab-pane fade" id="dropdown2" aria-labelledBy="dropdown2-tab">
+										<div id='chartcontainerplhiv'></div>
+								</div>
+								<div role="tabpanel" class="tab-pane fade" id="dropdown3" aria-labelledBy="dropdown3-tab">
+										<div id='chartcontainerart'></div>
+								</div>
+								<div role="tabpanel" class="tab-pane fade" id="dropdown4" aria-labelledBy="dropdown4-tab">
+										<div id='chartcontainerdeath'></div>
+								</div>
+								<div role="tabpanel" class="tab-pane fade" id="dropdown5" aria-labelledBy="dropdown5-tab">
+									 <!-- <div id='container-country-cascade'><img width="600" style="display: block; margin-left: auto; margin-right: auto" src="images/healthServicesCascade.png"></div>  -->
+									 <div class="cascadetitle">Cascade Year: 2014</div>
+									  <table class="table">
+												<thead>
+													<tr>
+														<th>People with HIV</th>
+														<th>Domestic finance (USD)</th>
+														<th>Prevention by key population</th>
+														<th>Knowing HIV status</th>
+														<th>Currently on ART</th>
+														<th>Linkage to care</th>
+														<th>ART retention</th>
+														<th>Viral suppression</th>
+														<th>HIV deaths</th>
+														<th>New infection</th>
+													</tr>
+												</thead>
+												<tbody class="modalcascade">
+												<script id="cascade-template" type="text/x-handlebars-template">
+													<tr>
+													<td>{{parseVal PLHIV}}</td>
+													<td>{{parseVal domestic_finance}}</td>
+													<td>{{parseVal tested_HIV_positive}}</td>
+													<td>{{parseVal HIV_care}}</td>
+													<td>{{parseVal People_ART}}</td>
+													<td>{{parseVal percentage_ART}}</td>
+													<td>{{retained_surviving_ART}}</td>
+													<td>{{parseVal ART_viral}}</td>
+													<td>{{parseVal HIV_deaths}}</td>
+													<td>{{parseVal new_infection_HIV}}</td>
+													</tr>
+														</script>	
+												</tbody>
+											</table>
+								</div>
+							
+							
+								  <div role="tabpanel" class="tab-pane" id="keyissue">
+									<ul class="list-group other-docs">
+									  <li class="list-group-item"><a href="#">Lorem ipsum dolor sit amet, eos et etiam audire. Labitur eleifend usu id, est modus signiferumque necessitatibus et. Mea et iuvaret ponderum, possim tacimates disputando cum eu. Ad maiorum efficiendi vis, iusto reprehendunt per ne. Alterum mnesarchum ut eam, ut sonet ullamcorper usu.</a></li>
+									  <li class="list-group-item"><a href="#">Tantas utamur eum an, ei sea veniam dolorem electram. Eu mutat brute ius, numquam placerat vituperatoribus mea no. Eu quis nobis quidam eos, per facete reformidans id. Augue democritum in sea, in invidunt recusabo sea. Eu essent vidisse qui, ipsum labitur eum eu, ei nec convenire facilisis. Homero vituperatoribus id usu, ei iriure erroribus adipiscing mel.</a></li>
+									  <li class="list-group-item"><a href="#">Ea cum iusto clita iracundia, ius suas impetus ne. No has nemore vivendo. Vis te dicunt platonem, qui vocent feugiat erroribus ex. Error accommodare id pro, vis quod nulla noluisse ne. Sea ut adipiscing dissentiunt, suas inermis assentior usu ex. No velit harum ius.</a></li>
+									   <li class="list-group-item"><a href="#">Te odio graeci mea, tritani appareat eum cu, cu vis elit magna. Per ut modo dignissim mediocritatem, ex numquam accommodare his. Eum at causae civibus partiendo. Quo ut nonumes albucius, et sit aliquam omittam partiendo</a></li>
+									</ul>
+									
+									<ul class="list-group scrollEnable COD-docs hide">
+										<li class="list-group-item">
+											<a href="#">
+												The Global Fund single Concept Note for HIV and TB represents a critical opportunity for financing the HIV response.
+											</a>
+										</li>
+										<li class="list-group-item">
+											<a href="#">
+												All levels of WHO stand ready to support the resubmission (as a single concept note) later this year (currently proposed for August)—at present, WHO is supporting the lead HIV consultant (co-funded with UNAIDS) and lead TB consultant (through TBTEAM), among other activities.
+											</a>
+										</li>
+										<li class="list-group-item">
+											<a href="#">
+												DRC needs to critically review and revised based on TRP comments—in particular, there is a need to (1) develop a roadmap to how new WHO ARV guidelines will be implemented, (2) ensure seamless collaboration between HIV and TB, (3) address HSS constraints (and consider service availability mapping), and (4) strengthen EMTCT and peds. components.
+											</a>
+										</li>
+										<li class="list-group-item">
+											<a href="#">
+												There is also a need to respond to GF concerns related to CCM reform and implementation arrangements.
+											</a>
+										</li>
+										<li class="list-group-item">
+											<a href="#">
+												1.1% HIV prevalence (480,000 people living with HIV). DRC has a generalized epidemic.
+											</a>
+										</li>
+										<li class="list-group-item">
+											<a href="#">
+												31% Antiretroviral therapy coverage.
+											</a>
+										</li>
+										<li class="list-group-item">
+											<a href="#">
+												DRC was one of the first countries to acknowledge and respond to HIV in 1983. Rates of HIV infection have stabilized in recent years.
+											</a>
+										</li>
+										<li class="list-group-item">
+											<a href="#">
+												DRC is a heavily burdened country for HIV with major implementation challenges. However, some progress has been made in recent years in the areas of treatment scale-up.
+											</a>
+										</li>
+										<li class="list-group-item">
+											<a href="#">
+												The President and First Lady have a strong commitment to the HIV response and have been promoting: elimination of mother-to child transmission of HIV; improved reproductive health; and increasing domestic resources.
+											</a>
+										</li>
+										<li class="list-group-item">
+											<a href="#">
+												WHO’s support for the national HIV response has been broad-ranging, with a particular focus on eliminating mother-to child transmission of HIV, ART and in reaching Universal Access targets. 
+											</a>
+										</li>
+									</ul>
+								  </div>
+								<div role="tabpanel" class="tab-pane" id="countryProfile">
+
+									<ul class="list-group scrollEnable COD-docs">
+										<li class="list-group-item"><a href="tempdata/data/download/PROFIL VIH AU BAS CONGO FINAL 18 MAI.doc" target="_blank">PROFIL VIH AU BAS CONGO FINAL 18 MAI</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Profil VIH Bandundu.doc" target="_blank">Profil VIH Bandundu</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Profil VIH Equateur.doc" target="_blank">Profil VIH Equateur</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Profil VIH Kasa.doc" target="_blank">Profil VIH Kasa+A Occidental</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Profil VIH Katanga  final.doc" target="_blank">Profil VIH Katanga final</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Profil VIH Kinshasa.doc" target="_blank">Profil VIH Kinshasa</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Profil VIH Maniema.doc" target="_blank">Profil VIH Maniema</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Profil VIH Nord Kivu.doc" target="_blank">Profil VIH Nord Kivu</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Profil VIH Province Orientale.doc" target="_blank">Profil VIH Province Orientale</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Profil VIH RDC finalis.doc" target="_blank">Profil VIH RDC finalis</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Profil VIH Sud Kivu.doc" target="_blank">Profil VIH Sud Kivu</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Profil_VIH Kasai_Or_final.doc" target="_blank">Profil_VIH Kasai_Or_final</a></li>
+									  
+									</ul>
+								</div>
+								  <div role="tabpanel" class="tab-pane" id="otherdocs">
+									<ul class="list-group other-docs">
+									  <li class="list-group-item"><a href="#">Download Report</a></li>
+									  
+									  <li class="list-group-item"><a href="#">Next Steps</a></li>
+									   <li class="list-group-item"><a href="#">Latest Publication</a></li>
+									</ul>
+								  
+								  <ul class="list-group scrollEnable COD-docs hide">
+									  <li class="list-group-item"><a href="tempdata/data/download/ANC-DRC.png" target="_blank">HIV prevalence among ANC sentinel sites in DRC</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Democractic Republic of the Congo - CID brief (May 2014).pdf" target="_blank">Country Summary Sheet</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Key Indicators.docx"target="_blank">Key Indicators</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Main Briefing_DRC.docx" target="_blank">Main Briefing</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Practical Recommendations - Epireview DRC2 (1).docx" target="_blank">Practical Recommendations - Epireview</a></li>
+									  <li class="list-group-item"><a href="tempdata/data/download/Rapport final de la mission de collecte des informations strategiques VIH_Version finale1512 (2).pdf" target="_blank">Rapport final de la mission de collecte des informations strategiques</a></li>
+									</ul>
+								  </div>
+								
+								</div>
+
+						</div>
+					<!-- 	<div class="modal-footer">
+							<button type="button" class="btn btn-default" data-dismiss="modal"><span class="glyphicon glyphicon-remove"><i></i></span>Close</button>
+						</div> -->
+					</div>
+				</div>
+			</div>
+		<!-- WHO country profile dialog box  End -->
+		
+		<!-- Filter Modal Start -->
+			<div class="modal fade" id="myModalIncomeFilter" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header" style="background: #1E7FB8; color: #ffffff;">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+								<span aria-hidden="true">&times;</span>
+							</button>
+							<h4 class="modal-title" id="myModalLabel" style="text-align: center;">Filters</h4>
+						</div>
+						<div class="modal-body">
+							<ul id="income_classification" class="list-group">
+								
+								<li class="list-group-item"><strong><span class="fa fa-tags"></span> Income Classification</strong></li><li class="list-group-item">
+									<div class="checkbox">
+										<input type="checkbox" name="" id="checkbox2" value="Low income" class="income-classification" data-incomeclassname="Low income">
+										<label for="checkbox2">Low income</label>
+									</div>
+								</li>
+								<li class="list-group-item">
+									<div class="checkbox">
+										<input type="checkbox" name="" id="checkbox3" value="Lower middle income" class="income-classification" data-incomeclassname="Lower middle income">
+										<label for="checkbox3">Lower middle income</label>
+									</div>									
+								</li>
+								<li class="list-group-item">
+									<div class="checkbox">
+										<input type="checkbox" name="" id="checkbox4" value="Upper middle income" class="income-classification" data-incomeclassname="Upper middle income">
+										<label for="checkbox4">Upper middle income</label>
+									</div>									
+								</li>
+								<li class="list-group-item">
+									<div class="checkbox">
+										<input type="checkbox" name="" id="checkbox5" value="High income" class="income-classification" data-incomeclassname="High income">
+										<label for="checkbox5">High income</label>
+									</div>									
+								</li>
+								<li class="list-group-item">
+									<div class="checkbox">
+										<input type="checkbox" name="" id="checkbox6" value="Not classified" class="income-classification" data-incomeclassname="Not classified">
+										<label for="checkbox6">Not classified</label>
+									</div>									
+								</li>
+							</ul>	
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn btn-primary" id="applyincomefilter" data-dismiss="modal">Apply</button>
+							<button type="button" class="btn btn-default" id="resetincomefilter" style="background-color: rgb(255, 255, 255) !important; border-radius: 0px !important;">Reset</button>					
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Filter Modal End -->
+			
+			<!-- WHO Regions Modal Start -->
+			<div class="modal fade" id="myModalWHORegionFilter" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header" style="background: #1E7FB8; color: #ffffff;">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+								<span aria-hidden="true">&times;</span>
+							</button>
+							<h4 class="modal-title" id="myModalLabel" style="text-align: center;">WHO Regions</h4>
+						</div>
+						<div class="modal-body">
+							<ul id="whoregionfilter" class="list-group">
+								<li class="list-group-item"><strong><span class="fa fa-tags"></span> WHO Regions Name</strong></li>
+								<li class="list-group-item">							
+									<div class="checkbox">
+										<input type="checkbox" name="" id="checkbox11" value="AFR" class="whoregion" data-regionname="African Region">
+										<label for="checkbox11">African Region - AFR</label>
+									</div>
+								</li>
+								<li class="list-group-item">
+									<div class="checkbox">
+										<input type="checkbox" name="" id="checkbox12" value="AMR" class="whoregion" data-regionname="Americas Region">
+										<label for="checkbox12">Americas Region - AMR</label>
+									</div>
+								</li>
+								<li class="list-group-item">
+									<div class="checkbox">
+										<input type="checkbox" name="" id="checkbox13" value="EMR" class="whoregion" data-regionname="Eastern Mediterranean Region">
+										<label for="checkbox13">Eastern Mediterranean Region - EMR</label>
+									</div>									
+								</li>
+								<li class="list-group-item">
+									<div class="checkbox">
+										<input type="checkbox" name="" id="checkbox14" value="EUR" class="whoregion" data-regionname="European Region">
+										<label for="checkbox14">European Region - EUR</label>
+									</div>									
+								</li>
+								<li class="list-group-item">
+									<div class="checkbox">
+										<input type="checkbox" name="" id="checkbox15" value="SEAR" class="whoregion" data-regionname="South Eastern Asian Region">
+										<label for="checkbox15">South Eastern Asian Region - SEAR</label>
+									</div>									
+								</li>
+								<li class="list-group-item">
+									<div class="checkbox">
+										<input type="checkbox" name="" id="checkbox16" value="WPR" class="whoregion" data-regionname="Western Pacific Region">
+										<label for="checkbox16">Western Pacific Region - WPR</label>
+									</div>									
+								</li>
+							</ul>													
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn btn-primary" id="applyregionfilter" data-dismiss="modal">Apply</button>
+							<button type="button" class="btn btn-default" id="resetregionfilter" style="background-color: rgb(255, 255, 255) !important; border-radius: 0px !important;">Reset</button>					
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- WHO Regions Modal End -->
+
+
+			<!-- WHO Map Filter (notification) start -->
+			<div class="modal fade bs-example-modal-lg" id="mapFilterNotificationModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				<div class="modal-dialog modal-lg">
+					<div class="modal-content">
+						<div class="modal-header" style="background: #1E7FB8; color: #ffffff;">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+								<span aria-hidden="true">&times;</span>
+							</button>
+							<h4 class="modal-title" id="myModalLabel" style="text-align: center;">Filtered List </h4>
+						</div>
+						<div class="modal-body">
+							<div class="diaplayMetaInfo"> </div>
+							<div class="table-responsive">
+								<table class="table table-condensed" id="filteredlisting-display">
+								</table>
+							</div>									
+						</div>
+						<div class="modal-footer">
+							
+							<button type="button" class="btn btn-default" id="printfiltered-list" style="background-color: rgb(255, 255, 255) !important; border-radius: 0px !important;">Print</button>					
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			 <div id="countryContactModal" class="modal modal-wide fade container" tabindex="-1" style="overflow-y: hidden !important;">
+				  <div class="modal-dialog modal-lg">
+				<div class="modal-content">
+				  <div class="modal-header countryModalHeader">
+				  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				  <h4 class="modal-title pull-left" id="countryContactHeaderName"></h4>
+				 </div>
+				 <div class="modal-body" id="countryContactSections" style="max-height: 540px; overflow-y: scroll !important;">
+				 
+				 </div>
+				</div>
+				  </div>
+				 </div>
+			 
+			   <div id="emailContactModal" class="modal modal-wide fade container" tabindex="-1" style="overflow-y: hidden !important;">
+			<div class="modal-dialog modal-lg">
+			 <div class="modal-content">
+			   <div class="modal-header bg-primary">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title" id="emailContactHeaderName">Email</h4>
+			   </div>
+			   <div class="modal-body" id="emailContactSections" style="max-height: 540px; overflow-y: scroll !important;">
+			   <div class="box box-info">
+				<div class="box-body">
+				 <div class="form-group">
+				   <label for="name">Your name</label>
+				   <input type="text" class="form-control" name="name" placeholder="Name">
+				 </div>
+				 <div class="form-group">
+				   <label for="emailfrom">Your email</label>
+				   <input type="email" class="form-control" name="emailfrom" placeholder="Email From:">
+				 </div>   
+				 <div class="form-group">
+				   <label for="emailto">Sending email to</label>
+				   <input type="email" class="form-control" name="emailto" placeholder="Email to:">
+				 </div>          
+				 <div class="form-group">
+				   <label for="subject">Subject</label>
+				   <input type="text" class="form-control" name="subject" placeholder="Subject:">
+				 </div>
+				 <div class="form-group">
+				   <label for="emailBody">Message</label>
+				   <textarea id="editor1" name="emailBody" rows="5" cols="130" placeholder="Message"></textarea>
+				 </div>
+				</div>
+				<div class="box-footer clearfix">
+				  <button type="button" class="pull-right btn btn-primary" id="sendEmail">Send
+				 <i class="fa fa-arrow-circle-right"></i></button>
+				</div>
+			   </div>
+			   </div>
+			 </div>
+			</div>
+			</div>
+			  
+			<div id="policyModal" class="modal modal-wide fade container" tabindex="-1" style="overflow-y: hidden !important;">
+				<div class="modal-dialog modal-lg">
+					<div class="modal-content">
+						<div class="modal-header bg-primary">
+							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+							<h4 class="modal-title" id="policyHeaderName">Policy Questions</h4>
+						</div>
+						<div class="modal-body" id="policySections" style="max-height: 540px; overflow-y: scroll !important;">
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		<script>
+	//		var cascadeTemplateSource = $("#cascade-template").html();                 // cascade 
+	//		var cascadeTemplate = Handlebars.compile(cascadeTemplateSource);
+			 bindIncomeFIlter();
+			 bindRegionFIlter();
+			 $('#printfiltered-list').on('click', function(){
+			 	Print('filteredlisting-display',"WHO")
+			 });
+		</script>
+		<script>
+		$(function() {
+			$('[data-tooltip="true"]').tooltip();
+		});
+		</script>
+
+			<!-- WHO Map Filter (notification) End -->
+		<!-- <script src="application/DureApplicationLoadLayout.js"></script> -->
+		<!-- <script src="application/DureMasterCommon.js"></script> -->
+		<script src="./dure/scripts/DureMenu.js"></script>
+		<script src="./dure/scripts/DureLogin.js"></script>
+		

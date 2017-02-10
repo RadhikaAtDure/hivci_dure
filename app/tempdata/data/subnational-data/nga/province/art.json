@@ -1,0 +1,234 @@
+{
+	"data": {
+		"2014": {
+			"ID-34": {
+				"name": "Sokoto",
+				"ALL": "9827",
+				"Child": "444",
+				"Adult": "9383"
+			},
+			"ID-37": {
+				"name": "Yobe",
+				"ALL": "2889",
+				"Child": "167",
+				"Adult": "2772"
+			},
+			"ID-38": {
+				"name": "Zamfara",
+				"ALL": "2466",
+				"Child": "73",
+				"Adult": "2393"
+			},
+			"ID-35": {
+				"name": "Taraba",
+				"ALL": "33998",
+				"Child": "1958",
+				"Adult": "32040"
+			},
+			"ID-8": {
+				"name": "Bornoo",
+				"ALL": "14410",
+				"Child": "560",
+				"Adult": "13850"
+			},
+			"ID-7": {
+				"name": "Benue",
+				"ALL": "62364",
+				"Child": "5086",
+				"Adult": "57278"
+			},
+			"ID-5": {
+				"name": "Bauchi",
+				"ALL": "14244",
+				"Child": "595",
+				"Adult": "13649"
+			},
+			"ID-2": {
+				"name": "Adamawa",
+				"ALL": "16480",
+				"Child": "774",
+				"Adult": "15706"
+			},
+			"ID-18": {
+				"name": "Jigwa",
+				"ALL": "5085",
+				"Child": "166",
+				"Adult": "4919"
+			},
+			"ID-26": {
+				"name": "Nasarawa",
+				"ALL": "19467",
+				"Child": "4655",
+				"Adult": "14812"
+			},
+			"ID-24": {
+				"name": "Kwara",
+				"ALL": "3098",
+				"Child": "383",
+				"Adult": "2715"
+			},
+			"ID-27": {
+				"name": "Niger",
+				"ALL": "23421",
+				"Child": "1581",
+				"Adult": "21660"
+			},
+			"ID-32": {
+				"name": "Plateau",
+				"ALL": "39318",
+				"Child": "2212",
+				"Adult": "37106"
+			},
+			"ID-22": {
+				"name": "Kebbi",
+				"ALL": "5605",
+				"Child": "158",
+				"Adult": "5447"
+			},
+			"ID-20": {
+				"name": "Kano",
+				"ALL": "23864",
+				"Child": "1242",
+				"Adult": "22622"
+			},
+			"ID-23": {
+				"name": "Kogi",
+				"ALL": "18806",
+				"Child": "1489",
+				"Adult": "17317"
+			},
+			"ID-21": {
+				"name": "Katsina",
+				"ALL": "9556",
+				"Child": "497",
+				"Adult": "9059"
+			},
+			"ID-16": {
+				"name": "Gombe",
+				"ALL": "18307",
+				"Child": "1015",
+				"Adult": "17292"
+			},
+			"ID-15": {
+				"name": "FCT",
+				"ALL": "36203",
+				"Child": "1630",
+				"Adult": "34573"
+			},
+			"ID-19": {
+				"name": "KADUNA",
+				"ALL": "37518",
+				"Child": "1963",
+				"Adult": "35555"
+			},
+			"ID-13": {
+				"name": "Ekiti",
+				"ALL": "2171",
+				"Child": "107",
+				"Adult": "2064"
+			},
+			"ID-14": {
+				"name": "Enugu",
+				"ALL": "20297",
+				"Child": "1164",
+				"Adult": "19133"
+			},
+			"ID-11": {
+				"name": "Ebonyi",
+				"ALL": "4580",
+				"Child": "317",
+				"Adult": "4263"
+			},
+			"ID-29": {
+				"name": "Ondo",
+				"ALL": "5106",
+				"Child": "441",
+				"Adult": "4665"
+			},
+			"ID-28": {
+				"name": "OGUN",
+				"ALL": "9915",
+				"Child": "423",
+				"Adult": "9492"
+			},
+			"ID-9": {
+				"name": "Cross Rivers",
+				"ALL": "18046",
+				"Child": "949",
+				"Adult": "17097"
+			},
+			"ID-99": {
+				"name": "IMO",
+				"ALL": "11356",
+				"Child": "564",
+				"Adult": "10792"
+			},
+			"ID-31": {
+				"name": "OYO",
+				"ALL": "13938",
+				"Child": "794",
+				"Adult": "13144"
+			},
+			"ID-3": {
+				"name": "AKWA IBOM",
+				"ALL": "19528",
+				"Child": "942",
+				"Adult": "18586"
+			},
+			"ID-12": {
+				"name": "EDO",
+				"ALL": "25800",
+				"Child": "2773",
+				"Adult": "23027"
+			},
+			"ID-1": {
+				"name": "ABIA",
+				"ALL": "10400",
+				"Child": "393",
+				"Adult": "10007"
+			},
+			"ID-30": {
+				"name": "OSUN",
+				"ALL": "3391",
+				"Child": "210",
+				"Adult": "3181"
+			},
+			"ID-10": {
+				"name": "DELTA",
+				"ALL": "15871",
+				"Child": "888",
+				"Adult": "14983"
+			},
+			"ID-4": {
+				"name": "Anambra",
+				"ALL": "22974",
+				"Child": "1255",
+				"Adult": "21719"
+			},
+			"ID-25": {
+				"name": "Lagos",
+				"ALL": "47514",
+				"Child": "2619",
+				"Adult": "44695"
+			},
+			"ID-6": {
+				"name": "Bayelsa",
+				"ALL": "3481",
+				"Child": "162",
+				"Adult": "3319"
+			},
+			"ID-33": {
+				"name": "River",
+				"ALL": "18283",
+				"Child": "798",
+				"Adult": "17485"
+			},
+			"ID-99": {
+				"name": "NMOD/DOD",
+				"ALL": "24332",
+				"Child": "846",
+				"Adult": "23486"
+			}
+		}
+	}
+}

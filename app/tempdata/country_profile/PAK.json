@@ -1,0 +1,89 @@
+{
+	"sectionid" : 4,
+	"sectionname" : "Word Docs",
+	"sectionType" : "wordText",
+	"subSections" : [ {
+"subSectionName" : "Summary Description of the epidemiological situation",
+"subSectionText" : [ {
+	"subLabel" : "A. date of latest epi report",
+	"subLabelText" : []
+}, {
+	"subLabel" : "B. Health Situation",
+	"subLabelText" : "Pakistan’s health profile is characterized by a dual burden of communicable and non-communicable diseases, high fertility, low life expectancy, a young age structure, high maternal and child mortality, high incidence of infectious and communicable diseases and wide prevalence of malnutrition among children and women. Pakistani women continue to face the risk of limited access to reproductive health services and pregnancy-related morbidity and mortality. The maternal mortality ratio is also high at 260 per 100,000 live births, signifying one of the highest maternal mortality rates in the region. In 2008-09, only 28% of births were attended by a doctor and 65 % of women delivered their children at home. Malnutrition remains widespread with few significant or positive outcomes achieved in the last two decades. Acute malnutrition levels have been consistently above the emergency threshold posing a serious public health problem, with stunting reaching 37% and severe wasting 13% (MICS 2008) due to several underlying causes vis-à-vis a rapidly growing population. Slow progress in improving the indicators related to maternal health, child health, and morbidity and mortality caused by communicable diseases are a major concern in the progress towards the MDGs."
+}, {
+	"subLabel" : "C. HIV summary",
+	"subLabelText" : "Though the epidemic in Asia is less severe than in other parts of the world and rates of infection in the general population remain relatively low, it is clear that HIV has started spreading rapidly through the region and massive Asian population is increasingly at risk. Pakistan is the second largest country in South Asia that stands only a few steps behind India and Nepal in terms of HIV epidemic with a prevalence below 0.1 percent of the adult population (70‐80,000) Despite many efforts, the HIV infection rate has increased significantly over the past few years and in fact, the country has moved from a low prevalence to concentrated epidemic with HIV prevalence of more than 5% among injecting drug users (IDUs) in at least eight major cities (2007: Karachi‐30.1%, Hyderabad‐29.8%, Sukkur‐5.3%, Quetta‐9.5%, Faisalabad‐13.3%, Larkana‐16.5%, Lahore‐6.5% and Sargodha‐51.3%). Not only HIV levels are increasing among IDUs, also of concern are the rising levels of HIV prevalence among other high‐risk groups especially the MSM, and HSWs. In Karachi, the HIV infection rate has recently increased from 4% to 7.53% among MSM and from 1.6% to 3.04% among HSWs. Persons in these groups is interconnected among themselves and with the general population through clients or bridging populations by social, sexual, and drug use networks. HIV continues to be transmitted among persons in these key populations due to their lack of knowledge and risky behaviour, especially unprotected sexual activity."
+}]
+	}, {
+"subSectionName" : "Progress and challenges towards 90-90-90",
+"subSectionText" : []
+	}, {
+"subSectionName" : "A. Health policies and systems",
+"subSectionText" : [ {
+	"subLabel" : "A. Health policies and systems",
+	"subLabelText" : "Pakistan has a multi-tiered and mixed health care delivery system that has grown exponentially during the past three decades, with an increasing number of programs, projects, interventions and facilities, many of them on a fragmented and time bound basis. These are supported by different levels of government and/or development partners with overlapping geographical and thematic areas, leading to duplication and wastage of resources. The health care delivery system includes both state and non-state; and profit and not for profit service provision. The  provincial  and  district  health  departments,  para-statal  organizations,  social  security institutions, non-governmental organizations (NGOs) and private sector finance and provide services mostly through vertically managed disease-specific mechanisms.  The situation at the federal  level  is  highly  fragmented  following the  dissolution  of  the  Ministry  of  Health  and devolution  of its responsibilities to  provincial Departments  of  Health. The country’s health sector is also marked by urban-rural disparities in healthcare delivery and an imbalance in the health  workforce,  with  insufficient  health  managers,  nurses,  paramedics  and  skilled  birth attendants in the peripheral areas. "
+}, {
+	"subLabel" : "B. COOPERATION FOR HEALTH",
+	"subLabelText" : "WHO is the leading technical partner of the government on health issues. The other main development partners in the Health Sector are the Asian Development Bank (ADB), Canadian International Development Agency (CIDA), Government of China, Department For International Development-UK (DFID), Economic Cooperation Organization (ECO), European Union (EU), German International Cooperation (GIZ), International Development Agency (IDA), Islamic Development Bank (IDB), International Monetary Fund (IMF), Government of Italy, Japan International Cooperation Agency (JICA), KfW, Governments of Norway, Italy and Spain, Government of Saudi Arabia, South Asian Association for Regional Cooperation (SAARC), Swedish International Development Agency (SIDA), The World Bank (WB), United States Agency for International Development (USAID), and UN agencies and funds such as FAO, IOM, UNDP, UNESCO, UNFPA, UNHCR, UNICEF and WFP. Global Health Institutions such as GAVI and GFATM are also supporting Pakistan."
+}, {
+	"subLabel" : "C. Summary description of the health system",
+	"subLabelText" : [{
+"subLabel" : "National policies",
+"subLabelText" : []
+}, {
+"subLabel" : "Health sector strategy/plan",
+"subLabelText" : "2010-2015"
+}, {
+"subLabel" : "Service delivery",
+"subLabelText" : "Health facilities across Pakistan are variable in the way that they are built, set up and equipped. The infrastructure often suffers from a not fit-for-purpose building, limited utilities such as water, electricity, waste management and building/ground maintenance. Lack of appropriate, relevant and functional medical equipment further limit performance. Unsafe blood transfusions and poor laboratory standard are also a challenge. New or additional medical equipment are repeatedly requested without a mechanism for asset management leading to misuse or disrepair of such equipment."
+}, {
+"subLabel" : "Procurement",
+"subLabelText" : "The provision of essential health services remains the responsibility of government but the reforms envisioned under the National Health Policy of 2001 which focused almost entirely on the public sector, did not produce improved health outcomes. Delivery of those services is increasingly being delegated to the non-governmental organizations and private providers as a strategy to improve the effectiveness and efficiency of services."
+}, {
+"subLabel" : "Human resources",
+"subLabelText" :  []
+}, {
+"subLabel" : "Information system",
+"subLabelText" : "Health information systems currently in use in Pakistan are fragmented and vertical. They either respond to and serve primarily the health programs that created them or are inaccurate. Consequently health indicator data may collect through various systems and may be duplicated, sometimes with conflicting results. The Health Management Information System (HMIS) of the 1990s covered primarily PHC facilities and the OPD of THQ hospital. It is still in use but is due to be replaced with the District Health Information System (DHIS) which has been upgraded to also include hospitals."
+}, {
+"subLabel" : "Financing of the health sector",
+"subLabelText" : "The total annual health expenditures are Rs. 186 billion (USD  3.1  billion or nearly USD 19 per capita) or about 1.9% of the national GDP (The National Health Accounts of Pakistan 2005). Of these the government spends nearly Rs. 60 billion (0.6% of the GDP, USD 6 per capita), while much of the remainder are out of pocket payments by citizens at points of care. Finally, donor funding is around Rs. 3.6 billion (USD 60 million annually or USD 0.4 per capita) annually and accounts for about 2% of national health spending. The official donor assistance that is allocated to health is around 8%."
+}]
+}]
+	}, {
+"subSectionName" : "National HIV strategy/plan",
+"subSectionText" : [ {
+	"subLabel" : "A. Year cycle",
+	"subLabelText" : "2007-2012"
+}, {
+	"subLabel" : "B. Latest programme review",
+	"subLabelText" : []
+}]
+	}, {
+"subSectionName" : "Treatment and prevention policies",
+"subSectionText" : []
+	}, {
+"subSectionName" : "WCO HIV plans",
+"subSectionText" : "Dissemination of Hepatitis C new treatment guideline Establishment of electronic patient monitoring system Hepatitis B birth dose introduction PAK Staff Cost Support country in HIV testing and treatment Technical Assistance in developing, disseminating and implementation of the National Hepatitis Strategy and Hepatitis C Treatment Guidelines"}, {
+"subSectionName" : "GF grants",
+"subSectionText" : [ {
+	"subLabel" : "A. HIV or HIV/TB concept note – period",
+	"subLabelText" : "No Concept note for HIV"
+}, {
+	"subLabel" : "B. Current grant, start and end date and amount:",
+	"subLabelText" : "The National AIDS Control Programme on the Behalf of the Ministry of National Health Services, Regulation and Coordination of the Government of Pakistan, SSF Start Date 01 Mar 2013 SSF End Date 29 Feb 2016, Cumulative Signed Amount $ 9,424,344"
+}]
+	}, {
+"subSectionName" : "PEPFAR grants",
+"subSectionText" : "NO PEPFAR COP"
+	}, {
+"subSectionName" : "WHO response",
+"subSectionText" : ""
+	}, {
+"subSectionName" : "WHO CONTACTS",
+"subSectionText" : ""
+	}, {
+"subSectionName" : "List of Country documents",
+"subSectionText" : ""
+	}]
+}

@@ -1,0 +1,198 @@
+{
+	"indicators" : [{
+			"indicatorSummaryData" : [{
+					
+					"2013" : {
+						"data" : [[21771856.00, null, null], ["People receiving ART", "Children", "Adult"], ["", "", ""]]
+					},
+					"2014" : {
+						"data" : [[25362162.00, null, null], ["People receiving ART", "Children", "Adult"], ["", "", ""]]
+					},
+					"2015" : {
+						"data" : [[29473854.00, null, null], ["People receiving ART", "", ""], ["", "", ""]]
+					}
+				}
+			]
+		}, {
+			"worldIndicatorData" : [{
+					
+					"2013" : [{
+							"WPR" : [[214.00000], ["People receiving ART"], [""]],
+							"SEAR" : [[-1.00000], ["People receiving ART"], [""]],
+							"EUR" : [[4642.00000], ["People receiving ART"], [""]],
+							"EMR" : [[61064.00000], ["People receiving ART"], [""]],
+							"AMR" : [[60278.00000], ["People receiving ART"], [""]],
+							"AFR" : [[665199.00000], ["People receiving ART"], [""]]
+						}
+					],
+					"2014" : [{
+							"WPR" : [[214.00000], ["People receiving ART"], [""]],
+							"SEAR" : [[-1.00000], ["People receiving ART"], [""]],
+							"EUR" : [[4642.00000], ["People receiving ART"], [""]],
+							"EMR" : [[61064.00000], ["People receiving ART"], [""]],
+							"AMR" : [[60278.00000], ["People receiving ART"], [""]],
+							"AFR" : [[665199.00000], ["People receiving ART"], [""]]
+						}
+					],
+					"2015" : [{
+							"WPR" : [[214.00000], ["People receiving ART"], [""]],
+							"SEAR" : [[-1.00000], ["People receiving ART"], [""]],
+							"EUR" : [[4642.00000], ["People receiving ART"], [""]],
+							"EMR" : [[61064.00000], ["People receiving ART"], [""]],
+							"AMR" : [[60278.00000], ["People receiving ART"], [""]],
+							"AFR" : [[665199.00000], ["People receiving ART"], [""]]
+						}
+					]
+				}
+			]
+		}, {
+			"derivedData" : [{
+					"derivedId" : 35,
+					"data" : [{
+							"2013" : [{
+									"WPR" : [[-1.00000, null, null], ["People living with HIV", "", ""]],
+									"SEAR" : [[-1.00000, null, null], ["", "", ""]],
+									"EUR" : [[-1.00000, null, null], ["", "", ""]],
+									"EMR" : [[290000.00000, null, null], ["", "", ""]],
+									"AMR" : [[110000.00000, null, null], ["", "", ""]],
+									"AFR" : [[-1.00000, null, null], ["", "", ""]]
+									
+								}
+							],
+							"2014" : [{
+									"WPR" : [[-1.00000, null, null], ["People living with HIV", "", ""]],
+									"SEAR" : [[-1.00000, null, null], ["", "", ""]],
+									"EUR" : [[-1.00000, null, null], ["", "", ""]],
+									"EMR" : [[290000.00000, null, null], ["", "", ""]],
+									"AMR" : [[110000.00000, null, null], ["", "", ""]],
+									"AFR" : [[-1.00000, null, null], ["", "", ""]]
+								}
+							]
+						}
+					]
+				}, {
+					"derivedId" : 38,
+					"data" : [{
+							
+							"2013" : [{
+									"WPR" : [[999.00000, null, null], ["Incidence (number)", "", ""]],
+									"SEAR" : [[-1.00000, null, null], ["", "", ""]],
+									"EUR" : [[999.00000, null, null], ["", "", ""]],
+									"EMR" : [[-1.00000, null, null], ["", "", ""]],
+									"AMR" : [[5100.00000, null, null], ["", "", ""]],
+									"AFR" : [[199.00000, null, null], ["", "", ""]]
+									
+								}
+							],
+							"2014" : [{
+									"WPR" : [[999.00000, null, null], ["Incidence (number)", "", ""]],
+									"SEAR" : [[-1.00000, null, null], ["", "", ""]],
+									"EUR" : [[999.00000, null, null], ["", "", ""]],
+									"EMR" : [[-1.00000, null, null], ["", "", ""]],
+									"AMR" : [[5100.00000, null, null], ["", "", ""]],
+									"AFR" : [[199.00000, null, null], ["", "", ""]]
+								}
+							],
+							"2015" : [{
+									"WPR" : [[999.00000, null, null], ["Incidence (number)", "", ""]],
+									"SEAR" : [[-1.00000, null, null], ["", "", ""]],
+									"EUR" : [[999.00000, null, null], ["", "", ""]],
+									"EMR" : [[-1.00000, null, null], ["", "", ""]],
+									"AMR" : [[5100.00000, null, null], ["", "", ""]],
+									"AFR" : [[199.00000, null, null], ["", "", ""]]
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"derivedInfo" : [{
+					"dataFormat" : "Standard",
+					"derivedId" : 35,
+					"derivedName" : "PLHIV",
+					"derivedStyle" : "Bubble",
+					"levels" : [{
+							"levelId" : 2,
+							"levelName" : "Country",
+							"scales" : [{
+									"linear" : [{
+											"lowScale" : [-1.0, 1800000.0, 3500000.0, 5200000.0],
+											"highScale" : [1800000.0, 3500000.0, 5200000.0, 6900000.0],
+											"scaleDesc" : ["Low", "Medium", "High", "Very High"],
+											"colorScale" : ["#ff2626", "#fc6315", "#0000ff", "#00004c"],
+											"style" : ["Bubble", "Bubble", "Bubble", "Bubble"]
+										}
+									]
+								}
+							]
+						}
+					]
+				}, {
+					"dataFormat" : "Standard",
+					"derivedId" : 38,
+					"derivedName" : "Incidence",
+					"derivedStyle" : "Bubble",
+					"levels" : [{
+							"levelId" : 2,
+							"levelName" : "Country",
+							"scales" : [{
+									"linear" : [{
+											"lowScale" : [0.0, 160000.0, 310000.0, 460000.0],
+											"highScale" : [160000.0, 310000.0, 460000.0, 610000.0],
+											"scaleDesc" : ["Low", "Medium", "High", "Very High"],
+											"colorScale" : ["#a52a2a", "#6666ff", "#0000ff", "#00004c"],
+											"style" : ["Bubble", "Bubble", "Bubble", "Bubble"]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"indicatorMetaInfo" : [{
+			"indicatorInfo" : {
+				"indicatorId" : 170,
+				"indicatorName" : "People receiving ART",
+				"levels" : [{
+						"levelId" : 1,
+						"levelName" : "World Region",
+						"scales" : [{
+								"linear" : [{
+										"lowScale" : [0.0, 10000.0, 50000.0, 250000.0, 1000000.0],
+										"highScale" : [9999.0, 49999.0, 249999.0, 999999.0, 9.9999999E7],
+										"scaleDesc" : ["0 - 9 999", "10 000 - 49 999", "50 000 - 249 999", "250 000 - 999 999", "1 000 000+"],
+										"colorScale" : ["#c71f22", "#fe7d00", "#e9e943", "#89cf35", "#1ed557"]
+									}
+								]
+							}
+						]
+					}, {
+						"levelId" : 2,
+						"levelName" : "Country",
+						"scales" : [{
+								"linear" : [{
+										"lowScale" : [0.0, 250001.0, 50001.0, 90001.0],
+										"highScale" : [25000.0, 50000.0, 90000.0, 3400000.0],
+										"scaleDesc" : ["0 – 25 000", "25 001 – 50 000", "50 001 – 90 000", "90 001+"],
+										"colorScale" : ["#c71f22", "#fe7d00", "#e9e943", "#89cf35"]
+									}
+								]
+							}
+						]
+					}
+				],
+				"chartStyle" : "Bar",
+				"dataFormat" : "Standard"
+			},
+			"indicatorInfoExt" : {
+				"label" : "People receiving ART"
+			}
+		}
+	],
+	"ui" : [],
+	"filterGroups" : []
+}

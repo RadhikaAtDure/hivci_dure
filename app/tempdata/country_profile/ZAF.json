@@ -1,0 +1,101 @@
+{
+	"sectionid" : 4,
+	"sectionname" : "Word Docs",
+	"sectionType" : "wordText",
+	"subSections" : [ {
+"subSectionName" : "4. Summary Description of the epidemiological situation",
+"subSectionText" : [ {
+	"subLabel" : "A. date of latest epi report",
+	"subLabelText" : "2013"
+}, {
+	"subLabel" : "B. Health Situation",
+	"subLabelText" : "The average life expectancy at birth remains low at 57 years for males and 60 for females in 2011. This is largely due to an 11% HIV prevalence rate in the total population with the prevalence amongst youth aged 15-20 years being about 8.6%. Pregnant women attending antenatal clinics show a prevalence of 29.4% in 2009. Maternal mortality ratio is approximately 300/100 000 live births and child mortality rate of about 47/1000 live births (2011). There is also a high burden of tuberculosis, with an estimated incidence of 970 per 100 000 population and the prevalence of all TB cases was 808 per 100 000, cardiovascular diseases, and violence and road traffic accident associated injuries. Human resources for health is fairly available but shortages still exist. The distribution favors urban areas. The country is making huge efforts at addressing the health needs of the population. Access to services such as antenatal care is about 94%. Skilled attendance at birth is 84%. Prevention of Mother to Child Transmission (PMTCT) is available in 95% of facilities with over 70% uptake in 2009. The treatment protocol for PMTCT has been improved to include dual therapy. About 80% of the population has access to the essential package of interventions within an hour of a health facility based on any mode of transport available. Health development partners are also supporting the sector in its programmes."
+}, {
+	"subLabel" : "C. HIV summary",
+	"subLabelText" : "South Africa has a generalised, hyperendemic HIV epidemic, and is home to the largest number of people living with HIV (6.4 million). Trends show a growing HIV epidemic among the general population in South Africa, with prevalence rising from 10.6% in 2008 to 12.2% in 2012. Further, HIV prevalence also varies greatly by age and sex, with women age 30-34 having the highest burden, at 36%, and young men age 15-19 having the lowest, at 0.7%. Importantly, this age disaggregated data highlights the disproportionately elevated vulnerability of young women and girls compared to their male peers; adolescent girls 15-19 are eight times more likely to be living with HIV than boys in the same age group. HIV incidence in South Africa shows an overall decline in new infections for the general population (15–49) from 1.9% in 2008 to 1.5% in 2012. Young women 15-24 have the highest incidence rates of any age group and gender in the country, at 2.54% in 2012. Evidence shows a decrease in the total number of people dying from AIDS from 300 000 in 2010 to 270 000 in 2011, to 136 000 in 2014. The HIV burden shows great variations by province, from 5% in the Western Cape to 17% in KwaZulu-Natal, though there are hot spots within lower prevalence provinces. The co-infection rate of people living with HIV who also had TB was 63.3% in 2013, down from a peak of 69.6% in 2009. This varies greatly by province, with a co-infection rate of 41.3% in the Western Cape, compared with 73.8% in Gauteng. Statistics South Africa estimates that TB is the leading natural cause of death in South Africa; in 2012, there were 119,000 TB deaths, 88,000 occurring in people living with HIV. The most important key population for the HIV epidemic in South Africa is young women and girls. Sex workers in South Africa have an extremely high HIV prevalence rate of 59.6%, their clients are also important key populations in South Africa. Evidence from the region shows that between one and two thirds of transport workers report having paid for sex in the past year, and HIV prevalence among truck drivers is estimated to be 17%-40%. Another important key population in South Africa is men who have sex with men (MSM). Further key populations are transgender women and people, who inject drugs."
+}]
+	}, {
+"subSectionName" : "5. Progress and challenges towards 90-90-90",
+"subSectionText" : []
+	}, {
+"subSectionName" : "A. Health policies and systems",
+"subSectionText" : [ {
+	"subLabel" : "A. Health policies and systems",
+	"subLabelText" : []
+}, {
+	"subLabel" : "B. COOPERATION FOR HEALTH",
+	"subLabelText" : "There are over 25 bilateral, multilateral and international development partners for health sector development in South Africa. The main ones include the United States Government through PEPFAR, United States Agency for International Development (USAID), the UK Department for International Development (DFID), the Japan International Cooperation Agency (JICA), the European Commission, the Australian Agency for International Development (AusAID), the Norwegian Agency for Development Cooperation (NORAD); the German Technical Cooperation Agency (GTZ); Cuba, Belgium,Greece, Finland, New Zealand and Italy, the United Nations Agencies and the Global Fund to Fight AIDS, Tuberculosis and Malaria (GFATM). The International Organization for Migration (IOM), the Department for International Development (DFID-UK) and some bilateral agencies do have regional or sub-regional offices in the country. Regional bodies such as the Southern African Development Community (SADC) and The New Partnership for Africa's Development (NEPAD) with health desks are also partners in the health sector. All the agencies are committed to the implementation of the Paris 2005 declarations on alignment and harmonization of donor support. There are fifteen active United Nations agencies in addition to the World Bank and the International Monetary Fund (IMF) with offices in South Africa. With the exception of UNDP, UNFPA, UNICEF, UNIC and WHO, all the other agencies have regional functions and mandates in Southern Africa and in some of the Indian Ocean Island States. The UN Country team will work in close collaboration with the Government of South Africa in developing the second United Nations Development Assistance Framework (UNDAF) 2012-2016 for the country."
+}, {
+	"subLabel" : "C. Summary description of the health system",
+	"subLabelText" : [{
+"subLabel" : "National policies",
+"subLabelText" : []
+},{
+"subLabel" : "Health sector strategy/plan",
+"subLabelText" : "2010-2013"
+}, {
+"subLabel" : "Service delivery",
+"subLabelText" : "Based on the lessons learnt in the CCMDD a service delivery model is being developed to include other chronic medicines including those for TB, diabetes, hypertension, chronic pulmonary diseases as well as oral contraceptives. This is necessary in order to attract and serve patients with co-morbidities and women requiring oral contraceptive commodities. In addition to this, a service delivery model for multi-drug resistant tuberculosis medicines is in the late stages of development."
+}, {
+"subLabel" : "Procurement",
+"subLabelText" : []
+}, {
+"subLabel" : "Human resources",
+"subLabelText" : []
+}, {
+"subLabel" : "Information system",
+"subLabelText" : "The main routine health information system for reporting on health programmes is the DHIS. Data from all public health facilities (private health care providers do not supply information) is aggregated and collated at facility sub-district or district levels and is then transferred electronically to provincial and national levels. The HIV and TB information systems (ETR.Net, the electronic tuberculosis register, EDRWeb, the electronic drug resistant tuberculosis register, and Tier.Net, the electronic HIV register) have been rolled out nationally. There is also a multiplicity of registers at health facilities and inadequate data capturing by nurses and lay counsellors."
+}, {
+"subLabel" : "Financing of the health sector",
+"subLabelText" : []
+}]
+}]
+	}, {
+"subSectionName" : "7. National HIV strategy/plan",
+"subSectionText" : [ {
+	"subLabel" : "A. Year cycle",
+	"subLabelText" : "2012-2016"
+}, {
+	"subLabel" : "B. Latest programme review",
+	"subLabelText" : []
+}]
+	}, {
+"subSectionName" : "8. Treatment and prevention policies",
+"subSectionText" : []
+	}, {
+"subSectionName" : "9. WCO HIV plans",
+"subSectionText" : "HIV treatment monitoring National hepatitis surveillance system STAFF COST for OUTPUT 1.1.1 Strengthened capacity of health care workers and community for service delivery Updated Hepatitis guidelines Updated national guidelines for HIV prevention and Treatment"}, {
+"subSectionName" : "10. GF grants",
+"subSectionText" : [ {
+	"subLabel" : "A. HIV or HIV/TB concept note – period",
+	"subLabelText" : "01/04/2016-31/03/2019"
+}, {
+	"subLabel" : "B. Current grant, start and end date and amount:",
+	"subLabelText" : "Western Cape Provincial Health Department: Strengthening and expanding the Western Cape HIV/AIDS prevention, treatment and care programmes, Grant Start Date 01 Jul 2004 Grant End Date 31 Mar 2016, Cumulative Signed Amount $ 145,685,133 Networking AIDS Community of South Africa (NACOSA): Leverating Partnership to achieve the goals of south Africa's HIV&AIDS and STI National Strategic Plan 2007-2011, SSF Start Date 01 Apr 2011 SSF End Date 31 Mar 2016, Cumulative Signed Amount $ 80,170,671 The National Department of Health of the Government of the Republic of South Africa: Increasing access to Integrated Tuberculosis and HIV Services at the Primary Health Care and Community Levels., SSF Start Date 01 Jul 2011 SSF End Date 31 Mar 2016, Cumulative Signed Amount $ 268,274,357  National Religious Association for Social Development (NRASD): Increasing Investment for Accelerated Impact of the National Strategic Plan for HIV and TB, 2012-2016, SSF Start Date 01 Oct 2013 SSF End Date 31 Mar 2016, Cumulative Signed Amount $ 20,909,486 Right to Care of Helen Joseph Hospital: Increasing Access to Integrated Tuberculosis and HIV Services at the Primary Health Care and Community Levels. SSF Start Date 01 Jan 2012 SSF End Date 30 Mar 2016, Cumulative Signed Amount $ 49,695,971 Soul City Institute for Health and Development Communication: South Africa HIV, SSF Start Date 01 Jan 2014 SSF End Date 31 Mar 2016, Cumulative Signed Amount $ 6,599,304 "
+}]
+	}, {
+"subSectionName" : "11. PEPFAR grants",
+"subSectionText" : [ {
+	"subLabel" : "A. Cycle",
+	"subLabelText" : "FY 2015 COP"
+}, {
+	"subLabel" : "B. Status (under development, in process, completed)",
+	"subLabelText" : "in process (targets to be achieved by September 30, 2016)"
+}, {
+	"subLabel" : "C. Technical areas covered",
+	"subLabelText" : "Given the priority to achieve epidemic control, PEPFAR calculated targets and unit expenditures for HTC as well as ART. Historically, HTC, ART and related support services represent approximately 60 percent of the total PEPFAR program budget. A new element contained in the 2015 COP is the proposal to pilot universal test and treat (UTT) programs in select sub-districts where the DREAMS initiative will be implemented, upon concurrence of the South African government"
+}, {
+	"subLabel" : "D. Geographic focus",
+	"subLabelText" : "In line with the funding trajectories outlined in the PFIP and principles of ‘focusing for impact’, the PEPFAR team is proposing to focus on achieving the UNAIDS 90-90-90 goals at current treatment guidelines within 27 high burden scale-up districts by 2017. These districts include 74 percent of the overall South African population and, as per the 2014 EA, accounted for 73 percent of the district level PEPFAR expenditures."
+}]
+	}, {
+"subSectionName" : "12. WHO response",
+"subSectionText" : ""
+	}, {
+"subSectionName" : "13. WHO CONTACTS",
+"subSectionText" : ""
+	}, {
+"subSectionName" : "14. List of Country documents",
+"subSectionText" : ""
+	}]
+}

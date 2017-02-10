@@ -1,0 +1,498 @@
+{
+	"data": {
+		"2001": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2001",
+				"hiv_rel_deaths": "1600000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2001",
+				"hiv_rel_deaths": "110000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2001",
+				"hiv_rel_deaths": "4900"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2001",
+				"hiv_rel_deaths": "34000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2001",
+				"hiv_rel_deaths": "210000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2001",
+				"hiv_rel_deaths": "44000"
+			}
+		},
+		"2002": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2002",
+				"hiv_rel_deaths": "1700000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2002",
+				"hiv_rel_deaths": "120000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2002",
+				"hiv_rel_deaths": "5800"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2002",
+				"hiv_rel_deaths": "40000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2002",
+				"hiv_rel_deaths": "230000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2002",
+				"hiv_rel_deaths": "51000"
+			}
+		},
+		"2003": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2003",
+				"hiv_rel_deaths": "1800000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2003",
+				"hiv_rel_deaths": "120000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2003",
+				"hiv_rel_deaths": "6700"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2003",
+				"hiv_rel_deaths": "46000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2003",
+				"hiv_rel_deaths": "250000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2003",
+				"hiv_rel_deaths": "56000"
+			}
+		},
+		"2004": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2004",
+				"hiv_rel_deaths": "1900000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2004",
+				"hiv_rel_deaths": "110000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2004",
+				"hiv_rel_deaths": "7500"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2004",
+				"hiv_rel_deaths": "53000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2004",
+				"hiv_rel_deaths": "270000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2004",
+				"hiv_rel_deaths": "62000"
+			}
+		},
+		"2005": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2005",
+				"hiv_rel_deaths": "1800000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2005",
+				"hiv_rel_deaths": "110000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2005",
+				"hiv_rel_deaths": "8400"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2005",
+				"hiv_rel_deaths": "59000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2005",
+				"hiv_rel_deaths": "270000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2005",
+				"hiv_rel_deaths": "68000"
+			}
+		},
+		"2006": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2006",
+				"hiv_rel_deaths": "1800000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2006",
+				"hiv_rel_deaths": "110000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2006",
+				"hiv_rel_deaths": "9400"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2006",
+				"hiv_rel_deaths": "65000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2006",
+				"hiv_rel_deaths": "270000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2006",
+				"hiv_rel_deaths": "69000"
+			}
+		},
+		"2007": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2007",
+				"hiv_rel_deaths": "1700000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2007",
+				"hiv_rel_deaths": "100000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2007",
+				"hiv_rel_deaths": "10000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2007",
+				"hiv_rel_deaths": "66000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2007",
+				"hiv_rel_deaths": "260000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2007",
+				"hiv_rel_deaths": "66000"
+			}
+		},
+		"2008": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2008",
+				"hiv_rel_deaths": "1600000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2008",
+				"hiv_rel_deaths": "100000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2008",
+				"hiv_rel_deaths": "11000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2008",
+				"hiv_rel_deaths": "65000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2008",
+				"hiv_rel_deaths": "250000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2008",
+				"hiv_rel_deaths": "68000"
+			}
+		},
+		"2009": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2009",
+				"hiv_rel_deaths": "1500000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2009",
+				"hiv_rel_deaths": "98000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2009",
+				"hiv_rel_deaths": "12000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2009",
+				"hiv_rel_deaths": "63000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2009",
+				"hiv_rel_deaths": "240000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2009",
+				"hiv_rel_deaths": "65000"
+			}
+		},
+		"2010": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2010",
+				"hiv_rel_deaths": "1400000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2010",
+				"hiv_rel_deaths": "92000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2010",
+				"hiv_rel_deaths": "13000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2010",
+				"hiv_rel_deaths": "63000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2010",
+				"hiv_rel_deaths": "220000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2010",
+				"hiv_rel_deaths": "66000"
+			}
+		},
+		"2011": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2011",
+				"hiv_rel_deaths": "1400000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2011",
+				"hiv_rel_deaths": "86000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2011",
+				"hiv_rel_deaths": "14000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2011",
+				"hiv_rel_deaths": "71000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2011",
+				"hiv_rel_deaths": "210000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2011",
+				"hiv_rel_deaths": "69000"
+			}
+		},
+		"2012": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2012",
+				"hiv_rel_deaths": "1200000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2012",
+				"hiv_rel_deaths": "81000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2012",
+				"hiv_rel_deaths": "15000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2012",
+				"hiv_rel_deaths": "74000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2012",
+				"hiv_rel_deaths": "200000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2012",
+				"hiv_rel_deaths": "59000"
+			}
+		},
+		"2013": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2013",
+				"hiv_rel_deaths": "1100000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2013",
+				"hiv_rel_deaths": "77000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2013",
+				"hiv_rel_deaths": "16000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2013",
+				"hiv_rel_deaths": "61000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2013",
+				"hiv_rel_deaths": "190000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2013",
+				"hiv_rel_deaths": "56000"
+			}
+		}
+	}
+}

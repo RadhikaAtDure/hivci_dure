@@ -1,0 +1,89 @@
+{
+	"sectionid" : 4,
+	"sectionname" : "Word Docs",
+	"sectionType" : "wordText",
+	"subSections" : [ {
+"subSectionName" : " Summary Description of the epidemiological situation",
+"subSectionText" : [ {
+	"subLabel" : "A. date of latest epi report",
+	"subLabelText" : []
+}, {
+	"subLabel" : "B. Health Situation",
+	"subLabelText" : "Over the past decades, people’s health in China has improved significantly. From 1990 to 2012, life expectancy at birth rose from 67 years to 75 years, and infant and under-five mortality rates dropped from 42 to 12 per 1000 live births and from 54 to 14 per 1000 live births, respectively. Maternal mortality ratio decreased from 120 per 100,000 live births to 37 per 100,000 live births in 2010, with hospital births commonplace. Despite overall achievements, there are large variations in health outcomes between urban and rural areas, across population groups and between geographic areas. China is experiencing a rapid epidemiological transition. Incidence of and mortality due to communicable diseases have dropped, and China is well on the way to eliminating malaria, measles and various neglected tropical diseases. However, disease control efforts for viral hepatitis, tuberculosis and HIV/AIDS remain important as well as managing the risks of major outbreaks of communicable diseases and the importation of non-endemic diseases. The incidence of the major non-communicable diseases has risen sharply. Malignant neoplasms, heart diseases, cerebrovascular diseases and chronic lung diseases are major causes of death. Significant demographic changes in China’s population of more than 1.3 billion people include decreasing fertility rate, ageing population and increased number of migrant workers. While a remarkable reduction in poverty has been achieved, rapid industrialization and urbanization have led to severe air, water and soil pollution, food safety concerns and unmet needs for health care. Health disparities caused by social inequity are being addressed through health care reforms since 2009. China contribute significantly to global health by continually improving the health outcomes of its own population, while health cooperation with other developing countries offers valuable lessons while China engages further in global health work and governance"
+}, {
+	"subLabel" : "C. HIV summary",
+	"subLabelText" : "The latest national estimates indicate that HIV/ AIDS remains on the rise in China. The epidemic is spreading from high-risk groups to the general population, and there is a potential risk that the epidemic will spread further. The latest estimation results indicate that as of the end of 2005, there are approximately 650,000 people currently living with HIV/AIDS in China (range: 540,000 to 760,000). Among these 650,000, there are an estimated 75,000 people living with AIDS (range: 65,000 to 85,000). Nationally, HIV prevalence averages 0.05% (range: 0.04 to 0.06%). By the end of November 2005, Henan and Yunnan have each reported over 30,000 cumulative HIV cases. Guangxi, Xinjiang and Guangdong have each reported over 10,000 cumulative HIV cases. Ningxia, Qinghai, and Tibet have each reported fewer than 100 cases. Estimation results indicate that among people currently living with HIV/AIDS, 44.3% were infected through injection drug use, 43.6% were infected through sexual transmission, 10.7% were infected through blood/blood products, and 1.4% were infected through mother-to-child transmission. In 2005, there were an estimated 70,000 new HIV infections (range: 60,000 to 80,000), and there were an estimated 25,000 AIDS deaths (range: 20,000 to 30,000). New HIV infections have primarily occurred among high-risk groups, including drug users, sex workers, clients of sex workers, MSM, and partners of people living with HIV/AIDS. A relatively small proportion of new cases are associated with mother-to-child transmission of HIV. Currently, 20,453 AIDS patients are receiving antiretroviral therapy in 605 counties within 28 provinces. Approximately 141,000 people living with HIV have been detected through testing. With an estimated 650,000 people living with HIV, this means that approximately 510,000 people living with HIV do not know their HIV status. This highlights the need for increased coverage of, marketing of, and access to HIV testing services as an entry point to prevention, treatment and care."
+}]
+	}, {
+"subSectionName" : " Progress and challenges towards 90-90-90",
+"subSectionText" : []
+	}, {
+"subSectionName" : " A. Health policies and systems",
+"subSectionText" : [ {
+	"subLabel" : "A. Health policies and systems",
+	"subLabelText" : "During the last 20 years, the total health expenditure in China has increased more than 30-fold. It accounted for 5.2% of the gross domestic product in 2011. The health care delivery system includes hospitals (general, traditional medicine and dental hospitals etc.), primary care institutions at district, county, township and village levels, and public health institutions such as maternal and child health centres and centres for disease prevention and control. Disparities exist in the density of inpatient beds and the number and quality of health workforce. The 12th Five-Year Plan for National Economic and Social Development (2011–2015) urges a deepening of health-care system reform that was launched full-scale in 2009 to meet people's basic healthcare demands. The State Council launched The 12th Five-Year Plan for Health Sector Development (2011–2015) and the Plan for Further Strengthening Health Care System Reform (2012–2015) in 2012. Urban Employee Basic Medical Insurance, Urban Residents Basic Medical Insurance and the new Cooperative Medical System are three basic medical insurance systems in China, with more than 95% of the population covered by 2011. Efforts to harmonize the schemes and deepen the insurance coverage , strengthen the essential medicines system, equalize the basic public health services, strengthen primary health services at the grass-root level, and tackle public hospital reform are priorities. The Government of China has strong commitment to international agreements such as MDGs and International Health Regulations to advance health and health security for its population and beyond. It is also addressing the burden of noncommunicable diseases through the National Plan for Noncommunicable Disease Prevention and Control 2012-2015 and implementing provisions of the Framework Convention of Tobacco Control. With China’s deep engagement in the globalization of trade and strengthening of the regulation, quality assurance and management of medicines, vaccines and health technologies, China’s contributions to global health are ever increasing."
+}, {
+	"subLabel" : "B. COOPERATION FOR HEALTH",
+	"subLabelText" : "With successful economic development, China’s status as a beneficiary of development aid is changing. According to the Organization for Economic Co-operation and Development, net official development assistance disbursement received by China as a percentage of Gross National Income has decreased from 0.12% in 2001 to 0.01% in 2010. The health sector is observing a similar trend. Many development partners have recently reduced or withdrawn bilateral support to China. There are 21 United Nations System organizations represented in China, including WHO. They work together as part of the United Nations Country Team in order to support China in its development. The United Nations Development Assistance Framework covers 2011–2015."
+}, {
+	"subLabel" : "C. Summary description of the health system",
+	"subLabelText" : [{
+"subLabel" : "National policies",
+"subLabelText" : "Around the country, governments of all 31 provinces and autonomous regions, and 88% of prefecture governments have established prevention, treatment and care leadership coordination mechanisms. HIV/AIDS prevention and care laws have been drafted, including the “HIV/AIDS Prevention and Care Regulations” that will soon be issued. These regulations detail the responsibilities of each level of government as well as the rights and responsibilities of people living with HIV/AIDS."
+}, {
+"subLabel" : "Health sector strategy/plan",
+"subLabelText" : "2011-2015"
+}, {
+"subLabel" : "Service delivery",
+"subLabelText" : "There are now 57 confirmatory laboratories and 3,756 screening laboratories. There are now 2,850 free VCT clinics providing free counselling and testing services"
+}, {
+"subLabel" : "Procurement",
+"subLabelText" : []
+}, {
+"subLabel" : "Human resources",
+"subLabelText" :[]
+}, {
+"subLabel" : "Information system",
+"subLabelText" : "Surveillance has been strengthened, and a web-based disease reporting system has been established. Additional national and provincial sentinel surveillance sites have been established. By the end of 2005, there were 329 national HIV sentinel surveillance sites and 400 provincial sentinel surveillance sites, covering the majority of prefectures and key populations."
+}, {
+"subLabel" : "Financing of the health sector",
+"subLabelText" : []
+}]
+}]
+	}, {
+"subSectionName" : " National HIV strategy/plan",
+"subSectionText" : [ {
+	"subLabel" : "A. Year cycle",
+	"subLabelText" : "2005-2010"
+}, {
+	"subLabel" : "B. Latest programme review",
+	"subLabelText" : []
+}]
+	}, {
+"subSectionName" : " Treatment and prevention policies",
+"subSectionText" : []
+	}, {
+"subSectionName" : " WCO HIV plans",
+"subSectionText" : "Support the Government of China to start and scale up a public health program on treatment of hepatitis Support adaptation and implementation of universal access to HIV diagnosis, treatment and care Provide high quality Technical assistance for the adoption of treatment semplification (FDC), early initiation of treatment, targeted interventions for MSM and PMTCT, stigma reduction and control of HIV DR. Assist governemnt with integration of treatment of hepatitis into current preventive and advocacy efforts on hep B and C. ATM HIV staff cost "}, {
+"subSectionName" : " GF grants",
+"subSectionText" : [ {
+	"subLabel" : "A. HIV or HIV/TB concept note – period",
+	"subLabelText" : "No concept note"
+}, {
+	"subLabel" : "B. Current grant, start and end date and amount:",
+	"subLabelText" : ""
+}]
+	}, {
+"subSectionName" : "PEPFAR grants",
+"subSectionText" : "No Pepfar COP"
+	}, {
+"subSectionName" : " WHO response",
+"subSectionText" : ""
+	}, {
+"subSectionName" : " WHO CONTACTS",
+"subSectionText" : ""
+	}, {
+"subSectionName" : " List of Country documents",
+"subSectionText" : ""
+	}]
+}

@@ -1,0 +1,726 @@
+{
+	"data": {
+		"2013": {
+			"DZA": {
+				"iso3Code": "DZA",
+				"countryName": "Algeria",
+				"consolidated_ALL": "500"
+			},
+			"AGO": {
+				"iso3Code": "AGO",
+				"countryName": "Angola",
+				"consolidated_ALL": "350"
+			},
+			"BEN": {
+				"iso3Code": "BEN",
+				"countryName": "Benin",
+				"consolidated_ALL": "350"
+			},
+			"BWA": {
+				"iso3Code": "BWA",
+				"countryName": "Botswana",
+				"consolidated_ALL": "350"
+			},
+			"BFA": {
+				"iso3Code": "BFA",
+				"countryName": "Burkina Faso",
+				"consolidated_ALL": "500"
+			},
+			"BDI": {
+				"iso3Code": "BDI",
+				"countryName": "Burundi",
+				"consolidated_ALL": "500"
+			},
+			"CMR": {
+				"iso3Code": "CMR",
+				"countryName": "Cameroon",
+				"consolidated_ALL": "500"
+			},
+			"CPV": {
+				"iso3Code": "CPV",
+				"countryName": "Cape Verde",
+				"consolidated_ALL": "350"
+			},
+			"CAF": {
+				"iso3Code": "CAF",
+				"countryName": "Central African Republic",
+				"consolidated_ALL": "350"
+			},
+			"TCD": {
+				"iso3Code": "TCD",
+				"countryName": "Chad",
+				"consolidated_ALL": "350"
+			},
+			"COM": {
+				"iso3Code": "COM",
+				"countryName": "Comoros",
+				"consolidated_ALL": "All treated"
+			},
+			"COG": {
+				"iso3Code": "COG",
+				"countryName": "Congo",
+				"consolidated_ALL": "500"
+			},
+			"CIV": {
+				"iso3Code": "CIV",
+				"countryName": "Côte d'Ivoire",
+				"consolidated_ALL": "350"
+			},
+			"COD": {
+				"iso3Code": "COD",
+				"countryName": "Democratic Republic of the Congo",
+				"consolidated_ALL": "500"
+			},
+			"ERI": {
+				"iso3Code": "ERI",
+				"countryName": "Eritrea",
+				"consolidated_ALL": "500"
+			},
+			"ETH": {
+				"iso3Code": "ETH",
+				"countryName": "Ethiopia",
+				"consolidated_ALL": "500"
+			},
+			"GAB": {
+				"iso3Code": "GAB",
+				"countryName": "Gabon",
+				"consolidated_ALL": "500"
+			},
+			"GMB": {
+				"iso3Code": "GMB",
+				"countryName": "Gambia",
+				"consolidated_ALL": null
+			},
+			"GHA": {
+				"iso3Code": "GHA",
+				"countryName": "Ghana",
+				"consolidated_ALL": "500"
+			},
+			"GIN": {
+				"iso3Code": "GIN",
+				"countryName": "Guinea",
+				"consolidated_ALL": "350"
+			},
+			"GNB": {
+				"iso3Code": "GNB",
+				"countryName": "Guinea-Bissau",
+				"consolidated_ALL": null
+			},
+			"KEN": {
+				"iso3Code": "KEN",
+				"countryName": "Kenya",
+				"consolidated_ALL": "500"
+			},
+			"LSO": {
+				"iso3Code": "LSO",
+				"countryName": "Lesotho",
+				"consolidated_ALL": "350"
+			},
+			"LBR": {
+				"iso3Code": "LBR",
+				"countryName": "Liberia",
+				"consolidated_ALL": "350"
+			},
+			"MDG": {
+				"iso3Code": "MDG",
+				"countryName": "Madagascar",
+				"consolidated_ALL": "500"
+			},
+			"MWI": {
+				"iso3Code": "MWI",
+				"countryName": "Malawi",
+				"consolidated_ALL": "500"
+			},
+			"MLI": {
+				"iso3Code": "MLI",
+				"countryName": "Mali",
+				"consolidated_ALL": "500"
+			},
+			"MRT": {
+				"iso3Code": "MRT",
+				"countryName": "Mauritania",
+				"consolidated_ALL": "500"
+			},
+			"MUS": {
+				"iso3Code": "MUS",
+				"countryName": "Mauritius",
+				"consolidated_ALL": null
+			},
+			"MOZ": {
+				"iso3Code": "MOZ",
+				"countryName": "Mozambique",
+				"consolidated_ALL": "350"
+			},
+			"NAM": {
+				"iso3Code": "NAM",
+				"countryName": "Namibia",
+				"consolidated_ALL": "500"
+			},
+			"NER": {
+				"iso3Code": "NER",
+				"countryName": "Niger",
+				"consolidated_ALL": "500"
+			},
+			"NGA": {
+				"iso3Code": "NGA",
+				"countryName": "Nigeria",
+				"consolidated_ALL": "500"
+			},
+			"RWA": {
+				"iso3Code": "RWA",
+				"countryName": "Rwanda",
+				"consolidated_ALL": "500"
+			},
+			"STP": {
+				"iso3Code": "STP",
+				"countryName": "Sao Tome and Principe",
+				"consolidated_ALL": null
+			},
+			"SEN": {
+				"iso3Code": "SEN",
+				"countryName": "Senegal",
+				"consolidated_ALL": "500"
+			},
+			"SYC": {
+				"iso3Code": "SYC",
+				"countryName": "Seychelles",
+				"consolidated_ALL": "500"
+			},
+			"SLE": {
+				"iso3Code": "SLE",
+				"countryName": "Sierra Leone",
+				"consolidated_ALL": "350"
+			},
+			"ZAF": {
+				"iso3Code": "ZAF",
+				"countryName": "South Africa",
+				"consolidated_ALL": "500"
+			},
+			"SWZ": {
+				"iso3Code": "SWZ",
+				"countryName": "Swaziland",
+				"consolidated_ALL": "500"
+			},
+			"TGO": {
+				"iso3Code": "TGO",
+				"countryName": "Togo",
+				"consolidated_ALL": "500"
+			},
+			"UGA": {
+				"iso3Code": "UGA",
+				"countryName": "Uganda",
+				"consolidated_ALL": "500"
+			},
+			"TZA": {
+				"iso3Code": "TZA",
+				"countryName": "United Republic of Tanzania",
+				"consolidated_ALL": "500"
+			},
+			"ZMB": {
+				"iso3Code": "ZMB",
+				"countryName": "Zambia",
+				"consolidated_ALL": "500"
+			},
+			"ZWE": {
+				"iso3Code": "ZWE",
+				"countryName": "Zimbabwe",
+				"consolidated_ALL": "500"
+			},
+			"SSD": {
+				"iso3Code": "SSD",
+				"countryName": "South Sudan",
+				"consolidated_ALL": "500"
+			},
+			"ATG": {
+				"iso3Code": "ATG",
+				"countryName": "Antigua and Barbuda",
+				"consolidated_ALL": null
+			},
+			"ARG": {
+				"iso3Code": "ARG",
+				"countryName": "Argentina",
+				"consolidated_ALL": "500"
+			},
+			"BLZ": {
+				"iso3Code": "BLZ",
+				"countryName": "Belize",
+				"consolidated_ALL": "500"
+			},
+			"BOL": {
+				"iso3Code": "BOL",
+				"countryName": "Bolivia (Plurinational State of)",
+				"consolidated_ALL": "500"
+			},
+			"BRA": {
+				"iso3Code": "BRA",
+				"countryName": "Brazil",
+				"consolidated_ALL": "500"
+			},
+			"CHL": {
+				"iso3Code": "CHL",
+				"countryName": "Chile",
+				"consolidated_ALL": "350"
+			},
+			"COL": {
+				"iso3Code": "COL",
+				"countryName": "Colombia",
+				"consolidated_ALL": "350"
+			},
+			"CRI": {
+				"iso3Code": "CRI",
+				"countryName": "Costa Rica",
+				"consolidated_ALL": "500"
+			},
+			"CUB": {
+				"iso3Code": "CUB",
+				"countryName": "Cuba",
+				"consolidated_ALL": "500"
+			},
+			"DMA": {
+				"iso3Code": "DMA",
+				"countryName": "Dominica",
+				"consolidated_ALL": "500"
+			},
+			"DOM": {
+				"iso3Code": "DOM",
+				"countryName": "Dominican Republic",
+				"consolidated_ALL": "350"
+			},
+			"ECU": {
+				"iso3Code": "ECU",
+				"countryName": "Ecuador",
+				"consolidated_ALL": "500"
+			},
+			"SLV": {
+				"iso3Code": "SLV",
+				"countryName": "El Salvador",
+				"consolidated_ALL": "500"
+			},
+			"GRD": {
+				"iso3Code": "GRD",
+				"countryName": "Grenada",
+				"consolidated_ALL": "500"
+			},
+			"GTM": {
+				"iso3Code": "GTM",
+				"countryName": "Guatemala",
+				"consolidated_ALL": "500"
+			},
+			"GUY": {
+				"iso3Code": "GUY",
+				"countryName": "Guyana",
+				"consolidated_ALL": "500"
+			},
+			"HTI": {
+				"iso3Code": "HTI",
+				"countryName": "Haiti",
+				"consolidated_ALL": "500"
+			},
+			"HND": {
+				"iso3Code": "HND",
+				"countryName": "Honduras",
+				"consolidated_ALL": "500"
+			},
+			"JAM": {
+				"iso3Code": "JAM",
+				"countryName": "Jamaica",
+				"consolidated_ALL": "350"
+			},
+			"MEX": {
+				"iso3Code": "MEX",
+				"countryName": "Mexico",
+				"consolidated_ALL": "500"
+			},
+			"NIC": {
+				"iso3Code": "NIC",
+				"countryName": "Nicaragua",
+				"consolidated_ALL": "350"
+			},
+			"PAN": {
+				"iso3Code": "PAN",
+				"countryName": "Panama",
+				"consolidated_ALL": "350"
+			},
+			"PRY": {
+				"iso3Code": "PRY",
+				"countryName": "Paraguay",
+				"consolidated_ALL": "350"
+			},
+			"PER": {
+				"iso3Code": "PER",
+				"countryName": "Peru",
+				"consolidated_ALL": "350"
+			},
+			"LCA": {
+				"iso3Code": "LCA",
+				"countryName": "Saint Lucia",
+				"consolidated_ALL": null
+			},
+			"VCT": {
+				"iso3Code": "VCT",
+				"countryName": "Saint Vincent and the Grenadines",
+				"consolidated_ALL": "500"
+			},
+			"SUR": {
+				"iso3Code": "SUR",
+				"countryName": "Suriname",
+				"consolidated_ALL": "350"
+			},
+			"URY": {
+				"iso3Code": "URY",
+				"countryName": "Uruguay",
+				"consolidated_ALL": "500"
+			},
+			"VEN": {
+				"iso3Code": "VEN",
+				"countryName": "Venezuela (Bolivarian Republic of)",
+				"consolidated_ALL": "500"
+			},
+			"AFG": {
+				"iso3Code": "AFG",
+				"countryName": "Afghanistan",
+				"consolidated_ALL": "200"
+			},
+			"DJI": {
+				"iso3Code": "DJI",
+				"countryName": "Djibouti",
+				"consolidated_ALL": "500"
+			},
+			"EGY": {
+				"iso3Code": "EGY",
+				"countryName": "Egypt",
+				"consolidated_ALL": "500"
+			},
+			"IRN": {
+				"iso3Code": "IRN",
+				"countryName": "Iran (Islamic Republic of)",
+				"consolidated_ALL": "500"
+			},
+			"IRQ": {
+				"iso3Code": "IRQ",
+				"countryName": "Iraq",
+				"consolidated_ALL": null
+			},
+			"JOR": {
+				"iso3Code": "JOR",
+				"countryName": "Jordan",
+				"consolidated_ALL": null
+			},
+			"LBN": {
+				"iso3Code": "LBN",
+				"countryName": "Lebanon",
+				"consolidated_ALL": "500"
+			},
+			"LBY": {
+				"iso3Code": "LBY",
+				"countryName": "Libya",
+				"consolidated_ALL": "350"
+			},
+			"MAR": {
+				"iso3Code": "MAR",
+				"countryName": "Morocco",
+				"consolidated_ALL": "350"
+			},
+			"PAK": {
+				"iso3Code": "PAK",
+				"countryName": "Pakistan",
+				"consolidated_ALL": "500"
+			},
+			"SOM": {
+				"iso3Code": "SOM",
+				"countryName": "Somalia",
+				"consolidated_ALL": "500"
+			},
+			"SDN": {
+				"iso3Code": "SDN",
+				"countryName": "Sudan",
+				"consolidated_ALL": "500"
+			},
+			"SYR": {
+				"iso3Code": "SYR",
+				"countryName": "Syrian Arab Republic",
+				"consolidated_ALL": "350"
+			},
+			"TUN": {
+				"iso3Code": "TUN",
+				"countryName": "Tunisia",
+				"consolidated_ALL": "350"
+			},
+			"YEM": {
+				"iso3Code": "YEM",
+				"countryName": "Yemen",
+				"consolidated_ALL": "All treated"
+			},
+			"ALB": {
+				"iso3Code": "ALB",
+				"countryName": "Albania",
+				"consolidated_ALL": "350"
+			},
+			"ARM": {
+				"iso3Code": "ARM",
+				"countryName": "Armenia",
+				"consolidated_ALL": "350"
+			},
+			"AZE": {
+				"iso3Code": "AZE",
+				"countryName": "Azerbaijan",
+				"consolidated_ALL": "350"
+			},
+			"BLR": {
+				"iso3Code": "BLR",
+				"countryName": "Belarus",
+				"consolidated_ALL": "350"
+			},
+			"BIH": {
+				"iso3Code": "BIH",
+				"countryName": "Bosnia and Herzegovina",
+				"consolidated_ALL": null
+			},
+			"BGR": {
+				"iso3Code": "BGR",
+				"countryName": "Bulgaria",
+				"consolidated_ALL": "350"
+			},
+			"GEO": {
+				"iso3Code": "GEO",
+				"countryName": "Georgia",
+				"consolidated_ALL": "500"
+			},
+			"KAZ": {
+				"iso3Code": "KAZ",
+				"countryName": "Kazakhstan",
+				"consolidated_ALL": "350"
+			},
+			"KGZ": {
+				"iso3Code": "KGZ",
+				"countryName": "Kyrgyzstan",
+				"consolidated_ALL": "350"
+			},
+			"LVA": {
+				"iso3Code": "LVA",
+				"countryName": "Latvia",
+				"consolidated_ALL": null
+			},
+			"LTU": {
+				"iso3Code": "LTU",
+				"countryName": "Lithuania",
+				"consolidated_ALL": "350"
+			},
+			"MNE": {
+				"iso3Code": "MNE",
+				"countryName": "Montenegro",
+				"consolidated_ALL": null
+			},
+			"MDA": {
+				"iso3Code": "MDA",
+				"countryName": "Republic of Moldova",
+				"consolidated_ALL": "350"
+			},
+			"ROU": {
+				"iso3Code": "ROU",
+				"countryName": "Romania",
+				"consolidated_ALL": "All treated"
+			},
+			"RUS": {
+				"iso3Code": "RUS",
+				"countryName": "Russian Federation",
+				"consolidated_ALL": "350"
+			},
+			"SRB": {
+				"iso3Code": "SRB",
+				"countryName": "Serbia",
+				"consolidated_ALL": null
+			},
+			"TJK": {
+				"iso3Code": "TJK",
+				"countryName": "Tajikistan",
+				"consolidated_ALL": "350"
+			},
+			"MKD": {
+				"iso3Code": "MKD",
+				"countryName": "The former Yugoslav Republic of Macedonia",
+				"consolidated_ALL": null
+			},
+			"TUR": {
+				"iso3Code": "TUR",
+				"countryName": "Turkey",
+				"consolidated_ALL": null
+			},
+			"TKM": {
+				"iso3Code": "TKM",
+				"countryName": "Turkmenistan",
+				"consolidated_ALL": null
+			},
+			"UKR": {
+				"iso3Code": "UKR",
+				"countryName": "Ukraine",
+				"consolidated_ALL": "350"
+			},
+			"UZB": {
+				"iso3Code": "UZB",
+				"countryName": "Uzbekistan",
+				"consolidated_ALL": "500"
+			},
+			"BGD": {
+				"iso3Code": "BGD",
+				"countryName": "Bangladesh",
+				"consolidated_ALL": "350"
+			},
+			"BTN": {
+				"iso3Code": "BTN",
+				"countryName": "Bhutan",
+				"consolidated_ALL": "500"
+			},
+			"PRK": {
+				"iso3Code": "PRK",
+				"countryName": "Democratic People's Republic of Korea",
+				"consolidated_ALL": null
+			},
+			"IND": {
+				"iso3Code": "IND",
+				"countryName": "India",
+				"consolidated_ALL": "500"
+			},
+			"IDN": {
+				"iso3Code": "IDN",
+				"countryName": "Indonesia",
+				"consolidated_ALL": "350"
+			},
+			"MDV": {
+				"iso3Code": "MDV",
+				"countryName": "Maldives",
+				"consolidated_ALL": "500"
+			},
+			"MMR": {
+				"iso3Code": "MMR",
+				"countryName": "Myanmar",
+				"consolidated_ALL": "500"
+			},
+			"NPL": {
+				"iso3Code": "NPL",
+				"countryName": "Nepal",
+				"consolidated_ALL": "500"
+			},
+			"LKA": {
+				"iso3Code": "LKA",
+				"countryName": "Sri Lanka",
+				"consolidated_ALL": "500"
+			},
+			"THA": {
+				"iso3Code": "THA",
+				"countryName": "Thailand",
+				"consolidated_ALL": "All treated"
+			},
+			"TLS": {
+				"iso3Code": "TLS",
+				"countryName": "Timor-Leste",
+				"consolidated_ALL": "500"
+			},
+			"KHM": {
+				"iso3Code": "KHM",
+				"countryName": "Cambodia",
+				"consolidated_ALL": "350"
+			},
+			"CHN": {
+				"iso3Code": "CHN",
+				"countryName": "China",
+				"consolidated_ALL": "500"
+			},
+			"COK": {
+				"iso3Code": "COK",
+				"countryName": "Cook Islands",
+				"consolidated_ALL": null
+			},
+			"FJI": {
+				"iso3Code": "FJI",
+				"countryName": "Fiji",
+				"consolidated_ALL": "500"
+			},
+			"KIR": {
+				"iso3Code": "KIR",
+				"countryName": "Kiribati",
+				"consolidated_ALL": null
+			},
+			"LAO": {
+				"iso3Code": "LAO",
+				"countryName": "Lao People's Democratic Republic",
+				"consolidated_ALL": "350"
+			},
+			"MYS": {
+				"iso3Code": "MYS",
+				"countryName": "Malaysia",
+				"consolidated_ALL": "350"
+			},
+			"MHL": {
+				"iso3Code": "MHL",
+				"countryName": "Marshall Islands",
+				"consolidated_ALL": null
+			},
+			"FSM": {
+				"iso3Code": "FSM",
+				"countryName": "Micronesia (Federated States of)",
+				"consolidated_ALL": null
+			},
+			"MNG": {
+				"iso3Code": "MNG",
+				"countryName": "Mongolia",
+				"consolidated_ALL": "500"
+			},
+			"NRU": {
+				"iso3Code": "NRU",
+				"countryName": "Nauru",
+				"consolidated_ALL": null
+			},
+			"NIU": {
+				"iso3Code": "NIU",
+				"countryName": "Niue",
+				"consolidated_ALL": null
+			},
+			"PLW": {
+				"iso3Code": "PLW",
+				"countryName": "Palau",
+				"consolidated_ALL": null
+			},
+			"PNG": {
+				"iso3Code": "PNG",
+				"countryName": "Papua New Guinea",
+				"consolidated_ALL": "500"
+			},
+			"PHL": {
+				"iso3Code": "PHL",
+				"countryName": "Philippines",
+				"consolidated_ALL": "350"
+			},
+			"WSM": {
+				"iso3Code": "WSM",
+				"countryName": "Samoa",
+				"consolidated_ALL": null
+			},
+			"SLB": {
+				"iso3Code": "SLB",
+				"countryName": "Solomon Islands",
+				"consolidated_ALL": null
+			},
+			"TON": {
+				"iso3Code": "TON",
+				"countryName": "Tonga",
+				"consolidated_ALL": null
+			},
+			"TUV": {
+				"iso3Code": "TUV",
+				"countryName": "Tuvalu",
+				"consolidated_ALL": null
+			},
+			"VUT": {
+				"iso3Code": "VUT",
+				"countryName": "Vanuatu",
+				"consolidated_ALL": null
+			},
+			"VNM": {
+				"iso3Code": "VNM",
+				"countryName": "Viet Nam",
+				"consolidated_ALL": "350"
+			}
+		}
+	}
+}

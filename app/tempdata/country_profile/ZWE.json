@@ -1,0 +1,101 @@
+{
+	"sectionid" : 4,
+	"sectionname" : "Word Docs",
+	"sectionType" : "wordText",
+	"subSections" : [ {
+"subSectionName" : "Summary Description of the epidemiological situation",
+"subSectionText" : [ {
+	"subLabel" : "A. date of latest epi report",
+	"subLabelText" : []
+}, {
+	"subLabel" : "B. Health Situation",
+	"subLabelText" : "The Zimbabwean health situation can be characterized as recovering after unprecedented decline during the first decade of this millennium. There was deterioration of infrastructure, lack of investment, poor remuneration of health workers, shortage of essential supplies and commodities that led to the near-collapse of the health sector in late 2008, and early 2009. Life expectancy at birth in Zimbabwe has improved from a low of 35 years mid-2000 to an estimated 58 years by 2012. According to 2012 census, infant and under-5 mortality improved from 65 and 102 in the 1990s to 64 and 84 per 1000 live births respectively in 2012. Maternal mortality remains very high at 570 per 100 000 live births in 2012, though it has significantly dropped from a peak of 960 per 100 000 live births in 2010. Admittedly the country is not on track to meet its health MDG targets 4 & 5. However the country is on track to achieving its HIV and malaria targets in MDG 6. Although the country’s burden of communicable diseases remains high, Zimbabwe has made some positive strides with respect to reducing HIV prevalence from a peak of 33% in mid 1990s to the current prevalence of 15% (2012). On the other hand, Zimbabwe is now facing an increasing threat of non-communicable diseases like cardiovascular diseases (hypertension, stroke, heart attacks); diabetes and cancer in particular cervical cancer in women."
+}, {
+	"subLabel" : "C. HIV summary",
+	"subLabelText" : "Zimbabwe is a country in southern Africa with a population of 12.9 million people and has a generalized heterosexually driven HIV epidemic, with exceptionally high levels of HIV prevalence in the past and significantly lower levels at present. It is estimated that over the 12 years from 1997 to 2009, adult HIV prevalence nearly halved from 26.5% to 14.3%. In 2009, the country had an estimated 1.2 million people living with HIV, the third largest HIV burden in Southern Africa after South Africa and Mozambique. The prevalence among adults age 15-49 is 15%, 18% for women and 12% for men. HIV prevalence in women peaks at 29% in the 30-39 year old age group, while for men it peaks at 30% in the 45-49 year old age group. There is limited HIV prevalence information in most at risk key populations; one database from 2001 indicates that 50% of female sex workers were HIV infected. HIV in prison settings is high at 26.8% for male inmates and 39% in female inmates. There appears to be variation in prevalence across the country with the highest prevalence in the south at 21%, and the capital, Harare, with the lowest at 13%. By the end of 2012, an estimated 1.2 million people (1,054,000 adults and 189,000 children) were living with HIV and an estimated 560,000 adults and children were in need of anti-retroviral therapy (ART). In 2011 there were an estimated 46,000 new infections and 64,000 AIDS related deaths. There are an estimated 950,000 AIDS related orphans. Based on a 2010 Modes of Transmission (MOTS) study, the key drivers of the HIV epidemic were identified as multiple concurrent partnerships, inter-generational sex and discordant couples."
+}]
+	}, {
+"subSectionName" : "Progress and challenges towards 90-90-90",
+"subSectionText" : []
+	}, {
+"subSectionName" : "A. Health policies and systems",
+"subSectionText" : [ {
+	"subLabel" : "A. Health policies and systems",
+	"subLabelText" : "The Ministry of Health and Child Care strategy is being guided by the 2009-2013 National Health Strategy whose life-span has been extended to 2015 to coincide with the MDG year. The main focus remains working for quality and equity in health whose aim is to improve the quality of life for Zimbabweans. The Right to Health for every Zimbabwean was affirmed through the new constitution adopted in 2013. The weakened health systems resulting from decade long socio-political challenges do require significant financial investment to reverse the considerable weaknesses in human resources for health, health financing, health information, medicines and equipment, leadership and governance and the overall service delivery. Concerted efforts to make significant improvements remain constrained by national fiscal space that remains small resulting in insignificant inflows into health budget. Under the Government of National Unity set in early 2009, the Health Transition Fund (HTF), a multi-donor pooled fund was set up to support the Ministry of Health and Child Care. Since its launch in 2011, under the guidance of Zimbabwe United Nations Assistance Development Framework (ZUNDAF) coupled with the support from other donor funding i.e. Global Fund, USG and others, Zimbabwe’s health system is now set on a recovery path to achieve planned progress towards 'achieving the highest possible level of health and quality of life for all Zimbabweans'."
+}, {
+	"subLabel" : "B. COOPERATION FOR HEALTH",
+	"subLabelText" : "The Global Fund remains one of the major funding partners to HIV & AIDS, TB, malaria programs and Health System Strengthening in terms of human resource retention, health information and service delivery. Increasingly the Health Transition Fund that was launched in 2011 specifically to assist in maternal, newborn and child health programs has become a more active channel where donors are supporting MOHCC. The Principal Recipient for Global Fund continues to be UNDP since the country is under the Additional Safe Guard Measures instituted early 2009. Other donors continue to assist through UN agencies mainly UNICEF, UNFPA, WHO, UNAIDS and ECHO whilst some donor like EU, DfID, USG (through USAID, CDC, RTI, MChip) are now directly implementing some programmes on the ground through NGOs e.g. Elizabeth Glaser Pediatric AIDS Foundation (EGPAF), Absolute Return for Kids (ARK) etc. Other channels through which the health sector continues to get assistance is through Global Alliance for Vaccines and Immunization (GAVI). UN agencies support to MOHCC is through the Zimbabwe United Nations Development Assistance Framework (ZUNDAF) under a Joint Implementation Matrix (JIM)."
+}, {
+	"subLabel" : "C. Summary description of the health system",
+	"subLabelText" : [{
+"subLabel" : "National policies",
+"subLabelText" : "The National HIV Policy promotes zero stigma and discrimination with a supporting legal framework including non-discrimination in relation to employment."
+}, {
+"subLabel" : "Health sector strategy/plan",
+"subLabelText" : "2009-2015"
+}, {
+"subLabel" : "Service delivery",
+"subLabelText" :[]
+}, {
+"subLabel" : "Procurement",
+"subLabelText" : "NatPharm is now focusing on providing procurement services of pharmaceuticals apart from storage and distribution functions. Storage and distribution of antiretroviral medicines will be decentralised to all the four NatPharm branch stores and the remaining 1,508 facilities will also be assessed."
+}, {
+"subLabel" : "Human resources",
+"subLabelText" : "The Government of Zimbabwe has demonstrated its commitment to retaining and maintaining human resources in general for the health sector through the payment of basic salaries and maintaining facilities infrastructure. The government of Zimbabwe has also committed to ensuring in-service training to all medical personnel at the University of Zimbabwe, College of Health Sciences."
+}, {
+"subLabel" : "Information system",
+"subLabelText" : "The National Monitoring & Evaluation (M&E) system has been decentralised down to district level and is linked with the MOHCW HIV M&E systems. These systems have provided the evidence necessary to support “evidence and results based” management of the response as well as indicator values and baselines of the ZNASP II. Quality of data needs to be improved. Patient data is collected using a paper based system. Increased data requirements and growing numbers of people accessing services has resulted in reduced data quality and health workers being overburdened with heavy data recording and reporting requirements. This lack of timely transmission of data from health facility to district, province and national levels disrupts the communication infrastructure."
+}, {
+"subLabel" : "Financing of the health sector",
+"subLabelText" : []
+}]
+}]
+	}, {
+"subSectionName" : "National HIV strategy/plan",
+"subSectionText" : [ {
+	"subLabel" : "A. Year cycle",
+	"subLabelText" : "2011-2015"
+}, {
+	"subLabel" : "B. Latest programme review",
+	"subLabelText" : "2013"
+}]
+	}, {
+"subSectionName" : "Treatment and prevention policies",
+"subSectionText" : []
+	}, {
+"subSectionName" : "WCO HIV plans",
+"subSectionText" : "STAFF COST for OUTPUT 1.1.1 Top Task 1 Health Sector HIV Strategy Developed Top Task 1 Hep Strategic Information Strengthened Top Task 1 Hepatitis awareness increased Top Task 1 Hepatitis guidelines developed Top Task 1 MOHCC's capacity in HIV prevention and  management enhanced Top Task 1 Strategic Information Strengthened Top Task 1 support resource mobilization in support of HIV/TB/STI programmes Top Task 1 Viral Hepatitis workplan developed Top Task 2 Burden of Hepatitis in the country mapped Top Task 2 Hepatitis diagnosis strengthened Top Task 2 HIV Drug Resistance Prevention Surveillance Strengthened Top Task 2 HIV Guidelines Revised and Updated Top Task 2 Paediatric and adult HIV/TB treatment and care scaled up Top Task 3 HIV Prevention activities scaled up Top Task 3 HIV/TB Implementation Research suported to geneerate evidence for HIV programming "}, {
+"subSectionName" : "GF grants",
+"subSectionText" : [ {
+	"subLabel" : "A. HIV or HIV/TB concept note – period",
+	"subLabelText" : "01/01/2014-01/01/2016"
+}, {
+	"subLabel" : "B. Current grant, start and end date and amount:",
+	"subLabelText" : "United Nations Development Programme: Addressing critical gaps in HIV Prevention, Treatment, Care and Support in Zimbabwe, SSF Start Date 01 Jan 2014 SSF End Date 31 Dec 2016, Cumulative Signed Amount $ 437,270,910"
+}]
+	}, {
+"subSectionName" : "PEPFAR grants",
+"subSectionText" : [ {
+	"subLabel" : "A. Cycle",
+	"subLabelText" : "FY 2015 COP"
+}, {
+	"subLabel" : "B. Status (under development, in process, completed)",
+	"subLabelText" : "in process (targets to be achieved by September 30, 2016)"
+}, {
+	"subLabel" : "C. Technical areas covered",
+	"subLabelText" : "PEPFAR will continue to fund key program areas in the national HIV response, including treatment, care and support, HIV prevention, HTC, OVC, lab strengthening, strategic information, procurement of commodities and health systems strengthening."
+}, {
+	"subLabel" : "D. Geographic focus",
+	"subLabelText" : "Based on epidemiological data, 36 districts represent 80% of the PLHIV; PEPFAR is currently operational in all 60 districts and both urban city centers. PEPFAR Zimbabwe is focusing scale up activities in a subset of sites within the 36 districts mentioned above, and will establish a package of services for sustained sites within those districts and on a sub-set of high-volume sites outside those districts. These districts include the major urban cities (Harare, Bulawayo, Chitungwiza and Mutare) in Zimbabwe. Fifty-three high-volume sites (with over 680 patients on ART) outside the scale-up districts will receive a package of services for sustained sites."
+}]
+	}, {
+"subSectionName" : "WHO response",
+"subSectionText" : ""
+	}, {
+"subSectionName" : "WHO CONTACTS",
+"subSectionText" : ""
+	}, {
+"subSectionName" : "List of Country documents",
+"subSectionText" : ""
+	}]
+}

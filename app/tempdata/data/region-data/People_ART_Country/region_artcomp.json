@@ -1,0 +1,264 @@
+{
+	"data": {
+		"2004": {
+			"AFR": {
+				"region_id": "AFR",
+				"ART_comparisons": "309136"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"ART_comparisons": "275318"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"ART_comparisons": "3221"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"ART_comparisons": "11204"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"ART_comparisons": "83110"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"ART_comparisons": "18296"
+			}
+		},
+		"2005": {
+			"AFR": {
+				"region_id": "AFR",
+				"ART_comparisons": "791748"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"ART_comparisons": "333890"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"ART_comparisons": "3419"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"ART_comparisons": "16885"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"ART_comparisons": "140176"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"ART_comparisons": "39873"
+			}
+		},
+		"2006": {
+			"AFR": {
+				"region_id": "AFR",
+				"ART_comparisons": "1371000.333333"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"ART_comparisons": "374977"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"ART_comparisons": "5010"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"ART_comparisons": "30104"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"ART_comparisons": "213877"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"ART_comparisons": "64033.966667"
+			}
+		},
+		"2007": {
+			"AFR": {
+				"region_id": "AFR",
+				"ART_comparisons": "2098780"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"ART_comparisons": "425706.5"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"ART_comparisons": "7241"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"ART_comparisons": "50353"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"ART_comparisons": "330429.7"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"ART_comparisons": "89419"
+			}
+		},
+		"2008": {
+			"AFR": {
+				"region_id": "AFR",
+				"ART_comparisons": "2951110"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"ART_comparisons": "489433"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"ART_comparisons": "9668"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"ART_comparisons": "80430"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"ART_comparisons": "447942"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"ART_comparisons": "120857"
+			}
+		},
+		"2009": {
+			"AFR": {
+				"region_id": "AFR",
+				"ART_comparisons": "3912379"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"ART_comparisons": "528671"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"ART_comparisons": "12353"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"ART_comparisons": "109096"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"ART_comparisons": "587172"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"ART_comparisons": "159699"
+			}
+		},
+		"2010": {
+			"AFR": {
+				"region_id": "AFR",
+				"ART_comparisons": "5071378"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"ART_comparisons": "592868"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"ART_comparisons": "15252"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"ART_comparisons": "122800"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"ART_comparisons": "688455"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"ART_comparisons": "202978"
+			}
+		},
+		"2011": {
+			"AFR": {
+				"region_id": "AFR",
+				"ART_comparisons": "6181949"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"ART_comparisons": "657172"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"ART_comparisons": "20346"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"ART_comparisons": "137363"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"ART_comparisons": "840412"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"ART_comparisons": "261417"
+			}
+		},
+		"2012": {
+			"AFR": {
+				"region_id": "AFR",
+				"ART_comparisons": "7520729"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"ART_comparisons": "734827"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"ART_comparisons": "26903"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"ART_comparisons": "198942"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"ART_comparisons": "938481"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"ART_comparisons": "308172.66666700004"
+			}
+		},
+		"2013": {
+			"AFR": {
+				"region_id": "AFR",
+				"ART_comparisons": "9070445"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"ART_comparisons": "785962"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"ART_comparisons": "35313.16"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"ART_comparisons": "253896"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"ART_comparisons": "1111047"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"ART_comparisons": "401645"
+			}
+		}
+	}
+}

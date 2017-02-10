@@ -1,0 +1,18 @@
+.fnt-size22 {
+    font-size: 22px !important;
+}
+
+.white1 {
+ color: white !important;
+}
+
+.padding25px{
+	padding:25px;
+	}
+	
+	.colorwhite{
+		color:#ffffff;
+		}
+		a.colorwhite:hover,i.colorwhite:hover{
+			color: #e3fcb1;
+			}

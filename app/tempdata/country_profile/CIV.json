@@ -1,0 +1,101 @@
+{
+	"sectionid" : 4,
+	"sectionname" : "Word Docs",
+	"sectionType" : "wordText",
+	"subSections" : [ {
+"subSectionName" : "Summary Description of the epidemiological situation",
+"subSectionText" : [ {
+	"subLabel" : "A. date of latest epi report",
+	"subLabelText" : []
+}, {
+	"subLabel" : "B. Health Situation",
+	"subLabelText" : "Côte d’Ivoire has an annual population growth rate of 3.3% and a high proportion of young people (43%). Malaria is the number-one cause of morbidity and mortality, especially among children under 5, with an incidence of 389‰. HIV/AIDS remains a national priority, with 3.7% prevalence in the general population (Demographic and Health Survey 2011-2012). The number of tuberculosis patients (all forms) increased from 21 204 in 2006 to 22 911 in 2011; the incidence of reported cases (all forms) was 106 cases per 100 000 of population in 2010, and the secondary resistance level is estimated to be 8.6%. Noncommunicable diseases of national concern are cardiovascular diseases, in particular high blood pressure, which affects 33.4% of the population over 25; oral and dental diseases (noma); drug addiction; tobacco use among 13% of the general population; and cancer in women, with an incidence of 87 per 100 000. Poor management of household, industrial, biomedical and other types of waste and the inappropriate use of sanitation facilities constitute a major risk for the outbreak of various diseases caused by environmental factors. Persistent risks of epidemics and other emergencies justify continuous updating of the national emergency preparedness plan as the socio-political context evolves. The health situation described above will prevent Côte d’Ivoire from achieving the health-related Millennium Development Goals by 2015. Efforts should therefore be made to scale up high-impact interventions."
+}, {
+	"subLabel" : "C. HIV summary",
+	"subLabelText" : "The 2014 UNAIDS report on Côte d’Ivoire estimates HIV prevalence at 2.7%, compared to the 3.7% national prevalence figure published in the DHS. Much higher rates among sex workers (SW) and men who have sex with men (MSM) have been estimated through recent studies (11.4% and 18% respectively). The burden of prevalence is concentrated in Abidjan (5.1%), the ‘center-north’(4.4%), ‘southwest’ (4.3%), and ‘center-east’ (4.0%), with prevalence lower than the DHS national average of 3.7% in the ‘west,’ ‘south,’ ‘center,’ ‘north,’ ‘northeast,’ and ‘center-west.’ Adolescent girls and young women have a prevalence of 0.8% according to the 2011-12 DHS, which is eight times higher than their male peers. With a prevalence of 0.8%, approximately 70,000 children are infected with HIV. According to UNAIDS the number of orphans and vulnerable children (OVC) is approximately 400,000, and the number of pregnant women needing ARVs is 50,937. There are approximately 19,000 new HIV infections and 28,000 deaths from AIDS each year in Côte d’Ivoire. Programmatic data shows 5.5% prevalence among adults seeking care and 25% prevalence among TB patients. Retention on treatment in general is a major problem and even greater gaps exist in enrolling and retaining children on treatment. The national response would benefit from focused testing to increase HIV-positive yield; increased linkages between community and clinical services to improve retention on care and treatment services; and greater linkages between TB and HIV programs for improved services for co-infected people."
+}]
+	}, {
+"subSectionName" : " Progress and challenges towards 90-90-90",
+"subSectionText" : []
+	}, {
+"subSectionName" : " A. Health policies and systems",
+"subSectionText" : [ {
+	"subLabel" : "A. Health policies and systems",
+	"subLabelText" : "Various policy documents and the 2012-2015 national health development plan aim have set the goal of creating a high-quality health system to guarantee the best possible level of health for all citizens, and in so doing provide sustainable underpinning for growth and development in Côte d’Ivoire. This implies considerable improvements across all indicators, in particular: (i) reducing maternal mortality from 614 to 149 deaths; (ii) increasing the rate of contraceptive use from 9.5% to 30%; (iii) increasing from 45% to 80% the proportion of men and women living with HIV and requiring treatment who receive ARVs according to the protocol; (iv) certification of the eradication of Guinea worm. Improvements to the national health information system, which has underperformed to date, will make quality, evidence-based data more available and improve decision-making. The health system will also be improved by strengthening the capacities of human resources for health, rehabilitating and reequipping health facilities in line with international and regional resolutions (World Health Assembly, Regional Committee for Africa, and the Ouagadougou, Algiers and Libreville Declarations). The obstacles yet to be addressed are: (i) reduction of maternal and infant mortality; (ii) improvement of health-care coverage; (iii) development of health research."
+}, {
+	"subLabel" : "B. COOPERATION FOR HEALTH",
+	"subLabelText" : "Periodic meetings between technical and financial partners and the Ministry of Health facilitate consultation and coordination to support the Ivorian government. Technical teams from WHO Headquarters, the Regional Office, the Inter-Country Support Team for West Africa and the Côte d’Ivoire Country Office, in cooperation with other specialized agencies of the United Nations system with a presence in the country, will provide local technical support for health promotion through the United Nations Development Assistance Framework (UNDAF). Given that Côte d’Ivoire has adhered to the Delivering as One process, WHO will provide necessary support. WHO works in cooperation with bilateral partners and other non-governmental actors to contribute support to Côte d’Ivoire within the framework of this Country Cooperation Strategy (CCS). The various international initiatives and partnership frameworks of which Côte d’Ivoire is a part (H4+, Muskoka Initiative, IHP+, GAVI Alliance, Global Fund, Scaling Up Nutrition, etc.) help to mobilize resources and thus strengthen interventions to improve public health."
+}, {
+	"subLabel" : "C. Summary description of the health system",
+	"subLabelText" : [{
+"subLabel" : "National policies",
+"subLabelText" : []
+}, {
+"subLabel" : "Health sector strategy/plan",
+"subLabelText" : "2012-2015"
+}, {
+"subLabel" : "Service delivery",
+"subLabelText" : []
+}, {
+"subLabel" : "Procurement",
+"subLabelText" : []
+}, {
+"subLabel" : "Human resources",
+"subLabelText" : []
+}, {
+"subLabel" : "Information system",
+"subLabelText" : []
+}, {
+"subLabel" : "Financing of the health sector",
+"subLabelText" : []
+}]
+}]
+	}, {
+"subSectionName" : " National HIV strategy/plan",
+"subSectionText" : [ {
+	"subLabel" : "A. Year cycle",
+	"subLabelText" : "2011-2015"
+}, {
+	"subLabel" : "B. Latest programme review",
+	"subLabelText" : []
+}]
+	}, {
+"subSectionName" : "Treatment and prevention policies",
+"subSectionText" : []
+	}, {
+"subSectionName" : "WCO HIV plans",
+"subSectionText" : "Cooperated support provided for a national strategy against viral hepatitis Support provided for updating the strategies and plan according to global guidelines for prevention , care, HIV treatment Support provided for strengthening the STI surveillance system and HIV Support provided for the revision of guidelines and tools for prevention , care, treatment of STIs and HIV Support provided to strengthen quality assurance of HIV laboratory diagnostics Support provided for the development of investigative reports on the use of medicines and strategic inputs Provide support for strengthening health promotion mechanisms to fight against hepatitis STAFF COST for OUTPUT 1.1.1"}, {
+"subSectionName" : "GF grants",
+"subSectionText" : [ {
+	"subLabel" : "A. HIV or HIV/TB concept note – period",
+	"subLabelText" : "NO CONCEPT NOTE"
+}, {
+	"subLabel" : "B. Current grant, start and end date and amount:",
+	"subLabelText" : "Programme National de Lutte contre le Sida (PNLS): Strengthening the national response to HIV in order to scale up prevention to comprehensive care, factoring in gender and key populations at high risk of HIV infection, Grant Start Date 01 Apr 2011 Grant End Date 30 Sep 2016, Cumulative Signed Amount € 72,586,339 Alliance Nationale Contre Le Sida en Cote D'Ivoire: Strengthening the national response to HIV in order to scale up prevention to comprehensive care, factoring in gender and key population at high risk of HIV infection, Grant Start Date 01 Oct 2011 Grant End Date 30 Sep 2016, Cumulative Signed Amount € 17,821,453"
+}]
+	}, {
+"subSectionName" : "PEPFAR grants",
+"subSectionText" : [ {
+	"subLabel" : "A. Cycle",
+	"subLabelText" : "FY 2015 COP"
+}, {
+	"subLabel" : "B. Status (under development, in process, completed)",
+	"subLabelText" : "in process (targets to be achieved by September 30, 2016)"
+}, {
+	"subLabel" : "C. Technical areas covered",
+	"subLabelText" : "prevention, HTC in PMTCT, health care referrals for OVC, ARV prophylaxis/ART for PMTCT, EID, CTX for PMTCT; laboratory Biological Monitoring for PMTCT, ART and care, support capacity building for continuous quality improvement, support implantation of LIS at labs, implementation of lab EQA and RTQ2, Drugs and Commodities for ART and PMTCT"
+}, {
+	"subLabel" : "D. Geographic focus",
+	"subLabelText" : ": For COP 2015, the team analysed program data, surveys, new census data and district level modeling of prevalence rates as derived from UNAIDS reports, and will target those areas of highest HIV burden. Of the 79 health districts currently supported by PEPFAR in Côte d’Ivoire (the remaining three receive support from the Global Fund for clinical activities), thirty-nine districts will be prioritized for scale-up, leading to 80% saturation for 16 districts by FY2017."
+}]
+	}, {
+"subSectionName" : "WHO response",
+"subSectionText" : ""
+	}, {
+"subSectionName" : " WHO CONTACTS",
+"subSectionText" : ""
+	}, {
+"subSectionName" : "List of Country documents",
+"subSectionText" : ""
+	}]
+}

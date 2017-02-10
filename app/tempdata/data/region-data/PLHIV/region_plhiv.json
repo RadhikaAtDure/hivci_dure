@@ -1,0 +1,498 @@
+{
+	"data": {
+		"2001": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2001",
+				"plhiv": "20500000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2001",
+				"plhiv": "2300000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2001",
+				"plhiv": "70000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2001",
+				"plhiv": "1100000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2001",
+				"plhiv": "2900000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2001",
+				"plhiv": "710000"
+			}
+		},
+		"2002": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2002",
+				"plhiv": "21100000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2002",
+				"plhiv": "2300000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2002",
+				"plhiv": "83000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2002",
+				"plhiv": "1200000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2002",
+				"plhiv": "3000000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2002",
+				"plhiv": "770000"
+			}
+		},
+		"2003": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2003",
+				"plhiv": "21500000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2003",
+				"plhiv": "2400000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2003",
+				"plhiv": "96000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2003",
+				"plhiv": "1300000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2003",
+				"plhiv": "3100000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2003",
+				"plhiv": "820000"
+			}
+		},
+		"2004": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2004",
+				"plhiv": "21800000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2004",
+				"plhiv": "2400000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2004",
+				"plhiv": "110000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2004",
+				"plhiv": "1400000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2004",
+				"plhiv": "3100000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2004",
+				"plhiv": "870000"
+			}
+		},
+		"2005": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2005",
+				"plhiv": "22000000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2005",
+				"plhiv": "2500000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2005",
+				"plhiv": "120000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2005",
+				"plhiv": "1400000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2005",
+				"plhiv": "3100000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2005",
+				"plhiv": "900000"
+			}
+		},
+		"2006": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2006",
+				"plhiv": "22200000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2006",
+				"plhiv": "2500000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2006",
+				"plhiv": "130000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2006",
+				"plhiv": "1500000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2006",
+				"plhiv": "3000000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2006",
+				"plhiv": "930000"
+			}
+		},
+		"2007": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2007",
+				"plhiv": "22400000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2007",
+				"plhiv": "2600000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2007",
+				"plhiv": "140000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2007",
+				"plhiv": "1500000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2007",
+				"plhiv": "3000000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2007",
+				"plhiv": "960000"
+			}
+		},
+		"2008": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2008",
+				"plhiv": "22600000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2008",
+				"plhiv": "2600000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2008",
+				"plhiv": "150000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2008",
+				"plhiv": "1600000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2008",
+				"plhiv": "3000000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2008",
+				"plhiv": "980000"
+			}
+		},
+		"2009": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2009",
+				"plhiv": "22800000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2009",
+				"plhiv": "2600000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2009",
+				"plhiv": "160000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2009",
+				"plhiv": "1700000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2009",
+				"plhiv": "2900000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2009",
+				"plhiv": "1000000"
+			}
+		},
+		"2010": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2010",
+				"plhiv": "23000000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2010",
+				"plhiv": "2700000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2010",
+				"plhiv": "170000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2010",
+				"plhiv": "1700000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2010",
+				"plhiv": "2900000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2010",
+				"plhiv": "1000000"
+			}
+		},
+		"2011": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2011",
+				"plhiv": "23200000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2011",
+				"plhiv": "2700000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2011",
+				"plhiv": "180000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2011",
+				"plhiv": "1800000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2011",
+				"plhiv": "2900000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2011",
+				"plhiv": "1000000"
+			}
+		},
+		"2012": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2012",
+				"plhiv": "23400000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2012",
+				"plhiv": "2800000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2012",
+				"plhiv": "190000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2012",
+				"plhiv": "1800000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2012",
+				"plhiv": "2900000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2012",
+				"plhiv": "1000000"
+			}
+		},
+		"2013": {
+			"AFR": {
+				"region_id": "AFR",
+				"region_name": "WHO region - Africa",
+				"year": "2013",
+				"plhiv": "23500000"
+			},
+			"AMR": {
+				"region_id": "AMR",
+				"region_name": "WHO region - America",
+				"year": "2013",
+				"plhiv": "2790000"
+			},
+			"EMR": {
+				"region_id": "EMR",
+				"region_name": "WHO region - Eastern Mediterranean",
+				"year": "2013",
+				"plhiv": "196000"
+			},
+			"EUR": {
+				"region_id": "EUR",
+				"region_name": "WHO region - Europe",
+				"year": "2013",
+				"plhiv": "1900000"
+			},
+			"SEAR": {
+				"region_id": "SEAR",
+				"region_name": "WHO region - South-East Asia",
+				"year": "2013",
+				"plhiv": "2880000"
+			},
+			"WPR": {
+				"region_id": "WPR",
+				"region_name": "WHO region - Western Pacific",
+				"year": "2013",
+				"plhiv": "1070000"
+			}
+		}
+	}
+}

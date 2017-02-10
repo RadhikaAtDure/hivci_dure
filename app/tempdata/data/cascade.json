@@ -1,0 +1,1300 @@
+{
+	"data": {
+		"AFG": {
+			"Country": "Afghanistan",
+			"Code": "AFG",
+			"HIV_deaths": "345",
+			"People_ART": "281",
+			"PLHIV": "6651",
+			"HIV_prevalence": "0.04"
+		},
+		"ALB": {
+			"Country": "Albania",
+			"Code": "ALB",
+			"HIV_deaths": "null",
+			"People_ART": "354",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"DZA": {
+			"Country": "Algeria",
+			"Code": "DZA",
+			"HIV_deaths": "186",
+			"People_ART": "6020",
+			"PLHIV": "10520",
+			"HIV_prevalence": "0.04"
+		},
+		"AGO": {
+			"Country": "Angola",
+			"Code": "AGO",
+			"HIV_deaths": "11770",
+			"People_ART": "76666",
+			"PLHIV": "304433",
+			"HIV_prevalence": "2.41"
+		},
+		"ARG": {
+			"Country": "Argentina",
+			"Code": "ARG",
+			"HIV_deaths": "1542",
+			"People_ART": "59751",
+			"PLHIV": "126601",
+			"HIV_prevalence": "0.47"
+		},
+		"ARM": {
+			"Country": "Armenia",
+			"Code": "ARM",
+			"HIV_deaths": "171",
+			"People_ART": "741",
+			"PLHIV": "3976",
+			"HIV_prevalence": "0.22"
+		},
+		"AUS": {
+			"Country": "Australia",
+			"Code": "AUS",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"AUT": {
+			"Country": "Austria",
+			"Code": "AUT",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"AZE": {
+			"Country": "Azerbaijan",
+			"Code": "AZE",
+			"HIV_deaths": "372",
+			"People_ART": "1816",
+			"PLHIV": "8401",
+			"HIV_prevalence": "0.14"
+		},
+		"BHS": {
+			"Country": "Bahamas",
+			"Code": "BHS",
+			"HIV_deaths": "null",
+			"People_ART": "1852",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"BGD": {
+			"Country": "Bangladesh",
+			"Code": "BGD",
+			"HIV_deaths": "738",
+			"People_ART": "1287",
+			"PLHIV": "8935",
+			"HIV_prevalence": "0.01"
+		},
+		"BRB": {
+			"Country": "Barbados",
+			"Code": "BRB",
+			"HIV_deaths": "null",
+			"People_ART": "1097",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"BLR": {
+			"Country": "Belarus",
+			"Code": "BLR",
+			"HIV_deaths": "1032",
+			"People_ART": "5918",
+			"PLHIV": "29435",
+			"HIV_prevalence": "0.52"
+		},
+		"BEL": {
+			"Country": "Belgium",
+			"Code": "BEL",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"BLZ": {
+			"Country": "Belize",
+			"Code": "BLZ",
+			"HIV_deaths": "63",
+			"People_ART": "1498",
+			"PLHIV": "2689",
+			"HIV_prevalence": "1.18"
+		},
+		"BEN": {
+			"Country": "Benin",
+			"Code": "BEN",
+			"HIV_deaths": "2408",
+			"People_ART": "28850",
+			"PLHIV": "77911",
+			"HIV_prevalence": "1.14"
+		},
+		"BTN": {
+			"Country": "Bhutan",
+			"Code": "BTN",
+			"HIV_deaths": "null",
+			"People_ART": "167",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"BOL": {
+			"Country": "Bolivia",
+			"Code": "BOL",
+			"HIV_deaths": "711",
+			"People_ART": "3803",
+			"PLHIV": "17856",
+			"HIV_prevalence": "0.29"
+		},
+		"BIH": {
+			"Country": "Bosnia and Herzegovina",
+			"Code": "BIH",
+			"HIV_deaths": "null",
+			"People_ART": "207",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"BWA": {
+			"Country": "Botswana",
+			"Code": "BWA",
+			"HIV_deaths": "5139",
+			"People_ART": "244063",
+			"PLHIV": "392427",
+			"HIV_prevalence": "25.16"
+		},
+		"BRA": {
+			"Country": "Brazil",
+			"Code": "BRA",
+			"HIV_deaths": "null",
+			"People_ART": "388565",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"BRN": {
+			"Country": "Brunei Darussalam",
+			"Code": "BRN",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"BGR": {
+			"Country": "Bulgaria",
+			"Code": "BGR",
+			"HIV_deaths": "null",
+			"People_ART": "692",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"BFA": {
+			"Country": "Burkina Faso",
+			"Code": "BFA",
+			"HIV_deaths": "3805",
+			"People_ART": "46623",
+			"PLHIV": "107660",
+			"HIV_prevalence": "0.94"
+		},
+		"BDI": {
+			"Country": "Burundi",
+			"Code": "BDI",
+			"HIV_deaths": "3862",
+			"People_ART": "36888",
+			"PLHIV": "84656",
+			"HIV_prevalence": "1.11"
+		},
+		"KHM": {
+			"Country": "Cambodia",
+			"Code": "KHM",
+			"HIV_deaths": "2606",
+			"People_ART": "52907",
+			"PLHIV": "74610",
+			"HIV_prevalence": "0.64"
+		},
+		"CMR": {
+			"Country": "Cameroon",
+			"Code": "CMR",
+			"HIV_deaths": "34158",
+			"People_ART": "145038",
+			"PLHIV": "657457",
+			"HIV_prevalence": "4.77"
+		},
+		"CAN": {
+			"Country": "Canada",
+			"Code": "CAN",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"CPV": {
+			"Country": "Cape Verde",
+			"Code": "CPV",
+			"HIV_deaths": "98",
+			"People_ART": "1212",
+			"PLHIV": "3350",
+			"HIV_prevalence": "1.09"
+		},
+		"CAF": {
+			"Country": "Central African Republic",
+			"Code": "CAF",
+			"HIV_deaths": "9857",
+			"People_ART": "24142",
+			"PLHIV": "135381",
+			"HIV_prevalence": "4.25"
+		},
+		"TCD": {
+			"Country": "Chad",
+			"Code": "TCD",
+			"HIV_deaths": "11733",
+			"People_ART": "48757",
+			"PLHIV": "214999",
+			"HIV_prevalence": "2.53"
+		},
+		"CHL": {
+			"Country": "Chile",
+			"Code": "CHL",
+			"HIV_deaths": "666",
+			"People_ART": "25106",
+			"PLHIV": "39256",
+			"HIV_prevalence": "0.29"
+		},
+		"CHN": {
+			"Country": "China",
+			"Code": "CHN",
+			"HIV_deaths": "null",
+			"People_ART": "295358",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"COL": {
+			"Country": "Colombia",
+			"Code": "COL",
+			"HIV_deaths": "4694",
+			"People_ART": "49743",
+			"PLHIV": "124447",
+			"HIV_prevalence": "0.4"
+		},
+		"COG": {
+			"Country": "Congo",
+			"Code": "COG",
+			"HIV_deaths": "4438",
+			"People_ART": "13717",
+			"PLHIV": "80666",
+			"HIV_prevalence": "2.75"
+		},
+		"CRI": {
+			"Country": "Costa Rica",
+			"Code": "CRI",
+			"HIV_deaths": "170",
+			"People_ART": "4672",
+			"PLHIV": "8750",
+			"HIV_prevalence": "0.26"
+		},
+		"CIV": {
+			"Country": "Cote dIvoire",
+			"Code": "CIV",
+			"HIV_deaths": "21795",
+			"People_ART": "140710",
+			"PLHIV": "460074",
+			"HIV_prevalence": "3.46"
+		},
+		"HRV": {
+			"Country": "Croatia",
+			"Code": "HRV",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"CUB": {
+			"Country": "Cuba",
+			"Code": "CUB",
+			"HIV_deaths": "121",
+			"People_ART": "12018",
+			"PLHIV": "17054",
+			"HIV_prevalence": "0.25"
+		},
+		"CYP": {
+			"Country": "Cyprus",
+			"Code": "CYP",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"CZE": {
+			"Country": "Czech Republic",
+			"Code": "CZE",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"PRK": {
+			"Country": "Democratic People Republic of Korea",
+			"Code": "PRK",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"COD": {
+			"Country": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+			"Code": "COD",
+			"HIV_deaths": "24108",
+			"People_ART": "101324",
+			"PLHIV": "446624",
+			"HIV_prevalence": "1.04"
+		},
+		"DNK": {
+			"Country": "Denmark",
+			"Code": "DNK",
+			"HIV_deaths": "57",
+			"People_ART": "null",
+			"PLHIV": "6035",
+			"HIV_prevalence": "0.16"
+		},
+		"DJI": {
+			"Country": "Djibouti",
+			"Code": "DJI",
+			"HIV_deaths": "643",
+			"People_ART": "1593",
+			"PLHIV": "9902",
+			"HIV_prevalence": "1.59"
+		},
+		"DOM": {
+			"Country": "Dominican Republic",
+			"Code": "DOM",
+			"HIV_deaths": "3099",
+			"People_ART": "27001",
+			"PLHIV": "69290",
+			"HIV_prevalence": "1.04"
+		},
+		"ECU": {
+			"Country": "Ecuador",
+			"Code": "ECU",
+			"HIV_deaths": "1210",
+			"People_ART": "13300",
+			"PLHIV": "32678",
+			"HIV_prevalence": "0.34"
+		},
+		"EGY": {
+			"Country": "Egypt",
+			"Code": "EGY",
+			"HIV_deaths": "274",
+			"People_ART": "1715",
+			"PLHIV": "8810",
+			"HIV_prevalence": "0.02"
+		},
+		"SLV": {
+			"Country": "El Salvador",
+			"Code": "SLV",
+			"HIV_deaths": "392",
+			"People_ART": "10549",
+			"PLHIV": "20874",
+			"HIV_prevalence": "0.53"
+		},
+		"GNQ": {
+			"Country": "Equatorial Guinea",
+			"Code": "GNQ",
+			"HIV_deaths": "837",
+			"People_ART": "8645",
+			"PLHIV": "31639",
+			"HIV_prevalence": "6.16"
+		},
+		"ERI": {
+			"Country": "Eritrea",
+			"Code": "ERI",
+			"HIV_deaths": "658",
+			"People_ART": "7862",
+			"PLHIV": "16121",
+			"HIV_prevalence": "0.68"
+		},
+		"EST": {
+			"Country": "Estonia",
+			"Code": "EST",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"ETH": {
+			"Country": "Ethiopia",
+			"Code": "ETH",
+			"HIV_deaths": "23375",
+			"People_ART": "362041",
+			"PLHIV": "730317",
+			"HIV_prevalence": "1.15"
+		},
+		"FJI": {
+			"Country": "Fiji",
+			"Code": "FJI",
+			"HIV_deaths": "14",
+			"People_ART": "208",
+			"PLHIV": "660",
+			"HIV_prevalence": "0.13"
+		},
+		"FIN": {
+			"Country": "Finland",
+			"Code": "FIN",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"FRA": {
+			"Country": "France",
+			"Code": "FRA",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"GAB": {
+			"Country": "Gabon",
+			"Code": "GAB",
+			"HIV_deaths": "1454",
+			"People_ART": "21759",
+			"PLHIV": "47522",
+			"HIV_prevalence": "3.91"
+		},
+		"GMB": {
+			"Country": "Gambia",
+			"Code": "GMB",
+			"HIV_deaths": "946",
+			"People_ART": "4586",
+			"PLHIV": "20297",
+			"HIV_prevalence": "1.82"
+		},
+		"GEO": {
+			"Country": "Georgia",
+			"Code": "GEO",
+			"HIV_deaths": "98",
+			"People_ART": "2541",
+			"PLHIV": "6575",
+			"HIV_prevalence": "0.28"
+		},
+		"DEU": {
+			"Country": "Germany",
+			"Code": "DEU",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"GHA": {
+			"Country": "Ghana",
+			"Code": "GHA",
+			"HIV_deaths": "9248",
+			"People_ART": "83712",
+			"PLHIV": "250232",
+			"HIV_prevalence": "1.47"
+		},
+		"GRC": {
+			"Country": "Greece",
+			"Code": "GRC",
+			"HIV_deaths": "null",
+			"People_ART": "6997",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"GTM": {
+			"Country": "Guatemala",
+			"Code": "GTM",
+			"HIV_deaths": "1707",
+			"People_ART": "18075",
+			"PLHIV": "49125",
+			"HIV_prevalence": "0.54"
+		},
+		"GIN": {
+			"Country": "Guinea",
+			"Code": "GIN",
+			"HIV_deaths": "3791",
+			"People_ART": "null",
+			"PLHIV": "117959",
+			"HIV_prevalence": "1.55"
+		},
+		"GNB": {
+			"Country": "Guinea-Bissau",
+			"Code": "GNB",
+			"HIV_deaths": "1877",
+			"People_ART": "8127",
+			"PLHIV": "42175",
+			"HIV_prevalence": "3.69"
+		},
+		"GUY": {
+			"Country": "Guyana",
+			"Code": "GUY",
+			"HIV_deaths": "118",
+			"People_ART": "4295",
+			"PLHIV": "9665",
+			"HIV_prevalence": "1.81"
+		},
+		"HTI": {
+			"Country": "Haiti",
+			"Code": "HTI",
+			"HIV_deaths": "3816",
+			"People_ART": "62861",
+			"PLHIV": "141270",
+			"HIV_prevalence": "1.93"
+		},
+		"HND": {
+			"Country": "Honduras",
+			"Code": "HND",
+			"HIV_deaths": "1162",
+			"People_ART": "9926",
+			"PLHIV": "23019",
+			"HIV_prevalence": "0.42"
+		},
+		"HUN": {
+			"Country": "Hungary",
+			"Code": "HUN",
+			"HIV_deaths": "null",
+			"People_ART": "138",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"ISL": {
+			"Country": "Iceland",
+			"Code": "ISL",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"IND": {
+			"Country": "India",
+			"Code": "IND",
+			"HIV_deaths": "null",
+			"People_ART": "830707",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"IDN": {
+			"Country": "Indonesia",
+			"Code": "IDN",
+			"HIV_deaths": "33697",
+			"People_ART": "50072",
+			"PLHIV": "660272",
+			"HIV_prevalence": "0.47"
+		},
+		"IRN": {
+			"Country": "Iran (Islamic Republic of)",
+			"Code": "IRN",
+			"HIV_deaths": "4083",
+			"People_ART": "5585",
+			"PLHIV": "74370",
+			"HIV_prevalence": "0.14"
+		},
+		"IRL": {
+			"Country": "Ireland",
+			"Code": "IRL",
+			"HIV_deaths": "66",
+			"People_ART": "null",
+			"PLHIV": "8045",
+			"HIV_prevalence": "0.28"
+		},
+		"ISR": {
+			"Country": "Israel",
+			"Code": "ISR",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"ITA": {
+			"Country": "Italy",
+			"Code": "ITA",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"JAM": {
+			"Country": "Jamaica",
+			"Code": "JAM",
+			"HIV_deaths": "1265",
+			"People_ART": "9141",
+			"PLHIV": "29364",
+			"HIV_prevalence": "1.62"
+		},
+		"JPN": {
+			"Country": "Japan",
+			"Code": "JPN",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"KAZ": {
+			"Country": "Kazakhstan",
+			"Code": "KAZ",
+			"HIV_deaths": "532",
+			"People_ART": "5000",
+			"PLHIV": "20288",
+			"HIV_prevalence": "0.19"
+		},
+		"KEN": {
+			"Country": "Kenya",
+			"Code": "KEN",
+			"HIV_deaths": "32985",
+			"People_ART": "755226",
+			"PLHIV": "1366920",
+			"HIV_prevalence": "5.3"
+		},
+		"KGZ": {
+			"Country": "Kyrgyzstan",
+			"Code": "KGZ",
+			"HIV_deaths": "371",
+			"People_ART": "1718",
+			"PLHIV": "9258",
+			"HIV_prevalence": "0.26"
+		},
+		"LAO": {
+			"Country": "Lao People Democratic Republic",
+			"Code": "LAO",
+			"HIV_deaths": "490",
+			"People_ART": "3336",
+			"PLHIV": "11103",
+			"HIV_prevalence": "0.26"
+		},
+		"LVA": {
+			"Country": "Latvia",
+			"Code": "LVA",
+			"HIV_deaths": "null",
+			"People_ART": "1091",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"LBN": {
+			"Country": "Lebanon",
+			"Code": "LBN",
+			"HIV_deaths": "45",
+			"People_ART": "785",
+			"PLHIV": "1822",
+			"HIV_prevalence": "0.06"
+		},
+		"LSO": {
+			"Country": "Lesotho",
+			"Code": "LSO",
+			"HIV_deaths": "9323",
+			"People_ART": "111322",
+			"PLHIV": "314614",
+			"HIV_prevalence": "23.39"
+		},
+		"LBR": {
+			"Country": "Liberia",
+			"Code": "LBR",
+			"HIV_deaths": "1968",
+			"People_ART": "6910",
+			"PLHIV": "33097",
+			"HIV_prevalence": "1.17"
+		},
+		"LTU": {
+			"Country": "Lithuania",
+			"Code": "LTU",
+			"HIV_deaths": "null",
+			"People_ART": "547",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"LUX": {
+			"Country": "Luxembourg",
+			"Code": "LUX",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"MDG": {
+			"Country": "Madagascar",
+			"Code": "MDG",
+			"HIV_deaths": "3195",
+			"People_ART": "773",
+			"PLHIV": "39108",
+			"HIV_prevalence": "0.29"
+		},
+		"MWI": {
+			"Country": "Malawi",
+			"Code": "MWI",
+			"HIV_deaths": "32603",
+			"People_ART": "536527",
+			"PLHIV": "1063910",
+			"HIV_prevalence": "10.04"
+		},
+		"MYS": {
+			"Country": "Malaysia",
+			"Code": "MYS",
+			"HIV_deaths": "9002",
+			"People_ART": "21654",
+			"PLHIV": "100796",
+			"HIV_prevalence": "0.45"
+		},
+		"MDV": {
+			"Country": "Maldives",
+			"Code": "MDV",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"MLI": {
+			"Country": "Mali",
+			"Code": "MLI",
+			"HIV_deaths": "5309",
+			"People_ART": "31472",
+			"PLHIV": "133356",
+			"HIV_prevalence": "1.42"
+		},
+		"MLT": {
+			"Country": "Malta",
+			"Code": "MLT",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"MRT": {
+			"Country": "Mauritania",
+			"Code": "MRT",
+			"HIV_deaths": "1082",
+			"People_ART": "2263",
+			"PLHIV": "15893",
+			"HIV_prevalence": "0.66"
+		},
+		"MUS": {
+			"Country": "Mauritius",
+			"Code": "MUS",
+			"HIV_deaths": "496",
+			"People_ART": "2353",
+			"PLHIV": "8251",
+			"HIV_prevalence": "0.92"
+		},
+		"MEX": {
+			"Country": "Mexico",
+			"Code": "MEX",
+			"HIV_deaths": "5961",
+			"People_ART": "97402",
+			"PLHIV": "194129",
+			"HIV_prevalence": "0.23"
+		},
+		"MNG": {
+			"Country": "Mongolia",
+			"Code": "MNG",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"MNE": {
+			"Country": "Montenegro",
+			"Code": "MNE",
+			"HIV_deaths": "null",
+			"People_ART": "82",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"MAR": {
+			"Country": "Morocco",
+			"Code": "MAR",
+			"HIV_deaths": "1097",
+			"People_ART": "7292",
+			"PLHIV": "28740",
+			"HIV_prevalence": "0.14"
+		},
+		"MOZ": {
+			"Country": "Mozambique",
+			"Code": "MOZ",
+			"HIV_deaths": "44917",
+			"People_ART": "646312",
+			"PLHIV": "1543010",
+			"HIV_prevalence": "10.58"
+		},
+		"MMR": {
+			"Country": "Myanmar",
+			"Code": "MMR",
+			"HIV_deaths": "10098",
+			"People_ART": "77444",
+			"PLHIV": "212560",
+			"HIV_prevalence": "0.69"
+		},
+		"NAM": {
+			"Country": "Namibia",
+			"Code": "NAM",
+			"HIV_deaths": "5083",
+			"People_ART": "131722",
+			"PLHIV": "263518",
+			"HIV_prevalence": "15.97"
+		},
+		"NPL": {
+			"Country": "Nepal",
+			"Code": "NPL",
+			"HIV_deaths": "2576",
+			"People_ART": "10407",
+			"PLHIV": "39249",
+			"HIV_prevalence": "0.2"
+		},
+		"NLD": {
+			"Country": "Netherlands",
+			"Code": "NLD",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"NZL": {
+			"Country": "New Zealand",
+			"Code": "NZL",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"NIC": {
+			"Country": "Nicaragua",
+			"Code": "NIC",
+			"HIV_deaths": "378",
+			"People_ART": "2935",
+			"PLHIV": "10036",
+			"HIV_prevalence": "0.27"
+		},
+		"NER": {
+			"Country": "Niger",
+			"Code": "NER",
+			"HIV_deaths": "3376",
+			"People_ART": "null",
+			"PLHIV": "51789",
+			"HIV_prevalence": "0.49"
+		},
+		"NGA": {
+			"Country": "Nigeria",
+			"Code": "NGA",
+			"HIV_deaths": "174253",
+			"People_ART": "673909",
+			"PLHIV": "3391550",
+			"HIV_prevalence": "3.17"
+		},
+		"NOR": {
+			"Country": "Norway",
+			"Code": "NOR",
+			"HIV_deaths": "28",
+			"People_ART": "null",
+			"PLHIV": "5817",
+			"HIV_prevalence": "0.15"
+		},
+		"OMN": {
+			"Country": "Oman",
+			"Code": "OMN",
+			"HIV_deaths": "48",
+			"People_ART": "1217",
+			"PLHIV": "2371",
+			"HIV_prevalence": "0.16"
+		},
+		"PAK": {
+			"Country": "Pakistan",
+			"Code": "PAK",
+			"HIV_deaths": "2787",
+			"People_ART": "5121",
+			"PLHIV": "93925",
+			"HIV_prevalence": "0.09"
+		},
+		"PAN": {
+			"Country": "Panama",
+			"Code": "PAN",
+			"HIV_deaths": "603",
+			"People_ART": "8870",
+			"PLHIV": "16565",
+			"HIV_prevalence": "0.65"
+		},
+		"PNG": {
+			"Country": "Papua New Guinea",
+			"Code": "PNG",
+			"HIV_deaths": "900",
+			"People_ART": "16489",
+			"PLHIV": "37151",
+			"HIV_prevalence": "0.72"
+		},
+		"PRY": {
+			"Country": "Paraguay",
+			"Code": "PRY",
+			"HIV_deaths": "397",
+			"People_ART": "4894",
+			"PLHIV": "16825",
+			"HIV_prevalence": "0.41"
+		},
+		"PER": {
+			"Country": "Peru",
+			"Code": "PER",
+			"HIV_deaths": "2533",
+			"People_ART": "32912",
+			"PLHIV": "71889",
+			"HIV_prevalence": "0.36"
+		},
+		"PHL": {
+			"Country": "Philippines",
+			"Code": "PHL",
+			"HIV_deaths": "493",
+			"People_ART": "8481",
+			"PLHIV": "35639",
+			"HIV_prevalence": "0.06"
+		},
+		"POL": {
+			"Country": "Poland",
+			"Code": "POL",
+			"HIV_deaths": "null",
+			"People_ART": "7881",
+			"PLHIV": "null",
+			"HIV_prevalence": "0.07"
+		},
+		"PRT": {
+			"Country": "Portugal",
+			"Code": "PRT",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"KOR": {
+			"Country": "Republic of Korea",
+			"Code": "KOR",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"MDA": {
+			"Country": "Republic of Moldova",
+			"Code": "MDA",
+			"HIV_deaths": "777",
+			"People_ART": "3116",
+			"PLHIV": "17633",
+			"HIV_prevalence": "0.63"
+		},
+		"ROU": {
+			"Country": "Romania",
+			"Code": "ROU",
+			"HIV_deaths": "null",
+			"People_ART": "9571",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"RUS": {
+			"Country": "Russian Federation",
+			"Code": "RUS",
+			"HIV_deaths": "null",
+			"People_ART": "183701",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"RWA": {
+			"Country": "Rwanda",
+			"Code": "RWA",
+			"HIV_deaths": "3048",
+			"People_ART": "142855",
+			"PLHIV": "210534",
+			"HIV_prevalence": "2.82"
+		},
+		"STP": {
+			"Country": "São Tomé and Príncipe",
+			"Code": "STP",
+			"HIV_deaths": "52",
+			"People_ART": "417",
+			"PLHIV": "1005",
+			"HIV_prevalence": "0.78"
+		},
+		"SEN": {
+			"Country": "Senegal",
+			"Code": "SEN",
+			"HIV_deaths": "2369",
+			"People_ART": "16682",
+			"PLHIV": "43975",
+			"HIV_prevalence": "0.53"
+		},
+		"SRB": {
+			"Country": "Serbia",
+			"Code": "SRB",
+			"HIV_deaths": "null",
+			"People_ART": "1272",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"SLE": {
+			"Country": "Sierra Leone",
+			"Code": "SLE",
+			"HIV_deaths": "2666",
+			"People_ART": "10672",
+			"PLHIV": "54023",
+			"HIV_prevalence": "1.4"
+		},
+		"SGP": {
+			"Country": "Singapore",
+			"Code": "SGP",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"SVK": {
+			"Country": "Slovakia",
+			"Code": "SVK",
+			"HIV_deaths": "8",
+			"People_ART": "319",
+			"PLHIV": "null",
+			"HIV_prevalence": "0.02"
+		},
+		"SVN": {
+			"Country": "Slovenia",
+			"Code": "SVN",
+			"HIV_deaths": "10",
+			"People_ART": "null",
+			"PLHIV": "882",
+			"HIV_prevalence": "0.08"
+		},
+		"SOM": {
+			"Country": "Somalia",
+			"Code": "SOM",
+			"HIV_deaths": "2370",
+			"People_ART": "1916",
+			"PLHIV": "34936",
+			"HIV_prevalence": "0.55"
+		},
+		"ZAF": {
+			"Country": "South Africa",
+			"Code": "ZAF",
+			"HIV_deaths": "138379",
+			"People_ART": "3078570",
+			"PLHIV": "6836480",
+			"HIV_prevalence": "18.92"
+		},
+		"SSD": {
+			"Country": "South Sudan",
+			"Code": "SSD",
+			"HIV_deaths": "12740",
+			"People_ART": "11310",
+			"PLHIV": "193388",
+			"HIV_prevalence": "2.71"
+		},
+		"ESP": {
+			"Country": "Spain",
+			"Code": "ESP",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"LKA": {
+			"Country": "Sri Lanka",
+			"Code": "LKA",
+			"HIV_deaths": "112",
+			"People_ART": "639",
+			"PLHIV": "3336",
+			"HIV_prevalence": "0.03"
+		},
+		"SDN": {
+			"Country": "Sudan",
+			"Code": "SDN",
+			"HIV_deaths": "2906",
+			"People_ART": "3936",
+			"PLHIV": "53167",
+			"HIV_prevalence": "0.25"
+		},
+		"SUR": {
+			"Country": "Suriname",
+			"Code": "SUR",
+			"HIV_deaths": "159",
+			"People_ART": "1640",
+			"PLHIV": "3777",
+			"HIV_prevalence": "1.02"
+		},
+		"SWZ": {
+			"Country": "Swaziland",
+			"Code": "SWZ",
+			"HIV_deaths": "3521",
+			"People_ART": "125421",
+			"PLHIV": "214342",
+			"HIV_prevalence": "27.73"
+		},
+		"SWE": {
+			"Country": "Sweden",
+			"Code": "SWE",
+			"HIV_deaths": "70",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "0.18"
+		},
+		"CHE": {
+			"Country": "Switzerland",
+			"Code": "CHE",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"SYR": {
+			"Country": "Syrian Arab Republic",
+			"Code": "SYR",
+			"HIV_deaths": "39",
+			"People_ART": "140",
+			"PLHIV": "934",
+			"HIV_prevalence": "0.01"
+		},
+		"TJK": {
+			"Country": "Tajikistan",
+			"Code": "TJK",
+			"HIV_deaths": "717",
+			"People_ART": "2548",
+			"PLHIV": "16350",
+			"HIV_prevalence": "0.35"
+		},
+		"THA": {
+			"Country": "Thailand",
+			"Code": "THA",
+			"HIV_deaths": "19390",
+			"People_ART": "271652",
+			"PLHIV": "445642",
+			"HIV_prevalence": "1.13"
+		},
+		"MKD": {
+			"Country": "The former Yugoslav Republic of Macedonia",
+			"Code": "MKD",
+			"HIV_deaths": "null",
+			"People_ART": "96",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"TLS": {
+			"Country": "Timor-Leste",
+			"Code": "TLS",
+			"HIV_deaths": "null",
+			"People_ART": "173",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"TGO": {
+			"Country": "Togo",
+			"Code": "TGO",
+			"HIV_deaths": "4333",
+			"People_ART": "37511",
+			"PLHIV": "113707",
+			"HIV_prevalence": "2.4"
+		},
+		"TTO": {
+			"Country": "Trinidad and Tobago",
+			"Code": "TTO",
+			"HIV_deaths": "null",
+			"People_ART": "6399",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"TUN": {
+			"Country": "Tunisia",
+			"Code": "TUN",
+			"HIV_deaths": "79",
+			"People_ART": "651",
+			"PLHIV": "2688",
+			"HIV_prevalence": "0.04"
+		},
+		"TUR": {
+			"Country": "Turkey",
+			"Code": "TUR",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"UGA": {
+			"Country": "Uganda",
+			"Code": "UGA",
+			"HIV_deaths": "32890",
+			"People_ART": "749308",
+			"PLHIV": "1486640",
+			"HIV_prevalence": "7.25"
+		},
+		"UKR": {
+			"Country": "Ukraine",
+			"Code": "UKR",
+			"HIV_deaths": "15171",
+			"People_ART": "64405",
+			"PLHIV": "294846",
+			"HIV_prevalence": "1.16"
+		},
+		"GBR": {
+			"Country": "United Kingdom",
+			"Code": "GBR",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"TZA": {
+			"Country": "TANZANIA, UNITED REPUBLIC OF",
+			"Code": "TZA",
+			"HIV_deaths": "46065",
+			"People_ART": "640084",
+			"PLHIV": "1499390",
+			"HIV_prevalence": "5.34"
+		},
+		"USA": {
+			"Country": "United States of America",
+			"Code": "USA",
+			"HIV_deaths": "null",
+			"People_ART": "null",
+			"PLHIV": "null",
+			"HIV_prevalence": "null"
+		},
+		"URY": {
+			"Country": "Uruguay",
+			"Code": "URY",
+			"HIV_deaths": "583",
+			"People_ART": "5270",
+			"PLHIV": "14399",
+			"HIV_prevalence": "0.7"
+		},
+		"UZB": {
+			"Country": "Uzbekistan",
+			"Code": "UZB",
+			"HIV_deaths": "2156",
+			"People_ART": "10948",
+			"PLHIV": "32264",
+			"HIV_prevalence": "0.15"
+		},
+		"VEN": {
+			"Country": "Venezuela",
+			"Code": "VEN",
+			"HIV_deaths": "null",
+			"People_ART": "43601",
+			"PLHIV": "106867",
+			"HIV_prevalence": "0.55"
+		},
+		"VNM": {
+			"Country": "Viet Nam",
+			"Code": "VNM",
+			"HIV_deaths": "10648",
+			"People_ART": "93262",
+			"PLHIV": "250196",
+			"HIV_prevalence": "0.47"
+		},
+		"YEM": {
+			"Country": "Yemen",
+			"Code": "YEM",
+			"HIV_deaths": "287",
+			"People_ART": "1355",
+			"PLHIV": "7193",
+			"HIV_prevalence": "0.05"
+		},
+		"ZMB": {
+			"Country": "Zambia",
+			"Code": "ZMB",
+			"HIV_deaths": "18882",
+			"People_ART": "658831",
+			"PLHIV": "1150370",
+			"HIV_prevalence": "12.37"
+		},
+		"ZWE": {
+			"Country": "Zimbabwe",
+			"Code": "ZWE",
+			"HIV_deaths": "38616",
+			"People_ART": "787980",
+			"PLHIV": "1550250",
+			"HIV_prevalence": "16.74"
+		}
+	}
+}

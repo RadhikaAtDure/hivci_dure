@@ -1,0 +1,82 @@
+{
+	"data": {
+		"AFR": {
+			"WHO Region": "AFRO",
+			"PLHIV": "24542312",
+			"domestic_finance": "261931672.58299097",
+			"tested_HIV_positive": "2558417",
+			"HIV_care": "8602942",
+			"People_ART": "9078070",
+			"percentage_ART": null,
+			"retained_surviving_ART": "779846",
+			"ART_viral": "4182",
+			"HIV_deaths": "1117729",
+			"new_infection_HIV": "1232972"
+		},
+		"AMR": {
+			"WHO Region": "AMRO",
+			"PLHIV": "1721904",
+			"domestic_finance": "370271260.60144603",
+			"tested_HIV_positive": "61823",
+			"HIV_care": "811424",
+			"People_ART": "1472428",
+			"percentage_ART": null,
+			"retained_surviving_ART": "139512",
+			"ART_viral": "318990",
+			"HIV_deaths": "51769",
+			"new_infection_HIV": "153753"
+		},
+		"EMR": {
+			"WHO Region": "EMRO",
+			"PLHIV": "431111",
+			"domestic_finance": "29971732.508772",
+			"tested_HIV_positive": "7846",
+			"HIV_care": "40287",
+			"People_ART": "39394.16",
+			"percentage_ART": null,
+			"retained_surviving_ART": "5957",
+			"ART_viral": "646",
+			"HIV_deaths": "28171",
+			"new_infection_HIV": "47208"
+		},
+		"EUR": {
+			"WHO Region": "EURO",
+			"PLHIV": "783966",
+			"domestic_finance": "1394774056.293002",
+			"tested_HIV_positive": "8153",
+			"HIV_care": "328893",
+			"People_ART": "738303",
+			"percentage_ART": null,
+			"retained_surviving_ART": "26521",
+			"ART_viral": "84723",
+			"HIV_deaths": "23926",
+			"new_infection_HIV": "142233"
+		},
+		"SEAR": {
+			"WHO Region": "SEARO",
+			"PLHIV": "3400625",
+			"domestic_finance": "404710419.467561",
+			"tested_HIV_positive": "300002",
+			"HIV_care": "2298726",
+			"People_ART": "1111047",
+			"percentage_ART": null,
+			"retained_surviving_ART": "24454",
+			"ART_viral": "139469",
+			"HIV_deaths": "189163",
+			"new_infection_HIV": "211917"
+		},
+		"WPR": {
+			"WHO Region": "WPRO",
+			"PLHIV": "477324",
+			"domestic_finance": "797921279.9375861",
+			"tested_HIV_positive": "28163",
+			"HIV_care": "374522",
+			"People_ART": "427573",
+			"percentage_ART": null,
+			"retained_surviving_ART": "13639",
+			"ART_viral": "152175",
+			"HIV_deaths": "21871",
+			"new_infection_HIV": "99280"
+		}
+	}
+}

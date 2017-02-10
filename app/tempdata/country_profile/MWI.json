@@ -1,0 +1,101 @@
+{
+	"sectionid" : 4,
+	"sectionname" : "Word Docs",
+	"sectionType" : "wordText",
+	"subSections" : [ {
+"subSectionName" : "Summary Description of the epidemiological situation",
+"subSectionText" : [ {
+	"subLabel" : "A. date of latest epi report",
+	"subLabelText" :[]
+}, {
+	"subLabel" : "B. Health Situation",
+	"subLabelText" : "Malawi is characterized by a heavy burden of disease evidenced by high levels of child and adulthood mortality rates and high prevalence of diseases such as tuberculosis, malaria, HIV/AIDS and other tropical diseases. Furthermore, evidence suggests that there is a growing burden of noncommunicable diseases. With a total fertility rate of 5.7 the country has one of the highest population densities in sub-Saharan Africa. Malawi faces a number of challenges including inadequate finances to support poverty reduction programmes; high levels of illiteracy; and critical shortage of capacity in institutions implementing development programmes. In Malawi 10.6% of the population aged 15-49 years is living with HIV/AIDS: 13% among women and 8% among men. It is estimated that 55 000 new HIV infections occur every year. The prevalence of tuberculosis has decreased by 50% between 1995 and 2010, while the HIV co-infection rate among TB patients has declined by 18% from 2000 to 2012. The MDR-TB prevalence in Malawi is still low at 4.8% among retreatment cases and 0.4% among new cases (DRS 2011). Malaria accounts for about 34% of all outpatient visits, about 40% of all hospitalization of children under five years old and 40% of all hospital deaths. Since 2010 there has been a 30% decline in Malaria incidence. Noncommunicable diseases (NCDS) are on the increase. It is estimated that 33% of adults aged 25-64 have hypertension and 5.6% are diabetic. About 5 000 new cases of cancer are registered annually. The common neglected tropical diseases are schistosomiasis, lymphatic filariasis, onchocerciasis, human African trypanosomiasis, trachoma, leprosy and soil transmitted helminths. Maternal mortality is still among the highest in Africa. Obstetric complications contribute significantly to maternal deaths. Other indirect causes include delays in seeking care, poor referral system, and lack of appropriate drugs, equipment and staff capacity. Despite significant progress towards achieving MDG 4 neonatal mortality still remains high. "
+}, {
+	"subLabel" : "C. HIV summary",
+	"subLabelText" : "Malawi has a generalized HIV epidemic with a prevalence of 10.3% among the 15-49 age group in 2013. According to the 2010 Malawi Demographic and Health Survey (MDHS) data, HIV prevalence in the 15-49 age group is higher among women (13%) than men (9%).  HIV incidence estimated from epidemiological models based on prevalence trends measured in antenatal care (ANC) or population surveys suggest a decline from 0.74/100 person-years among adults (15-49) in 2009 to 0.41 in 2014. The 2013 Modes of Transmission (MOT) Study estimated that 67% of new HIV infections occur among low risk heterosexual relationships; 12% occur in casual heterosexual risk groups; and 8% among their partners. These three groups account for around 88% of new infections. The study also estimates 6.6% of infections result from female sex workers, their clients and partners of clients.  Young women and girls may be more vulnerable to HIV infection due to lower socioeconomic status and high prevalence of sexual and gender-based violence (GBV). A 2012 GBV survey by the National Statistical Office revealed that 61% of females reported having experienced sexual violence compared to 39% of males. Low male circumcision prevalence is likely to have contributed to female-to-male transmission: only 22% of men (15-49) in the 2010 MDHS said they were circumcised. Current data for men who have sex with men in Malawi suggest they are not a major driver of the overall HIV epidemic, though they are considered a key population because of structural barriers they face in accessing information and services due to marginalization and criminalization, high rates of risky behaviors, and misconceptions that facilitate transmission of HIV and other sexually transmitted infections (STIs). "
+}]
+	}, {
+"subSectionName" : "Progress and challenges towards 90-90-90",
+"subSectionText" : []
+	}, {
+"subSectionName" : "A. Health policies and systems",
+"subSectionText" : [ {
+	"subLabel" : "A. Health policies and systems",
+	"subLabelText" : "The Malawi Growth and Development Strategy II (2011-2016) is the overarching medium term strategy designed to attain Malawi’s long term aspirations as spelt out in the Vision 20:20. The MGDS II is built around six broad thematic areas namely: Sustainable Economic Growth; Social Development; Social Support and Disaster Risk Management; Infrastructure and Improved Governance; and Cross Cutting Issues. The National Health Bill is under review.to replace the Public Health Act of 1948, while the National Health Policy is still in draft form. The Health Sector Strategic Plan (HSSP) 2011-2016 is aligned with the MGDs and guides the implementation of the health interventions. The HSSP emphasises increasing coverage of high quality Essential Health Package (EHP) services and strengthening performance of the health systems to improve equity, efficiency and quality of EHP services in Malawi. The health care delivery system mainly consists of government facilities (63%), Christian Health Association of Malawi (26%) and some private for-profit providers. Malawi is developing a health financing strategy to help in improving the funding available for health and move towards the universal health coverage. As part of resource tracking, the government has been conducting National Health Accounts (NHA) assessment since 1998. WHO is providing support to institutionalise the NHA and the round for 2009-2012 is underway. In order to strengthen timely reporting and use of data at all levels, the country has introduced a web-based District Health Information System (DHIS2) since 2011. This is expected to strengthen monitoring of the disease burden in the country. Some of the notable challenges in the health care delivery system are to do with inadequate human resources coupled with skewed distribution favouring the urban areas; Despite the 50% increase in the health workforce that was achieved through the implementation of the 6-year Emergency Human Resources Plan (2005-2010), the challenge still remains to sustain the gains. On the other hand there is inadequate financing, infrastructure and equipment."
+}, {
+	"subLabel" : "B. COOPERATION FOR HEALTH",
+	"subLabelText" : "In the health sector, the HSSP has been developed to coordinate health development activities through sector wide approach (SWAp). All development partners are expected to support the HSSP which ultimately contributes to the Malawi Growth and Development Strategy II and the Millennium Development Goals. The health system has been largely dependent on donor aid ranging from 57% to 62% of the total health expenditure between 2006 and 2009 raising the issue of sustainability and predictability. During the same period, government expenditure on health ranged from 13.5% to 22.4%. The UN system in Malawi is implementing the United Nations Development Assistance Framework (UNDAF) covering the period 2012-2016 as a programmatic response to the development needs and priorities of the country as highlighted in the MGDS II."
+}, {
+	"subLabel" : "C. Summary description of the health system",
+	"subLabelText" : [{
+"subLabel" : "National policies",
+"subLabelText" : []
+}, {
+"subLabel" : "Health sector strategy/plan",
+"subLabelText" : "2011-2016"
+}, {
+"subLabel" : "Service delivery",
+"subLabelText" : "Scale-up of HIV and AIDS services under the ambitious 90-90-90 targets outlined in the NSP will increase demands placed on the delivery of services. Integrated care is the premise for most biomedical interventions, which is hampered by weak delivery capacity due to limited infrastructure and human resources. To ensure effective service delivery, a key area of focus will be scaling up of general service and lab infrastructure, lab equipment and the commensurate increase in human resources to meet the expected demand combined."
+}, {
+"subLabel" : "Procurement",
+"subLabelText" : "The MOH/HTSS Pharmaceuticals together with HIV, Malaria and TB programs co-ordinate key PSM functions such as the quantification, procurement planning and monitoring for EMHS, HIV, Malaria and TB program commodities. Central Medical Stores Trust (CMST) has established a dedicated well-managed central warehouse for all HIV and malaria commodities that manages receipt, inventory, and dispatches directly to all 700 sites on a 2 monthly schedule. MoH has a dedicated logistics team including program officers, technical assistants and logistics fellows within the HIV Department that carries out forecasting, procurement planning, inventory allocation and supervision for all sites."
+}, {
+"subLabel" : "Human resources",
+"subLabelText" : "Based on a Service Provision Assessment conducted in 2013, staff numbers have increased considerably in the last five years: as of 2013, there were: 397 medical officers (+109%); 1,463 clinical officers (+109%); 1,161 medical assistants (+64%); 5,616 nurses/midwives (+30%); 9,163 health surveillance assistants (+9%). In spite of these gains, the HRH capacity in Malawi remains very low and geographical distribution of HRH can lead to inequity."
+}, {
+"subLabel" : "Information system",
+"subLabelText" : "Over the last decade, Malawi has established and maintained an integrated M&E system for the HIV Programs that is built on quarterly supportive site supervision visits to all 700 health facilities. This system combines regular data verification and review of clinical notes from primary patient records with continuous quality improvement and targeted clinical mentoring. External data quality audits have confirmed the highest ratings for completeness, accuracy and timeliness of data. The HIV Program has developed a national point-of-care electronic medical record (EMR) system."
+}, {
+"subLabel" : "Financing of the health sector",
+"subLabelText" : []
+}]
+}]
+	}, {
+"subSectionName" : "National HIV strategy/plan",
+"subSectionText" : [ {
+	"subLabel" : "A. Year cycle",
+	"subLabelText" : "2015-2020"
+}, {
+	"subLabel" : "B. Latest programme review",
+	"subLabelText" : []
+}]
+	}, {
+"subSectionName" : "Treatment and prevention policies",
+"subSectionText" : []
+	}, {
+"subSectionName" : "WCO HIV plans",
+"subSectionText" : "National strategies and guidelines on Hepatitis in place Resource mobilization proposals for HIV/TB response developed STAFF COST for OUTPUT 1.1.1 Strategic information for informing programming generated Up to date National HIV strategies and guidelines in place"}, {
+"subSectionName" : "GF grants",
+"subSectionText" : [ {
+	"subLabel" : "A. HIV or HIV/TB concept note – period",
+	"subLabelText" : "01/07/2015-31/12/2017"
+}, {
+	"subLabel" : "B. Current grant, start and end date and amount:",
+	"subLabelText" : "The Registered Trustees of the National AIDS Commission Trust of the Republic of Malawi: The Way Forward: Scaling up and improving the national response to HIV and AIDS in Malawi and intensifying HIV/AIDS behavioral change communication (BCC) for all and scaling up of HIV prevention services for young people in Malawi, SSF Start Date 01 Apr 2012 SSF End Date 31 Dec 2015, Cumulative Signed Amount $ 349,573,214Ministry of Health of the Government of the Republic of Malawi: Sealing up Malaria Interventions to Achieve Universal Coverage, Grant Start Date 01 Jan 2011 Grant End Date 31 Dec 2015, Cumulative Signed Amount $ 68,596,756"
+}]
+	}, {
+"subSectionName" : "PEPFAR grants",
+"subSectionText" : [ {
+	"subLabel" : "A. Cycle",
+	"subLabelText" : "FY 2015 COP"
+}, {
+	"subLabel" : "B. Status (under development, in process, completed)",
+	"subLabelText" : "in process (targets to be achieved by September 30, 2016)"
+}, {
+	"subLabel" : "C. Technical areas covered",
+	"subLabelText" : "As such the following technical areas are considered core: improving the quality of pre - ART, ART, PMTCT, pediatric ART and TB through clinical and systems mentoring at the health facility level; increased focus for hard to reach populations such as pediatrics, adolescent girls and key populations; HTC for active case findings; condom promotion and distribution; community based prevention, care, OVC, and impact mitigation activities especially focused on linkage to care and treatment services, adherence and retention; targeted key population and youth services; bursary support for HRH; strategic support for labs, sample transport systems, and supply chain systems."
+}, {
+	"subLabel" : "D. Geographic focus",
+	"subLabelText" : "82% of PLHIV were located in 14 districts; these 14 districts were prioritized as Scale Up districts (Blantzre, Lilongwe, Zomba, Thyolo, Mangochi, Mulanje, Mzimba, Machinga, Chikwana, Ntcheu, Phalombe, Balaka, Dedza, Mchinji). Within these Scale Up districts there will be 305 Saturation sites to achieve coverage of 80% of PLHIV on ART by 2017.18% of PLHIV were located in 13 districts; these 13 districts were prioritized as Sustained districts (Kasungu, Salima, Nsanje, Karonga, Nkhata Bay, Dowa, Nkhotakota, Neno, Ruphi, Mwanza, Ntchisi, Chitipa, Likoma). In the 13 Sustained districts there will be 108 sites where facility level interventions will be implemented to retain patients in care with district and national level quality monitoring activities."
+}]
+	}, {
+"subSectionName" : "WHO response",
+"subSectionText" : ""
+	}, {
+"subSectionName" : "WHO CONTACTS",
+"subSectionText" : ""
+	}, {
+"subSectionName" : "List of Country documents",
+"subSectionText" : ""
+	}]
+}

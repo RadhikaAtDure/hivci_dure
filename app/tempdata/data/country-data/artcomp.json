@@ -1,0 +1,8664 @@
+{
+	"data": {
+		"2013": {
+			"AFG": {
+				"iso3Code": "AFG",
+				"countryName": "Afghanistan",
+				"region": "EMRO",
+				"ART_comparisons": "211"
+			},
+			"ALB": {
+				"iso3Code": "ALB",
+				"countryName": "Albania",
+				"region": "EURO",
+				"ART_comparisons": "343"
+			},
+			"DZA": {
+				"iso3Code": "DZA",
+				"countryName": "Algeria",
+				"region": "AFRO",
+				"ART_comparisons": "4640"
+			},
+			"AGO": {
+				"iso3Code": "AGO",
+				"countryName": "Angola",
+				"region": "AFRO",
+				"ART_comparisons": "64905"
+			},
+			"ATG": {
+				"iso3Code": "ATG",
+				"countryName": "Antigua and Barbuda",
+				"region": "AMRO",
+				"ART_comparisons": "470"
+			},
+			"ARG": {
+				"iso3Code": "ARG",
+				"countryName": "Argentina",
+				"region": "AMRO",
+				"ART_comparisons": "52372"
+			},
+			"ARM": {
+				"iso3Code": "ARM",
+				"countryName": "Armenia",
+				"region": "EURO",
+				"ART_comparisons": "579"
+			},
+			"AZE": {
+				"iso3Code": "AZE",
+				"countryName": "Azerbaijan",
+				"region": "EURO",
+				"ART_comparisons": "1252"
+			},
+			"BGD": {
+				"iso3Code": "BGD",
+				"countryName": "Bangladesh",
+				"region": "SEARO",
+				"ART_comparisons": "1083"
+			},
+			"BLR": {
+				"iso3Code": "BLR",
+				"countryName": "Belarus",
+				"region": "EURO",
+				"ART_comparisons": "5181"
+			},
+			"BLZ": {
+				"iso3Code": "BLZ",
+				"countryName": "Belize",
+				"region": "AMRO",
+				"ART_comparisons": "1433"
+			},
+			"BEN": {
+				"iso3Code": "BEN",
+				"countryName": "Benin",
+				"region": "AFRO",
+				"ART_comparisons": "24810"
+			},
+			"BTN": {
+				"iso3Code": "BTN",
+				"countryName": "Bhutan",
+				"region": "SEARO",
+				"ART_comparisons": "149"
+			},
+			"BOL": {
+				"iso3Code": "BOL",
+				"countryName": "Bolivia, Plurinational State of",
+				"region": "AMRO",
+				"ART_comparisons": "3025"
+			},
+			"BIH": {
+				"iso3Code": "BIH",
+				"countryName": "Bosnia and Herzegovina",
+				"region": "EURO",
+				"ART_comparisons": "95"
+			},
+			"BWA": {
+				"iso3Code": "BWA",
+				"countryName": "Botswana",
+				"region": "AFRO",
+				"ART_comparisons": "223506"
+			},
+			"BRA": {
+				"iso3Code": "BRA",
+				"countryName": "Brazil",
+				"region": "AMRO",
+				"ART_comparisons": "333442"
+			},
+			"BGR": {
+				"iso3Code": "BGR",
+				"countryName": "Bulgaria",
+				"region": "EURO",
+				"ART_comparisons": "626"
+			},
+			"BFA": {
+				"iso3Code": "BFA",
+				"countryName": "Burkina Faso",
+				"region": "AFRO",
+				"ART_comparisons": "42145"
+			},
+			"BDI": {
+				"iso3Code": "BDI",
+				"countryName": "Burundi",
+				"region": "AFRO",
+				"ART_comparisons": "32801"
+			},
+			"KHM": {
+				"iso3Code": "KHM",
+				"countryName": "Cambodia",
+				"region": "WPRO",
+				"ART_comparisons": "50659"
+			},
+			"CMR": {
+				"iso3Code": "CMR",
+				"countryName": "Cameroon",
+				"region": "AFRO",
+				"ART_comparisons": "131594"
+			},
+			"CPV": {
+				"iso3Code": "CPV",
+				"countryName": "Cape Verde",
+				"region": "AFRO",
+				"ART_comparisons": "996"
+			},
+			"CAF": {
+				"iso3Code": "CAF",
+				"countryName": "Central African Republic",
+				"region": "AFRO",
+				"ART_comparisons": "16568"
+			},
+			"TCD": {
+				"iso3Code": "TCD",
+				"countryName": "Chad",
+				"region": "AFRO",
+				"ART_comparisons": "42158"
+			},
+			"CHL": {
+				"iso3Code": "CHL",
+				"countryName": "Chile",
+				"region": "AMRO",
+				"ART_comparisons": "22706"
+			},
+			"CHN": {
+				"iso3Code": "CHN",
+				"countryName": "China",
+				"region": "WPRO",
+				"ART_comparisons": "227489"
+			},
+			"COL": {
+				"iso3Code": "COL",
+				"countryName": "Colombia",
+				"region": "AMRO",
+				"ART_comparisons": "40082"
+			},
+			"COM": {
+				"iso3Code": "COM",
+				"countryName": "Comoros",
+				"region": "AFRO",
+				"ART_comparisons": "27"
+			},
+			"COG": {
+				"iso3Code": "COG",
+				"countryName": "Congo",
+				"region": "AFRO",
+				"ART_comparisons": "19563"
+			},
+			"COK": {
+				"iso3Code": "COK",
+				"countryName": "Cook Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"CRI": {
+				"iso3Code": "CRI",
+				"countryName": "Costa Rica",
+				"region": "AMRO",
+				"ART_comparisons": "4314"
+			},
+			"CIV": {
+				"iso3Code": "CIV",
+				"countryName": "Côte d'Ivoire",
+				"region": "AFRO",
+				"ART_comparisons": "112920"
+			},
+			"CUB": {
+				"iso3Code": "CUB",
+				"countryName": "Cuba",
+				"region": "AMRO",
+				"ART_comparisons": "9655"
+			},
+			"PRK": {
+				"iso3Code": "PRK",
+				"countryName": "Democratic People's Republic of Korea",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"COD": {
+				"iso3Code": "COD",
+				"countryName": "Democratic Republic of the Congo",
+				"region": "AFRO",
+				"ART_comparisons": "79978"
+			},
+			"DJI": {
+				"iso3Code": "DJI",
+				"countryName": "Djibouti",
+				"region": "EMRO",
+				"ART_comparisons": "1743"
+			},
+			"DMA": {
+				"iso3Code": "DMA",
+				"countryName": "Dominica",
+				"region": "AMRO",
+				"ART_comparisons": "63"
+			},
+			"DOM": {
+				"iso3Code": "DOM",
+				"countryName": "Dominican Republic",
+				"region": "AMRO",
+				"ART_comparisons": "21412"
+			},
+			"ECU": {
+				"iso3Code": "ECU",
+				"countryName": "Ecuador",
+				"region": "AMRO",
+				"ART_comparisons": "11797"
+			},
+			"EGY": {
+				"iso3Code": "EGY",
+				"countryName": "Egypt",
+				"region": "EMRO",
+				"ART_comparisons": "1171"
+			},
+			"SLV": {
+				"iso3Code": "SLV",
+				"countryName": "El Salvador",
+				"region": "AMRO",
+				"ART_comparisons": "10140"
+			},
+			"ERI": {
+				"iso3Code": "ERI",
+				"countryName": "Eritrea",
+				"region": "AFRO",
+				"ART_comparisons": "9054"
+			},
+			"ETH": {
+				"iso3Code": "ETH",
+				"countryName": "Ethiopia",
+				"region": "AFRO",
+				"ART_comparisons": "317443"
+			},
+			"FJI": {
+				"iso3Code": "FJI",
+				"countryName": "Fiji",
+				"region": "WPRO",
+				"ART_comparisons": "172"
+			},
+			"GAB": {
+				"iso3Code": "GAB",
+				"countryName": "Gabon",
+				"region": "AFRO",
+				"ART_comparisons": "22838"
+			},
+			"GMB": {
+				"iso3Code": "GMB",
+				"countryName": "Gambia",
+				"region": "AFRO",
+				"ART_comparisons": "3997"
+			},
+			"GEO": {
+				"iso3Code": "GEO",
+				"countryName": "Georgia",
+				"region": "EURO",
+				"ART_comparisons": "2092"
+			},
+			"GHA": {
+				"iso3Code": "GHA",
+				"countryName": "Ghana",
+				"region": "AFRO",
+				"ART_comparisons": "75762"
+			},
+			"GRD": {
+				"iso3Code": "GRD",
+				"countryName": "Grenada",
+				"region": "AMRO",
+				"ART_comparisons": "104"
+			},
+			"GTM": {
+				"iso3Code": "GTM",
+				"countryName": "Guatemala",
+				"region": "AMRO",
+				"ART_comparisons": "16386"
+			},
+			"GIN": {
+				"iso3Code": "GIN",
+				"countryName": "Guinea",
+				"region": "AFRO",
+				"ART_comparisons": "27792"
+			},
+			"GNB": {
+				"iso3Code": "GNB",
+				"countryName": "Guinea-Bissau",
+				"region": "AFRO",
+				"ART_comparisons": "6913"
+			},
+			"GUY": {
+				"iso3Code": "GUY",
+				"countryName": "Guyana",
+				"region": "AMRO",
+				"ART_comparisons": "4054"
+			},
+			"HTI": {
+				"iso3Code": "HTI",
+				"countryName": "Haiti",
+				"region": "AMRO",
+				"ART_comparisons": "54745"
+			},
+			"HND": {
+				"iso3Code": "HND",
+				"countryName": "Honduras",
+				"region": "AMRO",
+				"ART_comparisons": "9569"
+			},
+			"IND": {
+				"iso3Code": "IND",
+				"countryName": "India",
+				"region": "SEARO",
+				"ART_comparisons": "747175"
+			},
+			"IDN": {
+				"iso3Code": "IDN",
+				"countryName": "Indonesia",
+				"region": "SEARO",
+				"ART_comparisons": "39418"
+			},
+			"IRN": {
+				"iso3Code": "IRN",
+				"countryName": "Iran, Islamic Republic of ",
+				"region": "EMRO",
+				"ART_comparisons": "4470"
+			},
+			"IRQ": {
+				"iso3Code": "IRQ",
+				"countryName": "Iraq",
+				"region": "EMRO",
+				"ART_comparisons": "14.16"
+			},
+			"JAM": {
+				"iso3Code": "JAM",
+				"countryName": "Jamaica",
+				"region": "AMRO",
+				"ART_comparisons": "8287"
+			},
+			"JOR": {
+				"iso3Code": "JOR",
+				"countryName": "Jordan",
+				"region": "EMRO",
+				"ART_comparisons": "111"
+			},
+			"KAZ": {
+				"iso3Code": "KAZ",
+				"countryName": "Kazakhstan",
+				"region": "EURO",
+				"ART_comparisons": "3571"
+			},
+			"KEN": {
+				"iso3Code": "KEN",
+				"countryName": "Kenya",
+				"region": "AFRO",
+				"ART_comparisons": "656369"
+			},
+			"KIR": {
+				"iso3Code": "KIR",
+				"countryName": "Kiribati",
+				"region": "WPRO",
+				"ART_comparisons": "6"
+			},
+			"KGZ": {
+				"iso3Code": "KGZ",
+				"countryName": "Kyrgyzstan",
+				"region": "EURO",
+				"ART_comparisons": "1074"
+			},
+			"LAO": {
+				"iso3Code": "LAO",
+				"countryName": "Lao People's Democratic Republic",
+				"region": "WPRO",
+				"ART_comparisons": "2787"
+			},
+			"LVA": {
+				"iso3Code": "LVA",
+				"countryName": "Latvia",
+				"region": "EURO",
+				"ART_comparisons": "854"
+			},
+			"LBN": {
+				"iso3Code": "LBN",
+				"countryName": "Lebanon",
+				"region": "EMRO",
+				"ART_comparisons": "665"
+			},
+			"LSO": {
+				"iso3Code": "LSO",
+				"countryName": "Lesotho",
+				"region": "AFRO",
+				"ART_comparisons": "101635"
+			},
+			"LBR": {
+				"iso3Code": "LBR",
+				"countryName": "Liberia",
+				"region": "AFRO",
+				"ART_comparisons": "6429"
+			},
+			"LBY": {
+				"iso3Code": "LBY",
+				"countryName": "Libyan Arab Jamahiriy",
+				"region": "EMRO",
+				"ART_comparisons": "2662"
+			},
+			"LTU": {
+				"iso3Code": "LTU",
+				"countryName": "Lithuania",
+				"region": "EURO",
+				"ART_comparisons": "407"
+			},
+			"MDG": {
+				"iso3Code": "MDG",
+				"countryName": "Madagascar",
+				"region": "AFRO",
+				"ART_comparisons": "519"
+			},
+			"MWI": {
+				"iso3Code": "MWI",
+				"countryName": "Malawi",
+				"region": "AFRO",
+				"ART_comparisons": "472865"
+			},
+			"MYS": {
+				"iso3Code": "MYS",
+				"countryName": "Malaysia",
+				"region": "WPRO",
+				"ART_comparisons": "17369"
+			},
+			"MDV": {
+				"iso3Code": "MDV",
+				"countryName": "Maldives",
+				"region": "SEARO",
+				"ART_comparisons": "5"
+			},
+			"MLI": {
+				"iso3Code": "MLI",
+				"countryName": "Mali",
+				"region": "AFRO",
+				"ART_comparisons": "28725"
+			},
+			"MHL": {
+				"iso3Code": "MHL",
+				"countryName": "Marshall Islands",
+				"region": "WPRO",
+				"ART_comparisons": "7"
+			},
+			"MRT": {
+				"iso3Code": "MRT",
+				"countryName": "Mauritania",
+				"region": "AFRO",
+				"ART_comparisons": "2044"
+			},
+			"MUS": {
+				"iso3Code": "MUS",
+				"countryName": "Mauritius",
+				"region": "AFRO",
+				"ART_comparisons": "1830"
+			},
+			"MEX": {
+				"iso3Code": "MEX",
+				"countryName": "Mexico",
+				"region": "AMRO",
+				"ART_comparisons": "89410"
+			},
+			"FSM": {
+				"iso3Code": "FSM",
+				"countryName": "Micronesia, Federated States of",
+				"region": "WPRO",
+				"ART_comparisons": "3"
+			},
+			"MNG": {
+				"iso3Code": "MNG",
+				"countryName": "Mongolia",
+				"region": "WPRO",
+				"ART_comparisons": "94"
+			},
+			"MNE": {
+				"iso3Code": "MNE",
+				"countryName": "Montenegro",
+				"region": "EURO",
+				"ART_comparisons": "65"
+			},
+			"MAR": {
+				"iso3Code": "MAR",
+				"countryName": "Morocco",
+				"region": "EMRO",
+				"ART_comparisons": "6464"
+			},
+			"MOZ": {
+				"iso3Code": "MOZ",
+				"countryName": "Mozambique",
+				"region": "AFRO",
+				"ART_comparisons": "497455"
+			},
+			"MMR": {
+				"iso3Code": "MMR",
+				"countryName": "Myanmar",
+				"region": "SEARO",
+				"ART_comparisons": "67643"
+			},
+			"NAM": {
+				"iso3Code": "NAM",
+				"countryName": "Namibia",
+				"region": "AFRO",
+				"ART_comparisons": "126779"
+			},
+			"NRU": {
+				"iso3Code": "NRU",
+				"countryName": "Nauru",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"NPL": {
+				"iso3Code": "NPL",
+				"countryName": "Nepal",
+				"region": "SEARO",
+				"ART_comparisons": "8866"
+			},
+			"NIC": {
+				"iso3Code": "NIC",
+				"countryName": "Nicaragua",
+				"region": "AMRO",
+				"ART_comparisons": "2458"
+			},
+			"NER": {
+				"iso3Code": "NER",
+				"countryName": "Niger",
+				"region": "AFRO",
+				"ART_comparisons": "12071"
+			},
+			"NGA": {
+				"iso3Code": "NGA",
+				"countryName": "Nigeria",
+				"region": "AFRO",
+				"ART_comparisons": "639397"
+			},
+			"NIU": {
+				"iso3Code": "NIU",
+				"countryName": "Niue",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"PAK": {
+				"iso3Code": "PAK",
+				"countryName": "Pakistan",
+				"region": "EMRO",
+				"ART_comparisons": "4391"
+			},
+			"PLW": {
+				"iso3Code": "PLW",
+				"countryName": "Palau",
+				"region": "WPRO",
+				"ART_comparisons": "3"
+			},
+			"PAN": {
+				"iso3Code": "PAN",
+				"countryName": "Panama",
+				"region": "AMRO",
+				"ART_comparisons": "7237"
+			},
+			"PNG": {
+				"iso3Code": "PNG",
+				"countryName": "Papua New Guinea",
+				"region": "WPRO",
+				"ART_comparisons": "14781"
+			},
+			"PRY": {
+				"iso3Code": "PRY",
+				"countryName": "Paraguay",
+				"region": "AMRO",
+				"ART_comparisons": "4227"
+			},
+			"PER": {
+				"iso3Code": "PER",
+				"countryName": "Peru",
+				"region": "AMRO",
+				"ART_comparisons": "28001"
+			},
+			"PHL": {
+				"iso3Code": "PHL",
+				"countryName": "Philippines",
+				"region": "WPRO",
+				"ART_comparisons": "5564"
+			},
+			"MDA": {
+				"iso3Code": "MDA",
+				"countryName": "Republic of Moldova",
+				"region": "EURO",
+				"ART_comparisons": "2493"
+			},
+			"ROU": {
+				"iso3Code": "ROU",
+				"countryName": "Romania",
+				"region": "EURO",
+				"ART_comparisons": "8809"
+			},
+			"RUS": {
+				"iso3Code": "RUS",
+				"countryName": "Russian Federation",
+				"region": "EURO",
+				"ART_comparisons": "156858"
+			},
+			"RWA": {
+				"iso3Code": "RWA",
+				"countryName": "Rwanda",
+				"region": "AFRO",
+				"ART_comparisons": "129568"
+			},
+			"LCA": {
+				"iso3Code": "LCA",
+				"countryName": "Saint Lucia",
+				"region": "AMRO",
+				"ART_comparisons": "179"
+			},
+			"VCT": {
+				"iso3Code": "VCT",
+				"countryName": "Saint Vincent and the Grenadines",
+				"region": "AMRO",
+				"ART_comparisons": "269"
+			},
+			"WSM": {
+				"iso3Code": "WSM",
+				"countryName": "Samoa",
+				"region": "WPRO",
+				"ART_comparisons": "11"
+			},
+			"STP": {
+				"iso3Code": "STP",
+				"countryName": "Sao Tome and Principe",
+				"region": "AFRO",
+				"ART_comparisons": "332"
+			},
+			"SEN": {
+				"iso3Code": "SEN",
+				"countryName": "Senegal",
+				"region": "AFRO",
+				"ART_comparisons": "13716"
+			},
+			"SRB": {
+				"iso3Code": "SRB",
+				"countryName": "Serbia",
+				"region": "EURO",
+				"ART_comparisons": "1165"
+			},
+			"SYC": {
+				"iso3Code": "SYC",
+				"countryName": "Seychelles",
+				"region": "AFRO",
+				"ART_comparisons": "218"
+			},
+			"SLE": {
+				"iso3Code": "SLE",
+				"countryName": "Sierra Leone",
+				"region": "AFRO",
+				"ART_comparisons": "9065"
+			},
+			"SLB": {
+				"iso3Code": "SLB",
+				"countryName": "Solomon Islands",
+				"region": "WPRO",
+				"ART_comparisons": "8"
+			},
+			"SOM": {
+				"iso3Code": "SOM",
+				"countryName": "Somalia",
+				"region": "EMRO",
+				"ART_comparisons": "1627"
+			},
+			"ZAF": {
+				"iso3Code": "ZAF",
+				"countryName": "South Africa",
+				"region": "AFRO",
+				"ART_comparisons": "2623271"
+			},
+			"SSD": {
+				"iso3Code": "SSD",
+				"countryName": "South Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "6899"
+			},
+			"LKA": {
+				"iso3Code": "LKA",
+				"countryName": "Sri Lanka",
+				"region": "SEARO",
+				"ART_comparisons": "519"
+			},
+			"SDN": {
+				"iso3Code": "SDN",
+				"countryName": "Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "3308"
+			},
+			"SUR": {
+				"iso3Code": "SUR",
+				"countryName": "Suriname",
+				"region": "AMRO",
+				"ART_comparisons": "1382"
+			},
+			"SWZ": {
+				"iso3Code": "SWZ",
+				"countryName": "Swaziland",
+				"region": "AFRO",
+				"ART_comparisons": "100138"
+			},
+			"SYR": {
+				"iso3Code": "SYR",
+				"countryName": "Syrian Arab Republic",
+				"region": "EMRO",
+				"ART_comparisons": "130"
+			},
+			"TJK": {
+				"iso3Code": "TJK",
+				"countryName": "Tajikistan",
+				"region": "EURO",
+				"ART_comparisons": "1399"
+			},
+			"THA": {
+				"iso3Code": "THA",
+				"countryName": "Thailand",
+				"region": "SEARO",
+				"ART_comparisons": "246049"
+			},
+			"MKD": {
+				"iso3Code": "MKD",
+				"countryName": "The former Yugoslav Republic of Macedonia",
+				"region": "EURO",
+				"ART_comparisons": "58"
+			},
+			"TLS": {
+				"iso3Code": "TLS",
+				"countryName": "Timor-Leste",
+				"region": "SEARO",
+				"ART_comparisons": "140"
+			},
+			"TGO": {
+				"iso3Code": "TGO",
+				"countryName": "Togo",
+				"region": "AFRO",
+				"ART_comparisons": "34489"
+			},
+			"TON": {
+				"iso3Code": "TON",
+				"countryName": "Tonga",
+				"region": "WPRO",
+				"ART_comparisons": "1"
+			},
+			"TUN": {
+				"iso3Code": "TUN",
+				"countryName": "Tunisia",
+				"region": "EMRO",
+				"ART_comparisons": "546"
+			},
+			"TUR": {
+				"iso3Code": "TUR",
+				"countryName": "Turkey",
+				"region": "EURO",
+				"ART_comparisons": "2899"
+			},
+			"TKM": {
+				"iso3Code": "TKM",
+				"countryName": "Turkmenistan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"TUV": {
+				"iso3Code": "TUV",
+				"countryName": "Tuvalu",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"UGA": {
+				"iso3Code": "UGA",
+				"countryName": "Uganda",
+				"region": "AFRO",
+				"ART_comparisons": "595175"
+			},
+			"UKR": {
+				"iso3Code": "UKR",
+				"countryName": "Ukraine",
+				"region": "EURO",
+				"ART_comparisons": "55785"
+			},
+			"TZA": {
+				"iso3Code": "TZA",
+				"countryName": "United Republic of Tanzania",
+				"region": "AFRO",
+				"ART_comparisons": "512555"
+			},
+			"URY": {
+				"iso3Code": "URY",
+				"countryName": "Uruguay",
+				"region": "AMRO",
+				"ART_comparisons": "5672"
+			},
+			"UZB": {
+				"iso3Code": "UZB",
+				"countryName": "Uzbekistan",
+				"region": "EURO",
+				"ART_comparisons": "8291"
+			},
+			"VUT": {
+				"iso3Code": "VUT",
+				"countryName": "Vanuatu",
+				"region": "WPRO",
+				"ART_comparisons": "4"
+			},
+			"VEN": {
+				"iso3Code": "VEN",
+				"countryName": "Venezuela, Bolivarian Republic of",
+				"region": "AMRO",
+				"ART_comparisons": "43071"
+			},
+			"VNM": {
+				"iso3Code": "VNM",
+				"countryName": "Viet Nam",
+				"region": "WPRO",
+				"ART_comparisons": "82687"
+			},
+			"YEM": {
+				"iso3Code": "YEM",
+				"countryName": "Yemen",
+				"region": "EMRO",
+				"ART_comparisons": "901"
+			},
+			"ZMB": {
+				"iso3Code": "ZMB",
+				"countryName": "Zambia",
+				"region": "AFRO",
+				"ART_comparisons": "580091"
+			},
+			"ZWE": {
+				"iso3Code": "ZWE",
+				"countryName": "Zimbabwe",
+				"region": "AFRO",
+				"ART_comparisons": "665299"
+			}
+		},
+		"2012": {
+			"AFG": {
+				"iso3Code": "AFG",
+				"countryName": "Afghanistan",
+				"region": "EMRO",
+				"ART_comparisons": "158"
+			},
+			"ALB": {
+				"iso3Code": "ALB",
+				"countryName": "Albania",
+				"region": "EURO",
+				"ART_comparisons": "222"
+			},
+			"DZA": {
+				"iso3Code": "DZA",
+				"countryName": "Algeria",
+				"region": "AFRO",
+				"ART_comparisons": "3396"
+			},
+			"AGO": {
+				"iso3Code": "AGO",
+				"countryName": "Angola",
+				"region": "AFRO",
+				"ART_comparisons": "42607"
+			},
+			"ATG": {
+				"iso3Code": "ATG",
+				"countryName": "Antigua and Barbuda",
+				"region": "AMRO",
+				"ART_comparisons": "248"
+			},
+			"ARG": {
+				"iso3Code": "ARG",
+				"countryName": "Argentina",
+				"region": "AMRO",
+				"ART_comparisons": "50725"
+			},
+			"ARM": {
+				"iso3Code": "ARM",
+				"countryName": "Armenia",
+				"region": "EURO",
+				"ART_comparisons": "449"
+			},
+			"AZE": {
+				"iso3Code": "AZE",
+				"countryName": "Azerbaijan",
+				"region": "EURO",
+				"ART_comparisons": "907"
+			},
+			"BGD": {
+				"iso3Code": "BGD",
+				"countryName": "Bangladesh",
+				"region": "SEARO",
+				"ART_comparisons": "831"
+			},
+			"BLR": {
+				"iso3Code": "BLR",
+				"countryName": "Belarus",
+				"region": "EURO",
+				"ART_comparisons": "4274"
+			},
+			"BLZ": {
+				"iso3Code": "BLZ",
+				"countryName": "Belize",
+				"region": "AMRO",
+				"ART_comparisons": "1261"
+			},
+			"BEN": {
+				"iso3Code": "BEN",
+				"countryName": "Benin",
+				"region": "AFRO",
+				"ART_comparisons": "26035"
+			},
+			"BTN": {
+				"iso3Code": "BTN",
+				"countryName": "Bhutan",
+				"region": "SEARO",
+				"ART_comparisons": "38"
+			},
+			"BOL": {
+				"iso3Code": "BOL",
+				"countryName": "Bolivia, Plurinational State of",
+				"region": "AMRO",
+				"ART_comparisons": "2364"
+			},
+			"BIH": {
+				"iso3Code": "BIH",
+				"countryName": "Bosnia and Herzegovina",
+				"region": "EURO",
+				"ART_comparisons": "65"
+			},
+			"BWA": {
+				"iso3Code": "BWA",
+				"countryName": "Botswana",
+				"region": "AFRO",
+				"ART_comparisons": "212083"
+			},
+			"BRA": {
+				"iso3Code": "BRA",
+				"countryName": "Brazil",
+				"region": "AMRO",
+				"ART_comparisons": "313175"
+			},
+			"BGR": {
+				"iso3Code": "BGR",
+				"countryName": "Bulgaria",
+				"region": "EURO",
+				"ART_comparisons": "539"
+			},
+			"BFA": {
+				"iso3Code": "BFA",
+				"countryName": "Burkina Faso",
+				"region": "AFRO",
+				"ART_comparisons": "40925"
+			},
+			"BDI": {
+				"iso3Code": "BDI",
+				"countryName": "Burundi",
+				"region": "AFRO",
+				"ART_comparisons": "29121"
+			},
+			"KHM": {
+				"iso3Code": "KHM",
+				"countryName": "Cambodia",
+				"region": "WPRO",
+				"ART_comparisons": "48913"
+			},
+			"CMR": {
+				"iso3Code": "CMR",
+				"countryName": "Cameroon",
+				"region": "AFRO",
+				"ART_comparisons": "122783"
+			},
+			"CPV": {
+				"iso3Code": "CPV",
+				"countryName": "Cape Verde",
+				"region": "AFRO",
+				"ART_comparisons": "864"
+			},
+			"CAF": {
+				"iso3Code": "CAF",
+				"countryName": "Central African Republic",
+				"region": "AFRO",
+				"ART_comparisons": null
+			},
+			"TCD": {
+				"iso3Code": "TCD",
+				"countryName": "Chad",
+				"region": "AFRO",
+				"ART_comparisons": "40856"
+			},
+			"CHL": {
+				"iso3Code": "CHL",
+				"countryName": "Chile",
+				"region": "AMRO",
+				"ART_comparisons": "19071"
+			},
+			"CHN": {
+				"iso3Code": "CHN",
+				"countryName": "China",
+				"region": "WPRO",
+				"ART_comparisons": "153604"
+			},
+			"COL": {
+				"iso3Code": "COL",
+				"countryName": "Colombia",
+				"region": "AMRO",
+				"ART_comparisons": "39397"
+			},
+			"COM": {
+				"iso3Code": "COM",
+				"countryName": "Comoros",
+				"region": "AFRO",
+				"ART_comparisons": "24"
+			},
+			"COG": {
+				"iso3Code": "COG",
+				"countryName": "Congo",
+				"region": "AFRO",
+				"ART_comparisons": "16861"
+			},
+			"COK": {
+				"iso3Code": "COK",
+				"countryName": "Cook Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"CRI": {
+				"iso3Code": "CRI",
+				"countryName": "Costa Rica",
+				"region": "AMRO",
+				"ART_comparisons": "3692"
+			},
+			"CIV": {
+				"iso3Code": "CIV",
+				"countryName": "Côte d'Ivoire",
+				"region": "AFRO",
+				"ART_comparisons": "110370"
+			},
+			"CUB": {
+				"iso3Code": "CUB",
+				"countryName": "Cuba",
+				"region": "AMRO",
+				"ART_comparisons": "8098"
+			},
+			"PRK": {
+				"iso3Code": "PRK",
+				"countryName": "Democratic People's Republic of Korea",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"COD": {
+				"iso3Code": "COD",
+				"countryName": "Democratic Republic of the Congo",
+				"region": "AFRO",
+				"ART_comparisons": "64219"
+			},
+			"DJI": {
+				"iso3Code": "DJI",
+				"countryName": "Djibouti",
+				"region": "EMRO",
+				"ART_comparisons": "1482"
+			},
+			"DMA": {
+				"iso3Code": "DMA",
+				"countryName": "Dominica",
+				"region": "AMRO",
+				"ART_comparisons": "56"
+			},
+			"DOM": {
+				"iso3Code": "DOM",
+				"countryName": "Dominican Republic",
+				"region": "AMRO",
+				"ART_comparisons": "22221"
+			},
+			"ECU": {
+				"iso3Code": "ECU",
+				"countryName": "Ecuador",
+				"region": "AMRO",
+				"ART_comparisons": "13938"
+			},
+			"EGY": {
+				"iso3Code": "EGY",
+				"countryName": "Egypt",
+				"region": "EMRO",
+				"ART_comparisons": "996"
+			},
+			"SLV": {
+				"iso3Code": "SLV",
+				"countryName": "El Salvador",
+				"region": "AMRO",
+				"ART_comparisons": "6643"
+			},
+			"ERI": {
+				"iso3Code": "ERI",
+				"countryName": "Eritrea",
+				"region": "AFRO",
+				"ART_comparisons": "8240"
+			},
+			"ETH": {
+				"iso3Code": "ETH",
+				"countryName": "Ethiopia",
+				"region": "AFRO",
+				"ART_comparisons": "288137"
+			},
+			"FJI": {
+				"iso3Code": "FJI",
+				"countryName": "Fiji",
+				"region": "WPRO",
+				"ART_comparisons": "134"
+			},
+			"GAB": {
+				"iso3Code": "GAB",
+				"countryName": "Gabon",
+				"region": "AFRO",
+				"ART_comparisons": "14646"
+			},
+			"GMB": {
+				"iso3Code": "GMB",
+				"countryName": "Gambia",
+				"region": "AFRO",
+				"ART_comparisons": "3571"
+			},
+			"GEO": {
+				"iso3Code": "GEO",
+				"countryName": "Georgia",
+				"region": "EURO",
+				"ART_comparisons": "1640"
+			},
+			"GHA": {
+				"iso3Code": "GHA",
+				"countryName": "Ghana",
+				"region": "AFRO",
+				"ART_comparisons": "69870"
+			},
+			"GRD": {
+				"iso3Code": "GRD",
+				"countryName": "Grenada",
+				"region": "AMRO",
+				"ART_comparisons": "92"
+			},
+			"GTM": {
+				"iso3Code": "GTM",
+				"countryName": "Guatemala",
+				"region": "AMRO",
+				"ART_comparisons": "15136"
+			},
+			"GIN": {
+				"iso3Code": "GIN",
+				"countryName": "Guinea",
+				"region": "AFRO",
+				"ART_comparisons": "26666"
+			},
+			"GNB": {
+				"iso3Code": "GNB",
+				"countryName": "Guinea-Bissau",
+				"region": "AFRO",
+				"ART_comparisons": "6101"
+			},
+			"GUY": {
+				"iso3Code": "GUY",
+				"countryName": "Guyana",
+				"region": "AMRO",
+				"ART_comparisons": "3717"
+			},
+			"HTI": {
+				"iso3Code": "HTI",
+				"countryName": "Haiti",
+				"region": "AMRO",
+				"ART_comparisons": "43229"
+			},
+			"HND": {
+				"iso3Code": "HND",
+				"countryName": "Honduras",
+				"region": "AMRO",
+				"ART_comparisons": "8970"
+			},
+			"IND": {
+				"iso3Code": "IND",
+				"countryName": "India",
+				"region": "SEARO",
+				"ART_comparisons": "604987"
+			},
+			"IDN": {
+				"iso3Code": "IDN",
+				"countryName": "Indonesia",
+				"region": "SEARO",
+				"ART_comparisons": "31655"
+			},
+			"IRN": {
+				"iso3Code": "IRN",
+				"countryName": "Iran, Islamic Republic of ",
+				"region": "EMRO",
+				"ART_comparisons": "3558"
+			},
+			"IRQ": {
+				"iso3Code": "IRQ",
+				"countryName": "Iraq",
+				"region": "EMRO",
+				"ART_comparisons": "12"
+			},
+			"JAM": {
+				"iso3Code": "JAM",
+				"countryName": "Jamaica",
+				"region": "AMRO",
+				"ART_comparisons": "10468"
+			},
+			"JOR": {
+				"iso3Code": "JOR",
+				"countryName": "Jordan",
+				"region": "EMRO",
+				"ART_comparisons": "131"
+			},
+			"KAZ": {
+				"iso3Code": "KAZ",
+				"countryName": "Kazakhstan",
+				"region": "EURO",
+				"ART_comparisons": "2634"
+			},
+			"KEN": {
+				"iso3Code": "KEN",
+				"countryName": "Kenya",
+				"region": "AFRO",
+				"ART_comparisons": "604027"
+			},
+			"KIR": {
+				"iso3Code": "KIR",
+				"countryName": "Kiribati",
+				"region": "WPRO",
+				"ART_comparisons": "4"
+			},
+			"KGZ": {
+				"iso3Code": "KGZ",
+				"countryName": "Kyrgyzstan",
+				"region": "EURO",
+				"ART_comparisons": "691"
+			},
+			"LAO": {
+				"iso3Code": "LAO",
+				"countryName": "Lao People's Democratic Republic",
+				"region": "WPRO",
+				"ART_comparisons": "2375"
+			},
+			"LVA": {
+				"iso3Code": "LVA",
+				"countryName": "Latvia",
+				"region": "EURO",
+				"ART_comparisons": "560"
+			},
+			"LBN": {
+				"iso3Code": "LBN",
+				"countryName": "Lebanon",
+				"region": "EMRO",
+				"ART_comparisons": "540"
+			},
+			"LSO": {
+				"iso3Code": "LSO",
+				"countryName": "Lesotho",
+				"region": "AFRO",
+				"ART_comparisons": "92747"
+			},
+			"LBR": {
+				"iso3Code": "LBR",
+				"countryName": "Liberia",
+				"region": "AFRO",
+				"ART_comparisons": "5478"
+			},
+			"LBY": {
+				"iso3Code": "LBY",
+				"countryName": "Libyan Arab Jamahiriy",
+				"region": "EMRO",
+				"ART_comparisons": "1293"
+			},
+			"LTU": {
+				"iso3Code": "LTU",
+				"countryName": "Lithuania",
+				"region": "EURO",
+				"ART_comparisons": "291"
+			},
+			"MDG": {
+				"iso3Code": "MDG",
+				"countryName": "Madagascar",
+				"region": "AFRO",
+				"ART_comparisons": "371"
+			},
+			"MWI": {
+				"iso3Code": "MWI",
+				"countryName": "Malawi",
+				"region": "AFRO",
+				"ART_comparisons": "405131"
+			},
+			"MYS": {
+				"iso3Code": "MYS",
+				"countryName": "Malaysia",
+				"region": "WPRO",
+				"ART_comparisons": "15084"
+			},
+			"MDV": {
+				"iso3Code": "MDV",
+				"countryName": "Maldives",
+				"region": "SEARO",
+				"ART_comparisons": "5"
+			},
+			"MLI": {
+				"iso3Code": "MLI",
+				"countryName": "Mali",
+				"region": "AFRO",
+				"ART_comparisons": "28751"
+			},
+			"MHL": {
+				"iso3Code": "MHL",
+				"countryName": "Marshall Islands",
+				"region": "WPRO",
+				"ART_comparisons": "7"
+			},
+			"MRT": {
+				"iso3Code": "MRT",
+				"countryName": "Mauritania",
+				"region": "AFRO",
+				"ART_comparisons": "1881"
+			},
+			"MUS": {
+				"iso3Code": "MUS",
+				"countryName": "Mauritius",
+				"region": "AFRO",
+				"ART_comparisons": "1527"
+			},
+			"MEX": {
+				"iso3Code": "MEX",
+				"countryName": "Mexico",
+				"region": "AMRO",
+				"ART_comparisons": "84095"
+			},
+			"FSM": {
+				"iso3Code": "FSM",
+				"countryName": "Micronesia, Federated States of",
+				"region": "WPRO",
+				"ART_comparisons": "5"
+			},
+			"MNG": {
+				"iso3Code": "MNG",
+				"countryName": "Mongolia",
+				"region": "WPRO",
+				"ART_comparisons": "53"
+			},
+			"MNE": {
+				"iso3Code": "MNE",
+				"countryName": "Montenegro",
+				"region": "EURO",
+				"ART_comparisons": "51"
+			},
+			"MAR": {
+				"iso3Code": "MAR",
+				"countryName": "Morocco",
+				"region": "EMRO",
+				"ART_comparisons": "5303"
+			},
+			"MOZ": {
+				"iso3Code": "MOZ",
+				"countryName": "Mozambique",
+				"region": "AFRO",
+				"ART_comparisons": "309851"
+			},
+			"MMR": {
+				"iso3Code": "MMR",
+				"countryName": "Myanmar",
+				"region": "SEARO",
+				"ART_comparisons": "53709"
+			},
+			"NAM": {
+				"iso3Code": "NAM",
+				"countryName": "Namibia",
+				"region": "AFRO",
+				"ART_comparisons": "116687"
+			},
+			"NRU": {
+				"iso3Code": "NRU",
+				"countryName": "Nauru",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"NPL": {
+				"iso3Code": "NPL",
+				"countryName": "Nepal",
+				"region": "SEARO",
+				"ART_comparisons": "7719"
+			},
+			"NIC": {
+				"iso3Code": "NIC",
+				"countryName": "Nicaragua",
+				"region": "AMRO",
+				"ART_comparisons": "2190"
+			},
+			"NER": {
+				"iso3Code": "NER",
+				"countryName": "Niger",
+				"region": "AFRO",
+				"ART_comparisons": "11810"
+			},
+			"NGA": {
+				"iso3Code": "NGA",
+				"countryName": "Nigeria",
+				"region": "AFRO",
+				"ART_comparisons": "491021"
+			},
+			"NIU": {
+				"iso3Code": "NIU",
+				"countryName": "Niue",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"PAK": {
+				"iso3Code": "PAK",
+				"countryName": "Pakistan",
+				"region": "EMRO",
+				"ART_comparisons": "3135"
+			},
+			"PLW": {
+				"iso3Code": "PLW",
+				"countryName": "Palau",
+				"region": "WPRO",
+				"ART_comparisons": "3"
+			},
+			"PAN": {
+				"iso3Code": "PAN",
+				"countryName": "Panama",
+				"region": "AMRO",
+				"ART_comparisons": "5924"
+			},
+			"PNG": {
+				"iso3Code": "PNG",
+				"countryName": "Papua New Guinea",
+				"region": "WPRO",
+				"ART_comparisons": "11764"
+			},
+			"PRY": {
+				"iso3Code": "PRY",
+				"countryName": "Paraguay",
+				"region": "AMRO",
+				"ART_comparisons": "3787"
+			},
+			"PER": {
+				"iso3Code": "PER",
+				"countryName": "Peru",
+				"region": "AMRO",
+				"ART_comparisons": "27502"
+			},
+			"PHL": {
+				"iso3Code": "PHL",
+				"countryName": "Philippines",
+				"region": "WPRO",
+				"ART_comparisons": "3492"
+			},
+			"MDA": {
+				"iso3Code": "MDA",
+				"countryName": "Republic of Moldova",
+				"region": "EURO",
+				"ART_comparisons": "2075"
+			},
+			"ROU": {
+				"iso3Code": "ROU",
+				"countryName": "Romania",
+				"region": "EURO",
+				"ART_comparisons": "7869"
+			},
+			"RUS": {
+				"iso3Code": "RUS",
+				"countryName": "Russian Federation",
+				"region": "EURO",
+				"ART_comparisons": "125623"
+			},
+			"RWA": {
+				"iso3Code": "RWA",
+				"countryName": "Rwanda",
+				"region": "AFRO",
+				"ART_comparisons": "114618"
+			},
+			"LCA": {
+				"iso3Code": "LCA",
+				"countryName": "Saint Lucia",
+				"region": "AMRO",
+				"ART_comparisons": "176"
+			},
+			"VCT": {
+				"iso3Code": "VCT",
+				"countryName": "Saint Vincent and the Grenadines",
+				"region": "AMRO",
+				"ART_comparisons": "202"
+			},
+			"WSM": {
+				"iso3Code": "WSM",
+				"countryName": "Samoa",
+				"region": "WPRO",
+				"ART_comparisons": "12"
+			},
+			"STP": {
+				"iso3Code": "STP",
+				"countryName": "Sao Tome and Principe",
+				"region": "AFRO",
+				"ART_comparisons": "296"
+			},
+			"SEN": {
+				"iso3Code": "SEN",
+				"countryName": "Senegal",
+				"region": "AFRO",
+				"ART_comparisons": "14692"
+			},
+			"SRB": {
+				"iso3Code": "SRB",
+				"countryName": "Serbia",
+				"region": "EURO",
+				"ART_comparisons": "1075"
+			},
+			"SYC": {
+				"iso3Code": "SYC",
+				"countryName": "Seychelles",
+				"region": "AFRO",
+				"ART_comparisons": "46"
+			},
+			"SLE": {
+				"iso3Code": "SLE",
+				"countryName": "Sierra Leone",
+				"region": "AFRO",
+				"ART_comparisons": "8259"
+			},
+			"SLB": {
+				"iso3Code": "SLB",
+				"countryName": "Solomon Islands",
+				"region": "WPRO",
+				"ART_comparisons": "7.666667"
+			},
+			"SOM": {
+				"iso3Code": "SOM",
+				"countryName": "Somalia",
+				"region": "EMRO",
+				"ART_comparisons": "1450"
+			},
+			"ZAF": {
+				"iso3Code": "ZAF",
+				"countryName": "South Africa",
+				"region": "AFRO",
+				"ART_comparisons": "2150881"
+			},
+			"SSD": {
+				"iso3Code": "SSD",
+				"countryName": "South Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "4929"
+			},
+			"LKA": {
+				"iso3Code": "LKA",
+				"countryName": "Sri Lanka",
+				"region": "SEARO",
+				"ART_comparisons": "387"
+			},
+			"SDN": {
+				"iso3Code": "SDN",
+				"countryName": "Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "2575"
+			},
+			"SUR": {
+				"iso3Code": "SUR",
+				"countryName": "Suriname",
+				"region": "AMRO",
+				"ART_comparisons": "1372"
+			},
+			"SWZ": {
+				"iso3Code": "SWZ",
+				"countryName": "Swaziland",
+				"region": "AFRO",
+				"ART_comparisons": "87534"
+			},
+			"SYR": {
+				"iso3Code": "SYR",
+				"countryName": "Syrian Arab Republic",
+				"region": "EMRO",
+				"ART_comparisons": "130"
+			},
+			"TJK": {
+				"iso3Code": "TJK",
+				"countryName": "Tajikistan",
+				"region": "EURO",
+				"ART_comparisons": "1044"
+			},
+			"THA": {
+				"iso3Code": "THA",
+				"countryName": "Thailand",
+				"region": "SEARO",
+				"ART_comparisons": "239090"
+			},
+			"MKD": {
+				"iso3Code": "MKD",
+				"countryName": "The former Yugoslav Republic of Macedonia",
+				"region": "EURO",
+				"ART_comparisons": "62"
+			},
+			"TLS": {
+				"iso3Code": "TLS",
+				"countryName": "Timor-Leste",
+				"region": "SEARO",
+				"ART_comparisons": "60"
+			},
+			"TGO": {
+				"iso3Code": "TGO",
+				"countryName": "Togo",
+				"region": "AFRO",
+				"ART_comparisons": "30311"
+			},
+			"TON": {
+				"iso3Code": "TON",
+				"countryName": "Tonga",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"TUN": {
+				"iso3Code": "TUN",
+				"countryName": "Tunisia",
+				"region": "EMRO",
+				"ART_comparisons": "455"
+			},
+			"TUR": {
+				"iso3Code": "TUR",
+				"countryName": "Turkey",
+				"region": "EURO",
+				"ART_comparisons": "2500"
+			},
+			"TKM": {
+				"iso3Code": "TKM",
+				"countryName": "Turkmenistan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"TUV": {
+				"iso3Code": "TUV",
+				"countryName": "Tuvalu",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"UGA": {
+				"iso3Code": "UGA",
+				"countryName": "Uganda",
+				"region": "AFRO",
+				"ART_comparisons": "438542"
+			},
+			"UKR": {
+				"iso3Code": "UKR",
+				"countryName": "Ukraine",
+				"region": "EURO",
+				"ART_comparisons": "40350"
+			},
+			"TZA": {
+				"iso3Code": "TZA",
+				"countryName": "United Republic of Tanzania",
+				"region": "AFRO",
+				"ART_comparisons": "432293"
+			},
+			"URY": {
+				"iso3Code": "URY",
+				"countryName": "Uruguay",
+				"region": "AMRO",
+				"ART_comparisons": "4046"
+			},
+			"UZB": {
+				"iso3Code": "UZB",
+				"countryName": "Uzbekistan",
+				"region": "EURO",
+				"ART_comparisons": "6021"
+			},
+			"VUT": {
+				"iso3Code": "VUT",
+				"countryName": "Vanuatu",
+				"region": "WPRO",
+				"ART_comparisons": "4"
+			},
+			"VEN": {
+				"iso3Code": "VEN",
+				"countryName": "Venezuela, Bolivarian Republic of",
+				"region": "AMRO",
+				"ART_comparisons": "43032"
+			},
+			"VNM": {
+				"iso3Code": "VNM",
+				"countryName": "Viet Nam",
+				"region": "WPRO",
+				"ART_comparisons": "72711"
+			},
+			"YEM": {
+				"iso3Code": "YEM",
+				"countryName": "Yemen",
+				"region": "EMRO",
+				"ART_comparisons": "756"
+			},
+			"ZMB": {
+				"iso3Code": "ZMB",
+				"countryName": "Zambia",
+				"region": "AFRO",
+				"ART_comparisons": "480925"
+			},
+			"ZWE": {
+				"iso3Code": "ZWE",
+				"countryName": "Zimbabwe",
+				"region": "AFRO",
+				"ART_comparisons": "565675"
+			}
+		},
+		"2011": {
+			"AFG": {
+				"iso3Code": "AFG",
+				"countryName": "Afghanistan",
+				"region": "EMRO",
+				"ART_comparisons": "111"
+			},
+			"ALB": {
+				"iso3Code": "ALB",
+				"countryName": "Albania",
+				"region": "EURO",
+				"ART_comparisons": "161"
+			},
+			"DZA": {
+				"iso3Code": "DZA",
+				"countryName": "Algeria",
+				"region": "AFRO",
+				"ART_comparisons": "2680"
+			},
+			"AGO": {
+				"iso3Code": "AGO",
+				"countryName": "Angola",
+				"region": "AFRO",
+				"ART_comparisons": "35529"
+			},
+			"ATG": {
+				"iso3Code": "ATG",
+				"countryName": "Antigua and Barbuda",
+				"region": "AMRO",
+				"ART_comparisons": "186"
+			},
+			"ARG": {
+				"iso3Code": "ARG",
+				"countryName": "Argentina",
+				"region": "AMRO",
+				"ART_comparisons": "46000"
+			},
+			"ARM": {
+				"iso3Code": "ARM",
+				"countryName": "Armenia",
+				"region": "EURO",
+				"ART_comparisons": "330"
+			},
+			"AZE": {
+				"iso3Code": "AZE",
+				"countryName": "Azerbaijan",
+				"region": "EURO",
+				"ART_comparisons": "707"
+			},
+			"BGD": {
+				"iso3Code": "BGD",
+				"countryName": "Bangladesh",
+				"region": "SEARO",
+				"ART_comparisons": "681"
+			},
+			"BLR": {
+				"iso3Code": "BLR",
+				"countryName": "Belarus",
+				"region": "EURO",
+				"ART_comparisons": "3223"
+			},
+			"BLZ": {
+				"iso3Code": "BLZ",
+				"countryName": "Belize",
+				"region": "AMRO",
+				"ART_comparisons": "1358"
+			},
+			"BEN": {
+				"iso3Code": "BEN",
+				"countryName": "Benin",
+				"region": "AFRO",
+				"ART_comparisons": "19930"
+			},
+			"BTN": {
+				"iso3Code": "BTN",
+				"countryName": "Bhutan",
+				"region": "SEARO",
+				"ART_comparisons": "64"
+			},
+			"BOL": {
+				"iso3Code": "BOL",
+				"countryName": "Bolivia, Plurinational State of",
+				"region": "AMRO",
+				"ART_comparisons": "1261"
+			},
+			"BIH": {
+				"iso3Code": "BIH",
+				"countryName": "Bosnia and Herzegovina",
+				"region": "EURO",
+				"ART_comparisons": "63"
+			},
+			"BWA": {
+				"iso3Code": "BWA",
+				"countryName": "Botswana",
+				"region": "AFRO",
+				"ART_comparisons": "178684"
+			},
+			"BRA": {
+				"iso3Code": "BRA",
+				"countryName": "Brazil",
+				"region": "AMRO",
+				"ART_comparisons": "295676"
+			},
+			"BGR": {
+				"iso3Code": "BGR",
+				"countryName": "Bulgaria",
+				"region": "EURO",
+				"ART_comparisons": "383"
+			},
+			"BFA": {
+				"iso3Code": "BFA",
+				"countryName": "Burkina Faso",
+				"region": "AFRO",
+				"ART_comparisons": "36248"
+			},
+			"BDI": {
+				"iso3Code": "BDI",
+				"countryName": "Burundi",
+				"region": "AFRO",
+				"ART_comparisons": "26402"
+			},
+			"KHM": {
+				"iso3Code": "KHM",
+				"countryName": "Cambodia",
+				"region": "WPRO",
+				"ART_comparisons": "46473"
+			},
+			"CMR": {
+				"iso3Code": "CMR",
+				"countryName": "Cameroon",
+				"region": "AFRO",
+				"ART_comparisons": "105653"
+			},
+			"CPV": {
+				"iso3Code": "CPV",
+				"countryName": "Cape Verde",
+				"region": "AFRO",
+				"ART_comparisons": "719"
+			},
+			"CAF": {
+				"iso3Code": "CAF",
+				"countryName": "Central African Republic",
+				"region": "AFRO",
+				"ART_comparisons": "14405"
+			},
+			"TCD": {
+				"iso3Code": "TCD",
+				"countryName": "Chad",
+				"region": "AFRO",
+				"ART_comparisons": "32832"
+			},
+			"CHL": {
+				"iso3Code": "CHL",
+				"countryName": "Chile",
+				"region": "AMRO",
+				"ART_comparisons": "15617"
+			},
+			"CHN": {
+				"iso3Code": "CHN",
+				"countryName": "China",
+				"region": "WPRO",
+				"ART_comparisons": "126448"
+			},
+			"COL": {
+				"iso3Code": "COL",
+				"countryName": "Colombia",
+				"region": "AMRO",
+				"ART_comparisons": "30612"
+			},
+			"COM": {
+				"iso3Code": "COM",
+				"countryName": "Comoros",
+				"region": "AFRO",
+				"ART_comparisons": "19"
+			},
+			"COG": {
+				"iso3Code": "COG",
+				"countryName": "Congo",
+				"region": "AFRO",
+				"ART_comparisons": "16861"
+			},
+			"COK": {
+				"iso3Code": "COK",
+				"countryName": "Cook Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"CRI": {
+				"iso3Code": "CRI",
+				"countryName": "Costa Rica",
+				"region": "AMRO",
+				"ART_comparisons": "3663"
+			},
+			"CIV": {
+				"iso3Code": "CIV",
+				"countryName": "Côte d'Ivoire",
+				"region": "AFRO",
+				"ART_comparisons": "82721"
+			},
+			"CUB": {
+				"iso3Code": "CUB",
+				"countryName": "Cuba",
+				"region": "AMRO",
+				"ART_comparisons": "7018"
+			},
+			"PRK": {
+				"iso3Code": "PRK",
+				"countryName": "Democratic People's Republic of Korea",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"COD": {
+				"iso3Code": "COD",
+				"countryName": "Democratic Republic of the Congo",
+				"region": "AFRO",
+				"ART_comparisons": "53554"
+			},
+			"DJI": {
+				"iso3Code": "DJI",
+				"countryName": "Djibouti",
+				"region": "EMRO",
+				"ART_comparisons": "1328"
+			},
+			"DMA": {
+				"iso3Code": "DMA",
+				"countryName": "Dominica",
+				"region": "AMRO",
+				"ART_comparisons": "39"
+			},
+			"DOM": {
+				"iso3Code": "DOM",
+				"countryName": "Dominican Republic",
+				"region": "AMRO",
+				"ART_comparisons": "20247"
+			},
+			"ECU": {
+				"iso3Code": "ECU",
+				"countryName": "Ecuador",
+				"region": "AMRO",
+				"ART_comparisons": "11201"
+			},
+			"EGY": {
+				"iso3Code": "EGY",
+				"countryName": "Egypt",
+				"region": "EMRO",
+				"ART_comparisons": "760"
+			},
+			"SLV": {
+				"iso3Code": "SLV",
+				"countryName": "El Salvador",
+				"region": "AMRO",
+				"ART_comparisons": "6923"
+			},
+			"ERI": {
+				"iso3Code": "ERI",
+				"countryName": "Eritrea",
+				"region": "AFRO",
+				"ART_comparisons": "6245"
+			},
+			"ETH": {
+				"iso3Code": "ETH",
+				"countryName": "Ethiopia",
+				"region": "AFRO",
+				"ART_comparisons": "265174"
+			},
+			"FJI": {
+				"iso3Code": "FJI",
+				"countryName": "Fiji",
+				"region": "WPRO",
+				"ART_comparisons": "74"
+			},
+			"GAB": {
+				"iso3Code": "GAB",
+				"countryName": "Gabon",
+				"region": "AFRO",
+				"ART_comparisons": "12280"
+			},
+			"GMB": {
+				"iso3Code": "GMB",
+				"countryName": "Gambia",
+				"region": "AFRO",
+				"ART_comparisons": "2891"
+			},
+			"GEO": {
+				"iso3Code": "GEO",
+				"countryName": "Georgia",
+				"region": "EURO",
+				"ART_comparisons": "1122"
+			},
+			"GHA": {
+				"iso3Code": "GHA",
+				"countryName": "Ghana",
+				"region": "AFRO",
+				"ART_comparisons": "54589"
+			},
+			"GRD": {
+				"iso3Code": "GRD",
+				"countryName": "Grenada",
+				"region": "AMRO",
+				"ART_comparisons": "73"
+			},
+			"GTM": {
+				"iso3Code": "GTM",
+				"countryName": "Guatemala",
+				"region": "AMRO",
+				"ART_comparisons": "13585"
+			},
+			"GIN": {
+				"iso3Code": "GIN",
+				"countryName": "Guinea",
+				"region": "AFRO",
+				"ART_comparisons": "23135"
+			},
+			"GNB": {
+				"iso3Code": "GNB",
+				"countryName": "Guinea-Bissau",
+				"region": "AFRO",
+				"ART_comparisons": "5104"
+			},
+			"GUY": {
+				"iso3Code": "GUY",
+				"countryName": "Guyana",
+				"region": "AMRO",
+				"ART_comparisons": "3432"
+			},
+			"HTI": {
+				"iso3Code": "HTI",
+				"countryName": "Haiti",
+				"region": "AMRO",
+				"ART_comparisons": "34935"
+			},
+			"HND": {
+				"iso3Code": "HND",
+				"countryName": "Honduras",
+				"region": "AMRO",
+				"ART_comparisons": "8355"
+			},
+			"IND": {
+				"iso3Code": "IND",
+				"countryName": "India",
+				"region": "SEARO",
+				"ART_comparisons": "543000"
+			},
+			"IDN": {
+				"iso3Code": "IDN",
+				"countryName": "Indonesia",
+				"region": "SEARO",
+				"ART_comparisons": "24410"
+			},
+			"IRN": {
+				"iso3Code": "IRN",
+				"countryName": "Iran, Islamic Republic of ",
+				"region": "EMRO",
+				"ART_comparisons": "2752"
+			},
+			"IRQ": {
+				"iso3Code": "IRQ",
+				"countryName": "Iraq",
+				"region": "EMRO",
+				"ART_comparisons": "5"
+			},
+			"JAM": {
+				"iso3Code": "JAM",
+				"countryName": "Jamaica",
+				"region": "AMRO",
+				"ART_comparisons": "9167"
+			},
+			"JOR": {
+				"iso3Code": "JOR",
+				"countryName": "Jordan",
+				"region": "EMRO",
+				"ART_comparisons": "108"
+			},
+			"KAZ": {
+				"iso3Code": "KAZ",
+				"countryName": "Kazakhstan",
+				"region": "EURO",
+				"ART_comparisons": "1830"
+			},
+			"KEN": {
+				"iso3Code": "KEN",
+				"countryName": "Kenya",
+				"region": "AFRO",
+				"ART_comparisons": "538983"
+			},
+			"KIR": {
+				"iso3Code": "KIR",
+				"countryName": "Kiribati",
+				"region": "WPRO",
+				"ART_comparisons": "6"
+			},
+			"KGZ": {
+				"iso3Code": "KGZ",
+				"countryName": "Kyrgyzstan",
+				"region": "EURO",
+				"ART_comparisons": "510"
+			},
+			"LAO": {
+				"iso3Code": "LAO",
+				"countryName": "Lao People's Democratic Republic",
+				"region": "WPRO",
+				"ART_comparisons": "1988"
+			},
+			"LVA": {
+				"iso3Code": "LVA",
+				"countryName": "Latvia",
+				"region": "EURO",
+				"ART_comparisons": "560"
+			},
+			"LBN": {
+				"iso3Code": "LBN",
+				"countryName": "Lebanon",
+				"region": "EMRO",
+				"ART_comparisons": "425"
+			},
+			"LSO": {
+				"iso3Code": "LSO",
+				"countryName": "Lesotho",
+				"region": "AFRO",
+				"ART_comparisons": "83626"
+			},
+			"LBR": {
+				"iso3Code": "LBR",
+				"countryName": "Liberia",
+				"region": "AFRO",
+				"ART_comparisons": "5839"
+			},
+			"LBY": {
+				"iso3Code": "LBY",
+				"countryName": "Libyan Arab Jamahiriy",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"LTU": {
+				"iso3Code": "LTU",
+				"countryName": "Lithuania",
+				"region": "EURO",
+				"ART_comparisons": "145"
+			},
+			"MDG": {
+				"iso3Code": "MDG",
+				"countryName": "Madagascar",
+				"region": "AFRO",
+				"ART_comparisons": "383"
+			},
+			"MWI": {
+				"iso3Code": "MWI",
+				"countryName": "Malawi",
+				"region": "AFRO",
+				"ART_comparisons": "322209"
+			},
+			"MYS": {
+				"iso3Code": "MYS",
+				"countryName": "Malaysia",
+				"region": "WPRO",
+				"ART_comparisons": "14002"
+			},
+			"MDV": {
+				"iso3Code": "MDV",
+				"countryName": "Maldives",
+				"region": "SEARO",
+				"ART_comparisons": "3"
+			},
+			"MLI": {
+				"iso3Code": "MLI",
+				"countryName": "Mali",
+				"region": "AFRO",
+				"ART_comparisons": "29237"
+			},
+			"MHL": {
+				"iso3Code": "MHL",
+				"countryName": "Marshall Islands",
+				"region": "WPRO",
+				"ART_comparisons": "7"
+			},
+			"MRT": {
+				"iso3Code": "MRT",
+				"countryName": "Mauritania",
+				"region": "AFRO",
+				"ART_comparisons": "1738"
+			},
+			"MUS": {
+				"iso3Code": "MUS",
+				"countryName": "Mauritius",
+				"region": "AFRO",
+				"ART_comparisons": "1349"
+			},
+			"MEX": {
+				"iso3Code": "MEX",
+				"countryName": "Mexico",
+				"region": "AMRO",
+				"ART_comparisons": "71849"
+			},
+			"FSM": {
+				"iso3Code": "FSM",
+				"countryName": "Micronesia, Federated States of",
+				"region": "WPRO",
+				"ART_comparisons": "5"
+			},
+			"MNG": {
+				"iso3Code": "MNG",
+				"countryName": "Mongolia",
+				"region": "WPRO",
+				"ART_comparisons": "38"
+			},
+			"MNE": {
+				"iso3Code": "MNE",
+				"countryName": "Montenegro",
+				"region": "EURO",
+				"ART_comparisons": "58"
+			},
+			"MAR": {
+				"iso3Code": "MAR",
+				"countryName": "Morocco",
+				"region": "EMRO",
+				"ART_comparisons": "4047"
+			},
+			"MOZ": {
+				"iso3Code": "MOZ",
+				"countryName": "Mozambique",
+				"region": "AFRO",
+				"ART_comparisons": "273561"
+			},
+			"MMR": {
+				"iso3Code": "MMR",
+				"countryName": "Myanmar",
+				"region": "SEARO",
+				"ART_comparisons": "40128"
+			},
+			"NAM": {
+				"iso3Code": "NAM",
+				"countryName": "Namibia",
+				"region": "AFRO",
+				"ART_comparisons": "104531"
+			},
+			"NRU": {
+				"iso3Code": "NRU",
+				"countryName": "Nauru",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"NPL": {
+				"iso3Code": "NPL",
+				"countryName": "Nepal",
+				"region": "SEARO",
+				"ART_comparisons": "6483"
+			},
+			"NIC": {
+				"iso3Code": "NIC",
+				"countryName": "Nicaragua",
+				"region": "AMRO",
+				"ART_comparisons": "1686"
+			},
+			"NER": {
+				"iso3Code": "NER",
+				"countryName": "Niger",
+				"region": "AFRO",
+				"ART_comparisons": "9420"
+			},
+			"NGA": {
+				"iso3Code": "NGA",
+				"countryName": "Nigeria",
+				"region": "AFRO",
+				"ART_comparisons": "432285"
+			},
+			"NIU": {
+				"iso3Code": "NIU",
+				"countryName": "Niue",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"PAK": {
+				"iso3Code": "PAK",
+				"countryName": "Pakistan",
+				"region": "EMRO",
+				"ART_comparisons": "2491"
+			},
+			"PLW": {
+				"iso3Code": "PLW",
+				"countryName": "Palau",
+				"region": "WPRO",
+				"ART_comparisons": "2"
+			},
+			"PAN": {
+				"iso3Code": "PAN",
+				"countryName": "Panama",
+				"region": "AMRO",
+				"ART_comparisons": "5156"
+			},
+			"PNG": {
+				"iso3Code": "PNG",
+				"countryName": "Papua New Guinea",
+				"region": "WPRO",
+				"ART_comparisons": "9435"
+			},
+			"PRY": {
+				"iso3Code": "PRY",
+				"countryName": "Paraguay",
+				"region": "AMRO",
+				"ART_comparisons": "2952"
+			},
+			"PER": {
+				"iso3Code": "PER",
+				"countryName": "Peru",
+				"region": "AMRO",
+				"ART_comparisons": "21509"
+			},
+			"PHL": {
+				"iso3Code": "PHL",
+				"countryName": "Philippines",
+				"region": "WPRO",
+				"ART_comparisons": "1992"
+			},
+			"MDA": {
+				"iso3Code": "MDA",
+				"countryName": "Republic of Moldova",
+				"region": "EURO",
+				"ART_comparisons": "1666"
+			},
+			"ROU": {
+				"iso3Code": "ROU",
+				"countryName": "Romania",
+				"region": "EURO",
+				"ART_comparisons": "7536"
+			},
+			"RUS": {
+				"iso3Code": "RUS",
+				"countryName": "Russian Federation",
+				"region": "EURO",
+				"ART_comparisons": "85716"
+			},
+			"RWA": {
+				"iso3Code": "RWA",
+				"countryName": "Rwanda",
+				"region": "AFRO",
+				"ART_comparisons": "96123"
+			},
+			"LCA": {
+				"iso3Code": "LCA",
+				"countryName": "Saint Lucia",
+				"region": "AMRO",
+				"ART_comparisons": "170"
+			},
+			"VCT": {
+				"iso3Code": "VCT",
+				"countryName": "Saint Vincent and the Grenadines",
+				"region": "AMRO",
+				"ART_comparisons": "184"
+			},
+			"WSM": {
+				"iso3Code": "WSM",
+				"countryName": "Samoa",
+				"region": "WPRO",
+				"ART_comparisons": "12"
+			},
+			"STP": {
+				"iso3Code": "STP",
+				"countryName": "Sao Tome and Principe",
+				"region": "AFRO",
+				"ART_comparisons": "252"
+			},
+			"SEN": {
+				"iso3Code": "SEN",
+				"countryName": "Senegal",
+				"region": "AFRO",
+				"ART_comparisons": "12762"
+			},
+			"SRB": {
+				"iso3Code": "SRB",
+				"countryName": "Serbia",
+				"region": "EURO",
+				"ART_comparisons": "987"
+			},
+			"SYC": {
+				"iso3Code": "SYC",
+				"countryName": "Seychelles",
+				"region": "AFRO",
+				"ART_comparisons": "181"
+			},
+			"SLE": {
+				"iso3Code": "SLE",
+				"countryName": "Sierra Leone",
+				"region": "AFRO",
+				"ART_comparisons": "8115"
+			},
+			"SLB": {
+				"iso3Code": "SLB",
+				"countryName": "Solomon Islands",
+				"region": "WPRO",
+				"ART_comparisons": "8"
+			},
+			"SOM": {
+				"iso3Code": "SOM",
+				"countryName": "Somalia",
+				"region": "EMRO",
+				"ART_comparisons": "1139"
+			},
+			"ZAF": {
+				"iso3Code": "ZAF",
+				"countryName": "South Africa",
+				"region": "AFRO",
+				"ART_comparisons": "1702060"
+			},
+			"SSD": {
+				"iso3Code": "SSD",
+				"countryName": "South Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "3442"
+			},
+			"LKA": {
+				"iso3Code": "LKA",
+				"countryName": "Sri Lanka",
+				"region": "SEARO",
+				"ART_comparisons": "311"
+			},
+			"SDN": {
+				"iso3Code": "SDN",
+				"countryName": "Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "2500"
+			},
+			"SUR": {
+				"iso3Code": "SUR",
+				"countryName": "Suriname",
+				"region": "AMRO",
+				"ART_comparisons": "1276"
+			},
+			"SWZ": {
+				"iso3Code": "SWZ",
+				"countryName": "Swaziland",
+				"region": "AFRO",
+				"ART_comparisons": "72402"
+			},
+			"SYR": {
+				"iso3Code": "SYR",
+				"countryName": "Syrian Arab Republic",
+				"region": "EMRO",
+				"ART_comparisons": "130"
+			},
+			"TJK": {
+				"iso3Code": "TJK",
+				"countryName": "Tajikistan",
+				"region": "EURO",
+				"ART_comparisons": "769"
+			},
+			"THA": {
+				"iso3Code": "THA",
+				"countryName": "Thailand",
+				"region": "SEARO",
+				"ART_comparisons": "225272"
+			},
+			"MKD": {
+				"iso3Code": "MKD",
+				"countryName": "The former Yugoslav Republic of Macedonia",
+				"region": "EURO",
+				"ART_comparisons": "45"
+			},
+			"TLS": {
+				"iso3Code": "TLS",
+				"countryName": "Timor-Leste",
+				"region": "SEARO",
+				"ART_comparisons": "60"
+			},
+			"TGO": {
+				"iso3Code": "TGO",
+				"countryName": "Togo",
+				"region": "AFRO",
+				"ART_comparisons": "29045"
+			},
+			"TON": {
+				"iso3Code": "TON",
+				"countryName": "Tonga",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"TUN": {
+				"iso3Code": "TUN",
+				"countryName": "Tunisia",
+				"region": "EMRO",
+				"ART_comparisons": "483"
+			},
+			"TUR": {
+				"iso3Code": "TUR",
+				"countryName": "Turkey",
+				"region": "EURO",
+				"ART_comparisons": "1000"
+			},
+			"TKM": {
+				"iso3Code": "TKM",
+				"countryName": "Turkmenistan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"TUV": {
+				"iso3Code": "TUV",
+				"countryName": "Tuvalu",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"UGA": {
+				"iso3Code": "UGA",
+				"countryName": "Uganda",
+				"region": "AFRO",
+				"ART_comparisons": "313117"
+			},
+			"UKR": {
+				"iso3Code": "UKR",
+				"countryName": "Ukraine",
+				"region": "EURO",
+				"ART_comparisons": "26720"
+			},
+			"TZA": {
+				"iso3Code": "TZA",
+				"countryName": "United Republic of Tanzania",
+				"region": "AFRO",
+				"ART_comparisons": "277070"
+			},
+			"URY": {
+				"iso3Code": "URY",
+				"countryName": "Uruguay",
+				"region": "AMRO",
+				"ART_comparisons": "2658"
+			},
+			"UZB": {
+				"iso3Code": "UZB",
+				"countryName": "Uzbekistan",
+				"region": "EURO",
+				"ART_comparisons": "3832"
+			},
+			"VUT": {
+				"iso3Code": "VUT",
+				"countryName": "Vanuatu",
+				"region": "WPRO",
+				"ART_comparisons": "3"
+			},
+			"VEN": {
+				"iso3Code": "VEN",
+				"countryName": "Venezuela, Bolivarian Republic of",
+				"region": "AMRO",
+				"ART_comparisons": "40384"
+			},
+			"VNM": {
+				"iso3Code": "VNM",
+				"countryName": "Viet Nam",
+				"region": "WPRO",
+				"ART_comparisons": "60924"
+			},
+			"YEM": {
+				"iso3Code": "YEM",
+				"countryName": "Yemen",
+				"region": "EMRO",
+				"ART_comparisons": "625"
+			},
+			"ZMB": {
+				"iso3Code": "ZMB",
+				"countryName": "Zambia",
+				"region": "AFRO",
+				"ART_comparisons": "415685"
+			},
+			"ZWE": {
+				"iso3Code": "ZWE",
+				"countryName": "Zimbabwe",
+				"region": "AFRO",
+				"ART_comparisons": "476321"
+			}
+		},
+		"2010": {
+			"AFG": {
+				"iso3Code": "AFG",
+				"countryName": "Afghanistan",
+				"region": "EMRO",
+				"ART_comparisons": "46"
+			},
+			"ALB": {
+				"iso3Code": "ALB",
+				"countryName": "Albania",
+				"region": "EURO",
+				"ART_comparisons": "145"
+			},
+			"DZA": {
+				"iso3Code": "DZA",
+				"countryName": "Algeria",
+				"region": "AFRO",
+				"ART_comparisons": "2221"
+			},
+			"AGO": {
+				"iso3Code": "AGO",
+				"countryName": "Angola",
+				"region": "AFRO",
+				"ART_comparisons": "29796"
+			},
+			"ATG": {
+				"iso3Code": "ATG",
+				"countryName": "Antigua and Barbuda",
+				"region": "AMRO",
+				"ART_comparisons": "153"
+			},
+			"ARG": {
+				"iso3Code": "ARG",
+				"countryName": "Argentina",
+				"region": "AMRO",
+				"ART_comparisons": "43313"
+			},
+			"ARM": {
+				"iso3Code": "ARM",
+				"countryName": "Armenia",
+				"region": "EURO",
+				"ART_comparisons": "250"
+			},
+			"AZE": {
+				"iso3Code": "AZE",
+				"countryName": "Azerbaijan",
+				"region": "EURO",
+				"ART_comparisons": "435"
+			},
+			"BGD": {
+				"iso3Code": "BGD",
+				"countryName": "Bangladesh",
+				"region": "SEARO",
+				"ART_comparisons": "465"
+			},
+			"BLR": {
+				"iso3Code": "BLR",
+				"countryName": "Belarus",
+				"region": "EURO",
+				"ART_comparisons": "2614"
+			},
+			"BLZ": {
+				"iso3Code": "BLZ",
+				"countryName": "Belize",
+				"region": "AMRO",
+				"ART_comparisons": "1053"
+			},
+			"BEN": {
+				"iso3Code": "BEN",
+				"countryName": "Benin",
+				"region": "AFRO",
+				"ART_comparisons": "18230"
+			},
+			"BTN": {
+				"iso3Code": "BTN",
+				"countryName": "Bhutan",
+				"region": "SEARO",
+				"ART_comparisons": "57"
+			},
+			"BOL": {
+				"iso3Code": "BOL",
+				"countryName": "Bolivia, Plurinational State of",
+				"region": "AMRO",
+				"ART_comparisons": "1283"
+			},
+			"BIH": {
+				"iso3Code": "BIH",
+				"countryName": "Bosnia and Herzegovina",
+				"region": "EURO",
+				"ART_comparisons": "48"
+			},
+			"BWA": {
+				"iso3Code": "BWA",
+				"countryName": "Botswana",
+				"region": "AFRO",
+				"ART_comparisons": "161219"
+			},
+			"BRA": {
+				"iso3Code": "BRA",
+				"countryName": "Brazil",
+				"region": "AMRO",
+				"ART_comparisons": "271279"
+			},
+			"BGR": {
+				"iso3Code": "BGR",
+				"countryName": "Bulgaria",
+				"region": "EURO",
+				"ART_comparisons": "327"
+			},
+			"BFA": {
+				"iso3Code": "BFA",
+				"countryName": "Burkina Faso",
+				"region": "AFRO",
+				"ART_comparisons": "31543"
+			},
+			"BDI": {
+				"iso3Code": "BDI",
+				"countryName": "Burundi",
+				"region": "AFRO",
+				"ART_comparisons": "22735"
+			},
+			"KHM": {
+				"iso3Code": "KHM",
+				"countryName": "Cambodia",
+				"region": "WPRO",
+				"ART_comparisons": "42799"
+			},
+			"CMR": {
+				"iso3Code": "CMR",
+				"countryName": "Cameroon",
+				"region": "AFRO",
+				"ART_comparisons": "89455"
+			},
+			"CPV": {
+				"iso3Code": "CPV",
+				"countryName": "Cape Verde",
+				"region": "AFRO",
+				"ART_comparisons": "611"
+			},
+			"CAF": {
+				"iso3Code": "CAF",
+				"countryName": "Central African Republic",
+				"region": "AFRO",
+				"ART_comparisons": "15287"
+			},
+			"TCD": {
+				"iso3Code": "TCD",
+				"countryName": "Chad",
+				"region": "AFRO",
+				"ART_comparisons": "32288"
+			},
+			"CHL": {
+				"iso3Code": "CHL",
+				"countryName": "Chile",
+				"region": "AMRO",
+				"ART_comparisons": "14356"
+			},
+			"CHN": {
+				"iso3Code": "CHN",
+				"countryName": "China",
+				"region": "WPRO",
+				"ART_comparisons": "86122"
+			},
+			"COL": {
+				"iso3Code": "COL",
+				"countryName": "Colombia",
+				"region": "AMRO",
+				"ART_comparisons": "29803"
+			},
+			"COM": {
+				"iso3Code": "COM",
+				"countryName": "Comoros",
+				"region": "AFRO",
+				"ART_comparisons": "17"
+			},
+			"COG": {
+				"iso3Code": "COG",
+				"countryName": "Congo",
+				"region": "AFRO",
+				"ART_comparisons": "14830"
+			},
+			"COK": {
+				"iso3Code": "COK",
+				"countryName": "Cook Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"CRI": {
+				"iso3Code": "CRI",
+				"countryName": "Costa Rica",
+				"region": "AMRO",
+				"ART_comparisons": "3265"
+			},
+			"CIV": {
+				"iso3Code": "CIV",
+				"countryName": "Côte d'Ivoire",
+				"region": "AFRO",
+				"ART_comparisons": "75237"
+			},
+			"CUB": {
+				"iso3Code": "CUB",
+				"countryName": "Cuba",
+				"region": "AMRO",
+				"ART_comparisons": "5587"
+			},
+			"PRK": {
+				"iso3Code": "PRK",
+				"countryName": "Democratic People's Republic of Korea",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"COD": {
+				"iso3Code": "COD",
+				"countryName": "Democratic Republic of the Congo",
+				"region": "AFRO",
+				"ART_comparisons": "43878"
+			},
+			"DJI": {
+				"iso3Code": "DJI",
+				"countryName": "Djibouti",
+				"region": "EMRO",
+				"ART_comparisons": "1008"
+			},
+			"DMA": {
+				"iso3Code": "DMA",
+				"countryName": "Dominica",
+				"region": "AMRO",
+				"ART_comparisons": "41"
+			},
+			"DOM": {
+				"iso3Code": "DOM",
+				"countryName": "Dominican Republic",
+				"region": "AMRO",
+				"ART_comparisons": "17082"
+			},
+			"ECU": {
+				"iso3Code": "ECU",
+				"countryName": "Ecuador",
+				"region": "AMRO",
+				"ART_comparisons": "8977"
+			},
+			"EGY": {
+				"iso3Code": "EGY",
+				"countryName": "Egypt",
+				"region": "EMRO",
+				"ART_comparisons": "525"
+			},
+			"SLV": {
+				"iso3Code": "SLV",
+				"countryName": "El Salvador",
+				"region": "AMRO",
+				"ART_comparisons": "5843"
+			},
+			"ERI": {
+				"iso3Code": "ERI",
+				"countryName": "Eritrea",
+				"region": "AFRO",
+				"ART_comparisons": "5387"
+			},
+			"ETH": {
+				"iso3Code": "ETH",
+				"countryName": "Ethiopia",
+				"region": "AFRO",
+				"ART_comparisons": "222723"
+			},
+			"FJI": {
+				"iso3Code": "FJI",
+				"countryName": "Fiji",
+				"region": "WPRO",
+				"ART_comparisons": "58"
+			},
+			"GAB": {
+				"iso3Code": "GAB",
+				"countryName": "Gabon",
+				"region": "AFRO",
+				"ART_comparisons": "11488"
+			},
+			"GMB": {
+				"iso3Code": "GMB",
+				"countryName": "Gambia",
+				"region": "AFRO",
+				"ART_comparisons": "1869"
+			},
+			"GEO": {
+				"iso3Code": "GEO",
+				"countryName": "Georgia",
+				"region": "EURO",
+				"ART_comparisons": "830"
+			},
+			"GHA": {
+				"iso3Code": "GHA",
+				"countryName": "Ghana",
+				"region": "AFRO",
+				"ART_comparisons": "40575"
+			},
+			"GRD": {
+				"iso3Code": "GRD",
+				"countryName": "Grenada",
+				"region": "AMRO",
+				"ART_comparisons": "61"
+			},
+			"GTM": {
+				"iso3Code": "GTM",
+				"countryName": "Guatemala",
+				"region": "AMRO",
+				"ART_comparisons": "12053"
+			},
+			"GIN": {
+				"iso3Code": "GIN",
+				"countryName": "Guinea",
+				"region": "AFRO",
+				"ART_comparisons": "20430"
+			},
+			"GNB": {
+				"iso3Code": "GNB",
+				"countryName": "Guinea-Bissau",
+				"region": "AFRO",
+				"ART_comparisons": "3632"
+			},
+			"GUY": {
+				"iso3Code": "GUY",
+				"countryName": "Guyana",
+				"region": "AMRO",
+				"ART_comparisons": "3059"
+			},
+			"HTI": {
+				"iso3Code": "HTI",
+				"countryName": "Haiti",
+				"region": "AMRO",
+				"ART_comparisons": "29180"
+			},
+			"HND": {
+				"iso3Code": "HND",
+				"countryName": "Honduras",
+				"region": "AMRO",
+				"ART_comparisons": "7718"
+			},
+			"IND": {
+				"iso3Code": "IND",
+				"countryName": "India",
+				"region": "SEARO",
+				"ART_comparisons": "424802"
+			},
+			"IDN": {
+				"iso3Code": "IDN",
+				"countryName": "Indonesia",
+				"region": "SEARO",
+				"ART_comparisons": "19572"
+			},
+			"IRN": {
+				"iso3Code": "IRN",
+				"countryName": "Iran, Islamic Republic of ",
+				"region": "EMRO",
+				"ART_comparisons": "1800"
+			},
+			"IRQ": {
+				"iso3Code": "IRQ",
+				"countryName": "Iraq",
+				"region": "EMRO",
+				"ART_comparisons": "5"
+			},
+			"JAM": {
+				"iso3Code": "JAM",
+				"countryName": "Jamaica",
+				"region": "AMRO",
+				"ART_comparisons": "8016"
+			},
+			"JOR": {
+				"iso3Code": "JOR",
+				"countryName": "Jordan",
+				"region": "EMRO",
+				"ART_comparisons": "83"
+			},
+			"KAZ": {
+				"iso3Code": "KAZ",
+				"countryName": "Kazakhstan",
+				"region": "EURO",
+				"ART_comparisons": "1336"
+			},
+			"KEN": {
+				"iso3Code": "KEN",
+				"countryName": "Kenya",
+				"region": "AFRO",
+				"ART_comparisons": "432621"
+			},
+			"KIR": {
+				"iso3Code": "KIR",
+				"countryName": "Kiribati",
+				"region": "WPRO",
+				"ART_comparisons": "6"
+			},
+			"KGZ": {
+				"iso3Code": "KGZ",
+				"countryName": "Kyrgyzstan",
+				"region": "EURO",
+				"ART_comparisons": "548"
+			},
+			"LAO": {
+				"iso3Code": "LAO",
+				"countryName": "Lao People's Democratic Republic",
+				"region": "WPRO",
+				"ART_comparisons": "1690"
+			},
+			"LVA": {
+				"iso3Code": "LVA",
+				"countryName": "Latvia",
+				"region": "EURO",
+				"ART_comparisons": "508"
+			},
+			"LBN": {
+				"iso3Code": "LBN",
+				"countryName": "Lebanon",
+				"region": "EMRO",
+				"ART_comparisons": "412"
+			},
+			"LSO": {
+				"iso3Code": "LSO",
+				"countryName": "Lesotho",
+				"region": "AFRO",
+				"ART_comparisons": "76487"
+			},
+			"LBR": {
+				"iso3Code": "LBR",
+				"countryName": "Liberia",
+				"region": "AFRO",
+				"ART_comparisons": "4412"
+			},
+			"LBY": {
+				"iso3Code": "LBY",
+				"countryName": "Libyan Arab Jamahiriy",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"LTU": {
+				"iso3Code": "LTU",
+				"countryName": "Lithuania",
+				"region": "EURO",
+				"ART_comparisons": "145"
+			},
+			"MDG": {
+				"iso3Code": "MDG",
+				"countryName": "Madagascar",
+				"region": "AFRO",
+				"ART_comparisons": "248"
+			},
+			"MWI": {
+				"iso3Code": "MWI",
+				"countryName": "Malawi",
+				"region": "AFRO",
+				"ART_comparisons": "250987"
+			},
+			"MYS": {
+				"iso3Code": "MYS",
+				"countryName": "Malaysia",
+				"region": "WPRO",
+				"ART_comparisons": "13918"
+			},
+			"MDV": {
+				"iso3Code": "MDV",
+				"countryName": "Maldives",
+				"region": "SEARO",
+				"ART_comparisons": "2"
+			},
+			"MLI": {
+				"iso3Code": "MLI",
+				"countryName": "Mali",
+				"region": "AFRO",
+				"ART_comparisons": "24778"
+			},
+			"MHL": {
+				"iso3Code": "MHL",
+				"countryName": "Marshall Islands",
+				"region": "WPRO",
+				"ART_comparisons": "6"
+			},
+			"MRT": {
+				"iso3Code": "MRT",
+				"countryName": "Mauritania",
+				"region": "AFRO",
+				"ART_comparisons": "1669"
+			},
+			"MUS": {
+				"iso3Code": "MUS",
+				"countryName": "Mauritius",
+				"region": "AFRO",
+				"ART_comparisons": "646"
+			},
+			"MEX": {
+				"iso3Code": "MEX",
+				"countryName": "Mexico",
+				"region": "AMRO",
+				"ART_comparisons": "64487"
+			},
+			"FSM": {
+				"iso3Code": "FSM",
+				"countryName": "Micronesia, Federated States of",
+				"region": "WPRO",
+				"ART_comparisons": "5"
+			},
+			"MNG": {
+				"iso3Code": "MNG",
+				"countryName": "Mongolia",
+				"region": "WPRO",
+				"ART_comparisons": "28"
+			},
+			"MNE": {
+				"iso3Code": "MNE",
+				"countryName": "Montenegro",
+				"region": "EURO",
+				"ART_comparisons": "40"
+			},
+			"MAR": {
+				"iso3Code": "MAR",
+				"countryName": "Morocco",
+				"region": "EMRO",
+				"ART_comparisons": "3205"
+			},
+			"MOZ": {
+				"iso3Code": "MOZ",
+				"countryName": "Mozambique",
+				"region": "AFRO",
+				"ART_comparisons": "218991"
+			},
+			"MMR": {
+				"iso3Code": "MMR",
+				"countryName": "Myanmar",
+				"region": "SEARO",
+				"ART_comparisons": "29825"
+			},
+			"NAM": {
+				"iso3Code": "NAM",
+				"countryName": "Namibia",
+				"region": "AFRO",
+				"ART_comparisons": "88717"
+			},
+			"NRU": {
+				"iso3Code": "NRU",
+				"countryName": "Nauru",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"NPL": {
+				"iso3Code": "NPL",
+				"countryName": "Nepal",
+				"region": "SEARO",
+				"ART_comparisons": "4867"
+			},
+			"NIC": {
+				"iso3Code": "NIC",
+				"countryName": "Nicaragua",
+				"region": "AMRO",
+				"ART_comparisons": "1286"
+			},
+			"NER": {
+				"iso3Code": "NER",
+				"countryName": "Niger",
+				"region": "AFRO",
+				"ART_comparisons": "7812"
+			},
+			"NGA": {
+				"iso3Code": "NGA",
+				"countryName": "Nigeria",
+				"region": "AFRO",
+				"ART_comparisons": "359181"
+			},
+			"NIU": {
+				"iso3Code": "NIU",
+				"countryName": "Niue",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"PAK": {
+				"iso3Code": "PAK",
+				"countryName": "Pakistan",
+				"region": "EMRO",
+				"ART_comparisons": "1892"
+			},
+			"PLW": {
+				"iso3Code": "PLW",
+				"countryName": "Palau",
+				"region": "WPRO",
+				"ART_comparisons": "3"
+			},
+			"PAN": {
+				"iso3Code": "PAN",
+				"countryName": "Panama",
+				"region": "AMRO",
+				"ART_comparisons": "4888"
+			},
+			"PNG": {
+				"iso3Code": "PNG",
+				"countryName": "Papua New Guinea",
+				"region": "WPRO",
+				"ART_comparisons": "7555"
+			},
+			"PRY": {
+				"iso3Code": "PRY",
+				"countryName": "Paraguay",
+				"region": "AMRO",
+				"ART_comparisons": "2962"
+			},
+			"PER": {
+				"iso3Code": "PER",
+				"countryName": "Peru",
+				"region": "AMRO",
+				"ART_comparisons": "14780"
+			},
+			"PHL": {
+				"iso3Code": "PHL",
+				"countryName": "Philippines",
+				"region": "WPRO",
+				"ART_comparisons": "1274"
+			},
+			"MDA": {
+				"iso3Code": "MDA",
+				"countryName": "Republic of Moldova",
+				"region": "EURO",
+				"ART_comparisons": "1237"
+			},
+			"ROU": {
+				"iso3Code": "ROU",
+				"countryName": "Romania",
+				"region": "EURO",
+				"ART_comparisons": "7276"
+			},
+			"RUS": {
+				"iso3Code": "RUS",
+				"countryName": "Russian Federation",
+				"region": "EURO",
+				"ART_comparisons": "79430"
+			},
+			"RWA": {
+				"iso3Code": "RWA",
+				"countryName": "Rwanda",
+				"region": "AFRO",
+				"ART_comparisons": "91984"
+			},
+			"LCA": {
+				"iso3Code": "LCA",
+				"countryName": "Saint Lucia",
+				"region": "AMRO",
+				"ART_comparisons": "124"
+			},
+			"VCT": {
+				"iso3Code": "VCT",
+				"countryName": "Saint Vincent and the Grenadines",
+				"region": "AMRO",
+				"ART_comparisons": "162"
+			},
+			"WSM": {
+				"iso3Code": "WSM",
+				"countryName": "Samoa",
+				"region": "WPRO",
+				"ART_comparisons": "13"
+			},
+			"STP": {
+				"iso3Code": "STP",
+				"countryName": "Sao Tome and Principe",
+				"region": "AFRO",
+				"ART_comparisons": "196"
+			},
+			"SEN": {
+				"iso3Code": "SEN",
+				"countryName": "Senegal",
+				"region": "AFRO",
+				"ART_comparisons": "12249"
+			},
+			"SRB": {
+				"iso3Code": "SRB",
+				"countryName": "Serbia",
+				"region": "EURO",
+				"ART_comparisons": "915"
+			},
+			"SYC": {
+				"iso3Code": "SYC",
+				"countryName": "Seychelles",
+				"region": "AFRO",
+				"ART_comparisons": "156"
+			},
+			"SLE": {
+				"iso3Code": "SLE",
+				"countryName": "Sierra Leone",
+				"region": "AFRO",
+				"ART_comparisons": "5552"
+			},
+			"SLB": {
+				"iso3Code": "SLB",
+				"countryName": "Solomon Islands",
+				"region": "WPRO",
+				"ART_comparisons": "7"
+			},
+			"SOM": {
+				"iso3Code": "SOM",
+				"countryName": "Somalia",
+				"region": "EMRO",
+				"ART_comparisons": "878"
+			},
+			"ZAF": {
+				"iso3Code": "ZAF",
+				"countryName": "South Africa",
+				"region": "AFRO",
+				"ART_comparisons": "1389865"
+			},
+			"SSD": {
+				"iso3Code": "SSD",
+				"countryName": "South Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "2223"
+			},
+			"LKA": {
+				"iso3Code": "LKA",
+				"countryName": "Sri Lanka",
+				"region": "SEARO",
+				"ART_comparisons": "256"
+			},
+			"SDN": {
+				"iso3Code": "SDN",
+				"countryName": "Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "2122"
+			},
+			"SUR": {
+				"iso3Code": "SUR",
+				"countryName": "Suriname",
+				"region": "AMRO",
+				"ART_comparisons": "1106"
+			},
+			"SWZ": {
+				"iso3Code": "SWZ",
+				"countryName": "Swaziland",
+				"region": "AFRO",
+				"ART_comparisons": "59802"
+			},
+			"SYR": {
+				"iso3Code": "SYR",
+				"countryName": "Syrian Arab Republic",
+				"region": "EMRO",
+				"ART_comparisons": "110"
+			},
+			"TJK": {
+				"iso3Code": "TJK",
+				"countryName": "Tajikistan",
+				"region": "EURO",
+				"ART_comparisons": "504"
+			},
+			"THA": {
+				"iso3Code": "THA",
+				"countryName": "Thailand",
+				"region": "SEARO",
+				"ART_comparisons": "208570"
+			},
+			"MKD": {
+				"iso3Code": "MKD",
+				"countryName": "The former Yugoslav Republic of Macedonia",
+				"region": "EURO",
+				"ART_comparisons": "36"
+			},
+			"TLS": {
+				"iso3Code": "TLS",
+				"countryName": "Timor-Leste",
+				"region": "SEARO",
+				"ART_comparisons": "39"
+			},
+			"TGO": {
+				"iso3Code": "TGO",
+				"countryName": "Togo",
+				"region": "AFRO",
+				"ART_comparisons": "24635"
+			},
+			"TON": {
+				"iso3Code": "TON",
+				"countryName": "Tonga",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"TUN": {
+				"iso3Code": "TUN",
+				"countryName": "Tunisia",
+				"region": "EMRO",
+				"ART_comparisons": "412"
+			},
+			"TUR": {
+				"iso3Code": "TUR",
+				"countryName": "Turkey",
+				"region": "EURO",
+				"ART_comparisons": "1000"
+			},
+			"TKM": {
+				"iso3Code": "TKM",
+				"countryName": "Turkmenistan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"TUV": {
+				"iso3Code": "TUV",
+				"countryName": "Tuvalu",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"UGA": {
+				"iso3Code": "UGA",
+				"countryName": "Uganda",
+				"region": "AFRO",
+				"ART_comparisons": "248222"
+			},
+			"UKR": {
+				"iso3Code": "UKR",
+				"countryName": "Ukraine",
+				"region": "EURO",
+				"ART_comparisons": "22697"
+			},
+			"TZA": {
+				"iso3Code": "TZA",
+				"countryName": "United Republic of Tanzania",
+				"region": "AFRO",
+				"ART_comparisons": "258069"
+			},
+			"URY": {
+				"iso3Code": "URY",
+				"countryName": "Uruguay",
+				"region": "AMRO",
+				"ART_comparisons": "3124"
+			},
+			"UZB": {
+				"iso3Code": "UZB",
+				"countryName": "Uzbekistan",
+				"region": "EURO",
+				"ART_comparisons": "2479"
+			},
+			"VUT": {
+				"iso3Code": "VUT",
+				"countryName": "Vanuatu",
+				"region": "WPRO",
+				"ART_comparisons": "2"
+			},
+			"VEN": {
+				"iso3Code": "VEN",
+				"countryName": "Venezuela, Bolivarian Republic of",
+				"region": "AMRO",
+				"ART_comparisons": "37827"
+			},
+			"VNM": {
+				"iso3Code": "VNM",
+				"countryName": "Viet Nam",
+				"region": "WPRO",
+				"ART_comparisons": "49492"
+			},
+			"YEM": {
+				"iso3Code": "YEM",
+				"countryName": "Yemen",
+				"region": "EMRO",
+				"ART_comparisons": "531"
+			},
+			"ZMB": {
+				"iso3Code": "ZMB",
+				"countryName": "Zambia",
+				"region": "AFRO",
+				"ART_comparisons": "344407"
+			},
+			"ZWE": {
+				"iso3Code": "ZWE",
+				"countryName": "Zimbabwe",
+				"region": "AFRO",
+				"ART_comparisons": "326241"
+			}
+		},
+		"2009": {
+			"AFG": {
+				"iso3Code": "AFG",
+				"countryName": "Afghanistan",
+				"region": "EMRO",
+				"ART_comparisons": "19"
+			},
+			"ALB": {
+				"iso3Code": "ALB",
+				"countryName": "Albania",
+				"region": "EURO",
+				"ART_comparisons": "114"
+			},
+			"DZA": {
+				"iso3Code": "DZA",
+				"countryName": "Algeria",
+				"region": "AFRO",
+				"ART_comparisons": "1526"
+			},
+			"AGO": {
+				"iso3Code": "AGO",
+				"countryName": "Angola",
+				"region": "AFRO",
+				"ART_comparisons": "22311"
+			},
+			"ATG": {
+				"iso3Code": "ATG",
+				"countryName": "Antigua and Barbuda",
+				"region": "AMRO",
+				"ART_comparisons": "98"
+			},
+			"ARG": {
+				"iso3Code": "ARG",
+				"countryName": "Argentina",
+				"region": "AMRO",
+				"ART_comparisons": "42815"
+			},
+			"ARM": {
+				"iso3Code": "ARM",
+				"countryName": "Armenia",
+				"region": "EURO",
+				"ART_comparisons": "179"
+			},
+			"AZE": {
+				"iso3Code": "AZE",
+				"countryName": "Azerbaijan",
+				"region": "EURO",
+				"ART_comparisons": "238"
+			},
+			"BGD": {
+				"iso3Code": "BGD",
+				"countryName": "Bangladesh",
+				"region": "SEARO",
+				"ART_comparisons": "353"
+			},
+			"BLR": {
+				"iso3Code": "BLR",
+				"countryName": "Belarus",
+				"region": "EURO",
+				"ART_comparisons": "1776"
+			},
+			"BLZ": {
+				"iso3Code": "BLZ",
+				"countryName": "Belize",
+				"region": "AMRO",
+				"ART_comparisons": "855"
+			},
+			"BEN": {
+				"iso3Code": "BEN",
+				"countryName": "Benin",
+				"region": "AFRO",
+				"ART_comparisons": "15401"
+			},
+			"BTN": {
+				"iso3Code": "BTN",
+				"countryName": "Bhutan",
+				"region": "SEARO",
+				"ART_comparisons": "30"
+			},
+			"BOL": {
+				"iso3Code": "BOL",
+				"countryName": "Bolivia, Plurinational State of",
+				"region": "AMRO",
+				"ART_comparisons": "1115"
+			},
+			"BIH": {
+				"iso3Code": "BIH",
+				"countryName": "Bosnia and Herzegovina",
+				"region": "EURO",
+				"ART_comparisons": "38"
+			},
+			"BWA": {
+				"iso3Code": "BWA",
+				"countryName": "Botswana",
+				"region": "AFRO",
+				"ART_comparisons": "145190"
+			},
+			"BRA": {
+				"iso3Code": "BRA",
+				"countryName": "Brazil",
+				"region": "AMRO",
+				"ART_comparisons": "245982"
+			},
+			"BGR": {
+				"iso3Code": "BGR",
+				"countryName": "Bulgaria",
+				"region": "EURO",
+				"ART_comparisons": "327"
+			},
+			"BFA": {
+				"iso3Code": "BFA",
+				"countryName": "Burkina Faso",
+				"region": "AFRO",
+				"ART_comparisons": "26448"
+			},
+			"BDI": {
+				"iso3Code": "BDI",
+				"countryName": "Burundi",
+				"region": "AFRO",
+				"ART_comparisons": "17661"
+			},
+			"KHM": {
+				"iso3Code": "KHM",
+				"countryName": "Cambodia",
+				"region": "WPRO",
+				"ART_comparisons": "37315"
+			},
+			"CMR": {
+				"iso3Code": "CMR",
+				"countryName": "Cameroon",
+				"region": "AFRO",
+				"ART_comparisons": "76228"
+			},
+			"CPV": {
+				"iso3Code": "CPV",
+				"countryName": "Cape Verde",
+				"region": "AFRO",
+				"ART_comparisons": "611"
+			},
+			"CAF": {
+				"iso3Code": "CAF",
+				"countryName": "Central African Republic",
+				"region": "AFRO",
+				"ART_comparisons": "14474"
+			},
+			"TCD": {
+				"iso3Code": "TCD",
+				"countryName": "Chad",
+				"region": "AFRO",
+				"ART_comparisons": "32288"
+			},
+			"CHL": {
+				"iso3Code": "CHL",
+				"countryName": "Chile",
+				"region": "AMRO",
+				"ART_comparisons": "12762"
+			},
+			"CHN": {
+				"iso3Code": "CHN",
+				"countryName": "China",
+				"region": "WPRO",
+				"ART_comparisons": "65481"
+			},
+			"COL": {
+				"iso3Code": "COL",
+				"countryName": "Colombia",
+				"region": "AMRO",
+				"ART_comparisons": "16302"
+			},
+			"COM": {
+				"iso3Code": "COM",
+				"countryName": "Comoros",
+				"region": "AFRO",
+				"ART_comparisons": "12"
+			},
+			"COG": {
+				"iso3Code": "COG",
+				"countryName": "Congo",
+				"region": "AFRO",
+				"ART_comparisons": "7998"
+			},
+			"COK": {
+				"iso3Code": "COK",
+				"countryName": "Cook Islands",
+				"region": "WPRO",
+				"ART_comparisons": "1"
+			},
+			"CRI": {
+				"iso3Code": "CRI",
+				"countryName": "Costa Rica",
+				"region": "AMRO",
+				"ART_comparisons": "3064"
+			},
+			"CIV": {
+				"iso3Code": "CIV",
+				"countryName": "Côte d'Ivoire",
+				"region": "AFRO",
+				"ART_comparisons": "72011"
+			},
+			"CUB": {
+				"iso3Code": "CUB",
+				"countryName": "Cuba",
+				"region": "AMRO",
+				"ART_comparisons": "5034"
+			},
+			"PRK": {
+				"iso3Code": "PRK",
+				"countryName": "Democratic People's Republic of Korea",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"COD": {
+				"iso3Code": "COD",
+				"countryName": "Democratic Republic of the Congo",
+				"region": "AFRO",
+				"ART_comparisons": "34967"
+			},
+			"DJI": {
+				"iso3Code": "DJI",
+				"countryName": "Djibouti",
+				"region": "EMRO",
+				"ART_comparisons": "913"
+			},
+			"DMA": {
+				"iso3Code": "DMA",
+				"countryName": "Dominica",
+				"region": "AMRO",
+				"ART_comparisons": "38"
+			},
+			"DOM": {
+				"iso3Code": "DOM",
+				"countryName": "Dominican Republic",
+				"region": "AMRO",
+				"ART_comparisons": "13785"
+			},
+			"ECU": {
+				"iso3Code": "ECU",
+				"countryName": "Ecuador",
+				"region": "AMRO",
+				"ART_comparisons": "5538"
+			},
+			"EGY": {
+				"iso3Code": "EGY",
+				"countryName": "Egypt",
+				"region": "EMRO",
+				"ART_comparisons": "359"
+			},
+			"SLV": {
+				"iso3Code": "SLV",
+				"countryName": "El Salvador",
+				"region": "AMRO",
+				"ART_comparisons": "8348"
+			},
+			"ERI": {
+				"iso3Code": "ERI",
+				"countryName": "Eritrea",
+				"region": "AFRO",
+				"ART_comparisons": "4955"
+			},
+			"ETH": {
+				"iso3Code": "ETH",
+				"countryName": "Ethiopia",
+				"region": "AFRO",
+				"ART_comparisons": "176632"
+			},
+			"FJI": {
+				"iso3Code": "FJI",
+				"countryName": "Fiji",
+				"region": "WPRO",
+				"ART_comparisons": "52"
+			},
+			"GAB": {
+				"iso3Code": "GAB",
+				"countryName": "Gabon",
+				"region": "AFRO",
+				"ART_comparisons": "9976"
+			},
+			"GMB": {
+				"iso3Code": "GMB",
+				"countryName": "Gambia",
+				"region": "AFRO",
+				"ART_comparisons": "921"
+			},
+			"GEO": {
+				"iso3Code": "GEO",
+				"countryName": "Georgia",
+				"region": "EURO",
+				"ART_comparisons": "655"
+			},
+			"GHA": {
+				"iso3Code": "GHA",
+				"countryName": "Ghana",
+				"region": "AFRO",
+				"ART_comparisons": "30265"
+			},
+			"GRD": {
+				"iso3Code": "GRD",
+				"countryName": "Grenada",
+				"region": "AMRO",
+				"ART_comparisons": "54"
+			},
+			"GTM": {
+				"iso3Code": "GTM",
+				"countryName": "Guatemala",
+				"region": "AMRO",
+				"ART_comparisons": "10362"
+			},
+			"GIN": {
+				"iso3Code": "GIN",
+				"countryName": "Guinea",
+				"region": "AFRO",
+				"ART_comparisons": "14999"
+			},
+			"GNB": {
+				"iso3Code": "GNB",
+				"countryName": "Guinea-Bissau",
+				"region": "AFRO",
+				"ART_comparisons": "2764"
+			},
+			"GUY": {
+				"iso3Code": "GUY",
+				"countryName": "Guyana",
+				"region": "AMRO",
+				"ART_comparisons": "2832"
+			},
+			"HTI": {
+				"iso3Code": "HTI",
+				"countryName": "Haiti",
+				"region": "AMRO",
+				"ART_comparisons": "26007"
+			},
+			"HND": {
+				"iso3Code": "HND",
+				"countryName": "Honduras",
+				"region": "AMRO",
+				"ART_comparisons": "7075"
+			},
+			"IND": {
+				"iso3Code": "IND",
+				"countryName": "India",
+				"region": "SEARO",
+				"ART_comparisons": "330300"
+			},
+			"IDN": {
+				"iso3Code": "IDN",
+				"countryName": "Indonesia",
+				"region": "SEARO",
+				"ART_comparisons": "15442"
+			},
+			"IRN": {
+				"iso3Code": "IRN",
+				"countryName": "Iran, Islamic Republic of ",
+				"region": "EMRO",
+				"ART_comparisons": "1486"
+			},
+			"IRQ": {
+				"iso3Code": "IRQ",
+				"countryName": "Iraq",
+				"region": "EMRO",
+				"ART_comparisons": "4"
+			},
+			"JAM": {
+				"iso3Code": "JAM",
+				"countryName": "Jamaica",
+				"region": "AMRO",
+				"ART_comparisons": "7244"
+			},
+			"JOR": {
+				"iso3Code": "JOR",
+				"countryName": "Jordan",
+				"region": "EMRO",
+				"ART_comparisons": "63"
+			},
+			"KAZ": {
+				"iso3Code": "KAZ",
+				"countryName": "Kazakhstan",
+				"region": "EURO",
+				"ART_comparisons": "1035"
+			},
+			"KEN": {
+				"iso3Code": "KEN",
+				"countryName": "Kenya",
+				"region": "AFRO",
+				"ART_comparisons": "336980"
+			},
+			"KIR": {
+				"iso3Code": "KIR",
+				"countryName": "Kiribati",
+				"region": "WPRO",
+				"ART_comparisons": "6"
+			},
+			"KGZ": {
+				"iso3Code": "KGZ",
+				"countryName": "Kyrgyzstan",
+				"region": "EURO",
+				"ART_comparisons": "231"
+			},
+			"LAO": {
+				"iso3Code": "LAO",
+				"countryName": "Lao People's Democratic Republic",
+				"region": "WPRO",
+				"ART_comparisons": "1345"
+			},
+			"LVA": {
+				"iso3Code": "LVA",
+				"countryName": "Latvia",
+				"region": "EURO",
+				"ART_comparisons": "439"
+			},
+			"LBN": {
+				"iso3Code": "LBN",
+				"countryName": "Lebanon",
+				"region": "EMRO",
+				"ART_comparisons": "354"
+			},
+			"LSO": {
+				"iso3Code": "LSO",
+				"countryName": "Lesotho",
+				"region": "AFRO",
+				"ART_comparisons": "61736"
+			},
+			"LBR": {
+				"iso3Code": "LBR",
+				"countryName": "Liberia",
+				"region": "AFRO",
+				"ART_comparisons": "2970"
+			},
+			"LBY": {
+				"iso3Code": "LBY",
+				"countryName": "Libyan Arab Jamahiriy",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"LTU": {
+				"iso3Code": "LTU",
+				"countryName": "Lithuania",
+				"region": "EURO",
+				"ART_comparisons": "145"
+			},
+			"MDG": {
+				"iso3Code": "MDG",
+				"countryName": "Madagascar",
+				"region": "AFRO",
+				"ART_comparisons": "214"
+			},
+			"MWI": {
+				"iso3Code": "MWI",
+				"countryName": "Malawi",
+				"region": "AFRO",
+				"ART_comparisons": "198846"
+			},
+			"MYS": {
+				"iso3Code": "MYS",
+				"countryName": "Malaysia",
+				"region": "WPRO",
+				"ART_comparisons": "9962"
+			},
+			"MDV": {
+				"iso3Code": "MDV",
+				"countryName": "Maldives",
+				"region": "SEARO",
+				"ART_comparisons": "3"
+			},
+			"MLI": {
+				"iso3Code": "MLI",
+				"countryName": "Mali",
+				"region": "AFRO",
+				"ART_comparisons": "21100"
+			},
+			"MHL": {
+				"iso3Code": "MHL",
+				"countryName": "Marshall Islands",
+				"region": "WPRO",
+				"ART_comparisons": "4"
+			},
+			"MRT": {
+				"iso3Code": "MRT",
+				"countryName": "Mauritania",
+				"region": "AFRO",
+				"ART_comparisons": "1401"
+			},
+			"MUS": {
+				"iso3Code": "MUS",
+				"countryName": "Mauritius",
+				"region": "AFRO",
+				"ART_comparisons": "652"
+			},
+			"MEX": {
+				"iso3Code": "MEX",
+				"countryName": "Mexico",
+				"region": "AMRO",
+				"ART_comparisons": "60911"
+			},
+			"FSM": {
+				"iso3Code": "FSM",
+				"countryName": "Micronesia, Federated States of",
+				"region": "WPRO",
+				"ART_comparisons": "5"
+			},
+			"MNG": {
+				"iso3Code": "MNG",
+				"countryName": "Mongolia",
+				"region": "WPRO",
+				"ART_comparisons": "10"
+			},
+			"MNE": {
+				"iso3Code": "MNE",
+				"countryName": "Montenegro",
+				"region": "EURO",
+				"ART_comparisons": "31"
+			},
+			"MAR": {
+				"iso3Code": "MAR",
+				"countryName": "Morocco",
+				"region": "EMRO",
+				"ART_comparisons": "2647"
+			},
+			"MOZ": {
+				"iso3Code": "MOZ",
+				"countryName": "Mozambique",
+				"region": "AFRO",
+				"ART_comparisons": "170198"
+			},
+			"MMR": {
+				"iso3Code": "MMR",
+				"countryName": "Myanmar",
+				"region": "SEARO",
+				"ART_comparisons": "21138"
+			},
+			"NAM": {
+				"iso3Code": "NAM",
+				"countryName": "Namibia",
+				"region": "AFRO",
+				"ART_comparisons": "70498"
+			},
+			"NRU": {
+				"iso3Code": "NRU",
+				"countryName": "Nauru",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"NPL": {
+				"iso3Code": "NPL",
+				"countryName": "Nepal",
+				"region": "SEARO",
+				"ART_comparisons": "3550"
+			},
+			"NIC": {
+				"iso3Code": "NIC",
+				"countryName": "Nicaragua",
+				"region": "AMRO",
+				"ART_comparisons": "1063"
+			},
+			"NER": {
+				"iso3Code": "NER",
+				"countryName": "Niger",
+				"region": "AFRO",
+				"ART_comparisons": "6445"
+			},
+			"NGA": {
+				"iso3Code": "NGA",
+				"countryName": "Nigeria",
+				"region": "AFRO",
+				"ART_comparisons": "302973"
+			},
+			"NIU": {
+				"iso3Code": "NIU",
+				"countryName": "Niue",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"PAK": {
+				"iso3Code": "PAK",
+				"countryName": "Pakistan",
+				"region": "EMRO",
+				"ART_comparisons": "1320"
+			},
+			"PLW": {
+				"iso3Code": "PLW",
+				"countryName": "Palau",
+				"region": "WPRO",
+				"ART_comparisons": "3"
+			},
+			"PAN": {
+				"iso3Code": "PAN",
+				"countryName": "Panama",
+				"region": "AMRO",
+				"ART_comparisons": "4463"
+			},
+			"PNG": {
+				"iso3Code": "PNG",
+				"countryName": "Papua New Guinea",
+				"region": "WPRO",
+				"ART_comparisons": "6751"
+			},
+			"PRY": {
+				"iso3Code": "PRY",
+				"countryName": "Paraguay",
+				"region": "AMRO",
+				"ART_comparisons": "2073"
+			},
+			"PER": {
+				"iso3Code": "PER",
+				"countryName": "Peru",
+				"region": "AMRO",
+				"ART_comparisons": "14780"
+			},
+			"PHL": {
+				"iso3Code": "PHL",
+				"countryName": "Philippines",
+				"region": "WPRO",
+				"ART_comparisons": "750"
+			},
+			"MDA": {
+				"iso3Code": "MDA",
+				"countryName": "Republic of Moldova",
+				"region": "EURO",
+				"ART_comparisons": "984"
+			},
+			"ROU": {
+				"iso3Code": "ROU",
+				"countryName": "Romania",
+				"region": "EURO",
+				"ART_comparisons": "7244"
+			},
+			"RUS": {
+				"iso3Code": "RUS",
+				"countryName": "Russian Federation",
+				"region": "EURO",
+				"ART_comparisons": "75900"
+			},
+			"RWA": {
+				"iso3Code": "RWA",
+				"countryName": "Rwanda",
+				"region": "AFRO",
+				"ART_comparisons": "76726"
+			},
+			"LCA": {
+				"iso3Code": "LCA",
+				"countryName": "Saint Lucia",
+				"region": "AMRO",
+				"ART_comparisons": "124"
+			},
+			"VCT": {
+				"iso3Code": "VCT",
+				"countryName": "Saint Vincent and the Grenadines",
+				"region": "AMRO",
+				"ART_comparisons": "162"
+			},
+			"WSM": {
+				"iso3Code": "WSM",
+				"countryName": "Samoa",
+				"region": "WPRO",
+				"ART_comparisons": "8"
+			},
+			"STP": {
+				"iso3Code": "STP",
+				"countryName": "Sao Tome and Principe",
+				"region": "AFRO",
+				"ART_comparisons": "169"
+			},
+			"SEN": {
+				"iso3Code": "SEN",
+				"countryName": "Senegal",
+				"region": "AFRO",
+				"ART_comparisons": "12249"
+			},
+			"SRB": {
+				"iso3Code": "SRB",
+				"countryName": "Serbia",
+				"region": "EURO",
+				"ART_comparisons": "790"
+			},
+			"SYC": {
+				"iso3Code": "SYC",
+				"countryName": "Seychelles",
+				"region": "AFRO",
+				"ART_comparisons": "139"
+			},
+			"SLE": {
+				"iso3Code": "SLE",
+				"countryName": "Sierra Leone",
+				"region": "AFRO",
+				"ART_comparisons": "3660"
+			},
+			"SLB": {
+				"iso3Code": "SLB",
+				"countryName": "Solomon Islands",
+				"region": "WPRO",
+				"ART_comparisons": "8"
+			},
+			"SOM": {
+				"iso3Code": "SOM",
+				"countryName": "Somalia",
+				"region": "EMRO",
+				"ART_comparisons": "578"
+			},
+			"ZAF": {
+				"iso3Code": "ZAF",
+				"countryName": "South Africa",
+				"region": "AFRO",
+				"ART_comparisons": "971556"
+			},
+			"SSD": {
+				"iso3Code": "SSD",
+				"countryName": "South Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "1829"
+			},
+			"LKA": {
+				"iso3Code": "LKA",
+				"countryName": "Sri Lanka",
+				"region": "SEARO",
+				"ART_comparisons": "207"
+			},
+			"SDN": {
+				"iso3Code": "SDN",
+				"countryName": "Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "1996"
+			},
+			"SUR": {
+				"iso3Code": "SUR",
+				"countryName": "Suriname",
+				"region": "AMRO",
+				"ART_comparisons": "973"
+			},
+			"SWZ": {
+				"iso3Code": "SWZ",
+				"countryName": "Swaziland",
+				"region": "AFRO",
+				"ART_comparisons": "47241"
+			},
+			"SYR": {
+				"iso3Code": "SYR",
+				"countryName": "Syrian Arab Republic",
+				"region": "EMRO",
+				"ART_comparisons": "99"
+			},
+			"TJK": {
+				"iso3Code": "TJK",
+				"countryName": "Tajikistan",
+				"region": "EURO",
+				"ART_comparisons": "322"
+			},
+			"THA": {
+				"iso3Code": "THA",
+				"countryName": "Thailand",
+				"region": "SEARO",
+				"ART_comparisons": "216118"
+			},
+			"MKD": {
+				"iso3Code": "MKD",
+				"countryName": "The former Yugoslav Republic of Macedonia",
+				"region": "EURO",
+				"ART_comparisons": "24"
+			},
+			"TLS": {
+				"iso3Code": "TLS",
+				"countryName": "Timor-Leste",
+				"region": "SEARO",
+				"ART_comparisons": "31"
+			},
+			"TGO": {
+				"iso3Code": "TGO",
+				"countryName": "Togo",
+				"region": "AFRO",
+				"ART_comparisons": "16710"
+			},
+			"TON": {
+				"iso3Code": "TON",
+				"countryName": "Tonga",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"TUN": {
+				"iso3Code": "TUN",
+				"countryName": "Tunisia",
+				"region": "EMRO",
+				"ART_comparisons": "412"
+			},
+			"TUR": {
+				"iso3Code": "TUR",
+				"countryName": "Turkey",
+				"region": "EURO",
+				"ART_comparisons": "1000"
+			},
+			"TKM": {
+				"iso3Code": "TKM",
+				"countryName": "Turkmenistan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"TUV": {
+				"iso3Code": "TUV",
+				"countryName": "Tuvalu",
+				"region": "WPRO",
+				"ART_comparisons": "1"
+			},
+			"UGA": {
+				"iso3Code": "UGA",
+				"countryName": "Uganda",
+				"region": "AFRO",
+				"ART_comparisons": "200413"
+			},
+			"UKR": {
+				"iso3Code": "UKR",
+				"countryName": "Ukraine",
+				"region": "EURO",
+				"ART_comparisons": "15871"
+			},
+			"TZA": {
+				"iso3Code": "TZA",
+				"countryName": "United Republic of Tanzania",
+				"region": "AFRO",
+				"ART_comparisons": "199413"
+			},
+			"URY": {
+				"iso3Code": "URY",
+				"countryName": "Uruguay",
+				"region": "AMRO",
+				"ART_comparisons": "2510"
+			},
+			"UZB": {
+				"iso3Code": "UZB",
+				"countryName": "Uzbekistan",
+				"region": "EURO",
+				"ART_comparisons": "1753"
+			},
+			"VUT": {
+				"iso3Code": "VUT",
+				"countryName": "Vanuatu",
+				"region": "WPRO",
+				"ART_comparisons": "2"
+			},
+			"VEN": {
+				"iso3Code": "VEN",
+				"countryName": "Venezuela, Bolivarian Republic of",
+				"region": "AMRO",
+				"ART_comparisons": "32302"
+			},
+			"VNM": {
+				"iso3Code": "VNM",
+				"countryName": "Viet Nam",
+				"region": "WPRO",
+				"ART_comparisons": "37995"
+			},
+			"YEM": {
+				"iso3Code": "YEM",
+				"countryName": "Yemen",
+				"region": "EMRO",
+				"ART_comparisons": "274"
+			},
+			"ZMB": {
+				"iso3Code": "ZMB",
+				"countryName": "Zambia",
+				"region": "AFRO",
+				"ART_comparisons": "283863"
+			},
+			"ZWE": {
+				"iso3Code": "ZWE",
+				"countryName": "Zimbabwe",
+				"region": "AFRO",
+				"ART_comparisons": "218589"
+			}
+		},
+		"2008": {
+			"AFG": {
+				"iso3Code": "AFG",
+				"countryName": "Afghanistan",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"ALB": {
+				"iso3Code": "ALB",
+				"countryName": "Albania",
+				"region": "EURO",
+				"ART_comparisons": "110"
+			},
+			"DZA": {
+				"iso3Code": "DZA",
+				"countryName": "Algeria",
+				"region": "AFRO",
+				"ART_comparisons": "1111"
+			},
+			"AGO": {
+				"iso3Code": "AGO",
+				"countryName": "Angola",
+				"region": "AFRO",
+				"ART_comparisons": "15636"
+			},
+			"ATG": {
+				"iso3Code": "ATG",
+				"countryName": "Antigua and Barbuda",
+				"region": "AMRO",
+				"ART_comparisons": null
+			},
+			"ARG": {
+				"iso3Code": "ARG",
+				"countryName": "Argentina",
+				"region": "AMRO",
+				"ART_comparisons": "40240"
+			},
+			"ARM": {
+				"iso3Code": "ARM",
+				"countryName": "Armenia",
+				"region": "EURO",
+				"ART_comparisons": "100"
+			},
+			"AZE": {
+				"iso3Code": "AZE",
+				"countryName": "Azerbaijan",
+				"region": "EURO",
+				"ART_comparisons": "159"
+			},
+			"BGD": {
+				"iso3Code": "BGD",
+				"countryName": "Bangladesh",
+				"region": "SEARO",
+				"ART_comparisons": "283"
+			},
+			"BLR": {
+				"iso3Code": "BLR",
+				"countryName": "Belarus",
+				"region": "EURO",
+				"ART_comparisons": "1249"
+			},
+			"BLZ": {
+				"iso3Code": "BLZ",
+				"countryName": "Belize",
+				"region": "AMRO",
+				"ART_comparisons": "630"
+			},
+			"BEN": {
+				"iso3Code": "BEN",
+				"countryName": "Benin",
+				"region": "AFRO",
+				"ART_comparisons": "12078"
+			},
+			"BTN": {
+				"iso3Code": "BTN",
+				"countryName": "Bhutan",
+				"region": "SEARO",
+				"ART_comparisons": "30"
+			},
+			"BOL": {
+				"iso3Code": "BOL",
+				"countryName": "Bolivia, Plurinational State of",
+				"region": "AMRO",
+				"ART_comparisons": "758"
+			},
+			"BIH": {
+				"iso3Code": "BIH",
+				"countryName": "Bosnia and Herzegovina",
+				"region": "EURO",
+				"ART_comparisons": "33"
+			},
+			"BWA": {
+				"iso3Code": "BWA",
+				"countryName": "Botswana",
+				"region": "AFRO",
+				"ART_comparisons": "117045"
+			},
+			"BRA": {
+				"iso3Code": "BRA",
+				"countryName": "Brazil",
+				"region": "AMRO",
+				"ART_comparisons": "244984"
+			},
+			"BGR": {
+				"iso3Code": "BGR",
+				"countryName": "Bulgaria",
+				"region": "EURO",
+				"ART_comparisons": "251"
+			},
+			"BFA": {
+				"iso3Code": "BFA",
+				"countryName": "Burkina Faso",
+				"region": "AFRO",
+				"ART_comparisons": "21103"
+			},
+			"BDI": {
+				"iso3Code": "BDI",
+				"countryName": "Burundi",
+				"region": "AFRO",
+				"ART_comparisons": "14343"
+			},
+			"KHM": {
+				"iso3Code": "KHM",
+				"countryName": "Cambodia",
+				"region": "WPRO",
+				"ART_comparisons": "31999"
+			},
+			"CMR": {
+				"iso3Code": "CMR",
+				"countryName": "Cameroon",
+				"region": "AFRO",
+				"ART_comparisons": "59960"
+			},
+			"CPV": {
+				"iso3Code": "CPV",
+				"countryName": "Cape Verde",
+				"region": "AFRO",
+				"ART_comparisons": "360"
+			},
+			"CAF": {
+				"iso3Code": "CAF",
+				"countryName": "Central African Republic",
+				"region": "AFRO",
+				"ART_comparisons": "10551"
+			},
+			"TCD": {
+				"iso3Code": "TCD",
+				"countryName": "Chad",
+				"region": "AFRO",
+				"ART_comparisons": "17900"
+			},
+			"CHL": {
+				"iso3Code": "CHL",
+				"countryName": "Chile",
+				"region": "AMRO",
+				"ART_comparisons": "10904"
+			},
+			"CHN": {
+				"iso3Code": "CHN",
+				"countryName": "China",
+				"region": "WPRO",
+				"ART_comparisons": "48254"
+			},
+			"COL": {
+				"iso3Code": "COL",
+				"countryName": "Colombia",
+				"region": "AMRO",
+				"ART_comparisons": "17551"
+			},
+			"COM": {
+				"iso3Code": "COM",
+				"countryName": "Comoros",
+				"region": "AFRO",
+				"ART_comparisons": "8"
+			},
+			"COG": {
+				"iso3Code": "COG",
+				"countryName": "Congo",
+				"region": "AFRO",
+				"ART_comparisons": "9400"
+			},
+			"COK": {
+				"iso3Code": "COK",
+				"countryName": "Cook Islands",
+				"region": "WPRO",
+				"ART_comparisons": "1"
+			},
+			"CRI": {
+				"iso3Code": "CRI",
+				"countryName": "Costa Rica",
+				"region": "AMRO",
+				"ART_comparisons": "2886"
+			},
+			"CIV": {
+				"iso3Code": "CIV",
+				"countryName": "Côte d'Ivoire",
+				"region": "AFRO",
+				"ART_comparisons": "51820"
+			},
+			"CUB": {
+				"iso3Code": "CUB",
+				"countryName": "Cuba",
+				"region": "AMRO",
+				"ART_comparisons": "3999"
+			},
+			"PRK": {
+				"iso3Code": "PRK",
+				"countryName": "Democratic People's Republic of Korea",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"COD": {
+				"iso3Code": "COD",
+				"countryName": "Democratic Republic of the Congo",
+				"region": "AFRO",
+				"ART_comparisons": "24645"
+			},
+			"DJI": {
+				"iso3Code": "DJI",
+				"countryName": "Djibouti",
+				"region": "EMRO",
+				"ART_comparisons": "816"
+			},
+			"DMA": {
+				"iso3Code": "DMA",
+				"countryName": "Dominica",
+				"region": "AMRO",
+				"ART_comparisons": "36"
+			},
+			"DOM": {
+				"iso3Code": "DOM",
+				"countryName": "Dominican Republic",
+				"region": "AMRO",
+				"ART_comparisons": "11072"
+			},
+			"ECU": {
+				"iso3Code": "ECU",
+				"countryName": "Ecuador",
+				"region": "AMRO",
+				"ART_comparisons": "3728"
+			},
+			"EGY": {
+				"iso3Code": "EGY",
+				"countryName": "Egypt",
+				"region": "EMRO",
+				"ART_comparisons": "291"
+			},
+			"SLV": {
+				"iso3Code": "SLV",
+				"countryName": "El Salvador",
+				"region": "AMRO",
+				"ART_comparisons": "7104"
+			},
+			"ERI": {
+				"iso3Code": "ERI",
+				"countryName": "Eritrea",
+				"region": "AFRO",
+				"ART_comparisons": "4299"
+			},
+			"ETH": {
+				"iso3Code": "ETH",
+				"countryName": "Ethiopia",
+				"region": "AFRO",
+				"ART_comparisons": "132379"
+			},
+			"FJI": {
+				"iso3Code": "FJI",
+				"countryName": "Fiji",
+				"region": "WPRO",
+				"ART_comparisons": "39"
+			},
+			"GAB": {
+				"iso3Code": "GAB",
+				"countryName": "Gabon",
+				"region": "AFRO",
+				"ART_comparisons": "7773"
+			},
+			"GMB": {
+				"iso3Code": "GMB",
+				"countryName": "Gambia",
+				"region": "AFRO",
+				"ART_comparisons": "770"
+			},
+			"GEO": {
+				"iso3Code": "GEO",
+				"countryName": "Georgia",
+				"region": "EURO",
+				"ART_comparisons": "498"
+			},
+			"GHA": {
+				"iso3Code": "GHA",
+				"countryName": "Ghana",
+				"region": "AFRO",
+				"ART_comparisons": "21548"
+			},
+			"GRD": {
+				"iso3Code": "GRD",
+				"countryName": "Grenada",
+				"region": "AMRO",
+				"ART_comparisons": "46"
+			},
+			"GTM": {
+				"iso3Code": "GTM",
+				"countryName": "Guatemala",
+				"region": "AMRO",
+				"ART_comparisons": "9694"
+			},
+			"GIN": {
+				"iso3Code": "GIN",
+				"countryName": "Guinea",
+				"region": "AFRO",
+				"ART_comparisons": "9212"
+			},
+			"GNB": {
+				"iso3Code": "GNB",
+				"countryName": "Guinea-Bissau",
+				"region": "AFRO",
+				"ART_comparisons": "1832"
+			},
+			"GUY": {
+				"iso3Code": "GUY",
+				"countryName": "Guyana",
+				"region": "AMRO",
+				"ART_comparisons": "2473"
+			},
+			"HTI": {
+				"iso3Code": "HTI",
+				"countryName": "Haiti",
+				"region": "AMRO",
+				"ART_comparisons": "19990"
+			},
+			"HND": {
+				"iso3Code": "HND",
+				"countryName": "Honduras",
+				"region": "AMRO",
+				"ART_comparisons": "6288"
+			},
+			"IND": {
+				"iso3Code": "IND",
+				"countryName": "India",
+				"region": "SEARO",
+				"ART_comparisons": "234581"
+			},
+			"IDN": {
+				"iso3Code": "IDN",
+				"countryName": "Indonesia",
+				"region": "SEARO",
+				"ART_comparisons": "10606"
+			},
+			"IRN": {
+				"iso3Code": "IRN",
+				"countryName": "Iran, Islamic Republic of ",
+				"region": "EMRO",
+				"ART_comparisons": "878"
+			},
+			"IRQ": {
+				"iso3Code": "IRQ",
+				"countryName": "Iraq",
+				"region": "EMRO",
+				"ART_comparisons": "4"
+			},
+			"JAM": {
+				"iso3Code": "JAM",
+				"countryName": "Jamaica",
+				"region": "AMRO",
+				"ART_comparisons": "4444"
+			},
+			"JOR": {
+				"iso3Code": "JOR",
+				"countryName": "Jordan",
+				"region": "EMRO",
+				"ART_comparisons": "58"
+			},
+			"KAZ": {
+				"iso3Code": "KAZ",
+				"countryName": "Kazakhstan",
+				"region": "EURO",
+				"ART_comparisons": "707"
+			},
+			"KEN": {
+				"iso3Code": "KEN",
+				"countryName": "Kenya",
+				"region": "AFRO",
+				"ART_comparisons": "250576"
+			},
+			"KIR": {
+				"iso3Code": "KIR",
+				"countryName": "Kiribati",
+				"region": "WPRO",
+				"ART_comparisons": "6"
+			},
+			"KGZ": {
+				"iso3Code": "KGZ",
+				"countryName": "Kyrgyzstan",
+				"region": "EURO",
+				"ART_comparisons": "89"
+			},
+			"LAO": {
+				"iso3Code": "LAO",
+				"countryName": "Lao People's Democratic Republic",
+				"region": "WPRO",
+				"ART_comparisons": "1009"
+			},
+			"LVA": {
+				"iso3Code": "LVA",
+				"countryName": "Latvia",
+				"region": "EURO",
+				"ART_comparisons": "334"
+			},
+			"LBN": {
+				"iso3Code": "LBN",
+				"countryName": "Lebanon",
+				"region": "EMRO",
+				"ART_comparisons": "285"
+			},
+			"LSO": {
+				"iso3Code": "LSO",
+				"countryName": "Lesotho",
+				"region": "AFRO",
+				"ART_comparisons": "45262"
+			},
+			"LBR": {
+				"iso3Code": "LBR",
+				"countryName": "Liberia",
+				"region": "AFRO",
+				"ART_comparisons": "2017"
+			},
+			"LBY": {
+				"iso3Code": "LBY",
+				"countryName": "Libyan Arab Jamahiriy",
+				"region": "EMRO",
+				"ART_comparisons": "1276"
+			},
+			"LTU": {
+				"iso3Code": "LTU",
+				"countryName": "Lithuania",
+				"region": "EURO",
+				"ART_comparisons": "127"
+			},
+			"MDG": {
+				"iso3Code": "MDG",
+				"countryName": "Madagascar",
+				"region": "AFRO",
+				"ART_comparisons": "162"
+			},
+			"MWI": {
+				"iso3Code": "MWI",
+				"countryName": "Malawi",
+				"region": "AFRO",
+				"ART_comparisons": "147497"
+			},
+			"MYS": {
+				"iso3Code": "MYS",
+				"countryName": "Malaysia",
+				"region": "WPRO",
+				"ART_comparisons": "8197"
+			},
+			"MDV": {
+				"iso3Code": "MDV",
+				"countryName": "Maldives",
+				"region": "SEARO",
+				"ART_comparisons": "2"
+			},
+			"MLI": {
+				"iso3Code": "MLI",
+				"countryName": "Mali",
+				"region": "AFRO",
+				"ART_comparisons": "16475"
+			},
+			"MHL": {
+				"iso3Code": "MHL",
+				"countryName": "Marshall Islands",
+				"region": "WPRO",
+				"ART_comparisons": "4"
+			},
+			"MRT": {
+				"iso3Code": "MRT",
+				"countryName": "Mauritania",
+				"region": "AFRO",
+				"ART_comparisons": "1072"
+			},
+			"MUS": {
+				"iso3Code": "MUS",
+				"countryName": "Mauritius",
+				"region": "AFRO",
+				"ART_comparisons": "491"
+			},
+			"MEX": {
+				"iso3Code": "MEX",
+				"countryName": "Mexico",
+				"region": "AMRO",
+				"ART_comparisons": "55599"
+			},
+			"FSM": {
+				"iso3Code": "FSM",
+				"countryName": "Micronesia, Federated States of",
+				"region": "WPRO",
+				"ART_comparisons": "2"
+			},
+			"MNG": {
+				"iso3Code": "MNG",
+				"countryName": "Mongolia",
+				"region": "WPRO",
+				"ART_comparisons": "5"
+			},
+			"MNE": {
+				"iso3Code": "MNE",
+				"countryName": "Montenegro",
+				"region": "EURO",
+				"ART_comparisons": "25"
+			},
+			"MAR": {
+				"iso3Code": "MAR",
+				"countryName": "Morocco",
+				"region": "EMRO",
+				"ART_comparisons": "2207"
+			},
+			"MOZ": {
+				"iso3Code": "MOZ",
+				"countryName": "Mozambique",
+				"region": "AFRO",
+				"ART_comparisons": "128330"
+			},
+			"MMR": {
+				"iso3Code": "MMR",
+				"countryName": "Myanmar",
+				"region": "SEARO",
+				"ART_comparisons": "15191"
+			},
+			"NAM": {
+				"iso3Code": "NAM",
+				"countryName": "Namibia",
+				"region": "AFRO",
+				"ART_comparisons": "59376"
+			},
+			"NRU": {
+				"iso3Code": "NRU",
+				"countryName": "Nauru",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"NPL": {
+				"iso3Code": "NPL",
+				"countryName": "Nepal",
+				"region": "SEARO",
+				"ART_comparisons": "1992"
+			},
+			"NIC": {
+				"iso3Code": "NIC",
+				"countryName": "Nicaragua",
+				"region": "AMRO",
+				"ART_comparisons": "744"
+			},
+			"NER": {
+				"iso3Code": "NER",
+				"countryName": "Niger",
+				"region": "AFRO",
+				"ART_comparisons": "2846"
+			},
+			"NGA": {
+				"iso3Code": "NGA",
+				"countryName": "Nigeria",
+				"region": "AFRO",
+				"ART_comparisons": "238659"
+			},
+			"NIU": {
+				"iso3Code": "NIU",
+				"countryName": "Niue",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"PAK": {
+				"iso3Code": "PAK",
+				"countryName": "Pakistan",
+				"region": "EMRO",
+				"ART_comparisons": "875"
+			},
+			"PLW": {
+				"iso3Code": "PLW",
+				"countryName": "Palau",
+				"region": "WPRO",
+				"ART_comparisons": "3"
+			},
+			"PAN": {
+				"iso3Code": "PAN",
+				"countryName": "Panama",
+				"region": "AMRO",
+				"ART_comparisons": "3972"
+			},
+			"PNG": {
+				"iso3Code": "PNG",
+				"countryName": "Papua New Guinea",
+				"region": "WPRO",
+				"ART_comparisons": "5195"
+			},
+			"PRY": {
+				"iso3Code": "PRY",
+				"countryName": "Paraguay",
+				"region": "AMRO",
+				"ART_comparisons": "1613"
+			},
+			"PER": {
+				"iso3Code": "PER",
+				"countryName": "Peru",
+				"region": "AMRO",
+				"ART_comparisons": "10232"
+			},
+			"PHL": {
+				"iso3Code": "PHL",
+				"countryName": "Philippines",
+				"region": "WPRO",
+				"ART_comparisons": "532"
+			},
+			"MDA": {
+				"iso3Code": "MDA",
+				"countryName": "Republic of Moldova",
+				"region": "EURO",
+				"ART_comparisons": "682"
+			},
+			"ROU": {
+				"iso3Code": "ROU",
+				"countryName": "Romania",
+				"region": "EURO",
+				"ART_comparisons": "7434"
+			},
+			"RUS": {
+				"iso3Code": "RUS",
+				"countryName": "Russian Federation",
+				"region": "EURO",
+				"ART_comparisons": "54900"
+			},
+			"RWA": {
+				"iso3Code": "RWA",
+				"countryName": "Rwanda",
+				"region": "AFRO",
+				"ART_comparisons": "63149"
+			},
+			"LCA": {
+				"iso3Code": "LCA",
+				"countryName": "Saint Lucia",
+				"region": "AMRO",
+				"ART_comparisons": "85"
+			},
+			"VCT": {
+				"iso3Code": "VCT",
+				"countryName": "Saint Vincent and the Grenadines",
+				"region": "AMRO",
+				"ART_comparisons": "120"
+			},
+			"WSM": {
+				"iso3Code": "WSM",
+				"countryName": "Samoa",
+				"region": "WPRO",
+				"ART_comparisons": "8"
+			},
+			"STP": {
+				"iso3Code": "STP",
+				"countryName": "Sao Tome and Principe",
+				"region": "AFRO",
+				"ART_comparisons": "109"
+			},
+			"SEN": {
+				"iso3Code": "SEN",
+				"countryName": "Senegal",
+				"region": "AFRO",
+				"ART_comparisons": "9252"
+			},
+			"SRB": {
+				"iso3Code": "SRB",
+				"countryName": "Serbia",
+				"region": "EURO",
+				"ART_comparisons": "842"
+			},
+			"SYC": {
+				"iso3Code": "SYC",
+				"countryName": "Seychelles",
+				"region": "AFRO",
+				"ART_comparisons": "113"
+			},
+			"SLE": {
+				"iso3Code": "SLE",
+				"countryName": "Sierra Leone",
+				"region": "AFRO",
+				"ART_comparisons": "1950"
+			},
+			"SLB": {
+				"iso3Code": "SLB",
+				"countryName": "Solomon Islands",
+				"region": "WPRO",
+				"ART_comparisons": "3"
+			},
+			"SOM": {
+				"iso3Code": "SOM",
+				"countryName": "Somalia",
+				"region": "EMRO",
+				"ART_comparisons": "413"
+			},
+			"ZAF": {
+				"iso3Code": "ZAF",
+				"countryName": "South Africa",
+				"region": "AFRO",
+				"ART_comparisons": "730183"
+			},
+			"SSD": {
+				"iso3Code": "SSD",
+				"countryName": "South Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "964"
+			},
+			"LKA": {
+				"iso3Code": "LKA",
+				"countryName": "Sri Lanka",
+				"region": "SEARO",
+				"ART_comparisons": "142"
+			},
+			"SDN": {
+				"iso3Code": "SDN",
+				"countryName": "Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "1013"
+			},
+			"SUR": {
+				"iso3Code": "SUR",
+				"countryName": "Suriname",
+				"region": "AMRO",
+				"ART_comparisons": "858"
+			},
+			"SWZ": {
+				"iso3Code": "SWZ",
+				"countryName": "Swaziland",
+				"region": "AFRO",
+				"ART_comparisons": "32701"
+			},
+			"SYR": {
+				"iso3Code": "SYR",
+				"countryName": "Syrian Arab Republic",
+				"region": "EMRO",
+				"ART_comparisons": "73"
+			},
+			"TJK": {
+				"iso3Code": "TJK",
+				"countryName": "Tajikistan",
+				"region": "EURO",
+				"ART_comparisons": "138"
+			},
+			"THA": {
+				"iso3Code": "THA",
+				"countryName": "Thailand",
+				"region": "SEARO",
+				"ART_comparisons": "185086"
+			},
+			"MKD": {
+				"iso3Code": "MKD",
+				"countryName": "The former Yugoslav Republic of Macedonia",
+				"region": "EURO",
+				"ART_comparisons": "23"
+			},
+			"TLS": {
+				"iso3Code": "TLS",
+				"countryName": "Timor-Leste",
+				"region": "SEARO",
+				"ART_comparisons": "29"
+			},
+			"TGO": {
+				"iso3Code": "TGO",
+				"countryName": "Togo",
+				"region": "AFRO",
+				"ART_comparisons": "11211"
+			},
+			"TON": {
+				"iso3Code": "TON",
+				"countryName": "Tonga",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"TUN": {
+				"iso3Code": "TUN",
+				"countryName": "Tunisia",
+				"region": "EMRO",
+				"ART_comparisons": "326"
+			},
+			"TUR": {
+				"iso3Code": "TUR",
+				"countryName": "Turkey",
+				"region": "EURO",
+				"ART_comparisons": "900"
+			},
+			"TKM": {
+				"iso3Code": "TKM",
+				"countryName": "Turkmenistan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"TUV": {
+				"iso3Code": "TUV",
+				"countryName": "Tuvalu",
+				"region": "WPRO",
+				"ART_comparisons": "1"
+			},
+			"UGA": {
+				"iso3Code": "UGA",
+				"countryName": "Uganda",
+				"region": "AFRO",
+				"ART_comparisons": "153718"
+			},
+			"UKR": {
+				"iso3Code": "UKR",
+				"countryName": "Ukraine",
+				"region": "EURO",
+				"ART_comparisons": "10629"
+			},
+			"TZA": {
+				"iso3Code": "TZA",
+				"countryName": "United Republic of Tanzania",
+				"region": "AFRO",
+				"ART_comparisons": "154468"
+			},
+			"URY": {
+				"iso3Code": "URY",
+				"countryName": "Uruguay",
+				"region": "AMRO",
+				"ART_comparisons": "2143"
+			},
+			"UZB": {
+				"iso3Code": "UZB",
+				"countryName": "Uzbekistan",
+				"region": "EURO",
+				"ART_comparisons": "1200"
+			},
+			"VUT": {
+				"iso3Code": "VUT",
+				"countryName": "Vanuatu",
+				"region": "WPRO",
+				"ART_comparisons": "2"
+			},
+			"VEN": {
+				"iso3Code": "VEN",
+				"countryName": "Venezuela, Bolivarian Republic of",
+				"region": "AMRO",
+				"ART_comparisons": "27240"
+			},
+			"VNM": {
+				"iso3Code": "VNM",
+				"countryName": "Viet Nam",
+				"region": "WPRO",
+				"ART_comparisons": "25597"
+			},
+			"YEM": {
+				"iso3Code": "YEM",
+				"countryName": "Yemen",
+				"region": "EMRO",
+				"ART_comparisons": "189"
+			},
+			"ZMB": {
+				"iso3Code": "ZMB",
+				"countryName": "Zambia",
+				"region": "AFRO",
+				"ART_comparisons": "219576"
+			},
+			"ZWE": {
+				"iso3Code": "ZWE",
+				"countryName": "Zimbabwe",
+				"region": "AFRO",
+				"ART_comparisons": "148144"
+			}
+		},
+		"2007": {
+			"AFG": {
+				"iso3Code": "AFG",
+				"countryName": "Afghanistan",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"ALB": {
+				"iso3Code": "ALB",
+				"countryName": "Albania",
+				"region": "EURO",
+				"ART_comparisons": "74"
+			},
+			"DZA": {
+				"iso3Code": "DZA",
+				"countryName": "Algeria",
+				"region": "AFRO",
+				"ART_comparisons": "993"
+			},
+			"AGO": {
+				"iso3Code": "AGO",
+				"countryName": "Angola",
+				"region": "AFRO",
+				"ART_comparisons": "9775"
+			},
+			"ATG": {
+				"iso3Code": "ATG",
+				"countryName": "Antigua and Barbuda",
+				"region": "AMRO",
+				"ART_comparisons": "148"
+			},
+			"ARG": {
+				"iso3Code": "ARG",
+				"countryName": "Argentina",
+				"region": "AMRO",
+				"ART_comparisons": "38242"
+			},
+			"ARM": {
+				"iso3Code": "ARM",
+				"countryName": "Armenia",
+				"region": "EURO",
+				"ART_comparisons": "78"
+			},
+			"AZE": {
+				"iso3Code": "AZE",
+				"countryName": "Azerbaijan",
+				"region": "EURO",
+				"ART_comparisons": "81"
+			},
+			"BGD": {
+				"iso3Code": "BGD",
+				"countryName": "Bangladesh",
+				"region": "SEARO",
+				"ART_comparisons": "178"
+			},
+			"BLR": {
+				"iso3Code": "BLR",
+				"countryName": "Belarus",
+				"region": "EURO",
+				"ART_comparisons": "884"
+			},
+			"BLZ": {
+				"iso3Code": "BLZ",
+				"countryName": "Belize",
+				"region": "AMRO",
+				"ART_comparisons": "558"
+			},
+			"BEN": {
+				"iso3Code": "BEN",
+				"countryName": "Benin",
+				"region": "AFRO",
+				"ART_comparisons": "9765"
+			},
+			"BTN": {
+				"iso3Code": "BTN",
+				"countryName": "Bhutan",
+				"region": "SEARO",
+				"ART_comparisons": "18"
+			},
+			"BOL": {
+				"iso3Code": "BOL",
+				"countryName": "Bolivia, Plurinational State of",
+				"region": "AMRO",
+				"ART_comparisons": "496"
+			},
+			"BIH": {
+				"iso3Code": "BIH",
+				"countryName": "Bosnia and Herzegovina",
+				"region": "EURO",
+				"ART_comparisons": "30"
+			},
+			"BWA": {
+				"iso3Code": "BWA",
+				"countryName": "Botswana",
+				"region": "AFRO",
+				"ART_comparisons": "92932"
+			},
+			"BRA": {
+				"iso3Code": "BRA",
+				"countryName": "Brazil",
+				"region": "AMRO",
+				"ART_comparisons": "221000"
+			},
+			"BGR": {
+				"iso3Code": "BGR",
+				"countryName": "Bulgaria",
+				"region": "EURO",
+				"ART_comparisons": "221"
+			},
+			"BFA": {
+				"iso3Code": "BFA",
+				"countryName": "Burkina Faso",
+				"region": "AFRO",
+				"ART_comparisons": "16938"
+			},
+			"BDI": {
+				"iso3Code": "BDI",
+				"countryName": "Burundi",
+				"region": "AFRO",
+				"ART_comparisons": "10894"
+			},
+			"KHM": {
+				"iso3Code": "KHM",
+				"countryName": "Cambodia",
+				"region": "WPRO",
+				"ART_comparisons": "26664"
+			},
+			"CMR": {
+				"iso3Code": "CMR",
+				"countryName": "Cameroon",
+				"region": "AFRO",
+				"ART_comparisons": "45817"
+			},
+			"CPV": {
+				"iso3Code": "CPV",
+				"countryName": "Cape Verde",
+				"region": "AFRO",
+				"ART_comparisons": "291"
+			},
+			"CAF": {
+				"iso3Code": "CAF",
+				"countryName": "Central African Republic",
+				"region": "AFRO",
+				"ART_comparisons": "9591"
+			},
+			"TCD": {
+				"iso3Code": "TCD",
+				"countryName": "Chad",
+				"region": "AFRO",
+				"ART_comparisons": "7400"
+			},
+			"CHL": {
+				"iso3Code": "CHL",
+				"countryName": "Chile",
+				"region": "AMRO",
+				"ART_comparisons": "10223"
+			},
+			"CHN": {
+				"iso3Code": "CHN",
+				"countryName": "China",
+				"region": "WPRO",
+				"ART_comparisons": "35112"
+			},
+			"COL": {
+				"iso3Code": "COL",
+				"countryName": "Colombia",
+				"region": "AMRO",
+				"ART_comparisons": "20620"
+			},
+			"COM": {
+				"iso3Code": "COM",
+				"countryName": "Comoros",
+				"region": "AFRO",
+				"ART_comparisons": "7"
+			},
+			"COG": {
+				"iso3Code": "COG",
+				"countryName": "Congo",
+				"region": "AFRO",
+				"ART_comparisons": "4956"
+			},
+			"COK": {
+				"iso3Code": "COK",
+				"countryName": "Cook Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"CRI": {
+				"iso3Code": "CRI",
+				"countryName": "Costa Rica",
+				"region": "AMRO",
+				"ART_comparisons": "2952"
+			},
+			"CIV": {
+				"iso3Code": "CIV",
+				"countryName": "Côte d'Ivoire",
+				"region": "AFRO",
+				"ART_comparisons": "38221"
+			},
+			"CUB": {
+				"iso3Code": "CUB",
+				"countryName": "Cuba",
+				"region": "AMRO",
+				"ART_comparisons": "3123"
+			},
+			"PRK": {
+				"iso3Code": "PRK",
+				"countryName": "Democratic People's Republic of Korea",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"COD": {
+				"iso3Code": "COD",
+				"countryName": "Democratic Republic of the Congo",
+				"region": "AFRO",
+				"ART_comparisons": "28925"
+			},
+			"DJI": {
+				"iso3Code": "DJI",
+				"countryName": "Djibouti",
+				"region": "EMRO",
+				"ART_comparisons": "705"
+			},
+			"DMA": {
+				"iso3Code": "DMA",
+				"countryName": "Dominica",
+				"region": "AMRO",
+				"ART_comparisons": "39"
+			},
+			"DOM": {
+				"iso3Code": "DOM",
+				"countryName": "Dominican Republic",
+				"region": "AMRO",
+				"ART_comparisons": "8199"
+			},
+			"ECU": {
+				"iso3Code": "ECU",
+				"countryName": "Ecuador",
+				"region": "AMRO",
+				"ART_comparisons": "3214"
+			},
+			"EGY": {
+				"iso3Code": "EGY",
+				"countryName": "Egypt",
+				"region": "EMRO",
+				"ART_comparisons": "209"
+			},
+			"SLV": {
+				"iso3Code": "SLV",
+				"countryName": "El Salvador",
+				"region": "AMRO",
+				"ART_comparisons": "5773"
+			},
+			"ERI": {
+				"iso3Code": "ERI",
+				"countryName": "Eritrea",
+				"region": "AFRO",
+				"ART_comparisons": "1301"
+			},
+			"ETH": {
+				"iso3Code": "ETH",
+				"countryName": "Ethiopia",
+				"region": "AFRO",
+				"ART_comparisons": "90212"
+			},
+			"FJI": {
+				"iso3Code": "FJI",
+				"countryName": "Fiji",
+				"region": "WPRO",
+				"ART_comparisons": "28"
+			},
+			"GAB": {
+				"iso3Code": "GAB",
+				"countryName": "Gabon",
+				"region": "AFRO",
+				"ART_comparisons": "6373"
+			},
+			"GMB": {
+				"iso3Code": "GMB",
+				"countryName": "Gambia",
+				"region": "AFRO",
+				"ART_comparisons": "431"
+			},
+			"GEO": {
+				"iso3Code": "GEO",
+				"countryName": "Georgia",
+				"region": "EURO",
+				"ART_comparisons": "343"
+			},
+			"GHA": {
+				"iso3Code": "GHA",
+				"countryName": "Ghana",
+				"region": "AFRO",
+				"ART_comparisons": "12315"
+			},
+			"GRD": {
+				"iso3Code": "GRD",
+				"countryName": "Grenada",
+				"region": "AMRO",
+				"ART_comparisons": "47"
+			},
+			"GTM": {
+				"iso3Code": "GTM",
+				"countryName": "Guatemala",
+				"region": "AMRO",
+				"ART_comparisons": "7812"
+			},
+			"GIN": {
+				"iso3Code": "GIN",
+				"countryName": "Guinea",
+				"region": "AFRO",
+				"ART_comparisons": "5660"
+			},
+			"GNB": {
+				"iso3Code": "GNB",
+				"countryName": "Guinea-Bissau",
+				"region": "AFRO",
+				"ART_comparisons": "890"
+			},
+			"GUY": {
+				"iso3Code": "GUY",
+				"countryName": "Guyana",
+				"region": "AMRO",
+				"ART_comparisons": "1965"
+			},
+			"HTI": {
+				"iso3Code": "HTI",
+				"countryName": "Haiti",
+				"region": "AMRO",
+				"ART_comparisons": "14514"
+			},
+			"HND": {
+				"iso3Code": "HND",
+				"countryName": "Honduras",
+				"region": "AMRO",
+				"ART_comparisons": "5580"
+			},
+			"IND": {
+				"iso3Code": "IND",
+				"countryName": "India",
+				"region": "SEARO",
+				"ART_comparisons": "158020"
+			},
+			"IDN": {
+				"iso3Code": "IDN",
+				"countryName": "Indonesia",
+				"region": "SEARO",
+				"ART_comparisons": "6599.7"
+			},
+			"IRN": {
+				"iso3Code": "IRN",
+				"countryName": "Iran, Islamic Republic of ",
+				"region": "EMRO",
+				"ART_comparisons": "941"
+			},
+			"IRQ": {
+				"iso3Code": "IRQ",
+				"countryName": "Iraq",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"JAM": {
+				"iso3Code": "JAM",
+				"countryName": "Jamaica",
+				"region": "AMRO",
+				"ART_comparisons": "3637"
+			},
+			"JOR": {
+				"iso3Code": "JOR",
+				"countryName": "Jordan",
+				"region": "EMRO",
+				"ART_comparisons": "53"
+			},
+			"KAZ": {
+				"iso3Code": "KAZ",
+				"countryName": "Kazakhstan",
+				"region": "EURO",
+				"ART_comparisons": "442"
+			},
+			"KEN": {
+				"iso3Code": "KEN",
+				"countryName": "Kenya",
+				"region": "AFRO",
+				"ART_comparisons": "177000"
+			},
+			"KIR": {
+				"iso3Code": "KIR",
+				"countryName": "Kiribati",
+				"region": "WPRO",
+				"ART_comparisons": "5"
+			},
+			"KGZ": {
+				"iso3Code": "KGZ",
+				"countryName": "Kyrgyzstan",
+				"region": "EURO",
+				"ART_comparisons": "87"
+			},
+			"LAO": {
+				"iso3Code": "LAO",
+				"countryName": "Lao People's Democratic Republic",
+				"region": "WPRO",
+				"ART_comparisons": "700"
+			},
+			"LVA": {
+				"iso3Code": "LVA",
+				"countryName": "Latvia",
+				"region": "EURO",
+				"ART_comparisons": "323"
+			},
+			"LBN": {
+				"iso3Code": "LBN",
+				"countryName": "Lebanon",
+				"region": "EMRO",
+				"ART_comparisons": "246"
+			},
+			"LSO": {
+				"iso3Code": "LSO",
+				"countryName": "Lesotho",
+				"region": "AFRO",
+				"ART_comparisons": "21710"
+			},
+			"LBR": {
+				"iso3Code": "LBR",
+				"countryName": "Liberia",
+				"region": "AFRO",
+				"ART_comparisons": "1414"
+			},
+			"LBY": {
+				"iso3Code": "LBY",
+				"countryName": "Libyan Arab Jamahiriy",
+				"region": "EMRO",
+				"ART_comparisons": "1000"
+			},
+			"LTU": {
+				"iso3Code": "LTU",
+				"countryName": "Lithuania",
+				"region": "EURO",
+				"ART_comparisons": "98"
+			},
+			"MDG": {
+				"iso3Code": "MDG",
+				"countryName": "Madagascar",
+				"region": "AFRO",
+				"ART_comparisons": "138"
+			},
+			"MWI": {
+				"iso3Code": "MWI",
+				"countryName": "Malawi",
+				"region": "AFRO",
+				"ART_comparisons": "100649"
+			},
+			"MYS": {
+				"iso3Code": "MYS",
+				"countryName": "Malaysia",
+				"region": "WPRO",
+				"ART_comparisons": "6950"
+			},
+			"MDV": {
+				"iso3Code": "MDV",
+				"countryName": "Maldives",
+				"region": "SEARO",
+				"ART_comparisons": "1"
+			},
+			"MLI": {
+				"iso3Code": "MLI",
+				"countryName": "Mali",
+				"region": "AFRO",
+				"ART_comparisons": "12398"
+			},
+			"MHL": {
+				"iso3Code": "MHL",
+				"countryName": "Marshall Islands",
+				"region": "WPRO",
+				"ART_comparisons": "1"
+			},
+			"MRT": {
+				"iso3Code": "MRT",
+				"countryName": "Mauritania",
+				"region": "AFRO",
+				"ART_comparisons": "839"
+			},
+			"MUS": {
+				"iso3Code": "MUS",
+				"countryName": "Mauritius",
+				"region": "AFRO",
+				"ART_comparisons": "321"
+			},
+			"MEX": {
+				"iso3Code": "MEX",
+				"countryName": "Mexico",
+				"region": "AMRO",
+				"ART_comparisons": "43051"
+			},
+			"FSM": {
+				"iso3Code": "FSM",
+				"countryName": "Micronesia, Federated States of",
+				"region": "WPRO",
+				"ART_comparisons": "1"
+			},
+			"MNG": {
+				"iso3Code": "MNG",
+				"countryName": "Mongolia",
+				"region": "WPRO",
+				"ART_comparisons": "3"
+			},
+			"MNE": {
+				"iso3Code": "MNE",
+				"countryName": "Montenegro",
+				"region": "EURO",
+				"ART_comparisons": "26"
+			},
+			"MAR": {
+				"iso3Code": "MAR",
+				"countryName": "Morocco",
+				"region": "EMRO",
+				"ART_comparisons": "1648"
+			},
+			"MOZ": {
+				"iso3Code": "MOZ",
+				"countryName": "Mozambique",
+				"region": "AFRO",
+				"ART_comparisons": "89592"
+			},
+			"MMR": {
+				"iso3Code": "MMR",
+				"countryName": "Myanmar",
+				"region": "SEARO",
+				"ART_comparisons": "11100"
+			},
+			"NAM": {
+				"iso3Code": "NAM",
+				"countryName": "Namibia",
+				"region": "AFRO",
+				"ART_comparisons": "52316"
+			},
+			"NRU": {
+				"iso3Code": "NRU",
+				"countryName": "Nauru",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"NPL": {
+				"iso3Code": "NPL",
+				"countryName": "Nepal",
+				"region": "SEARO",
+				"ART_comparisons": "1432"
+			},
+			"NIC": {
+				"iso3Code": "NIC",
+				"countryName": "Nicaragua",
+				"region": "AMRO",
+				"ART_comparisons": "522"
+			},
+			"NER": {
+				"iso3Code": "NER",
+				"countryName": "Niger",
+				"region": "AFRO",
+				"ART_comparisons": "1536"
+			},
+			"NGA": {
+				"iso3Code": "NGA",
+				"countryName": "Nigeria",
+				"region": "AFRO",
+				"ART_comparisons": "197694"
+			},
+			"NIU": {
+				"iso3Code": "NIU",
+				"countryName": "Niue",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"PAK": {
+				"iso3Code": "PAK",
+				"countryName": "Pakistan",
+				"region": "EMRO",
+				"ART_comparisons": "550"
+			},
+			"PLW": {
+				"iso3Code": "PLW",
+				"countryName": "Palau",
+				"region": "WPRO",
+				"ART_comparisons": "3"
+			},
+			"PAN": {
+				"iso3Code": "PAN",
+				"countryName": "Panama",
+				"region": "AMRO",
+				"ART_comparisons": "3994"
+			},
+			"PNG": {
+				"iso3Code": "PNG",
+				"countryName": "Papua New Guinea",
+				"region": "WPRO",
+				"ART_comparisons": "2250"
+			},
+			"PRY": {
+				"iso3Code": "PRY",
+				"countryName": "Paraguay",
+				"region": "AMRO",
+				"ART_comparisons": "1056"
+			},
+			"PER": {
+				"iso3Code": "PER",
+				"countryName": "Peru",
+				"region": "AMRO",
+				"ART_comparisons": "10860"
+			},
+			"PHL": {
+				"iso3Code": "PHL",
+				"countryName": "Philippines",
+				"region": "WPRO",
+				"ART_comparisons": "336"
+			},
+			"MDA": {
+				"iso3Code": "MDA",
+				"countryName": "Republic of Moldova",
+				"region": "EURO",
+				"ART_comparisons": "464"
+			},
+			"ROU": {
+				"iso3Code": "ROU",
+				"countryName": "Romania",
+				"region": "EURO",
+				"ART_comparisons": "6500"
+			},
+			"RUS": {
+				"iso3Code": "RUS",
+				"countryName": "Russian Federation",
+				"region": "EURO",
+				"ART_comparisons": "31094"
+			},
+			"RWA": {
+				"iso3Code": "RWA",
+				"countryName": "Rwanda",
+				"region": "AFRO",
+				"ART_comparisons": "48569"
+			},
+			"LCA": {
+				"iso3Code": "LCA",
+				"countryName": "Saint Lucia",
+				"region": "AMRO",
+				"ART_comparisons": "78"
+			},
+			"VCT": {
+				"iso3Code": "VCT",
+				"countryName": "Saint Vincent and the Grenadines",
+				"region": "AMRO",
+				"ART_comparisons": "96.5"
+			},
+			"WSM": {
+				"iso3Code": "WSM",
+				"countryName": "Samoa",
+				"region": "WPRO",
+				"ART_comparisons": "6"
+			},
+			"STP": {
+				"iso3Code": "STP",
+				"countryName": "Sao Tome and Principe",
+				"region": "AFRO",
+				"ART_comparisons": "74"
+			},
+			"SEN": {
+				"iso3Code": "SEN",
+				"countryName": "Senegal",
+				"region": "AFRO",
+				"ART_comparisons": "6699"
+			},
+			"SRB": {
+				"iso3Code": "SRB",
+				"countryName": "Serbia",
+				"region": "EURO",
+				"ART_comparisons": "642"
+			},
+			"SYC": {
+				"iso3Code": "SYC",
+				"countryName": "Seychelles",
+				"region": "AFRO",
+				"ART_comparisons": "94"
+			},
+			"SLE": {
+				"iso3Code": "SLE",
+				"countryName": "Sierra Leone",
+				"region": "AFRO",
+				"ART_comparisons": "2649"
+			},
+			"SLB": {
+				"iso3Code": "SLB",
+				"countryName": "Solomon Islands",
+				"region": "WPRO",
+				"ART_comparisons": "3"
+			},
+			"SOM": {
+				"iso3Code": "SOM",
+				"countryName": "Somalia",
+				"region": "EMRO",
+				"ART_comparisons": "211"
+			},
+			"ZAF": {
+				"iso3Code": "ZAF",
+				"countryName": "South Africa",
+				"region": "AFRO",
+				"ART_comparisons": "458951"
+			},
+			"SSD": {
+				"iso3Code": "SSD",
+				"countryName": "South Sudan",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"LKA": {
+				"iso3Code": "LKA",
+				"countryName": "Sri Lanka",
+				"region": "SEARO",
+				"ART_comparisons": "107"
+			},
+			"SDN": {
+				"iso3Code": "SDN",
+				"countryName": "Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "1198"
+			},
+			"SUR": {
+				"iso3Code": "SUR",
+				"countryName": "Suriname",
+				"region": "AMRO",
+				"ART_comparisons": "714"
+			},
+			"SWZ": {
+				"iso3Code": "SWZ",
+				"countryName": "Swaziland",
+				"region": "AFRO",
+				"ART_comparisons": "24535"
+			},
+			"SYR": {
+				"iso3Code": "SYR",
+				"countryName": "Syrian Arab Republic",
+				"region": "EMRO",
+				"ART_comparisons": "75"
+			},
+			"TJK": {
+				"iso3Code": "TJK",
+				"countryName": "Tajikistan",
+				"region": "EURO",
+				"ART_comparisons": "86"
+			},
+			"THA": {
+				"iso3Code": "THA",
+				"countryName": "Thailand",
+				"region": "SEARO",
+				"ART_comparisons": "152974"
+			},
+			"MKD": {
+				"iso3Code": "MKD",
+				"countryName": "The former Yugoslav Republic of Macedonia",
+				"region": "EURO",
+				"ART_comparisons": "15"
+			},
+			"TLS": {
+				"iso3Code": "TLS",
+				"countryName": "Timor-Leste",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"TGO": {
+				"iso3Code": "TGO",
+				"countryName": "Togo",
+				"region": "AFRO",
+				"ART_comparisons": "7980"
+			},
+			"TON": {
+				"iso3Code": "TON",
+				"countryName": "Tonga",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"TUN": {
+				"iso3Code": "TUN",
+				"countryName": "Tunisia",
+				"region": "EMRO",
+				"ART_comparisons": "298"
+			},
+			"TUR": {
+				"iso3Code": "TUR",
+				"countryName": "Turkey",
+				"region": "EURO",
+				"ART_comparisons": "889"
+			},
+			"TKM": {
+				"iso3Code": "TKM",
+				"countryName": "Turkmenistan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"TUV": {
+				"iso3Code": "TUV",
+				"countryName": "Tuvalu",
+				"region": "WPRO",
+				"ART_comparisons": "1"
+			},
+			"UGA": {
+				"iso3Code": "UGA",
+				"countryName": "Uganda",
+				"region": "AFRO",
+				"ART_comparisons": "115348"
+			},
+			"UKR": {
+				"iso3Code": "UKR",
+				"countryName": "Ukraine",
+				"region": "EURO",
+				"ART_comparisons": "7657"
+			},
+			"TZA": {
+				"iso3Code": "TZA",
+				"countryName": "United Republic of Tanzania",
+				"region": "AFRO",
+				"ART_comparisons": "135696"
+			},
+			"URY": {
+				"iso3Code": "URY",
+				"countryName": "Uruguay",
+				"region": "AMRO",
+				"ART_comparisons": "1776"
+			},
+			"UZB": {
+				"iso3Code": "UZB",
+				"countryName": "Uzbekistan",
+				"region": "EURO",
+				"ART_comparisons": "319"
+			},
+			"VUT": {
+				"iso3Code": "VUT",
+				"countryName": "Vanuatu",
+				"region": "WPRO",
+				"ART_comparisons": "2"
+			},
+			"VEN": {
+				"iso3Code": "VEN",
+				"countryName": "Venezuela, Bolivarian Republic of",
+				"region": "AMRO",
+				"ART_comparisons": "15417"
+			},
+			"VNM": {
+				"iso3Code": "VNM",
+				"countryName": "Viet Nam",
+				"region": "WPRO",
+				"ART_comparisons": "17354"
+			},
+			"YEM": {
+				"iso3Code": "YEM",
+				"countryName": "Yemen",
+				"region": "EMRO",
+				"ART_comparisons": "107"
+			},
+			"ZMB": {
+				"iso3Code": "ZMB",
+				"countryName": "Zambia",
+				"region": "AFRO",
+				"ART_comparisons": "151199"
+			},
+			"ZWE": {
+				"iso3Code": "ZWE",
+				"countryName": "Zimbabwe",
+				"region": "AFRO",
+				"ART_comparisons": "97692"
+			}
+		},
+		"2006": {
+			"AFG": {
+				"iso3Code": "AFG",
+				"countryName": "Afghanistan",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"ALB": {
+				"iso3Code": "ALB",
+				"countryName": "Albania",
+				"region": "EURO",
+				"ART_comparisons": "45"
+			},
+			"DZA": {
+				"iso3Code": "DZA",
+				"countryName": "Algeria",
+				"region": "AFRO",
+				"ART_comparisons": "588"
+			},
+			"AGO": {
+				"iso3Code": "AGO",
+				"countryName": "Angola",
+				"region": "AFRO",
+				"ART_comparisons": "5768"
+			},
+			"ATG": {
+				"iso3Code": "ATG",
+				"countryName": "Antigua and Barbuda",
+				"region": "AMRO",
+				"ART_comparisons": "114"
+			},
+			"ARG": {
+				"iso3Code": "ARG",
+				"countryName": "Argentina",
+				"region": "AMRO",
+				"ART_comparisons": "35211"
+			},
+			"ARM": {
+				"iso3Code": "ARM",
+				"countryName": "Armenia",
+				"region": "EURO",
+				"ART_comparisons": "47"
+			},
+			"AZE": {
+				"iso3Code": "AZE",
+				"countryName": "Azerbaijan",
+				"region": "EURO",
+				"ART_comparisons": "7"
+			},
+			"BGD": {
+				"iso3Code": "BGD",
+				"countryName": "Bangladesh",
+				"region": "SEARO",
+				"ART_comparisons": "59"
+			},
+			"BLR": {
+				"iso3Code": "BLR",
+				"countryName": "Belarus",
+				"region": "EURO",
+				"ART_comparisons": "638"
+			},
+			"BLZ": {
+				"iso3Code": "BLZ",
+				"countryName": "Belize",
+				"region": "AMRO",
+				"ART_comparisons": "435"
+			},
+			"BEN": {
+				"iso3Code": "BEN",
+				"countryName": "Benin",
+				"region": "AFRO",
+				"ART_comparisons": "7634"
+			},
+			"BTN": {
+				"iso3Code": "BTN",
+				"countryName": "Bhutan",
+				"region": "SEARO",
+				"ART_comparisons": "19"
+			},
+			"BOL": {
+				"iso3Code": "BOL",
+				"countryName": "Bolivia, Plurinational State of",
+				"region": "AMRO",
+				"ART_comparisons": "382"
+			},
+			"BIH": {
+				"iso3Code": "BIH",
+				"countryName": "Bosnia and Herzegovina",
+				"region": "EURO",
+				"ART_comparisons": "19"
+			},
+			"BWA": {
+				"iso3Code": "BWA",
+				"countryName": "Botswana",
+				"region": "AFRO",
+				"ART_comparisons": "79490"
+			},
+			"BRA": {
+				"iso3Code": "BRA",
+				"countryName": "Brazil",
+				"region": "AMRO",
+				"ART_comparisons": "204270"
+			},
+			"BGR": {
+				"iso3Code": "BGR",
+				"countryName": "Bulgaria",
+				"region": "EURO",
+				"ART_comparisons": "196"
+			},
+			"BFA": {
+				"iso3Code": "BFA",
+				"countryName": "Burkina Faso",
+				"region": "AFRO",
+				"ART_comparisons": "14079"
+			},
+			"BDI": {
+				"iso3Code": "BDI",
+				"countryName": "Burundi",
+				"region": "AFRO",
+				"ART_comparisons": "8048"
+			},
+			"KHM": {
+				"iso3Code": "KHM",
+				"countryName": "Cambodia",
+				"region": "WPRO",
+				"ART_comparisons": "20131"
+			},
+			"CMR": {
+				"iso3Code": "CMR",
+				"countryName": "Cameroon",
+				"region": "AFRO",
+				"ART_comparisons": "28403"
+			},
+			"CPV": {
+				"iso3Code": "CPV",
+				"countryName": "Cape Verde",
+				"region": "AFRO",
+				"ART_comparisons": "223"
+			},
+			"CAF": {
+				"iso3Code": "CAF",
+				"countryName": "Central African Republic",
+				"region": "AFRO",
+				"ART_comparisons": "2782"
+			},
+			"TCD": {
+				"iso3Code": "TCD",
+				"countryName": "Chad",
+				"region": "AFRO",
+				"ART_comparisons": "5500"
+			},
+			"CHL": {
+				"iso3Code": "CHL",
+				"countryName": "Chile",
+				"region": "AMRO",
+				"ART_comparisons": "7782"
+			},
+			"CHN": {
+				"iso3Code": "CHN",
+				"countryName": "China",
+				"region": "WPRO",
+				"ART_comparisons": "31140"
+			},
+			"COL": {
+				"iso3Code": "COL",
+				"countryName": "Colombia",
+				"region": "AMRO",
+				"ART_comparisons": "17540"
+			},
+			"COM": {
+				"iso3Code": "COM",
+				"countryName": "Comoros",
+				"region": "AFRO",
+				"ART_comparisons": "5"
+			},
+			"COG": {
+				"iso3Code": "COG",
+				"countryName": "Congo",
+				"region": "AFRO",
+				"ART_comparisons": "3186"
+			},
+			"COK": {
+				"iso3Code": "COK",
+				"countryName": "Cook Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"CRI": {
+				"iso3Code": "CRI",
+				"countryName": "Costa Rica",
+				"region": "AMRO",
+				"ART_comparisons": "2866"
+			},
+			"CIV": {
+				"iso3Code": "CIV",
+				"countryName": "Côte d'Ivoire",
+				"region": "AFRO",
+				"ART_comparisons": "36348"
+			},
+			"CUB": {
+				"iso3Code": "CUB",
+				"countryName": "Cuba",
+				"region": "AMRO",
+				"ART_comparisons": "1711"
+			},
+			"PRK": {
+				"iso3Code": "PRK",
+				"countryName": "Democratic People's Republic of Korea",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"COD": {
+				"iso3Code": "COD",
+				"countryName": "Democratic Republic of the Congo",
+				"region": "AFRO",
+				"ART_comparisons": "17561"
+			},
+			"DJI": {
+				"iso3Code": "DJI",
+				"countryName": "Djibouti",
+				"region": "EMRO",
+				"ART_comparisons": "598"
+			},
+			"DMA": {
+				"iso3Code": "DMA",
+				"countryName": "Dominica",
+				"region": "AMRO",
+				"ART_comparisons": "37"
+			},
+			"DOM": {
+				"iso3Code": "DOM",
+				"countryName": "Dominican Republic",
+				"region": "AMRO",
+				"ART_comparisons": "5001"
+			},
+			"ECU": {
+				"iso3Code": "ECU",
+				"countryName": "Ecuador",
+				"region": "AMRO",
+				"ART_comparisons": "1745"
+			},
+			"EGY": {
+				"iso3Code": "EGY",
+				"countryName": "Egypt",
+				"region": "EMRO",
+				"ART_comparisons": "205"
+			},
+			"SLV": {
+				"iso3Code": "SLV",
+				"countryName": "El Salvador",
+				"region": "AMRO",
+				"ART_comparisons": "4712"
+			},
+			"ERI": {
+				"iso3Code": "ERI",
+				"countryName": "Eritrea",
+				"region": "AFRO",
+				"ART_comparisons": "1175"
+			},
+			"ETH": {
+				"iso3Code": "ETH",
+				"countryName": "Ethiopia",
+				"region": "AFRO",
+				"ART_comparisons": "53720"
+			},
+			"FJI": {
+				"iso3Code": "FJI",
+				"countryName": "Fiji",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"GAB": {
+				"iso3Code": "GAB",
+				"countryName": "Gabon",
+				"region": "AFRO",
+				"ART_comparisons": "5278"
+			},
+			"GMB": {
+				"iso3Code": "GMB",
+				"countryName": "Gambia",
+				"region": "AFRO",
+				"ART_comparisons": "400"
+			},
+			"GEO": {
+				"iso3Code": "GEO",
+				"countryName": "Georgia",
+				"region": "EURO",
+				"ART_comparisons": "267"
+			},
+			"GHA": {
+				"iso3Code": "GHA",
+				"countryName": "Ghana",
+				"region": "AFRO",
+				"ART_comparisons": "9882"
+			},
+			"GRD": {
+				"iso3Code": "GRD",
+				"countryName": "Grenada",
+				"region": "AMRO",
+				"ART_comparisons": null
+			},
+			"GTM": {
+				"iso3Code": "GTM",
+				"countryName": "Guatemala",
+				"region": "AMRO",
+				"ART_comparisons": "6030"
+			},
+			"GIN": {
+				"iso3Code": "GIN",
+				"countryName": "Guinea",
+				"region": "AFRO",
+				"ART_comparisons": "4699"
+			},
+			"GNB": {
+				"iso3Code": "GNB",
+				"countryName": "Guinea-Bissau",
+				"region": "AFRO",
+				"ART_comparisons": "349"
+			},
+			"GUY": {
+				"iso3Code": "GUY",
+				"countryName": "Guyana",
+				"region": "AMRO",
+				"ART_comparisons": "1569"
+			},
+			"HTI": {
+				"iso3Code": "HTI",
+				"countryName": "Haiti",
+				"region": "AMRO",
+				"ART_comparisons": "8796"
+			},
+			"HND": {
+				"iso3Code": "HND",
+				"countryName": "Honduras",
+				"region": "AMRO",
+				"ART_comparisons": "4674"
+			},
+			"IND": {
+				"iso3Code": "IND",
+				"countryName": "India",
+				"region": "SEARO",
+				"ART_comparisons": "90597"
+			},
+			"IDN": {
+				"iso3Code": "IDN",
+				"countryName": "Indonesia",
+				"region": "SEARO",
+				"ART_comparisons": "5100"
+			},
+			"IRN": {
+				"iso3Code": "IRN",
+				"countryName": "Iran, Islamic Republic of ",
+				"region": "EMRO",
+				"ART_comparisons": "525"
+			},
+			"IRQ": {
+				"iso3Code": "IRQ",
+				"countryName": "Iraq",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"JAM": {
+				"iso3Code": "JAM",
+				"countryName": "Jamaica",
+				"region": "AMRO",
+				"ART_comparisons": "2633"
+			},
+			"JOR": {
+				"iso3Code": "JOR",
+				"countryName": "Jordan",
+				"region": "EMRO",
+				"ART_comparisons": "45"
+			},
+			"KAZ": {
+				"iso3Code": "KAZ",
+				"countryName": "Kazakhstan",
+				"region": "EURO",
+				"ART_comparisons": "326"
+			},
+			"KEN": {
+				"iso3Code": "KEN",
+				"countryName": "Kenya",
+				"region": "AFRO",
+				"ART_comparisons": "125026"
+			},
+			"KIR": {
+				"iso3Code": "KIR",
+				"countryName": "Kiribati",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"KGZ": {
+				"iso3Code": "KGZ",
+				"countryName": "Kyrgyzstan",
+				"region": "EURO",
+				"ART_comparisons": "47"
+			},
+			"LAO": {
+				"iso3Code": "LAO",
+				"countryName": "Lao People's Democratic Republic",
+				"region": "WPRO",
+				"ART_comparisons": "479"
+			},
+			"LVA": {
+				"iso3Code": "LVA",
+				"countryName": "Latvia",
+				"region": "EURO",
+				"ART_comparisons": "301"
+			},
+			"LBN": {
+				"iso3Code": "LBN",
+				"countryName": "Lebanon",
+				"region": "EMRO",
+				"ART_comparisons": "213"
+			},
+			"LSO": {
+				"iso3Code": "LSO",
+				"countryName": "Lesotho",
+				"region": "AFRO",
+				"ART_comparisons": "17667"
+			},
+			"LBR": {
+				"iso3Code": "LBR",
+				"countryName": "Liberia",
+				"region": "AFRO",
+				"ART_comparisons": "796"
+			},
+			"LBY": {
+				"iso3Code": "LBY",
+				"countryName": "Libyan Arab Jamahiriy",
+				"region": "EMRO",
+				"ART_comparisons": "450"
+			},
+			"LTU": {
+				"iso3Code": "LTU",
+				"countryName": "Lithuania",
+				"region": "EURO",
+				"ART_comparisons": "75"
+			},
+			"MDG": {
+				"iso3Code": "MDG",
+				"countryName": "Madagascar",
+				"region": "AFRO",
+				"ART_comparisons": "92"
+			},
+			"MWI": {
+				"iso3Code": "MWI",
+				"countryName": "Malawi",
+				"region": "AFRO",
+				"ART_comparisons": "59980"
+			},
+			"MYS": {
+				"iso3Code": "MYS",
+				"countryName": "Malaysia",
+				"region": "WPRO",
+				"ART_comparisons": "2700"
+			},
+			"MDV": {
+				"iso3Code": "MDV",
+				"countryName": "Maldives",
+				"region": "SEARO",
+				"ART_comparisons": "1"
+			},
+			"MLI": {
+				"iso3Code": "MLI",
+				"countryName": "Mali",
+				"region": "AFRO",
+				"ART_comparisons": "11651"
+			},
+			"MHL": {
+				"iso3Code": "MHL",
+				"countryName": "Marshall Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"MRT": {
+				"iso3Code": "MRT",
+				"countryName": "Mauritania",
+				"region": "AFRO",
+				"ART_comparisons": "256"
+			},
+			"MUS": {
+				"iso3Code": "MUS",
+				"countryName": "Mauritius",
+				"region": "AFRO",
+				"ART_comparisons": "243"
+			},
+			"MEX": {
+				"iso3Code": "MEX",
+				"countryName": "Mexico",
+				"region": "AMRO",
+				"ART_comparisons": "39295"
+			},
+			"FSM": {
+				"iso3Code": "FSM",
+				"countryName": "Micronesia, Federated States of",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"MNG": {
+				"iso3Code": "MNG",
+				"countryName": "Mongolia",
+				"region": "WPRO",
+				"ART_comparisons": "2"
+			},
+			"MNE": {
+				"iso3Code": "MNE",
+				"countryName": "Montenegro",
+				"region": "EURO",
+				"ART_comparisons": "26"
+			},
+			"MAR": {
+				"iso3Code": "MAR",
+				"countryName": "Morocco",
+				"region": "EMRO",
+				"ART_comparisons": "1370"
+			},
+			"MOZ": {
+				"iso3Code": "MOZ",
+				"countryName": "Mozambique",
+				"region": "AFRO",
+				"ART_comparisons": "40891"
+			},
+			"MMR": {
+				"iso3Code": "MMR",
+				"countryName": "Myanmar",
+				"region": "SEARO",
+				"ART_comparisons": "5295"
+			},
+			"NAM": {
+				"iso3Code": "NAM",
+				"countryName": "Namibia",
+				"region": "AFRO",
+				"ART_comparisons": "35593"
+			},
+			"NRU": {
+				"iso3Code": "NRU",
+				"countryName": "Nauru",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"NPL": {
+				"iso3Code": "NPL",
+				"countryName": "Nepal",
+				"region": "SEARO",
+				"ART_comparisons": "541"
+			},
+			"NIC": {
+				"iso3Code": "NIC",
+				"countryName": "Nicaragua",
+				"region": "AMRO",
+				"ART_comparisons": "387"
+			},
+			"NER": {
+				"iso3Code": "NER",
+				"countryName": "Niger",
+				"region": "AFRO",
+				"ART_comparisons": "1168"
+			},
+			"NGA": {
+				"iso3Code": "NGA",
+				"countryName": "Nigeria",
+				"region": "AFRO",
+				"ART_comparisons": "95008"
+			},
+			"NIU": {
+				"iso3Code": "NIU",
+				"countryName": "Niue",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"PAK": {
+				"iso3Code": "PAK",
+				"countryName": "Pakistan",
+				"region": "EMRO",
+				"ART_comparisons": "167"
+			},
+			"PLW": {
+				"iso3Code": "PLW",
+				"countryName": "Palau",
+				"region": "WPRO",
+				"ART_comparisons": "2"
+			},
+			"PAN": {
+				"iso3Code": "PAN",
+				"countryName": "Panama",
+				"region": "AMRO",
+				"ART_comparisons": "2835"
+			},
+			"PNG": {
+				"iso3Code": "PNG",
+				"countryName": "Papua New Guinea",
+				"region": "WPRO",
+				"ART_comparisons": "1098"
+			},
+			"PRY": {
+				"iso3Code": "PRY",
+				"countryName": "Paraguay",
+				"region": "AMRO",
+				"ART_comparisons": "1026"
+			},
+			"PER": {
+				"iso3Code": "PER",
+				"countryName": "Peru",
+				"region": "AMRO",
+				"ART_comparisons": "8424"
+			},
+			"PHL": {
+				"iso3Code": "PHL",
+				"countryName": "Philippines",
+				"region": "WPRO",
+				"ART_comparisons": "170"
+			},
+			"MDA": {
+				"iso3Code": "MDA",
+				"countryName": "Republic of Moldova",
+				"region": "EURO",
+				"ART_comparisons": "262"
+			},
+			"ROU": {
+				"iso3Code": "ROU",
+				"countryName": "Romania",
+				"region": "EURO",
+				"ART_comparisons": "6790"
+			},
+			"RUS": {
+				"iso3Code": "RUS",
+				"countryName": "Russian Federation",
+				"region": "EURO",
+				"ART_comparisons": "14681"
+			},
+			"RWA": {
+				"iso3Code": "RWA",
+				"countryName": "Rwanda",
+				"region": "AFRO",
+				"ART_comparisons": "34636"
+			},
+			"LCA": {
+				"iso3Code": "LCA",
+				"countryName": "Saint Lucia",
+				"region": "AMRO",
+				"ART_comparisons": "50"
+			},
+			"VCT": {
+				"iso3Code": "VCT",
+				"countryName": "Saint Vincent and the Grenadines",
+				"region": "AMRO",
+				"ART_comparisons": "80"
+			},
+			"WSM": {
+				"iso3Code": "WSM",
+				"countryName": "Samoa",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"STP": {
+				"iso3Code": "STP",
+				"countryName": "Sao Tome and Principe",
+				"region": "AFRO",
+				"ART_comparisons": "51"
+			},
+			"SEN": {
+				"iso3Code": "SEN",
+				"countryName": "Senegal",
+				"region": "AFRO",
+				"ART_comparisons": "5500"
+			},
+			"SRB": {
+				"iso3Code": "SRB",
+				"countryName": "Serbia",
+				"region": "EURO",
+				"ART_comparisons": "608"
+			},
+			"SYC": {
+				"iso3Code": "SYC",
+				"countryName": "Seychelles",
+				"region": "AFRO",
+				"ART_comparisons": "82"
+			},
+			"SLE": {
+				"iso3Code": "SLE",
+				"countryName": "Sierra Leone",
+				"region": "AFRO",
+				"ART_comparisons": "1416"
+			},
+			"SLB": {
+				"iso3Code": "SLB",
+				"countryName": "Solomon Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"SOM": {
+				"iso3Code": "SOM",
+				"countryName": "Somalia",
+				"region": "EMRO",
+				"ART_comparisons": "111"
+			},
+			"ZAF": {
+				"iso3Code": "ZAF",
+				"countryName": "South Africa",
+				"region": "AFRO",
+				"ART_comparisons": "324754"
+			},
+			"SSD": {
+				"iso3Code": "SSD",
+				"countryName": "South Sudan",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"LKA": {
+				"iso3Code": "LKA",
+				"countryName": "Sri Lanka",
+				"region": "SEARO",
+				"ART_comparisons": "69"
+			},
+			"SDN": {
+				"iso3Code": "SDN",
+				"countryName": "Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "968"
+			},
+			"SUR": {
+				"iso3Code": "SUR",
+				"countryName": "Suriname",
+				"region": "AMRO",
+				"ART_comparisons": "460"
+			},
+			"SWZ": {
+				"iso3Code": "SWZ",
+				"countryName": "Swaziland",
+				"region": "AFRO",
+				"ART_comparisons": "18493.333333"
+			},
+			"SYR": {
+				"iso3Code": "SYR",
+				"countryName": "Syrian Arab Republic",
+				"region": "EMRO",
+				"ART_comparisons": "60"
+			},
+			"TJK": {
+				"iso3Code": "TJK",
+				"countryName": "Tajikistan",
+				"region": "EURO",
+				"ART_comparisons": "37"
+			},
+			"THA": {
+				"iso3Code": "THA",
+				"countryName": "Thailand",
+				"region": "SEARO",
+				"ART_comparisons": "112196"
+			},
+			"MKD": {
+				"iso3Code": "MKD",
+				"countryName": "The former Yugoslav Republic of Macedonia",
+				"region": "EURO",
+				"ART_comparisons": "11"
+			},
+			"TLS": {
+				"iso3Code": "TLS",
+				"countryName": "Timor-Leste",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"TGO": {
+				"iso3Code": "TGO",
+				"countryName": "Togo",
+				"region": "AFRO",
+				"ART_comparisons": "6993"
+			},
+			"TON": {
+				"iso3Code": "TON",
+				"countryName": "Tonga",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"TUN": {
+				"iso3Code": "TUN",
+				"countryName": "Tunisia",
+				"region": "EMRO",
+				"ART_comparisons": "298"
+			},
+			"TUR": {
+				"iso3Code": "TUR",
+				"countryName": "Turkey",
+				"region": "EURO",
+				"ART_comparisons": "685"
+			},
+			"TKM": {
+				"iso3Code": "TKM",
+				"countryName": "Turkmenistan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"TUV": {
+				"iso3Code": "TUV",
+				"countryName": "Tuvalu",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"UGA": {
+				"iso3Code": "UGA",
+				"countryName": "Uganda",
+				"region": "AFRO",
+				"ART_comparisons": "96294"
+			},
+			"UKR": {
+				"iso3Code": "UKR",
+				"countryName": "Ukraine",
+				"region": "EURO",
+				"ART_comparisons": "4777"
+			},
+			"TZA": {
+				"iso3Code": "TZA",
+				"countryName": "United Republic of Tanzania",
+				"region": "AFRO",
+				"ART_comparisons": "60342"
+			},
+			"URY": {
+				"iso3Code": "URY",
+				"countryName": "Uruguay",
+				"region": "AMRO",
+				"ART_comparisons": "1495"
+			},
+			"UZB": {
+				"iso3Code": "UZB",
+				"countryName": "Uzbekistan",
+				"region": "EURO",
+				"ART_comparisons": "259"
+			},
+			"VUT": {
+				"iso3Code": "VUT",
+				"countryName": "Vanuatu",
+				"region": "WPRO",
+				"ART_comparisons": "1.966667"
+			},
+			"VEN": {
+				"iso3Code": "VEN",
+				"countryName": "Venezuela, Bolivarian Republic of",
+				"region": "AMRO",
+				"ART_comparisons": "15417"
+			},
+			"VNM": {
+				"iso3Code": "VNM",
+				"countryName": "Viet Nam",
+				"region": "WPRO",
+				"ART_comparisons": "8310"
+			},
+			"YEM": {
+				"iso3Code": "YEM",
+				"countryName": "Yemen",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"ZMB": {
+				"iso3Code": "ZMB",
+				"countryName": "Zambia",
+				"region": "AFRO",
+				"ART_comparisons": "82030"
+			},
+			"ZWE": {
+				"iso3Code": "ZWE",
+				"countryName": "Zimbabwe",
+				"region": "AFRO",
+				"ART_comparisons": "66920"
+			}
+		},
+		"2005": {
+			"AFG": {
+				"iso3Code": "AFG",
+				"countryName": "Afghanistan",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"ALB": {
+				"iso3Code": "ALB",
+				"countryName": "Albania",
+				"region": "EURO",
+				"ART_comparisons": "50"
+			},
+			"DZA": {
+				"iso3Code": "DZA",
+				"countryName": "Algeria",
+				"region": "AFRO",
+				"ART_comparisons": "424"
+			},
+			"AGO": {
+				"iso3Code": "AGO",
+				"countryName": "Angola",
+				"region": "AFRO",
+				"ART_comparisons": "983"
+			},
+			"ATG": {
+				"iso3Code": "ATG",
+				"countryName": "Antigua and Barbuda",
+				"region": "AMRO",
+				"ART_comparisons": "40"
+			},
+			"ARG": {
+				"iso3Code": "ARG",
+				"countryName": "Argentina",
+				"region": "AMRO",
+				"ART_comparisons": "30127"
+			},
+			"ARM": {
+				"iso3Code": "ARM",
+				"countryName": "Armenia",
+				"region": "EURO",
+				"ART_comparisons": "29"
+			},
+			"AZE": {
+				"iso3Code": "AZE",
+				"countryName": "Azerbaijan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"BGD": {
+				"iso3Code": "BGD",
+				"countryName": "Bangladesh",
+				"region": "SEARO",
+				"ART_comparisons": "5"
+			},
+			"BLR": {
+				"iso3Code": "BLR",
+				"countryName": "Belarus",
+				"region": "EURO",
+				"ART_comparisons": "120"
+			},
+			"BLZ": {
+				"iso3Code": "BLZ",
+				"countryName": "Belize",
+				"region": "AMRO",
+				"ART_comparisons": "180"
+			},
+			"BEN": {
+				"iso3Code": "BEN",
+				"countryName": "Benin",
+				"region": "AFRO",
+				"ART_comparisons": "4673"
+			},
+			"BTN": {
+				"iso3Code": "BTN",
+				"countryName": "Bhutan",
+				"region": "SEARO",
+				"ART_comparisons": "5"
+			},
+			"BOL": {
+				"iso3Code": "BOL",
+				"countryName": "Bolivia, Plurinational State of",
+				"region": "AMRO",
+				"ART_comparisons": "300"
+			},
+			"BIH": {
+				"iso3Code": "BIH",
+				"countryName": "Bosnia and Herzegovina",
+				"region": "EURO",
+				"ART_comparisons": "29"
+			},
+			"BWA": {
+				"iso3Code": "BWA",
+				"countryName": "Botswana",
+				"region": "AFRO",
+				"ART_comparisons": "59946"
+			},
+			"BRA": {
+				"iso3Code": "BRA",
+				"countryName": "Brazil",
+				"region": "AMRO",
+				"ART_comparisons": "194000"
+			},
+			"BGR": {
+				"iso3Code": "BGR",
+				"countryName": "Bulgaria",
+				"region": "EURO",
+				"ART_comparisons": "187"
+			},
+			"BFA": {
+				"iso3Code": "BFA",
+				"countryName": "Burkina Faso",
+				"region": "AFRO",
+				"ART_comparisons": "8214"
+			},
+			"BDI": {
+				"iso3Code": "BDI",
+				"countryName": "Burundi",
+				"region": "AFRO",
+				"ART_comparisons": "6416"
+			},
+			"KHM": {
+				"iso3Code": "KHM",
+				"countryName": "Cambodia",
+				"region": "WPRO",
+				"ART_comparisons": "12396"
+			},
+			"CMR": {
+				"iso3Code": "CMR",
+				"countryName": "Cameroon",
+				"region": "AFRO",
+				"ART_comparisons": "23820"
+			},
+			"CPV": {
+				"iso3Code": "CPV",
+				"countryName": "Cape Verde",
+				"region": "AFRO",
+				"ART_comparisons": "215"
+			},
+			"CAF": {
+				"iso3Code": "CAF",
+				"countryName": "Central African Republic",
+				"region": "AFRO",
+				"ART_comparisons": "1647"
+			},
+			"TCD": {
+				"iso3Code": "TCD",
+				"countryName": "Chad",
+				"region": "AFRO",
+				"ART_comparisons": "5275"
+			},
+			"CHL": {
+				"iso3Code": "CHL",
+				"countryName": "Chile",
+				"region": "AMRO",
+				"ART_comparisons": "6964"
+			},
+			"CHN": {
+				"iso3Code": "CHN",
+				"countryName": "China",
+				"region": "WPRO",
+				"ART_comparisons": "19282"
+			},
+			"COL": {
+				"iso3Code": "COL",
+				"countryName": "Colombia",
+				"region": "AMRO",
+				"ART_comparisons": "13000"
+			},
+			"COM": {
+				"iso3Code": "COM",
+				"countryName": "Comoros",
+				"region": "AFRO",
+				"ART_comparisons": null
+			},
+			"COG": {
+				"iso3Code": "COG",
+				"countryName": "Congo",
+				"region": "AFRO",
+				"ART_comparisons": "2967"
+			},
+			"COK": {
+				"iso3Code": "COK",
+				"countryName": "Cook Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"CRI": {
+				"iso3Code": "CRI",
+				"countryName": "Costa Rica",
+				"region": "AMRO",
+				"ART_comparisons": "2717"
+			},
+			"CIV": {
+				"iso3Code": "CIV",
+				"countryName": "Côte d'Ivoire",
+				"region": "AFRO",
+				"ART_comparisons": "18533"
+			},
+			"CUB": {
+				"iso3Code": "CUB",
+				"countryName": "Cuba",
+				"region": "AMRO",
+				"ART_comparisons": "2079"
+			},
+			"PRK": {
+				"iso3Code": "PRK",
+				"countryName": "Democratic People's Republic of Korea",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"COD": {
+				"iso3Code": "COD",
+				"countryName": "Democratic Republic of the Congo",
+				"region": "AFRO",
+				"ART_comparisons": "7721"
+			},
+			"DJI": {
+				"iso3Code": "DJI",
+				"countryName": "Djibouti",
+				"region": "EMRO",
+				"ART_comparisons": "350"
+			},
+			"DMA": {
+				"iso3Code": "DMA",
+				"countryName": "Dominica",
+				"region": "AMRO",
+				"ART_comparisons": "21"
+			},
+			"DOM": {
+				"iso3Code": "DOM",
+				"countryName": "Dominican Republic",
+				"region": "AMRO",
+				"ART_comparisons": "2582"
+			},
+			"ECU": {
+				"iso3Code": "ECU",
+				"countryName": "Ecuador",
+				"region": "AMRO",
+				"ART_comparisons": "1567"
+			},
+			"EGY": {
+				"iso3Code": "EGY",
+				"countryName": "Egypt",
+				"region": "EMRO",
+				"ART_comparisons": "218"
+			},
+			"SLV": {
+				"iso3Code": "SLV",
+				"countryName": "El Salvador",
+				"region": "AMRO",
+				"ART_comparisons": "2873"
+			},
+			"ERI": {
+				"iso3Code": "ERI",
+				"countryName": "Eritrea",
+				"region": "AFRO",
+				"ART_comparisons": "563"
+			},
+			"ETH": {
+				"iso3Code": "ETH",
+				"countryName": "Ethiopia",
+				"region": "AFRO",
+				"ART_comparisons": "20477"
+			},
+			"FJI": {
+				"iso3Code": "FJI",
+				"countryName": "Fiji",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"GAB": {
+				"iso3Code": "GAB",
+				"countryName": "Gabon",
+				"region": "AFRO",
+				"ART_comparisons": "2000"
+			},
+			"GMB": {
+				"iso3Code": "GMB",
+				"countryName": "Gambia",
+				"region": "AFRO",
+				"ART_comparisons": "150"
+			},
+			"GEO": {
+				"iso3Code": "GEO",
+				"countryName": "Georgia",
+				"region": "EURO",
+				"ART_comparisons": "140"
+			},
+			"GHA": {
+				"iso3Code": "GHA",
+				"countryName": "Ghana",
+				"region": "AFRO",
+				"ART_comparisons": "4328"
+			},
+			"GRD": {
+				"iso3Code": "GRD",
+				"countryName": "Grenada",
+				"region": "AMRO",
+				"ART_comparisons": null
+			},
+			"GTM": {
+				"iso3Code": "GTM",
+				"countryName": "Guatemala",
+				"region": "AMRO",
+				"ART_comparisons": "5632"
+			},
+			"GIN": {
+				"iso3Code": "GIN",
+				"countryName": "Guinea",
+				"region": "AFRO",
+				"ART_comparisons": "2101"
+			},
+			"GNB": {
+				"iso3Code": "GNB",
+				"countryName": "Guinea-Bissau",
+				"region": "AFRO",
+				"ART_comparisons": "62"
+			},
+			"GUY": {
+				"iso3Code": "GUY",
+				"countryName": "Guyana",
+				"region": "AMRO",
+				"ART_comparisons": "1200"
+			},
+			"HTI": {
+				"iso3Code": "HTI",
+				"countryName": "Haiti",
+				"region": "AMRO",
+				"ART_comparisons": "6896"
+			},
+			"HND": {
+				"iso3Code": "HND",
+				"countryName": "Honduras",
+				"region": "AMRO",
+				"ART_comparisons": "4305"
+			},
+			"IND": {
+				"iso3Code": "IND",
+				"countryName": "India",
+				"region": "SEARO",
+				"ART_comparisons": "51888"
+			},
+			"IDN": {
+				"iso3Code": "IDN",
+				"countryName": "Indonesia",
+				"region": "SEARO",
+				"ART_comparisons": "3520"
+			},
+			"IRN": {
+				"iso3Code": "IRN",
+				"countryName": "Iran, Islamic Republic of ",
+				"region": "EMRO",
+				"ART_comparisons": "420"
+			},
+			"IRQ": {
+				"iso3Code": "IRQ",
+				"countryName": "Iraq",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"JAM": {
+				"iso3Code": "JAM",
+				"countryName": "Jamaica",
+				"region": "AMRO",
+				"ART_comparisons": "1456"
+			},
+			"JOR": {
+				"iso3Code": "JOR",
+				"countryName": "Jordan",
+				"region": "EMRO",
+				"ART_comparisons": "45"
+			},
+			"KAZ": {
+				"iso3Code": "KAZ",
+				"countryName": "Kazakhstan",
+				"region": "EURO",
+				"ART_comparisons": "240"
+			},
+			"KEN": {
+				"iso3Code": "KEN",
+				"countryName": "Kenya",
+				"region": "AFRO",
+				"ART_comparisons": "65773"
+			},
+			"KIR": {
+				"iso3Code": "KIR",
+				"countryName": "Kiribati",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"KGZ": {
+				"iso3Code": "KGZ",
+				"countryName": "Kyrgyzstan",
+				"region": "EURO",
+				"ART_comparisons": "46"
+			},
+			"LAO": {
+				"iso3Code": "LAO",
+				"countryName": "Lao People's Democratic Republic",
+				"region": "WPRO",
+				"ART_comparisons": "104"
+			},
+			"LVA": {
+				"iso3Code": "LVA",
+				"countryName": "Latvia",
+				"region": "EURO",
+				"ART_comparisons": "235"
+			},
+			"LBN": {
+				"iso3Code": "LBN",
+				"countryName": "Lebanon",
+				"region": "EMRO",
+				"ART_comparisons": "200"
+			},
+			"LSO": {
+				"iso3Code": "LSO",
+				"countryName": "Lesotho",
+				"region": "AFRO",
+				"ART_comparisons": "8400"
+			},
+			"LBR": {
+				"iso3Code": "LBR",
+				"countryName": "Liberia",
+				"region": "AFRO",
+				"ART_comparisons": "397"
+			},
+			"LBY": {
+				"iso3Code": "LBY",
+				"countryName": "Libyan Arab Jamahiriy",
+				"region": "EMRO",
+				"ART_comparisons": "450"
+			},
+			"LTU": {
+				"iso3Code": "LTU",
+				"countryName": "Lithuania",
+				"region": "EURO",
+				"ART_comparisons": "85"
+			},
+			"MDG": {
+				"iso3Code": "MDG",
+				"countryName": "Madagascar",
+				"region": "AFRO",
+				"ART_comparisons": "6"
+			},
+			"MWI": {
+				"iso3Code": "MWI",
+				"countryName": "Malawi",
+				"region": "AFRO",
+				"ART_comparisons": "29087"
+			},
+			"MYS": {
+				"iso3Code": "MYS",
+				"countryName": "Malaysia",
+				"region": "WPRO",
+				"ART_comparisons": "4700"
+			},
+			"MDV": {
+				"iso3Code": "MDV",
+				"countryName": "Maldives",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"MLI": {
+				"iso3Code": "MLI",
+				"countryName": "Mali",
+				"region": "AFRO",
+				"ART_comparisons": "7038"
+			},
+			"MHL": {
+				"iso3Code": "MHL",
+				"countryName": "Marshall Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"MRT": {
+				"iso3Code": "MRT",
+				"countryName": "Mauritania",
+				"region": "AFRO",
+				"ART_comparisons": null
+			},
+			"MUS": {
+				"iso3Code": "MUS",
+				"countryName": "Mauritius",
+				"region": "AFRO",
+				"ART_comparisons": "120"
+			},
+			"MEX": {
+				"iso3Code": "MEX",
+				"countryName": "Mexico",
+				"region": "AMRO",
+				"ART_comparisons": "30624"
+			},
+			"FSM": {
+				"iso3Code": "FSM",
+				"countryName": "Micronesia, Federated States of",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"MNG": {
+				"iso3Code": "MNG",
+				"countryName": "Mongolia",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"MNE": {
+				"iso3Code": "MNE",
+				"countryName": "Montenegro",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"MAR": {
+				"iso3Code": "MAR",
+				"countryName": "Morocco",
+				"region": "EMRO",
+				"ART_comparisons": "880"
+			},
+			"MOZ": {
+				"iso3Code": "MOZ",
+				"countryName": "Mozambique",
+				"region": "AFRO",
+				"ART_comparisons": "19854"
+			},
+			"MMR": {
+				"iso3Code": "MMR",
+				"countryName": "Myanmar",
+				"region": "SEARO",
+				"ART_comparisons": "3500"
+			},
+			"NAM": {
+				"iso3Code": "NAM",
+				"countryName": "Namibia",
+				"region": "AFRO",
+				"ART_comparisons": "29200"
+			},
+			"NRU": {
+				"iso3Code": "NRU",
+				"countryName": "Nauru",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"NPL": {
+				"iso3Code": "NPL",
+				"countryName": "Nepal",
+				"region": "SEARO",
+				"ART_comparisons": "75"
+			},
+			"NIC": {
+				"iso3Code": "NIC",
+				"countryName": "Nicaragua",
+				"region": "AMRO",
+				"ART_comparisons": "163"
+			},
+			"NER": {
+				"iso3Code": "NER",
+				"countryName": "Niger",
+				"region": "AFRO",
+				"ART_comparisons": "609"
+			},
+			"NGA": {
+				"iso3Code": "NGA",
+				"countryName": "Nigeria",
+				"region": "AFRO",
+				"ART_comparisons": "41224"
+			},
+			"NIU": {
+				"iso3Code": "NIU",
+				"countryName": "Niue",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"PAK": {
+				"iso3Code": "PAK",
+				"countryName": "Pakistan",
+				"region": "EMRO",
+				"ART_comparisons": "132"
+			},
+			"PLW": {
+				"iso3Code": "PLW",
+				"countryName": "Palau",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"PAN": {
+				"iso3Code": "PAN",
+				"countryName": "Panama",
+				"region": "AMRO",
+				"ART_comparisons": "2765"
+			},
+			"PNG": {
+				"iso3Code": "PNG",
+				"countryName": "Papua New Guinea",
+				"region": "WPRO",
+				"ART_comparisons": "320"
+			},
+			"PRY": {
+				"iso3Code": "PRY",
+				"countryName": "Paraguay",
+				"region": "AMRO",
+				"ART_comparisons": "640"
+			},
+			"PER": {
+				"iso3Code": "PER",
+				"countryName": "Peru",
+				"region": "AMRO",
+				"ART_comparisons": "6410"
+			},
+			"PHL": {
+				"iso3Code": "PHL",
+				"countryName": "Philippines",
+				"region": "WPRO",
+				"ART_comparisons": "71"
+			},
+			"MDA": {
+				"iso3Code": "MDA",
+				"countryName": "Republic of Moldova",
+				"region": "EURO",
+				"ART_comparisons": "222"
+			},
+			"ROU": {
+				"iso3Code": "ROU",
+				"countryName": "Romania",
+				"region": "EURO",
+				"ART_comparisons": "6116"
+			},
+			"RUS": {
+				"iso3Code": "RUS",
+				"countryName": "Russian Federation",
+				"region": "EURO",
+				"ART_comparisons": "5000"
+			},
+			"RWA": {
+				"iso3Code": "RWA",
+				"countryName": "Rwanda",
+				"region": "AFRO",
+				"ART_comparisons": "19289"
+			},
+			"LCA": {
+				"iso3Code": "LCA",
+				"countryName": "Saint Lucia",
+				"region": "AMRO",
+				"ART_comparisons": "50"
+			},
+			"VCT": {
+				"iso3Code": "VCT",
+				"countryName": "Saint Vincent and the Grenadines",
+				"region": "AMRO",
+				"ART_comparisons": "64"
+			},
+			"WSM": {
+				"iso3Code": "WSM",
+				"countryName": "Samoa",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"STP": {
+				"iso3Code": "STP",
+				"countryName": "Sao Tome and Principe",
+				"region": "AFRO",
+				"ART_comparisons": "17"
+			},
+			"SEN": {
+				"iso3Code": "SEN",
+				"countryName": "Senegal",
+				"region": "AFRO",
+				"ART_comparisons": "4200"
+			},
+			"SRB": {
+				"iso3Code": "SRB",
+				"countryName": "Serbia",
+				"region": "EURO",
+				"ART_comparisons": "580"
+			},
+			"SYC": {
+				"iso3Code": "SYC",
+				"countryName": "Seychelles",
+				"region": "AFRO",
+				"ART_comparisons": "43"
+			},
+			"SLE": {
+				"iso3Code": "SLE",
+				"countryName": "Sierra Leone",
+				"region": "AFRO",
+				"ART_comparisons": "210"
+			},
+			"SLB": {
+				"iso3Code": "SLB",
+				"countryName": "Solomon Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"SOM": {
+				"iso3Code": "SOM",
+				"countryName": "Somalia",
+				"region": "EMRO",
+				"ART_comparisons": "35"
+			},
+			"ZAF": {
+				"iso3Code": "ZAF",
+				"countryName": "South Africa",
+				"region": "AFRO",
+				"ART_comparisons": "206718"
+			},
+			"SSD": {
+				"iso3Code": "SSD",
+				"countryName": "South Sudan",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"LKA": {
+				"iso3Code": "LKA",
+				"countryName": "Sri Lanka",
+				"region": "SEARO",
+				"ART_comparisons": "25"
+			},
+			"SDN": {
+				"iso3Code": "SDN",
+				"countryName": "Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "400"
+			},
+			"SUR": {
+				"iso3Code": "SUR",
+				"countryName": "Suriname",
+				"region": "AMRO",
+				"ART_comparisons": "391"
+			},
+			"SWZ": {
+				"iso3Code": "SWZ",
+				"countryName": "Swaziland",
+				"region": "AFRO",
+				"ART_comparisons": "13006"
+			},
+			"SYR": {
+				"iso3Code": "SYR",
+				"countryName": "Syrian Arab Republic",
+				"region": "EMRO",
+				"ART_comparisons": "60"
+			},
+			"TJK": {
+				"iso3Code": "TJK",
+				"countryName": "Tajikistan",
+				"region": "EURO",
+				"ART_comparisons": "5"
+			},
+			"THA": {
+				"iso3Code": "THA",
+				"countryName": "Thailand",
+				"region": "SEARO",
+				"ART_comparisons": "81158"
+			},
+			"MKD": {
+				"iso3Code": "MKD",
+				"countryName": "The former Yugoslav Republic of Macedonia",
+				"region": "EURO",
+				"ART_comparisons": "7"
+			},
+			"TLS": {
+				"iso3Code": "TLS",
+				"countryName": "Timor-Leste",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"TGO": {
+				"iso3Code": "TGO",
+				"countryName": "Togo",
+				"region": "AFRO",
+				"ART_comparisons": "6545"
+			},
+			"TON": {
+				"iso3Code": "TON",
+				"countryName": "Tonga",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"TUN": {
+				"iso3Code": "TUN",
+				"countryName": "Tunisia",
+				"region": "EMRO",
+				"ART_comparisons": "229"
+			},
+			"TUR": {
+				"iso3Code": "TUR",
+				"countryName": "Turkey",
+				"region": "EURO",
+				"ART_comparisons": "344"
+			},
+			"TKM": {
+				"iso3Code": "TKM",
+				"countryName": "Turkmenistan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"TUV": {
+				"iso3Code": "TUV",
+				"countryName": "Tuvalu",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"UGA": {
+				"iso3Code": "UGA",
+				"countryName": "Uganda",
+				"region": "AFRO",
+				"ART_comparisons": "74869"
+			},
+			"UKR": {
+				"iso3Code": "UKR",
+				"countryName": "Ukraine",
+				"region": "EURO",
+				"ART_comparisons": "3450"
+			},
+			"TZA": {
+				"iso3Code": "TZA",
+				"countryName": "United Republic of Tanzania",
+				"region": "AFRO",
+				"ART_comparisons": "21543"
+			},
+			"URY": {
+				"iso3Code": "URY",
+				"countryName": "Uruguay",
+				"region": "AMRO",
+				"ART_comparisons": "1427"
+			},
+			"UZB": {
+				"iso3Code": "UZB",
+				"countryName": "Uzbekistan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"VUT": {
+				"iso3Code": "VUT",
+				"countryName": "Vanuatu",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"VEN": {
+				"iso3Code": "VEN",
+				"countryName": "Venezuela, Bolivarian Republic of",
+				"region": "AMRO",
+				"ART_comparisons": "15417"
+			},
+			"VNM": {
+				"iso3Code": "VNM",
+				"countryName": "Viet Nam",
+				"region": "WPRO",
+				"ART_comparisons": "3000"
+			},
+			"YEM": {
+				"iso3Code": "YEM",
+				"countryName": "Yemen",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"ZMB": {
+				"iso3Code": "ZMB",
+				"countryName": "Zambia",
+				"region": "AFRO",
+				"ART_comparisons": "48585"
+			},
+			"ZWE": {
+				"iso3Code": "ZWE",
+				"countryName": "Zimbabwe",
+				"region": "AFRO",
+				"ART_comparisons": "24500"
+			}
+		},
+		"2004": {
+			"AFG": {
+				"iso3Code": "AFG",
+				"countryName": "Afghanistan",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"ALB": {
+				"iso3Code": "ALB",
+				"countryName": "Albania",
+				"region": "EURO",
+				"ART_comparisons": "50"
+			},
+			"DZA": {
+				"iso3Code": "DZA",
+				"countryName": "Algeria",
+				"region": "AFRO",
+				"ART_comparisons": null
+			},
+			"AGO": {
+				"iso3Code": "AGO",
+				"countryName": "Angola",
+				"region": "AFRO",
+				"ART_comparisons": "373"
+			},
+			"ATG": {
+				"iso3Code": "ATG",
+				"countryName": "Antigua and Barbuda",
+				"region": "AMRO",
+				"ART_comparisons": null
+			},
+			"ARG": {
+				"iso3Code": "ARG",
+				"countryName": "Argentina",
+				"region": "AMRO",
+				"ART_comparisons": "29500"
+			},
+			"ARM": {
+				"iso3Code": "ARM",
+				"countryName": "Armenia",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"AZE": {
+				"iso3Code": "AZE",
+				"countryName": "Azerbaijan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"BGD": {
+				"iso3Code": "BGD",
+				"countryName": "Bangladesh",
+				"region": "SEARO",
+				"ART_comparisons": "5"
+			},
+			"BLR": {
+				"iso3Code": "BLR",
+				"countryName": "Belarus",
+				"region": "EURO",
+				"ART_comparisons": "33"
+			},
+			"BLZ": {
+				"iso3Code": "BLZ",
+				"countryName": "Belize",
+				"region": "AMRO",
+				"ART_comparisons": "178"
+			},
+			"BEN": {
+				"iso3Code": "BEN",
+				"countryName": "Benin",
+				"region": "AFRO",
+				"ART_comparisons": "2000"
+			},
+			"BTN": {
+				"iso3Code": "BTN",
+				"countryName": "Bhutan",
+				"region": "SEARO",
+				"ART_comparisons": "5"
+			},
+			"BOL": {
+				"iso3Code": "BOL",
+				"countryName": "Bolivia, Plurinational State of",
+				"region": "AMRO",
+				"ART_comparisons": "130"
+			},
+			"BIH": {
+				"iso3Code": "BIH",
+				"countryName": "Bosnia and Herzegovina",
+				"region": "EURO",
+				"ART_comparisons": "13"
+			},
+			"BWA": {
+				"iso3Code": "BWA",
+				"countryName": "Botswana",
+				"region": "AFRO",
+				"ART_comparisons": "37000"
+			},
+			"BRA": {
+				"iso3Code": "BRA",
+				"countryName": "Brazil",
+				"region": "AMRO",
+				"ART_comparisons": "164000"
+			},
+			"BGR": {
+				"iso3Code": "BGR",
+				"countryName": "Bulgaria",
+				"region": "EURO",
+				"ART_comparisons": "90"
+			},
+			"BFA": {
+				"iso3Code": "BFA",
+				"countryName": "Burkina Faso",
+				"region": "AFRO",
+				"ART_comparisons": "3000"
+			},
+			"BDI": {
+				"iso3Code": "BDI",
+				"countryName": "Burundi",
+				"region": "AFRO",
+				"ART_comparisons": "3000"
+			},
+			"KHM": {
+				"iso3Code": "KHM",
+				"countryName": "Cambodia",
+				"region": "WPRO",
+				"ART_comparisons": "5000"
+			},
+			"CMR": {
+				"iso3Code": "CMR",
+				"countryName": "Cameroon",
+				"region": "AFRO",
+				"ART_comparisons": "14000"
+			},
+			"CPV": {
+				"iso3Code": "CPV",
+				"countryName": "Cape Verde",
+				"region": "AFRO",
+				"ART_comparisons": null
+			},
+			"CAF": {
+				"iso3Code": "CAF",
+				"countryName": "Central African Republic",
+				"region": "AFRO",
+				"ART_comparisons": "1000"
+			},
+			"TCD": {
+				"iso3Code": "TCD",
+				"countryName": "Chad",
+				"region": "AFRO",
+				"ART_comparisons": "300"
+			},
+			"CHL": {
+				"iso3Code": "CHL",
+				"countryName": "Chile",
+				"region": "AMRO",
+				"ART_comparisons": "5900"
+			},
+			"CHN": {
+				"iso3Code": "CHN",
+				"countryName": "China",
+				"region": "WPRO",
+				"ART_comparisons": "9000"
+			},
+			"COL": {
+				"iso3Code": "COL",
+				"countryName": "Colombia",
+				"region": "AMRO",
+				"ART_comparisons": "12000"
+			},
+			"COM": {
+				"iso3Code": "COM",
+				"countryName": "Comoros",
+				"region": "AFRO",
+				"ART_comparisons": null
+			},
+			"COG": {
+				"iso3Code": "COG",
+				"countryName": "Congo",
+				"region": "AFRO",
+				"ART_comparisons": "464"
+			},
+			"COK": {
+				"iso3Code": "COK",
+				"countryName": "Cook Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"CRI": {
+				"iso3Code": "CRI",
+				"countryName": "Costa Rica",
+				"region": "AMRO",
+				"ART_comparisons": "2000"
+			},
+			"CIV": {
+				"iso3Code": "CIV",
+				"countryName": "Côte d'Ivoire",
+				"region": "AFRO",
+				"ART_comparisons": "5000"
+			},
+			"CUB": {
+				"iso3Code": "CUB",
+				"countryName": "Cuba",
+				"region": "AMRO",
+				"ART_comparisons": "2000"
+			},
+			"PRK": {
+				"iso3Code": "PRK",
+				"countryName": "Democratic People's Republic of Korea",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"COD": {
+				"iso3Code": "COD",
+				"countryName": "Democratic Republic of the Congo",
+				"region": "AFRO",
+				"ART_comparisons": "4000"
+			},
+			"DJI": {
+				"iso3Code": "DJI",
+				"countryName": "Djibouti",
+				"region": "EMRO",
+				"ART_comparisons": "200"
+			},
+			"DMA": {
+				"iso3Code": "DMA",
+				"countryName": "Dominica",
+				"region": "AMRO",
+				"ART_comparisons": "5"
+			},
+			"DOM": {
+				"iso3Code": "DOM",
+				"countryName": "Dominican Republic",
+				"region": "AMRO",
+				"ART_comparisons": "1000"
+			},
+			"ECU": {
+				"iso3Code": "ECU",
+				"countryName": "Ecuador",
+				"region": "AMRO",
+				"ART_comparisons": "1000"
+			},
+			"EGY": {
+				"iso3Code": "EGY",
+				"countryName": "Egypt",
+				"region": "EMRO",
+				"ART_comparisons": "58"
+			},
+			"SLV": {
+				"iso3Code": "SLV",
+				"countryName": "El Salvador",
+				"region": "AMRO",
+				"ART_comparisons": "2000"
+			},
+			"ERI": {
+				"iso3Code": "ERI",
+				"countryName": "Eritrea",
+				"region": "AFRO",
+				"ART_comparisons": "50"
+			},
+			"ETH": {
+				"iso3Code": "ETH",
+				"countryName": "Ethiopia",
+				"region": "AFRO",
+				"ART_comparisons": "11000"
+			},
+			"FJI": {
+				"iso3Code": "FJI",
+				"countryName": "Fiji",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"GAB": {
+				"iso3Code": "GAB",
+				"countryName": "Gabon",
+				"region": "AFRO",
+				"ART_comparisons": "2000"
+			},
+			"GMB": {
+				"iso3Code": "GMB",
+				"countryName": "Gambia",
+				"region": "AFRO",
+				"ART_comparisons": "150"
+			},
+			"GEO": {
+				"iso3Code": "GEO",
+				"countryName": "Georgia",
+				"region": "EURO",
+				"ART_comparisons": "83"
+			},
+			"GHA": {
+				"iso3Code": "GHA",
+				"countryName": "Ghana",
+				"region": "AFRO",
+				"ART_comparisons": "2000"
+			},
+			"GRD": {
+				"iso3Code": "GRD",
+				"countryName": "Grenada",
+				"region": "AMRO",
+				"ART_comparisons": null
+			},
+			"GTM": {
+				"iso3Code": "GTM",
+				"countryName": "Guatemala",
+				"region": "AMRO",
+				"ART_comparisons": "4000"
+			},
+			"GIN": {
+				"iso3Code": "GIN",
+				"countryName": "Guinea",
+				"region": "AFRO",
+				"ART_comparisons": "1000"
+			},
+			"GNB": {
+				"iso3Code": "GNB",
+				"countryName": "Guinea-Bissau",
+				"region": "AFRO",
+				"ART_comparisons": null
+			},
+			"GUY": {
+				"iso3Code": "GUY",
+				"countryName": "Guyana",
+				"region": "AMRO",
+				"ART_comparisons": "500"
+			},
+			"HTI": {
+				"iso3Code": "HTI",
+				"countryName": "Haiti",
+				"region": "AMRO",
+				"ART_comparisons": "3000"
+			},
+			"HND": {
+				"iso3Code": "HND",
+				"countryName": "Honduras",
+				"region": "AMRO",
+				"ART_comparisons": "3000"
+			},
+			"IND": {
+				"iso3Code": "IND",
+				"countryName": "India",
+				"region": "SEARO",
+				"ART_comparisons": "28000"
+			},
+			"IDN": {
+				"iso3Code": "IDN",
+				"countryName": "Indonesia",
+				"region": "SEARO",
+				"ART_comparisons": "3000"
+			},
+			"IRN": {
+				"iso3Code": "IRN",
+				"countryName": "Iran, Islamic Republic of ",
+				"region": "EMRO",
+				"ART_comparisons": "600"
+			},
+			"IRQ": {
+				"iso3Code": "IRQ",
+				"countryName": "Iraq",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"JAM": {
+				"iso3Code": "JAM",
+				"countryName": "Jamaica",
+				"region": "AMRO",
+				"ART_comparisons": "500"
+			},
+			"JOR": {
+				"iso3Code": "JOR",
+				"countryName": "Jordan",
+				"region": "EMRO",
+				"ART_comparisons": "40"
+			},
+			"KAZ": {
+				"iso3Code": "KAZ",
+				"countryName": "Kazakhstan",
+				"region": "EURO",
+				"ART_comparisons": "7"
+			},
+			"KEN": {
+				"iso3Code": "KEN",
+				"countryName": "Kenya",
+				"region": "AFRO",
+				"ART_comparisons": "29000"
+			},
+			"KIR": {
+				"iso3Code": "KIR",
+				"countryName": "Kiribati",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"KGZ": {
+				"iso3Code": "KGZ",
+				"countryName": "Kyrgyzstan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"LAO": {
+				"iso3Code": "LAO",
+				"countryName": "Lao People's Democratic Republic",
+				"region": "WPRO",
+				"ART_comparisons": "104"
+			},
+			"LVA": {
+				"iso3Code": "LVA",
+				"countryName": "Latvia",
+				"region": "EURO",
+				"ART_comparisons": "202"
+			},
+			"LBN": {
+				"iso3Code": "LBN",
+				"countryName": "Lebanon",
+				"region": "EMRO",
+				"ART_comparisons": "353"
+			},
+			"LSO": {
+				"iso3Code": "LSO",
+				"countryName": "Lesotho",
+				"region": "AFRO",
+				"ART_comparisons": "3000"
+			},
+			"LBR": {
+				"iso3Code": "LBR",
+				"countryName": "Liberia",
+				"region": "AFRO",
+				"ART_comparisons": null
+			},
+			"LBY": {
+				"iso3Code": "LBY",
+				"countryName": "Libyan Arab Jamahiriy",
+				"region": "EMRO",
+				"ART_comparisons": "100"
+			},
+			"LTU": {
+				"iso3Code": "LTU",
+				"countryName": "Lithuania",
+				"region": "EURO",
+				"ART_comparisons": "37"
+			},
+			"MDG": {
+				"iso3Code": "MDG",
+				"countryName": "Madagascar",
+				"region": "AFRO",
+				"ART_comparisons": "6"
+			},
+			"MWI": {
+				"iso3Code": "MWI",
+				"countryName": "Malawi",
+				"region": "AFRO",
+				"ART_comparisons": "13183"
+			},
+			"MYS": {
+				"iso3Code": "MYS",
+				"countryName": "Malaysia",
+				"region": "WPRO",
+				"ART_comparisons": "3650"
+			},
+			"MDV": {
+				"iso3Code": "MDV",
+				"countryName": "Maldives",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"MLI": {
+				"iso3Code": "MLI",
+				"countryName": "Mali",
+				"region": "AFRO",
+				"ART_comparisons": "808"
+			},
+			"MHL": {
+				"iso3Code": "MHL",
+				"countryName": "Marshall Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"MRT": {
+				"iso3Code": "MRT",
+				"countryName": "Mauritania",
+				"region": "AFRO",
+				"ART_comparisons": "39"
+			},
+			"MUS": {
+				"iso3Code": "MUS",
+				"countryName": "Mauritius",
+				"region": "AFRO",
+				"ART_comparisons": "120"
+			},
+			"MEX": {
+				"iso3Code": "MEX",
+				"countryName": "Mexico",
+				"region": "AMRO",
+				"ART_comparisons": "29000"
+			},
+			"FSM": {
+				"iso3Code": "FSM",
+				"countryName": "Micronesia, Federated States of",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"MNG": {
+				"iso3Code": "MNG",
+				"countryName": "Mongolia",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"MNE": {
+				"iso3Code": "MNE",
+				"countryName": "Montenegro",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"MAR": {
+				"iso3Code": "MAR",
+				"countryName": "Morocco",
+				"region": "EMRO",
+				"ART_comparisons": "465"
+			},
+			"MOZ": {
+				"iso3Code": "MOZ",
+				"countryName": "Mozambique",
+				"region": "AFRO",
+				"ART_comparisons": "7000"
+			},
+			"MMR": {
+				"iso3Code": "MMR",
+				"countryName": "Myanmar",
+				"region": "SEARO",
+				"ART_comparisons": "2000"
+			},
+			"NAM": {
+				"iso3Code": "NAM",
+				"countryName": "Namibia",
+				"region": "AFRO",
+				"ART_comparisons": "9000"
+			},
+			"NRU": {
+				"iso3Code": "NRU",
+				"countryName": "Nauru",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"NPL": {
+				"iso3Code": "NPL",
+				"countryName": "Nepal",
+				"region": "SEARO",
+				"ART_comparisons": "75"
+			},
+			"NIC": {
+				"iso3Code": "NIC",
+				"countryName": "Nicaragua",
+				"region": "AMRO",
+				"ART_comparisons": "33"
+			},
+			"NER": {
+				"iso3Code": "NER",
+				"countryName": "Niger",
+				"region": "AFRO",
+				"ART_comparisons": null
+			},
+			"NGA": {
+				"iso3Code": "NGA",
+				"countryName": "Nigeria",
+				"region": "AFRO",
+				"ART_comparisons": "13000"
+			},
+			"NIU": {
+				"iso3Code": "NIU",
+				"countryName": "Niue",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"PAK": {
+				"iso3Code": "PAK",
+				"countryName": "Pakistan",
+				"region": "EMRO",
+				"ART_comparisons": "100"
+			},
+			"PLW": {
+				"iso3Code": "PLW",
+				"countryName": "Palau",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"PAN": {
+				"iso3Code": "PAN",
+				"countryName": "Panama",
+				"region": "AMRO",
+				"ART_comparisons": "2000"
+			},
+			"PNG": {
+				"iso3Code": "PNG",
+				"countryName": "Papua New Guinea",
+				"region": "WPRO",
+				"ART_comparisons": "171"
+			},
+			"PRY": {
+				"iso3Code": "PRY",
+				"countryName": "Paraguay",
+				"region": "AMRO",
+				"ART_comparisons": "300"
+			},
+			"PER": {
+				"iso3Code": "PER",
+				"countryName": "Peru",
+				"region": "AMRO",
+				"ART_comparisons": "2000"
+			},
+			"PHL": {
+				"iso3Code": "PHL",
+				"countryName": "Philippines",
+				"region": "WPRO",
+				"ART_comparisons": "71"
+			},
+			"MDA": {
+				"iso3Code": "MDA",
+				"countryName": "Republic of Moldova",
+				"region": "EURO",
+				"ART_comparisons": "120"
+			},
+			"ROU": {
+				"iso3Code": "ROU",
+				"countryName": "Romania",
+				"region": "EURO",
+				"ART_comparisons": "6000"
+			},
+			"RUS": {
+				"iso3Code": "RUS",
+				"countryName": "Russian Federation",
+				"region": "EURO",
+				"ART_comparisons": "3000"
+			},
+			"RWA": {
+				"iso3Code": "RWA",
+				"countryName": "Rwanda",
+				"region": "AFRO",
+				"ART_comparisons": "7000"
+			},
+			"LCA": {
+				"iso3Code": "LCA",
+				"countryName": "Saint Lucia",
+				"region": "AMRO",
+				"ART_comparisons": "20"
+			},
+			"VCT": {
+				"iso3Code": "VCT",
+				"countryName": "Saint Vincent and the Grenadines",
+				"region": "AMRO",
+				"ART_comparisons": "32"
+			},
+			"WSM": {
+				"iso3Code": "WSM",
+				"countryName": "Samoa",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"STP": {
+				"iso3Code": "STP",
+				"countryName": "Sao Tome and Principe",
+				"region": "AFRO",
+				"ART_comparisons": null
+			},
+			"SEN": {
+				"iso3Code": "SEN",
+				"countryName": "Senegal",
+				"region": "AFRO",
+				"ART_comparisons": "1600"
+			},
+			"SRB": {
+				"iso3Code": "SRB",
+				"countryName": "Serbia",
+				"region": "EURO",
+				"ART_comparisons": "317"
+			},
+			"SYC": {
+				"iso3Code": "SYC",
+				"countryName": "Seychelles",
+				"region": "AFRO",
+				"ART_comparisons": "43"
+			},
+			"SLE": {
+				"iso3Code": "SLE",
+				"countryName": "Sierra Leone",
+				"region": "AFRO",
+				"ART_comparisons": "1000"
+			},
+			"SLB": {
+				"iso3Code": "SLB",
+				"countryName": "Solomon Islands",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"SOM": {
+				"iso3Code": "SOM",
+				"countryName": "Somalia",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"ZAF": {
+				"iso3Code": "ZAF",
+				"countryName": "South Africa",
+				"region": "AFRO",
+				"ART_comparisons": "55000"
+			},
+			"SSD": {
+				"iso3Code": "SSD",
+				"countryName": "South Sudan",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"LKA": {
+				"iso3Code": "LKA",
+				"countryName": "Sri Lanka",
+				"region": "SEARO",
+				"ART_comparisons": "25"
+			},
+			"SDN": {
+				"iso3Code": "SDN",
+				"countryName": "Sudan",
+				"region": "EMRO",
+				"ART_comparisons": "400"
+			},
+			"SUR": {
+				"iso3Code": "SUR",
+				"countryName": "Suriname",
+				"region": "AMRO",
+				"ART_comparisons": "220"
+			},
+			"SWZ": {
+				"iso3Code": "SWZ",
+				"countryName": "Swaziland",
+				"region": "AFRO",
+				"ART_comparisons": "6000"
+			},
+			"SYR": {
+				"iso3Code": "SYR",
+				"countryName": "Syrian Arab Republic",
+				"region": "EMRO",
+				"ART_comparisons": "468"
+			},
+			"TJK": {
+				"iso3Code": "TJK",
+				"countryName": "Tajikistan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"THA": {
+				"iso3Code": "THA",
+				"countryName": "Thailand",
+				"region": "SEARO",
+				"ART_comparisons": "50000"
+			},
+			"MKD": {
+				"iso3Code": "MKD",
+				"countryName": "The former Yugoslav Republic of Macedonia",
+				"region": "EURO",
+				"ART_comparisons": "2"
+			},
+			"TLS": {
+				"iso3Code": "TLS",
+				"countryName": "Timor-Leste",
+				"region": "SEARO",
+				"ART_comparisons": null
+			},
+			"TGO": {
+				"iso3Code": "TGO",
+				"countryName": "Togo",
+				"region": "AFRO",
+				"ART_comparisons": "2000"
+			},
+			"TON": {
+				"iso3Code": "TON",
+				"countryName": "Tonga",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"TUN": {
+				"iso3Code": "TUN",
+				"countryName": "Tunisia",
+				"region": "EMRO",
+				"ART_comparisons": "437"
+			},
+			"TUR": {
+				"iso3Code": "TUR",
+				"countryName": "Turkey",
+				"region": "EURO",
+				"ART_comparisons": "250"
+			},
+			"TKM": {
+				"iso3Code": "TKM",
+				"countryName": "Turkmenistan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"TUV": {
+				"iso3Code": "TUV",
+				"countryName": "Tuvalu",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"UGA": {
+				"iso3Code": "UGA",
+				"countryName": "Uganda",
+				"region": "AFRO",
+				"ART_comparisons": "44000"
+			},
+			"UKR": {
+				"iso3Code": "UKR",
+				"countryName": "Ukraine",
+				"region": "EURO",
+				"ART_comparisons": "1000"
+			},
+			"TZA": {
+				"iso3Code": "TZA",
+				"countryName": "United Republic of Tanzania",
+				"region": "AFRO",
+				"ART_comparisons": "3000"
+			},
+			"URY": {
+				"iso3Code": "URY",
+				"countryName": "Uruguay",
+				"region": "AMRO",
+				"ART_comparisons": "2000"
+			},
+			"UZB": {
+				"iso3Code": "UZB",
+				"countryName": "Uzbekistan",
+				"region": "EURO",
+				"ART_comparisons": null
+			},
+			"VUT": {
+				"iso3Code": "VUT",
+				"countryName": "Vanuatu",
+				"region": "WPRO",
+				"ART_comparisons": null
+			},
+			"VEN": {
+				"iso3Code": "VEN",
+				"countryName": "Venezuela, Bolivarian Republic of",
+				"region": "AMRO",
+				"ART_comparisons": "9000"
+			},
+			"VNM": {
+				"iso3Code": "VNM",
+				"countryName": "Viet Nam",
+				"region": "WPRO",
+				"ART_comparisons": "300"
+			},
+			"YEM": {
+				"iso3Code": "YEM",
+				"countryName": "Yemen",
+				"region": "EMRO",
+				"ART_comparisons": null
+			},
+			"ZMB": {
+				"iso3Code": "ZMB",
+				"countryName": "Zambia",
+				"region": "AFRO",
+				"ART_comparisons": "20000"
+			},
+			"ZWE": {
+				"iso3Code": "ZWE",
+				"countryName": "Zimbabwe",
+				"region": "AFRO",
+				"ART_comparisons": "8000"
+			}
+		}
+	}
+}
